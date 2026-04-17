@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>경제 뉴스 대시보드</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- 헤더 -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="logo">📈</span>
+        <h1>경제 뉴스 대시보드</h1>
+      </div>
+      <div class="header-meta">
+        <span id="last-updated">마지막 업데이트: 로딩 중...</span>
+        <button id="btn-refresh" class="btn-refresh" onclick="manualScrape()">⟳ 새로고침</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 지수 바 -->
+  <section class="index-bar">
+    <div class="index-card" id="idx-kospi">
+      <span class="idx-name">KOSPI</span>
+      <span class="idx-value">—</span>
+    </div>
+    <div class="index-card" id="idx-kosdaq">
+      <span class="idx-name">KOSDAQ</span>
+      <span class="idx-value">—</span>
+    </div>
+    <div class="index-card" id="idx-usd">
+      <span class="idx-name">USD/KRW</span>
+      <span class="idx-value">—</span>
+    </div>
+    <div class="index-card" id="idx-total">
+      <span class="idx-name">오늘 기사</span>
+      <span class="idx-value" id="today-count">—</span>
+      <span class="idx-sub">건</span>
+    </div>
+  </section>
+
+  <!-- 필터 영역 -->
+  <section class="filter-bar">
+    <div class="filter-inner">
+      <!-- 카테고리 탭 -->
+      <div class="category-tabs" id="category-tabs">
+        <button class="tab active" data-cat="">전체</button>
+        <button class="tab" data-cat="국내 주식·증시">📊 국내 증시</button>
+        <button class="tab" data-cat="거시경제·금리·환율">🏦 거시경제</button>
+        <button class="tab" data-cat="글로벌 시장">🌐 글로벌</button>
+        <button class="tab" data-cat="산업·기업 이슈">🏢 기업 이슈</button>
+      </div>
+
+      <!-- 키워드 검색 -->
+      <div class="search-box">
+        <input type="text" id="keyword-input" placeholder="키워드 검색 (예: 삼성전자, 금리)" />
+        <button onclick="applyFilter()">🔍</button>
+      </div>
+    </div>
+
+    <!-- 날짜 탭 -->
+    <div class="date-tabs" id="date-tabs">
+      <button class="date-tab active" data-days="1">오늘</button>
+      <button class="date-tab" data-days="2">어제</button>
+      <button class="date-tab" data-days="3">3일</button>
+      <button class="date-tab" data-days="7">1주일</button>
+    </div>
+  </section>
+
+  <!-- 뉴스 목록 -->
+  <main class="main">
+    <div id="news-grid" class="news-grid">
+      <div class="loading">뉴스를 불러오는 중...</div>
+    </div>
+    <div id="empty-state" class="empty-state" style="display:none">
+      <p>🔍 검색 결과가 없습니다.</p>
+    </div>
+  </main>
+
+  <!-- 토스트 알림 -->
+  <div id="toast" class="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
