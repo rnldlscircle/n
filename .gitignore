@@ -1,5 +1,7 @@
 node_modules/
 backend/news.db
+backend/news.db-shm
+backend/news.db-wal
 backend/.env
 *.log
 .DS_Store
