@@ -1,6 +1,376 @@
 {
-  "updated_at": "2026-04-20T11:58:23.093Z",
+  "updated_at": "2026-04-20T16:00:18.342Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美, 불법징수한 관세 환급 20일부터 신청 접수",
+      "url": "https://www.hankyung.com/article/202604204248i",
+      "summary": "",
+      "published": "Tue, 21 Apr 2026 00:00:25 +0900",
+      "scraped_at": "2026-04-20T16:00:04.005Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "뉴욕증시,지정학긴장에도 하락 제한적",
+      "url": "https://www.hankyung.com/article/202604204216i",
+      "summary": "",
+      "published": "Mon, 20 Apr 2026 23:24:11 +0900",
+      "scraped_at": "2026-04-20T16:00:04.005Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "IEA사무총장 \"이라크-튀르키예 연결 송유관 건설\"제안",
+      "url": "https://www.hankyung.com/article/202604204104i",
+      "summary": "",
+      "published": "Mon, 20 Apr 2026 21:44:05 +0900",
+      "scraped_at": "2026-04-20T16:00:04.005Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"운전 중 변기에 볼일 보세요\"…中 전기차 '기막힌 발상'",
+      "url": "https://www.hankyung.com/article/2026042037091",
+      "summary": "",
+      "published": "Mon, 20 Apr 2026 21:00:01 +0900",
+      "scraped_at": "2026-04-20T16:00:04.005Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"이제 부부싸움 안해도 되겠네\"…여름 앞두고 몰려든 곳이 [키워드랩]",
+      "url": "https://www.hankyung.com/article/202604202025g",
+      "summary": "",
+      "published": "Mon, 20 Apr 2026 21:00:00 +0900",
+      "scraped_at": "2026-04-20T16:00:04.005Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "이 대통령 “정동영 구성 핵시설 언급, 이미 널리 알려진 팩트” 두둔",
+      "url": "https://www.mk.co.kr/news/politics/12022256",
+      "summary": "한미 정보공유 제한 논란 확산 가운데 “기밀 누설 주장은 잘못” 鄭 힘실어줘 鄭 “이제와 문제제기하는 저의가 의심”이재명 대통령은 20일 정동영 통일부 장관의 ‘북한 구성 우라늄 ..",
+      "published": "Mon, 20 Apr 2026 21:38:58 +09:00",
+      "scraped_at": "2026-04-20T16:00:14.805Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "화물연대 사태에 노동부 \"노란봉투법 넘어선 상황\" 선그어",
+      "url": "https://www.yna.co.kr/view/AKR20260420169400530",
+      "summary": "(서울=연합뉴스) 김은경 기자 = 고용노동부가 화물연대 집회에서 사상자가 발생한 것과 관련해 '노란봉투법'(노동조합 및 노동관계조정법 2·3조 ...",
+      "published": "Tue, 21 Apr 2026 00:11:26 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "에너지 장관은 아니라는데…트럼프 \"종전 즉시 휘발윳값 정상화\"",
+      "url": "https://www.yna.co.kr/view/AKR20260420167200071",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 20일(현지시간) 미국 내 휘발유 가격이 올해 안에 갤런당 3달러 이하로 떨어...",
+      "published": "Mon, 20 Apr 2026 23:10:23 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한경협, 인도서 비즈니스포럼…車·철강·조선 등 MOU 20건 체결",
+      "url": "https://www.yna.co.kr/view/AKR20260420135500003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 이재명 대통령의 인도 국빈 방문을 계기로 한국과 인도 양국 정부 인사와 주요 기업인들이 현지에서 한자리에 모여...",
+      "published": "Mon, 20 Apr 2026 22:40:01 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한·인도, 에너지·산업 협력 고도화…장관급 산업협력위 신설",
+      "url": "https://www.yna.co.kr/view/AKR20260420163300003",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 한국과 인도가 에너지 자원과 산업, 통상, 기후변화 대응을 아우르는 전방위 경제 협력 강화에 나선다.",
+      "published": "Mon, 20 Apr 2026 21:46:57 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼천당제약 불성실공시법인 지정…벌점 5점 부과",
+      "url": "https://www.yna.co.kr/view/AKR20260420162200008",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 삼천당제약[000250]이 불성실 공시법인으로 지정됐다.",
+      "published": "Mon, 20 Apr 2026 21:26:00 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "李대통령, 신현송 한국은행 총재 임명안 재가…내일자 발령",
+      "url": "https://www.yna.co.kr/view/AKR20260420161000001",
+      "summary": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 20일 신현송 한국은행 총재에 대한 임명안을 재가했다고 강유정 청와대 수석대변인이 밝혔다.",
+      "published": "Mon, 20 Apr 2026 21:11:44 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "url": "https://www.yna.co.kr/view/AKR20260420160900001",
+      "summary": "(",
+      "published": "Mon, 20 Apr 2026 21:09:42 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "李대통령 \"한-인도 교역 두배 확대…파도 두려워 항해포기 안돼\"",
+      "url": "https://www.yna.co.kr/view/AKR20260420160100001",
+      "summary": "(뉴델리=연합뉴스) 임형섭 황윤기 기자 = 인도를 국빈 방문한 이재명 대통령은 20일(현지시간) \"한국과 인도의 투자 협력을 확대하고 교역 규모...",
+      "published": "Mon, 20 Apr 2026 20:54:01 +0900",
+      "scraped_at": "2026-04-20T16:00:16.709Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "DOJ Steps Up Agriculture Market Scrutiny Amid Rising Prices",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/doj-steps-up-scrutiny-of-agriculture-markets-amid-rising-prices",
+      "summary": "As millions of Americans face an affordability crisis, the Justice Department is homing in on the agriculture industry, focusing on the rising costs faced by farmers and ranchers and soaring prices of key grocery staples like beef and eggs.",
+      "published": "Mon, 20 Apr 2026 15:30:30 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Cannabis CEO Calls for Reform",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/cannabis-ceo-calls-for-reform-video",
+      "summary": "Ben Kovler, the Green Thumb Industries Founder and CEO joins Bloomberg Open Interest to break down why federal rescheduling of cannabis could transform the $30B industry overnight. From blocked access to capital markets to booming consumer demand, he explains how outdated regulations are slowing gro",
+      "published": "Mon, 20 Apr 2026 15:38:23 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Braskem Majority Stake Sale by Novonor Advances With Signed Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/braskem-majority-stake-sale-by-novonor-advances-with-signed-deal",
+      "summary": "The sale of a controlling stake in Brazilian petrochemicals producer Braskem SA moved forward another step after troubled conglomerate Novonor signed an agreement to sell its shares to a fund backed by asset manager IG4 Capital.",
+      "published": "Mon, 20 Apr 2026 15:36:32 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Secondaries Market Goes Mainstream",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/secondaries-market-goes-mainstream-video",
+      "summary": "Private market secondaries had a record 2025. Todd Miller of Jefferies joined Bloomberg Open Interest to explain why this once niche market is now core to institutional investing, how liquidity demand is fueling record growth, and why older private equity assets are still trading at steep discounts.",
+      "published": "Mon, 20 Apr 2026 15:33:12 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bank of Canada Surveys Show War Hitting Inflation Expectations",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/bank-of-canada-surveys-show-war-hitting-inflation-expectations",
+      "summary": "The war in Iran is pushing up inflation expectations, after sentiment had been improving prior to the conflict, survey data released Monday by the Bank of Canada shows.",
+      "published": "Mon, 20 Apr 2026 15:30:00 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SEC, CFTC Propose Narrowing Hedge Fund Reporting Requirements",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/sec-cftc-propose-narrowing-hedge-fund-reporting-requirements",
+      "summary": "Wall Street’s top regulators unveiled a plan to reduce hedge fund reporting requirements, according to a statement.",
+      "published": "Mon, 20 Apr 2026 15:20:47 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Stocks Drop as Iran’s Hesitancy on Peace Talks Force Pullback",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/us-stock-futures-decline-on-dimmed-us-iran-peace-talk-prospects",
+      "summary": "US stocks fell on Monday as weekend developments in the Middle East war dimmed prospects for peace talks between the US and Iran.",
+      "published": "Mon, 20 Apr 2026 11:57:28 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Eurizon’s Jen Sees Chinese Yuan Rallying by Record 9% This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/eurizon-s-jen-sees-chinese-yuan-rallying-by-record-9-this-year",
+      "summary": "China may permit record yuan appreciation this year as it tries to boost confidence in its currency and enhance local companies’ purchasing power overseas, according to Stephen Jen, chief investment officer at Eurizon SLJ Capital.",
+      "published": "Mon, 20 Apr 2026 14:58:51 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Magyar Unveils Cabinet Team to Lead Hungary’s Economic Reset",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/magyar-unveils-cabinet-team-to-lead-hungary-s-economic-reset",
+      "summary": "Hungary’s incoming Prime Minister Peter Magyar named the key ministers for his new government who will help shoulder the task of repairing frayed European ties and relaunching a stagnant economy.",
+      "published": "Mon, 20 Apr 2026 13:08:22 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Italy Eyes Deficit Under 3% of GDP Even as Iran War Slows Growth",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/italy-eyes-deficit-under-3-of-gdp-even-as-iran-war-slows-growth",
+      "summary": "Italy’s government expects the country’s budget deficit to fall below the European Union limit this year despite a downward revision of its growth forecast due to the Iran war, according to people familiar with the matter.",
+      "published": "Mon, 20 Apr 2026 14:45:17 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fitch Sees Mozambique Restructure Its Debt Before New IMF Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/fitch-sees-mozambique-restructure-its-debt-before-new-imf-deal",
+      "summary": "Fitch Ratings sees the possibility of a restructuring of Mozambique’s debt likely ahead of any new deal being secured with the International Monetary Fund.",
+      "published": "Mon, 20 Apr 2026 14:45:00 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Cleveland-Cliffs ‘No Longer in a Hurry’ on POSCO Deal, CEO Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/cleveland-cliffs-no-longer-in-a-hurry-on-posco-deal-ceo-says",
+      "summary": "Cleveland-Cliffs Inc.’s chief executive officer said improving US steel prices and stronger demand from the American auto industry are taking the pressure off closing a deal with South Korea’s POSCO Holdings Inc.",
+      "published": "Mon, 20 Apr 2026 14:42:36 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "BNP Paribas’ Bigos: Growth Drivers vs. Volatility",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/bnp-paribas-bigos-growth-drivers-vs-volatility-video",
+      "summary": "Ecaterina Bigos, CIO for Core Investments Asia ex-Japan at BNP Paribas Asset Management, discussed the current market environment characterized by volatility and geopolitical uncertainty, they largely assume oil prices will stabilize between $80 and $90 by mid-summer, emphasized the 'structural adva",
+      "published": "Mon, 20 Apr 2026 14:28:27 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Iran Hesitant on Talks Even as Trump Says Vance Is on Way",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-wavers-on-peace-talks-as-tensions-rise-after-us-seizes-ship",
+      "summary": "Iran held back from saying whether it would take part in further peace talks even after US President Donald Trump said a delegation is on its way to Pakistan, creating uncertainty about whether a breakthrough can be achieved.",
+      "published": "Mon, 20 Apr 2026 09:01:00 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Colombia Kicks Off Global Bond Buyback Ahead of Elections",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/colombia-kicks-off-third-global-bond-buyback-ahead-of-elections",
+      "summary": "Colombia is buying back some of its outstanding global bonds, its third such operation in the past year, as part of a broader strategy to reduce borrowing costs weeks ahead of a tight presidential race.",
+      "published": "Mon, 20 Apr 2026 13:37:01 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasury Yields Rise Amid Inflation Concerns: Deepali Bhargava",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/treasury-yields-rise-amid-inflation-concerns-bhargava-video",
+      "summary": "Deepali Bhargava, Head of Research and Chief APAC Economist at ING, highlights recent upward movement in U.S. Treasury yields across two, ten, and thirty-year maturities, driven by concerns over higher inflation and slower economic growth. Despite geopolitical tensions, the Treasury market appears s",
+      "published": "Mon, 20 Apr 2026 14:17:02 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "EQB Inc. Looks to Sell C$200M Limited Recourse Capital Notes",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/eqb-inc-looks-to-sell-c-200m-limited-recourse-capital-notes",
+      "summary": "Canada’s EQB Inc., a bank holding company, is preparing to sell around C$200 million ($146 million) of additional tier one securities as soon as Monday, according to people with knowledge of the matter.",
+      "published": "Mon, 20 Apr 2026 14:14:10 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Strategy Buys $2.54 Billion of Bitcoin, Most Since Late 2024",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024",
+      "summary": "Michael Saylor’s Strategy Inc. bought $2.54 billion in Bitcoin over the previous seven days, marking the digital asset treasury company’s largest acquisition of the original cryptocurrency since November 2024.",
+      "published": "Mon, 20 Apr 2026 12:39:05 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "European Oil Refiners See Record Weekly Gain for Gasoline Margin",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/european-oil-refiners-see-record-weekly-gain-for-gasoline-margin",
+      "summary": "Gasoline’s premium to crude posted its biggest weekly gain on record, a boost for refiners that have been under pressure from high oil prices stoked by the Iran war.",
+      "published": "Mon, 20 Apr 2026 14:04:54 GMT",
+      "scraped_at": "2026-04-20T16:00:16.940Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Iran Takes Control of Hormuz Again Sending Oil Higher",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/iran-takes-control-of-hormuz-again-sending-oil-higher-video",
+      "summary": "After some optimism on Friday, Iran took control of the Strait of Hormuz again over the weekend. The US also seized a ship and Tehran fired on vessels in the area deepening the global energy crisis. Bloomberg's Julian Lee has the latest.  (Source: Bloomberg)",
+      "published": "Mon, 20 Apr 2026 14:04:15 GMT",
+      "scraped_at": "2026-04-20T16:00:16.941Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Agnico Pushes Into Finland With C$3.7 Billion Trio of Gold Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/agnico-pushes-into-finland-with-c-3-7-billion-trio-of-gold-deals",
+      "summary": "Agnico Eagle Mines Ltd. plans to spend C$3.7 billion ($2.7 billion) to acquire three gold projects in northern Finland, expanding the Canadian miner’s footprint in the Scandinavian country.",
+      "published": "Mon, 20 Apr 2026 14:03:19 GMT",
+      "scraped_at": "2026-04-20T16:00:16.941Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Psychedelic Stocks Soar as Trump Signs Order to Ease Access",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/psychedelic-stocks-soar-as-trump-signs-order-to-ease-access",
+      "summary": "Shares of companies involved in psychedelic-tied therapies are surging in Monday trading after President Donald Trump signed an executive order to expedite research and access.",
+      "published": "Mon, 20 Apr 2026 12:43:11 GMT",
+      "scraped_at": "2026-04-20T16:00:16.941Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "ECB’s Pereira Says Economic Damage of Iran War Has Yet to Show",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/ecb-s-pereira-says-economic-damage-of-iran-war-has-yet-to-show",
+      "summary": "The Iran war is still too fresh to grasp its full impact on the euro-zone economy, according to European Central Bank Governing Council member Alvaro Santos Pereira.",
+      "published": "Mon, 20 Apr 2026 13:53:17 GMT",
+      "scraped_at": "2026-04-20T16:00:16.941Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
