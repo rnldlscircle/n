@@ -1,6 +1,266 @@
 {
-  "updated_at": "2026-04-20T19:44:53.304Z",
+  "updated_at": "2026-04-20T22:11:32.102Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[여기는 논설실 ]나랏빚의 진짜 공포는 숫자가 아니라 속도다",
+      "url": "https://www.hankyung.com/article/202604214367i",
+      "summary": "",
+      "published": "Tue, 21 Apr 2026 06:22:05 +0900",
+      "scraped_at": "2026-04-20T22:11:23.501Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "요즘 한국인들 '명품 아니면 다이소'…이례적 현상 [권 기자의 장바구니]",
+      "url": "https://www.hankyung.com/article/202604191348i",
+      "summary": "",
+      "published": "Tue, 21 Apr 2026 06:00:01 +0900",
+      "scraped_at": "2026-04-20T22:11:23.501Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "인플레 리스크로 시들해진 美채권 투자…개미들 대규모 매도",
+      "url": "https://www.yna.co.kr/view/AKR20260420139700008",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 국내 개인 투자자들이 대표적 안전자산인 미국 국채 등 미 채권을 대규모로 팔아치우고 있다.",
+      "published": "Tue, 21 Apr 2026 07:03:00 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "김부겸 'TK 신공항·행정통합' 공약에…재원해법 등 시험대",
+      "url": "https://www.yna.co.kr/view/AKR20260420122800053",
+      "summary": "(대구=연합뉴스) 박세진 기자 = 더불어민주당 김부겸 대구시장 예비후보가 지지부진한 대구·경북(TK) 통합신공항 건설 사업과 무산된 대구·경북 ...",
+      "published": "Tue, 21 Apr 2026 07:01:01 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] '221개의 무너진 우주'…세계의 이름을 다시 부르는 이유",
+      "url": "https://www.yna.co.kr/view/AKR20260413050900898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "published": "Tue, 21 Apr 2026 07:00:01 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "출연연 공통행정 전문화 시동…최대 150명 뽑는다",
+      "url": "https://www.yna.co.kr/view/AKR20260420131400017",
+      "summary": "(서울=연합뉴스) 조승한 기자 = 국가과학기술연구회(NST)가 과학기술 분야 정부출연연구기관 행정 효율화를 위해 추진 중인 출연연 공통 행정 전...",
+      "published": "Tue, 21 Apr 2026 06:55:00 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[글로벌 코리안] \"K-컬처의 힘, 이젠 민화·판화로 세계시장 두드릴 때\"",
+      "url": "https://www.yna.co.kr/view/AKR20260412002100371",
+      "summary": "(서울=연합뉴스) 박현수 기자 = \"K-팝과 K-드라마가 세계를 흔들었다면, 이제는 민화와 판화 같은 한국의 전통 예술품이 그 뒤를 이을 차례입...",
+      "published": "Tue, 21 Apr 2026 06:30:02 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"BTS 보러 와서 배달 앱 켰다\"…'K콘텐츠'가 이끄는 외국인 관광",
+      "url": "https://www.yna.co.kr/view/AKR20260420142900030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 방탄소년단(BTS) 공연을 계기로 방한 외국인 관광객이 늘면서 배달앱 결제도 증가한 것으로 나타났다.",
+      "published": "Tue, 21 Apr 2026 06:30:01 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"이제는 K커피\"…국내 시장 벗어나 북미·아시아로 영토 확장",
+      "url": "https://www.yna.co.kr/view/AKR20260420140600030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = K푸드 열풍을 배경으로 국내 커피 프랜차이즈들의 해외 진출이 꾸준히 확대되고 있다.",
+      "published": "Tue, 21 Apr 2026 06:01:01 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울시 신혼부부 '미리내집' 441세대 입주자 모집",
+      "url": "https://www.yna.co.kr/view/AKR20260420132000004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 올해 첫 미리내집 입주자 총 441세대를 모집한다고 21일 밝혔다.",
+      "published": "Tue, 21 Apr 2026 06:00:10 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "내년 최저임금 첫 심의…'도급제 근로자' 적용 쟁점",
+      "url": "https://www.yna.co.kr/view/AKR20260420126500530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 내년도 최저임금을 정하기 위한 최저임금위원회 첫 전원회의가 21일 열린다.",
+      "published": "Tue, 21 Apr 2026 06:00:08 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "K-소비재 145개사, 중국 산둥 수입상품박람회 참가",
+      "url": "https://www.yna.co.kr/view/AKR20260420135800003",
+      "summary": "(세종=연합뉴스) 신창용 기자 = 대한무역투자진흥공사(코트라)는 지난 20일부터 사흘간 중국 산둥성 린이시에서 열리는 '역내포괄적경제동반자협정(...",
+      "published": "Tue, 21 Apr 2026 06:00:07 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "농식품부, '농촌형 돌봄' 만든다…\"농업·의료 연계 서비스\"",
+      "url": "https://www.yna.co.kr/view/AKR20260420130200030",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 농림축산식품부는 사회적 농업-의료복지사회적협동조합 연계 시범사업을 통해 사회적농업·의료·돌봄 서비스를 통합 제...",
+      "published": "Tue, 21 Apr 2026 06:00:03 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중동발 유가 충격에…IB들 \"9월까지 美 금리인하 없어\"",
+      "url": "https://www.yna.co.kr/view/AKR20260420148500002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 중동발 에너지 충격에 물가 상승 우려가 현실화하면서 미국 기준금리 인하가 늦어질 것이라는 시장 전망이 커지고 ...",
+      "published": "Tue, 21 Apr 2026 05:58:01 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "NH금융연구소 \"이란 전쟁 장기화로 사모 신용 리스크 확대\"",
+      "url": "https://www.yna.co.kr/view/AKR20260420147600002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 이란 전쟁 장기화로 사모 신용 리스크가 발현될 가능성이 커지고 있다는 분석이 제시됐다.",
+      "published": "Tue, 21 Apr 2026 05:55:00 +0900",
+      "scraped_at": "2026-04-20T22:11:30.698Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Compass Pathways CEO on Trump's Order to Expand Psychedelics Research",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/compass-pathways-ceo-on-trump-s-psychedelics-order-video",
+      "summary": "Shares of companies involved in psychedelic-tied therapies surged Monday after President Donald Trump signed an executive order to expedite research and access. US-traded shares of Compass Pathways spiked as much as 53% while AtaiBeckley surged by 37%. GH Research jumped 34% and Definium Therapeutic",
+      "published": "Mon, 20 Apr 2026 21:49:09 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "FDA's Makary on Trump EO to Ease Access to Psychedelics",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/fda-s-makary-on-trump-eo-to-ease-access-to-psychedelics-video",
+      "summary": "FDA Commissioner Dr. Marty Makary discusses President Trump's Executive Order aimed at faster research and access to psychedelics, citing promising research and calling this an 'historic moment.' He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
+      "published": "Mon, 20 Apr 2026 21:14:37 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "BMO's McCormick Says It's Still Right to Be Long Dollar",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/bmo-s-mccormick-says-it-s-still-right-to-be-long-dollar-video",
+      "summary": "BMO Chief FX Strategist Mark McCormick says the right trade is to be long dollar for now. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "published": "Mon, 20 Apr 2026 20:56:33 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Michael Baron Discusses RONB, Musk, & SpaceX",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/michael-baron-discusses-ronb-musk-spacex-video",
+      "summary": "Michael Baron, co-president and portfolio manager at Baron Capital, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss Baron Capital's entrance into the ETF space and the firm's investment in SpaceX.  (Source: Bloomberg)",
+      "published": "Mon, 20 Apr 2026 20:54:53 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "PRIV Owns High-Grade Private Credit: Apollo's Gosden",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/priv-owns-high-grade-private-credit-apollo-s-gosden-video",
+      "summary": "Andrew Gosden, partner at Apollo Management, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the State Street IG Public & Private Credit ETF (ticker: PRIV). The fund has amassed more than $800 million in assets since its launch in February of 2025. (Source: B",
+      "published": "Mon, 20 Apr 2026 20:47:33 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rally on Pause with Peace Deal Uncertainty | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/rally-on-pause-with-peace-deal-in-limbo-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Mon, 20 Apr 2026 20:29:29 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "South America Could Unlock 2.1 Million Barrels a Day on $100 Oil",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/south-america-could-unlock-2-1-million-barrels-a-day-on-100-oil",
+      "summary": "South America could deliver an additional 2.1 million barrels of daily oil supplies by 2035 with crude prices around $100, Rystad Energy wrote in note on Monday.",
+      "published": "Mon, 20 Apr 2026 20:21:43 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Diplo, Twenty One Pilots Royalties to Back Bonds Sold by Chord",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/diplo-twenty-one-pilots-royalties-to-back-bonds-sold-by-chord",
+      "summary": "Chord Music Partners, a firm which invests in music rights, is selling $500 million of bonds backed by royalties from artists including Twenty One Pilots, Diplo and Morgan Wallen.",
+      "published": "Mon, 20 Apr 2026 20:12:32 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Stock Market’s Rally to Record High Masks Weak Building Blocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/stock-market-s-rally-to-record-high-masks-weak-building-blocks",
+      "summary": "The record-breaking advance in US stocks has many of the hallmarks of an unloved rally, including narrow leadership, low volumes and muted investor sentiment.",
+      "published": "Mon, 20 Apr 2026 20:09:59 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Warsh to Focus on Fed's Monetary Independence in Confirmation Hearing",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-20/warsh-to-focus-on-fed-s-independence-in-confirmation-video",
+      "summary": "Bloomberg's Stuart Paul said that a preview of prepared remarks from Trump's pick for Fed Chair Kevin Warsh show that he will focus mainly on the Fed's monetary independence in his confirmation hearing Tuesday.  Paul described Warsh's view that the fed is responsible for all inflation, even if it is",
+      "published": "Mon, 20 Apr 2026 19:41:17 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Sunshine Silver Weighs $400 Million IPO to Fund Reopening of Idaho Mine",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/sunshine-silver-weighs-400-million-ipo-to-fund-reopening-of-idaho-mine",
+      "summary": "Sunshine Silver Mining & Refining Corp. is pursuing an initial public offering to help reopen an Idaho mine, according to people familiar with the matter, adding to a pipeline of mining listings as elevated metals prices draw investor interest.",
+      "published": "Mon, 20 Apr 2026 19:18:01 GMT",
+      "scraped_at": "2026-04-20T22:11:30.779Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
