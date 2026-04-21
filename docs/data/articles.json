@@ -1,6 +1,256 @@
 {
-  "updated_at": "2026-04-21T19:55:27.136Z",
+  "updated_at": "2026-04-21T22:09:56.424Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "전국 외식비 줄줄이 인상…'5만원대' 안동찜닭 나온다 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202604214857i",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 06:00:05 +0900",
+      "scraped_at": "2026-04-21T22:09:52.852Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[단독] 스타벅스 주변으로 몰려드는 저가 커피의 '인접 출점' 전략",
+      "url": "https://www.hankyung.com/article/2026042166991",
+      "summary": "",
+      "published": "Wed, 22 Apr 2026 06:00:01 +0900",
+      "scraped_at": "2026-04-21T22:09:52.852Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "“주한미군도 정동영 핵시설 발언에 항의”…즉각사퇴 요청한 국힘",
+      "url": "https://www.mk.co.kr/news/politics/12023583",
+      "summary": "鄭 ‘북핵시설 발언’ 진위공방정동영 통일부 장관의 ‘북한 구성 소재 핵시설’ 발언을 놓고 한미 외교안보 이슈를 넘어 정치권 논쟁으로 불붙고 있다. 미국이 일부 북한에 대한 위성 정..",
+      "published": "Wed, 22 Apr 2026 06:02:32 +09:00",
+      "scraped_at": "2026-04-21T22:09:53.838Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "구로구 '가리봉1구역 재개발' 내달 1일 창립총회",
+      "url": "https://www.yna.co.kr/view/AKR20260422016300004",
+      "summary": "(서울=연합뉴스) 정준영 기자 = 구로구(구청장 장인홍)는 가리봉1구역(가리봉동 115번지 일대) 주택정비형 재개발사업 창립총회가 5월 1일 오...",
+      "published": "Wed, 22 Apr 2026 07:02:47 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "IMF \"중동 전쟁 아프리카 경제 위협\"…성장률 4.3%로 둔화 전망",
+      "url": "https://www.yna.co.kr/view/AKR20260421130500898",
+      "summary": "(서울=연합뉴스) 박성진 기자 = 중동 전쟁으로 인한 유가 상승 등으로 전 세계 경제가 큰 충격을 받는 가운데 아프리카 등 최빈국에 미치는 영향...",
+      "published": "Wed, 22 Apr 2026 07:02:00 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "워시 \"난 대통령 꼭두각시 아냐…인플레, 덜 문제되는 건 사실\"(종합2보)",
+      "url": "https://www.yna.co.kr/view/AKR20260421179752071",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 후보자는 21일(현지시간) 대통령은 일반적으로 기준금리 인...",
+      "published": "Wed, 22 Apr 2026 06:49:06 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "울산경제자유구역 3차 추가지정 밑그림…입지전략 용역 착수",
+      "url": "https://www.yna.co.kr/view/AKR20260421170600057",
+      "summary": "(울산=연합뉴스) 장지현 기자 = 울산경제자유구역청은 22일 오후 2시 청사 대회의실에서 '경제자유구역 제3차 추가지정을 위한 입지전략 수립 연...",
+      "published": "Wed, 22 Apr 2026 06:05:03 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "원전수출 창구 한전으로 단일화…'공동 주계약'으로 갈등 차단",
+      "url": "https://www.yna.co.kr/view/AKR20260421167900003",
+      "summary": "(서울=연합뉴스) 신창용 김동규 기자 = 정부가 한국전력과 한국수력원자력으로 이원화된 원전 수출 체계를 전면 개편한다.",
+      "published": "Wed, 22 Apr 2026 06:05:02 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"반려동물 주사기 판다\" 입금받고 잠적…수급난 악용 사기 기승",
+      "url": "https://www.yna.co.kr/view/AKR20260421155000030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 중동 정세 불안 여파로 반려동물용 의료 소모품 수급에 차질이 빚어지자 이를 악용한 판매 사기가 잇따라 발생해 ...",
+      "published": "Wed, 22 Apr 2026 06:01:02 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[서미숙의 집수다] \"폐지냐 축소냐\"…뜨거운 장특공제 논쟁, 시장도 '술렁'",
+      "url": "https://www.yna.co.kr/view/AKR20260421161900003",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 1주택자에 대한 양도소득세 장기보유특별공제(장특공제) 논쟁이 6월 지방선거를 앞두고 연일 정치권을 뜨겁게 달구...",
+      "published": "Wed, 22 Apr 2026 06:01:01 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "싼타페·레이·토레스 등 17개 차종 53만2천대 리콜",
+      "url": "https://www.yna.co.kr/view/AKR20260421121400003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 국토교통부는 현대차, 기아, KG모빌리티(KGM), 한국토요타자동차에서 제작·수입해 판매한 17개 차종 53만...",
+      "published": "Wed, 22 Apr 2026 06:00:14 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "시민이 공공개발 투자하고 수익 배당받는 '서울동행리츠' 도입",
+      "url": "https://www.yna.co.kr/view/AKR20260421155600004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 공공개발의 수익을 시민과 공유하는 '서울동행리츠'(지역상생리츠)를 도입한다고 22일 밝혔다.",
+      "published": "Wed, 22 Apr 2026 06:00:07 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "나프타 68%·에틸렌 61%↑…3월 생산자물가 4년만에 최대폭 상승",
+      "url": "https://www.yna.co.kr/view/AKR20260421149200002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 이란 전쟁 여파로 국제 유가가 급등하면서 국내 생산자물가가 약 4년 만에 가장 큰 폭으로 뛰었다.",
+      "published": "Wed, 22 Apr 2026 06:00:07 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "코트라, 美 시애틀서 현지 대학생 등 해외인재 유치 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260421157600003",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 대한무역투자진흥공사(코트라)는 21일(현지시간) 주시애틀 총영사관, 시애틀한국교육원과 함께 '시애틀 한국유학박...",
+      "published": "Wed, 22 Apr 2026 06:00:06 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "현대차·기아, 관세·판매보증충당금에 1분기 실적 동반부진 전망",
+      "url": "https://www.yna.co.kr/view/AKR20260421156600003",
+      "summary": "(서울=연합뉴스) 김보경 기자 = 현대차와 기아가 이번 주 올해 1분기 실적을 발표하는 가운데 두 기업 모두 관세와 판매보증충당금 증가 등으로 ...",
+      "published": "Wed, 22 Apr 2026 06:00:05 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "고지서 열람·세금 납부 한번에…ETAX 전자사서함 서비스 시행",
+      "url": "https://www.yna.co.kr/view/AKR20260421161100004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 21일 인터넷 세금납부 시스템인 ETAX에서 고지서를 전자송달 받을 수 있는 'ETAX 전자사서...",
+      "published": "Wed, 22 Apr 2026 06:00:03 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미·이란 2차회담 불확실성에 국제유가 급등…브렌트유 3.1%↑",
+      "url": "https://www.yna.co.kr/view/AKR20260422007400072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 21일(현지시간) 미국과 이란 간 2차 종전협상을 둘러싼 불확실성이 고조되며 국제유가가 급등했다.",
+      "published": "Wed, 22 Apr 2026 04:50:56 +0900",
+      "scraped_at": "2026-04-21T22:09:55.079Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Capital One Boosts Provision for Bad Loans, Misses Estimates",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/capital-one-boosts-provision-for-bad-loans-misses-estimates",
+      "summary": "Capital One Financial Corp., the biggest US credit-card lender, reported a first-quarter profit that missed Wall Street estimates and set aside more cash to cover soured loans.",
+      "published": "Tue, 21 Apr 2026 20:34:41 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Vanguard Scoops Up Treasuries as Iran Conflict Lifts Yields",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/vanguard-scoops-up-treasuries-as-iran-conflict-lifts-yields",
+      "summary": "Vanguard is boosting its holdings of Treasuries, taking advantage of higher yields following the Middle East conflict to lock in rates and hedge against the risks of a potential growth slowdown.",
+      "published": "Tue, 21 Apr 2026 21:25:41 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Commodity Traders Reap Profit Bonanza as Iran War Upends Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
+      "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
+      "published": "Tue, 21 Apr 2026 21:00:39 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Baird Capital Raises $450 Million for Private Equity Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/baird-capital-raises-450-million-for-third-private-equity-fund",
+      "summary": "The private equity arm of financial services firm Robert W. Baird & Co. has raised $450 million for a fund that will invest in lower middle market companies in the US and the UK.",
+      "published": "Tue, 21 Apr 2026 12:00:00 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Switch Taps $2.6 Billion of Bank Cash for Data Center Push",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/switch-lands-2-6-billion-of-bank-pledges-to-power-data-centers",
+      "summary": "Switch Inc. gathered $2.6 billion of bank pledges to help the data-center operator procure electricity, a mounting challenge for the booming industry and one of its biggest costs.",
+      "published": "Tue, 21 Apr 2026 12:51:21 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump Extends Iran Ceasefire Until Talks Conclude",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-21/trump-extends-iran-ceasefire-until-talks-conclude-video",
+      "summary": "President Donald Trump posted on social media that he would extend the ceasefire with Iran, after plans for diplomatic talks between the two countries were scrapped. Joe Mathieu reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "published": "Tue, 21 Apr 2026 20:36:34 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bond Traders Bet on Post-War Calm to Keep Rates in Tight Range",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/bond-traders-bet-on-post-war-calm-to-keep-rates-in-tight-range",
+      "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
+      "published": "Tue, 21 Apr 2026 20:36:26 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Markets Extend Downturn | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-21/markets-extend-downturn-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Tue, 21 Apr 2026 20:24:55 GMT",
+      "scraped_at": "2026-04-21T22:09:55.431Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
