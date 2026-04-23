@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-04-23T17:03:38.267Z",
+  "updated_at": "2026-04-23T21:07:55.967Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "쿠팡 로비 대상·금액 급증…\"적힌 것은 일부에 불과\"",
+      "url": "https://www.hankyung.com/article/202604243135i",
+      "summary": "",
+      "published": "Fri, 24 Apr 2026 03:34:24 +0900",
+      "scraped_at": "2026-04-23T21:07:51.769Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "‘기밀유출’ 정동영 두번째 설화…“문제 일으킨 사람, 미국·내부일수도”",
+      "url": "https://www.mk.co.kr/news/politics/12026080",
+      "summary": "정동영 ‘북핵 정보’ 발언 파장정동영 통일부 장관이 23일 본인의 ‘북한 구성 핵시설’ 발언에 따른 기밀 유출 논란의 진원지에 대해 “미국일 수도 있고 우리 내부일 수도 있다”고 ..",
+      "published": "Fri, 24 Apr 2026 05:48:14 +09:00",
+      "scraped_at": "2026-04-23T21:07:52.877Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "작년 한국 방문 외국인 환자 200만명 첫 돌파…3년 연속 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260423130200530",
+      "summary": "(서울=연합뉴스) 김영신 기자 = 지난해 한국을 방문한 외국인 환자가 통계를 집계하기 시작한 2009년 이후 처음으로 200만명을 돌파했다.",
+      "published": "Fri, 24 Apr 2026 06:00:07 +0900",
+      "scraped_at": "2026-04-23T21:07:54.372Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[게시판] 산업부, 지자체·유관기관 외국인 투자 워크숍 개최",
+      "url": "https://www.yna.co.kr/view/AKR20260423166600003",
+      "summary": "▲ 산업통상부는 지방자치단체, 유관기관의 외국인 투자 유치 담당자 200여명을 초청해 24일 서울 여의도 글래드호텔에서 '외국인 투자 유치 워크...",
+      "published": "Fri, 24 Apr 2026 06:00:03 +0900",
+      "scraped_at": "2026-04-23T21:07:54.372Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "연합뉴스 'Y-팜 엑스포' 개막…AI농업이 여는 K로컬의 미래 알려",
+      "url": "https://www.yna.co.kr/view/AKR20260423149300030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 국가기간뉴스통신사 연합뉴스가 주최하는 귀농귀촌·지역활성화 박람회 '와이(Y)-팜 엑스포'가 24일 경기 수원시...",
+      "published": "Fri, 24 Apr 2026 06:00:02 +0900",
+      "scraped_at": "2026-04-23T21:07:54.372Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[뉴욕유가] 다시 전운 감도는 중동…WTI 나흘째 급등",
+      "url": "https://www.yna.co.kr/view/AKR20260424005100009",
+      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 국제 유가가 나흘째 급등세를 이어갔다.",
+      "published": "Fri, 24 Apr 2026 03:41:48 +0900",
+      "scraped_at": "2026-04-23T21:07:54.372Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "달러-원, 이란 긴장 고조·日 개입 경계 속 횡보…1,479.20원 마감",
+      "url": "https://www.yna.co.kr/view/AKR20260424004100002",
+      "summary": "(서울=연합뉴스) 김성진 연합인포맥스 기자 = 달러-원 환율은 야간 거래에서 1,480원 부근에서 횡보 흐름을 나타냈다.",
+      "published": "Fri, 24 Apr 2026 02:55:43 +0900",
+      "scraped_at": "2026-04-23T21:07:54.372Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "United’s CEO Is Here to Buy Your Struggling Airline",
+      "url": "https://www.bloomberg.com/news/features/2026-04-23/united-ceo-scott-kirby-faces-merger-talk-fuel-prices-turf-wars",
+      "summary": "Scott Kirby wants to run ‘the unequivocal best airline in history.’ Will merger talk, spiking fuel prices and turf wars get in the way?",
+      "published": "Thu, 23 Apr 2026 21:00:18 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Avis Stock Collapse Sparks Drop in Dow Transports It Lifted",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/avis-stock-collapse-sparks-plunge-in-dow-transports-it-lifted",
+      "summary": "A gauge of US transportation stocks recorded its worst two-day stretch since last spring’s tariff selloff.",
+      "published": "Thu, 23 Apr 2026 17:06:46 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Taps Kirkland &amp; Ellis for Advice on Spirit Airlines Rescue",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/us-taps-kirkland-ellis-for-advice-on-spirit-airlines-rescue",
+      "summary": "The US government tapped law firm Kirkland & Ellis to advise on a possible rescue deal for Spirit Aviation Holdings Inc., according to people familiar with the matter.",
+      "published": "Thu, 23 Apr 2026 20:23:15 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed’s Bowman Cautions Wall Street CEOs Against Capital Gripes",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/fed-s-bowman-cautions-wall-street-ceos-against-capital-gripes",
+      "summary": "The Federal Reserve’s top bank cop recently told Wall Street leaders to support capital plans that are widely seen as a win for industry and stop asking for carve outs.",
+      "published": "Thu, 23 Apr 2026 19:52:54 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Goldman’s Varadhan Signals Dealmaking Amid Volatility",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/goldman-s-varadhan-signals-dealmaking-amid-volatility-video",
+      "summary": "Goldman Sachs' Co-Head of Banking and Markets Ashok Varadhan said dealmaking remains resilient despite geopolitical tensions, pointing to an active pipeline including data center financing. He also struck a measured tone on markets, noting that periods of volatility are part of the cycle. Varadhan s",
+      "published": "Thu, 23 Apr 2026 19:49:37 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rare Diesel Cargoes Head to Australia from US West Coast",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/rare-diesel-cargoes-head-to-australia-from-us-west-coast",
+      "summary": "A string of tankers carrying diesel from the US West Coast has begun arriving in Australia, with several more on the way, as the continent tries to contain a fuel crisis triggered by the Iran war.",
+      "published": "Thu, 23 Apr 2026 18:12:05 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Paschi Names Lovaglio CEO After Investors Back Him For New Term",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/paschi-names-lovaglio-ceo-after-investors-back-him-for-new-term",
+      "summary": "Banca Monte dei Paschi di Siena SpA named Luigi Lovaglio as chief executive officer, marking his return to the helm of the world’s oldest bank after a dispute over strategy earlier this year.",
+      "published": "Thu, 23 Apr 2026 19:42:53 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Jane Street Seeks Dismissal of Terraform Insider-Trading Suit",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/jane-street-seeks-dismissal-of-terraform-insider-trading-suit",
+      "summary": "Jane Street Group urged a judge to throw out a lawsuit accusing it of trading on inside information ahead of the $40 billion crash of cryptocurrencies associated with Terraform Labs.",
+      "published": "Thu, 23 Apr 2026 19:40:04 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed, FDIC Finalize Changes Easing Community Bank Leverage Ratio",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/fed-fdic-finalize-changes-easing-community-bank-leverage-ratio",
+      "summary": "US regulators finalized changes that will relax the community bank leverage ratio, building on previous steps from the Trump administration to ease capital rules for banks.",
+      "published": "Thu, 23 Apr 2026 19:31:53 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oil Jumps as Iran Tensions Simmer With Hormuz Flows Blocked",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/oil-jumps-as-iran-tensions-simmer-with-hormuz-blocked",
+      "summary": "Oil jumped amid fresh signs of escalation in the Iran war, dimming prospects for an imminent resumption of flows through the Strait of Hormuz.",
+      "published": "Thu, 23 Apr 2026 17:58:59 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Veja os Três Assuntos Que Marcaram a Semana no Brasil",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/veja-os-tres-assuntos-que-marcaram-a-semana-no-brasil-video",
+      "summary": "A repórter Beatriz Reis conta quais foram os assuntos que marcaram a semana no Brasil. Com produção de Raphael Almeida e edição de Bárbara Nascimento.\n\n (Source: Bloomberg)",
+      "published": "Thu, 23 Apr 2026 19:16:38 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Alberta Examines Three Northern Routes for Oil Pipe to Feed Asia",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/alberta-examines-northern-routes-for-oil-pipe-to-asia-video",
+      "summary": "Bloomberg's Brian Platt joins Scarlet Fu on \"Bloomberg Markets.\" Alberta is looking at three options for a new oil pipeline to ship 1 million barrels a day through northern British Columbia, according to people familiar with the matter, as Canadian officials make plans to sharply increase energy exp",
+      "published": "Thu, 23 Apr 2026 19:12:37 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'Really Worried' About Iraq: Rachel Bronson",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/-really-worried-about-iraq-rachel-bronson-video",
+      "summary": "Rachel Bronson, senior fellow at the Chicago Council on Global Affairs, senior advisor at the Bulletin of the Atomic Scientists, and author of \"Thicker than Oil: America's Uneasy Partnership with Saudi Arabia\" joins Scarlet Fu on \"Bloomberg Markets.\"  (Source: Bloomberg)",
+      "published": "Thu, 23 Apr 2026 19:11:42 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Lululemon’s New CEO Has Ties to One of Nike’s Biggest Missteps",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/lululemon-s-new-ceo-faces-investor-doubts-tied-to-nike-history",
+      "summary": "There was a noticeable absence at Lululemon Athletica Inc.’s all-hands meeting Wednesday, following the announcement of a new chief executive officer: The new hire herself.",
+      "published": "Thu, 23 Apr 2026 18:59:32 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Looking Past One-Time Shocks Pays Off",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/looking-past-one-time-shocks-pays-off-video",
+      "summary": "Andrzej Skiba, head of BlueBay US fixed income at RBC Global Asset Management, joins Scarlet Fu on \"Bloomberg Markets.\" The firm has assets under management of $650 billion.  (Source: Bloomberg)",
+      "published": "Thu, 23 Apr 2026 18:57:27 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Freeport Shares Slide as Indonesian Mine Restart Faces Delay",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/freeport-shares-slide-as-mine-restart-faces-delay-video",
+      "summary": "Bloomberg's Jacob Lorinc joins Scarlet Fu on \"Bloomberg Markets.\" Freeport-McMoRan fell after the copper miner warned that a slower ramp-up at its flagship Grasberg mine in Indonesia will weigh on future production. The top US copper producer said it’s pushing back the restart schedule at the Grasbe",
+      "published": "Thu, 23 Apr 2026 18:52:40 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dollar Jumps to Highest in 10 Days as US-Iran Tensions Intensify",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/dollar-jumps-to-highest-in-10-days-as-us-iran-tensions-intensify",
+      "summary": "The dollar jumped as new reports of intensifying hostilities in the Middle East dampen optimism for the potential end to the conflict.",
+      "published": "Thu, 23 Apr 2026 18:42:34 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Come see Odd Lots LIVE in New York City",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-23/come-see-odd-lots-live-in-new-york-city",
+      "summary": "Watch a live podcast recording on May 28.",
+      "published": "Thu, 23 Apr 2026 18:36:31 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SNB Readiness to Intervene on FX Is Elevated, Martin Tells RTS",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/snb-readiness-to-intervene-on-fx-is-elevated-martin-tells-rts",
+      "summary": "The Swiss National Bank maintains an increased readiness to step into currency markets, Vice President Antoine Martin told public broadcaster RTS.",
+      "published": "Thu, 23 Apr 2026 18:15:01 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Amtrak Sues Metro-North Over Denied Request to Run Work Trains",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/amtrak-sues-metro-north-over-denied-request-to-run-work-trains",
+      "summary": "Amtrak is seeking a preliminary injunction against Metro-North Railroad that would allow its non-revenue trains to run between New York City’s northern suburbs and Connecticut.",
+      "published": "Thu, 23 Apr 2026 17:58:10 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Blackstone’s Secondaries Unit Hits $100 Billion as Demand Grows",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/blackstone-s-secondaries-unit-hits-100-billion-as-demand-grows",
+      "summary": "Blackstone Inc.’s secondaries business reached $100 billion of assets under management in the first quarter, making it one of the biggest players in the market for selling secondhand stakes.",
+      "published": "Thu, 23 Apr 2026 17:33:46 GMT",
+      "scraped_at": "2026-04-23T21:07:54.661Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
