@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-04-26T18:02:53.427Z",
+  "updated_at": "2026-04-26T21:55:45.864Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"中과 내통?\" 대만 기밀 빼돌린 韓 해군장교…엘리트의 추락 [조철오의 방산노트]",
+      "url": "https://www.hankyung.com/article/202604203308i",
+      "summary": "",
+      "published": "Mon, 27 Apr 2026 06:00:10 +0900",
+      "scraped_at": "2026-04-26T21:55:41.472Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[벼랑끝 농어촌 의료] ②의사 없는 보건지소에 전담 간호사 투입…기능 개편",
+      "url": "https://www.yna.co.kr/view/AKR20260426039000530",
+      "summary": "(서울=연합뉴스) 서한기 기자 = 정부는 공보의 급감에 따른 의료 공백을 최소화하기 위해 단기 대책으로 한정된 인력을 필요한 곳에 집중적으로 배...",
+      "published": "Mon, 27 Apr 2026 06:11:02 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'삼동∼KTX울산역 도로개설사업' 중앙투자 재심사 통과",
+      "url": "https://www.yna.co.kr/view/AKR20260425040600057",
+      "summary": "(울산=연합뉴스) 장지현 기자 = 울산시는 '삼동∼KTX울산역 도로개설사업'이 행정안전부 지방재정 중앙투자 재심사를 통과했다고 27일 밝혔다.",
+      "published": "Mon, 27 Apr 2026 06:03:02 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "경기침체·대출규제 그늘…1분기 경매 신청 13년 만에 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260426030400003",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 올해 1분기 법원 신규 경매 신청 건수가 13년 만에 최대를 기록했다.",
+      "published": "Mon, 27 Apr 2026 06:01:01 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[게시판] 사회적기업 투자 역량강화 지원을 위한 참여기업 모집",
+      "url": "https://www.yna.co.kr/view/AKR20260424149600530",
+      "summary": "▲ 한국사회적기업진흥원은 사회적기업의 투자유치 역량을 강화해 자금조달 기반을 확대하고 지속 가능한 성장을 지원하고자 '2026년 사회적기업 투자...",
+      "published": "Mon, 27 Apr 2026 06:00:17 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울새활용플라자 입주기업 모집…창업공간·성장 프로그램 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260424145800004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울디자인재단은 서울새활용플라자 입주기업을 내달 24일까지 모집한다고 27일 밝혔다.",
+      "published": "Mon, 27 Apr 2026 06:00:16 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'제2서울핀테크랩' 입주기업 모집…올해부터 예비창업자도 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260424166100004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 초기 핀테크 스타트업의 시장 안착을 지원하는 '제2서울핀테크랩'에 입주할 기업 총 8개 회사를 내달 ...",
+      "published": "Mon, 27 Apr 2026 06:00:15 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중기부, 지역창업 페스티벌 개최…\"창업 열풍 확산\"",
+      "url": "https://www.yna.co.kr/view/AKR20260424126400030",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 중소벤처기업부는 지역의 자생적 창업 생태계를 조성하고 수도권과 비수도권의 창업 환경 격차를 완화하기 위해 '지...",
+      "published": "Mon, 27 Apr 2026 06:00:14 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중기부, 기술사업화에 최대 1억5천만원 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260424145200030",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 중소벤처기업부는 '기술사업화 패키지 지원사업'의 2차 시행계획을 공고한다고 27일 밝혔다.",
+      "published": "Mon, 27 Apr 2026 06:00:13 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[게시판] 금감원, 2026년 금융소비자리포터 100여명 모집",
+      "url": "https://www.yna.co.kr/view/AKR20260425045900002",
+      "summary": "▲ 금융감독원은 올해 금융소비자리포터 100여명을 모집한다고 27일 밝혔다. 금융소비자리포터는 금융이슈, 시장동향 관련 리포트를 제작하고, 금융...",
+      "published": "Mon, 27 Apr 2026 06:00:03 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[게시판] 내달까지 '디지털 트윈국토 플랫폼' 권역별 현장 간담회",
+      "url": "https://www.yna.co.kr/view/AKR20260426046800003",
+      "summary": "▲ 국토교통부는 27일부터 지방정부와 공공기관의 공간 정보 활용 역량을 높이기 위해 '디지털 트윈국토 플랫폼'에 대한 권역별 현장 간담회를 개최...",
+      "published": "Mon, 27 Apr 2026 06:00:00 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "엽떡도 N분의 1 나눠내자…고물가가 낳은 청년들의 '소분 모임'",
+      "url": "https://www.yna.co.kr/view/AKR20260426040200004",
+      "summary": "(서울=연합뉴스) 조현영 기자 = \"치즈 토핑 한 번 추가하고, 만두랑 주먹밥도 시킬까요?\"",
+      "published": "Mon, 27 Apr 2026 05:55:00 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "신현송 한은총재 '열공모드'…출장 건너뛰고 업무보고·티타임",
+      "url": "https://www.yna.co.kr/view/AKR20260425042600002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 신현송 한국은행 총재가 취임 초기 외부 일정을 자제하고 업무 파악에 매진하는 모습이다.",
+      "published": "Mon, 27 Apr 2026 05:51:00 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'고유가 지원금' 오늘부터 1차 지급…기초·차상위·한부모 대상",
+      "url": "https://www.yna.co.kr/view/AKR20260426030200530",
+      "summary": "(서울=연합뉴스) 양정우 기자 = 27일부터 '고유가 피해지원금' 1차 지급이 시작된다.",
+      "published": "Mon, 27 Apr 2026 04:30:01 +0900",
+      "scraped_at": "2026-04-26T21:55:44.388Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Goldman, JPMorgan Show Wall Street’s Split in Quantum Computing Race",
+      "url": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
+      "summary": "As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed.",
+      "published": "Sun, 26 Apr 2026 21:00:18 GMT",
+      "scraped_at": "2026-04-26T21:55:44.672Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Record-Setting Momentum Rally Is Drawing Doubters",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/record-setting-momentum-rally-is-drawing-doubters-markets-wrap",
+      "summary": "April’s rally in risk assets has weathered stalled peace talks, signs of resurgent inflation and a central-bank succession drama. Investors may be about to find out if the speed of the advance itself poses a threat to a further ascent.",
+      "published": "Sun, 26 Apr 2026 20:00:00 GMT",
+      "scraped_at": "2026-04-26T21:55:44.672Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bond Traders Await Powell Update, Slate of US Treasury Auctions",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/bond-traders-await-powell-update-slate-of-us-treasury-auctions",
+      "summary": "Traders in the US Treasury market are turning their focus to this week’s Federal Reserve meeting to gauge how officials are assessing the outlook for inflation as tensions in the Middle East keep oil prices elevated.",
+      "published": "Sun, 26 Apr 2026 19:00:00 GMT",
+      "scraped_at": "2026-04-26T21:55:44.672Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -14750,206 +14920,6 @@
       "summary": "European natural gas futures rose as Iran again closed the Strait of Hormuz, adding fears that the flow of energy from the Persian Gulf will remain choked.",
       "published": "Sun, 19 Apr 2026 22:17:27 GMT",
       "scraped_at": "2026-04-19T23:55:55.646Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[여기는 논설실] 한국은 왜 대만에 밀리기 시작했나",
-      "url": "https://www.hankyung.com/article/202604201441i",
-      "summary": "",
-      "published": "Mon, 20 Apr 2026 06:05:34 +0900",
-      "scraped_at": "2026-04-19T21:52:46.243Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"다이소 비켜\"…두부 980원·다리미 4980 '초저가' 내세운 마트들 [권 기자의 장바구니]",
-      "url": "https://www.hankyung.com/article/202604191336i",
-      "summary": "",
-      "published": "Mon, 20 Apr 2026 06:00:03 +0900",
-      "scraped_at": "2026-04-19T21:52:46.243Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"50대 엄마, 20대 딸에게 '40억' 남겼는데\" 알고보니…",
-      "url": "https://www.hankyung.com/article/2026041909731",
-      "summary": "",
-      "published": "Mon, 20 Apr 2026 06:00:01 +0900",
-      "scraped_at": "2026-04-19T21:52:46.243Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 北, ‘화성-11라’ 미사일 탄두 위력시험…김정은 참관",
-      "url": "https://www.mk.co.kr/news/politics/12021323",
-      "summary": "",
-      "published": "Mon, 20 Apr 2026 06:12:06 +09:00",
-      "scraped_at": "2026-04-19T21:52:51.720Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"UAE, 경제위기 대비 미국과 통화스와프 체결 협의\"",
-      "url": "https://www.yna.co.kr/view/AKR20260420007200072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 아랍에미리트(UAE)가 미국과 이란 간 전쟁 심화로 경제가 위기에 빠질 경우에 대비해 금융 안전망 확보 차원...",
-      "published": "Mon, 20 Apr 2026 06:46:48 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "2월 서울 아파트 실거래가격 전월보다 1.9% 상승",
-      "url": "https://www.yna.co.kr/view/AKR20260418008300004",
-      "summary": "(서울=연합뉴스) 정수연 기자 = 지난 2월 서울 아파트 매매 실거래가격이 한 달 전보다 1.9% 오른 것으로 나타났다.",
-      "published": "Mon, 20 Apr 2026 06:00:11 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중기부, 지역 中企 기술인력 확보 지원…최대 1천만원 바우처",
-      "url": "https://www.yna.co.kr/view/AKR20260417149400030",
-      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 비수도권 중소기업의 기술 인력 확보 부담을 완화하기 위해 '기술 인력 채용지원' 시범사업을 추...",
-      "published": "Mon, 20 Apr 2026 06:00:08 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중기부, 중동전쟁 피해기업에 5천500억원 유동성 추가 공급",
-      "url": "https://www.yna.co.kr/view/AKR20260417151900030",
-      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 중동전쟁 장기화로 어려움을 겪는 중소기업의 경영 애로를 해소하기 위해 추가경정예산으로 확보한 ...",
-      "published": "Mon, 20 Apr 2026 06:00:08 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[게시판] 금감원, 상반기 '군 재정담당자 금융연수'",
-      "url": "https://www.yna.co.kr/view/AKR20260418030500002",
-      "summary": "▲ 금융감독원은 오는 20일부터 23일까지 군 재정 담당자 34명을 대상으로 '국방재정 담당자 금융연수를 진행한다고 19일 밝혔다. 최근 월급 ...",
-      "published": "Mon, 20 Apr 2026 06:00:07 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "금융사 내부망서 클라우드 소프트웨어 허용…망 분리 예외",
-      "url": "https://www.yna.co.kr/view/AKR20260418050900002",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 금융사가 내부 업무망에서도 클라우드 기반 소프트웨어(Saas)를 사용할 수 있도록 '망 분리 규제' 예외가 허...",
-      "published": "Mon, 20 Apr 2026 06:00:06 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "신현송 친정 BIS \"스테이블코인, 통화 생태계 핵심 축 어렵다\"",
-      "url": "https://www.yna.co.kr/view/AKR20260419054300002",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 신현송 한국은행 총재 후보자가 스테이블코인에 전향적 태도를 취한 것을 두고 그가 12년간 몸담았던 국제결제은행...",
-      "published": "Mon, 20 Apr 2026 05:53:01 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "공정위, 쿠팡 동일인 내주 결론…'총수 김범석' 가능성 주목",
-      "url": "https://www.yna.co.kr/view/AKR20260419041700002",
-      "summary": "(세종=연합뉴스) 이세원 기자 = 쿠팡의 동일인(총수)을 김범석 쿠팡 Inc 의장으로 변경할지 법인으로 유지할지 공정거래위원회가 내주쯤 결론을 ...",
-      "published": "Mon, 20 Apr 2026 05:51:06 +0900",
-      "scraped_at": "2026-04-19T21:52:53.207Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Traders Brace for Renewed Turmoil on Hormuz Standoff",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/traders-brace-for-renewed-turmoil-on-hormuz-standoff-markets-wrap",
-      "summary": "Traders are preparing for a bumpy open to the week as a continued standoff around the Strait of Hormuz revives the uncertainty that Wall Street had been eager to look past, after a week that drove the S&P 500 Index to a record and pushed oil back toward $90 a barrel.",
-      "published": "Sun, 19 Apr 2026 19:45:33 GMT",
-      "scraped_at": "2026-04-19T21:52:53.522Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Fund Pay Spirals Even Higher in New Trader-Poaching Strategy",
-      "url": "https://www.bloomberg.com/news/features/2026-04-19/hedge-funds-frenzied-job-market-sends-pay-spiraling-higher",
-      "summary": "As the competition for talent reaches new extremes, ‘interception trades’ between rivals are heating up.",
-      "published": "Sun, 19 Apr 2026 21:00:12 GMT",
-      "scraped_at": "2026-04-19T21:52:53.522Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Point72, BlackRock-Backed Contest Seeks Japanese Banking Talent",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/point72-blackrock-backed-contest-seeks-japanese-banking-talent",
-      "summary": "Scores of Japanese college students have been obsessing over sales of toothpaste, diapers and chocolate. They have visited supermarkets and drugstores to photograph shelves, scrutinized price tags and noted which brands sit at eye level for maximum exposure.",
-      "published": "Sun, 19 Apr 2026 21:00:00 GMT",
-      "scraped_at": "2026-04-19T21:52:53.522Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UAE in Talks With US for Possible Financial Lifeline, WSJ Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
-      "summary": "The United Arab Emirates has begun talks with the US about a financial backstop in case the Iran war plunges the country into further crisis, the Wall Street Journal reported, citing US officials it didn’t identify.",
-      "published": "Sun, 19 Apr 2026 20:39:54 GMT",
-      "scraped_at": "2026-04-19T21:52:53.522Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump Says US Military Seized An Iranian Vessel in Gulf of Oman",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/trump-says-us-military-seized-an-iranian-vessel-in-gulf-of-oman",
-      "summary": "US Navy ship stopped Iranian-flagged cargo ship in its tracks “by blowing a hole in the engineroom” and US marines have custody of the ship, President Donald Trump says on Truth Social.",
-      "published": "Sun, 19 Apr 2026 19:29:34 GMT",
-      "scraped_at": "2026-04-19T21:52:53.522Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Next Catalyst for Treasury Bonds Is Named Kevin Warsh",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/kevin-warsh-fed-hearings-will-be-treasury-bonds-next-catalyst",
-      "summary": "Bond traders who’ve grown more optimistic about an end to the Iran conflict see their next catalyst coming from Capitol Hill, where Kevin Warsh will face questions as President Donald Trump’s pick to lead the Federal Reserve.",
-      "published": "Sun, 19 Apr 2026 19:00:00 GMT",
-      "scraped_at": "2026-04-19T19:56:18.616Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bank Debate Interview: Umar Farooq and Shahmir Khaliq",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-19/bank-debate-interview-umar-farooq-and-shahmir-khaliq-video",
-      "summary": "Global Co-Head of JP Morgan Payments, Umar Farooq and Head of Services at Citi, Shahmir Khaliq, spoke with Bloomberg's Emily Mason in a bank debate interview. (Source: Bloomberg)",
-      "published": "Sun, 19 Apr 2026 18:19:10 GMT",
-      "scraped_at": "2026-04-19T19:56:18.616Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "After Long Avoiding Politics, Commodity Traders Cozy Up to Trump",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-19/after-long-avoiding-politics-commodity-traders-cosy-up-to-trump",
-      "summary": "For decades, the world’s biggest commodity traders have sought to remain outside of politics, doing deals with anyone who has natural resources to buy or sell. Now, Donald Trump is changing the rules of the game.",
-      "published": "Sun, 19 Apr 2026 18:08:23 GMT",
-      "scraped_at": "2026-04-19T19:56:18.616Z"
     }
   ]
 }
