@@ -1,6 +1,386 @@
 {
-  "updated_at": "2026-04-28T19:11:38.646Z",
+  "updated_at": "2026-04-28T23:12:37.805Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"원자재값 쉽게 안 내려간다\"…자원 부국의 수출 통제 쇼크 [글로벌 머니 X파일]",
+      "url": "https://www.hankyung.com/article/202604270644i",
+      "summary": "",
+      "published": "Wed, 29 Apr 2026 07:00:11 +0900",
+      "scraped_at": "2026-04-28T23:12:33.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "이세돌·허사비스, 오늘 10년 만에 만난다…AI 미래 대담",
+      "url": "https://www.hankyung.com/article/2026042938687",
+      "summary": "",
+      "published": "Wed, 29 Apr 2026 06:26:54 +0900",
+      "scraped_at": "2026-04-28T23:12:33.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "국제유가, UAE의 OPEC 탈퇴에도 3%↑…WTI 장중 100달러 위로",
+      "url": "https://www.hankyung.com/article/2026042938537",
+      "summary": "",
+      "published": "Wed, 29 Apr 2026 06:14:42 +0900",
+      "scraped_at": "2026-04-28T23:12:33.225Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "부산시, AI 기업 고성능 컴퓨팅 지원사업…참여기업 공모",
+      "url": "https://www.yna.co.kr/view/AKR20260429020500051",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 지역 인공지능 기업의 고비용 연산 자원 확보 부담을 해소하는 '부산 AI 기업 고성능 컴퓨팅 지원사업...",
+      "published": "Wed, 29 Apr 2026 07:52:41 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "부산 서구에 2035년까지 분류식 하수관로 설치",
+      "url": "https://www.yna.co.kr/view/AKR20260429020400051",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 서구 전 지역에 분류식 하수관로 사업을 확대 시행한다고 29일 밝혔다.",
+      "published": "Wed, 29 Apr 2026 07:52:15 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20260429015100011",
+      "summary": "■ 윤석열 '체포방해' 오늘 항소심 선고…'내란전담재판부 1호'",
+      "published": "Wed, 29 Apr 2026 07:30:03 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[팩트체크] SK하이닉스 채용에 고졸 취업 주목받지만…현실은",
+      "url": "https://www.yna.co.kr/view/AKR20260428152600518",
+      "summary": "(서울=연합뉴스) 권혜진 기자 = \"고졸로 SK하이닉스 생산직 입사 vs 서울대 공대 입학. 당신의 선택은?\"(네이버 카페 글)",
+      "published": "Wed, 29 Apr 2026 06:30:01 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "CEO 가장 많이 사는 아파트 개포동 디에이치퍼스티어아이파크",
+      "url": "https://www.yna.co.kr/view/AKR20260428163000003",
+      "summary": "(서울=연합뉴스) 조성흠 기자 = 국내 500대 기업 대표이사들이 가장 많이 사는 아파트는 서울 강남구 개포동의 디에이치퍼스티어아이파크로 나타났...",
+      "published": "Wed, 29 Apr 2026 06:07:02 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "하반기 건설공사 표준시장단가 내달 8일 공고…중동전쟁 반영",
+      "url": "https://www.yna.co.kr/view/AKR20260428130700003",
+      "summary": "(서울=연합뉴스) 오진송 기자 = 국토교통부는 2026년 하반기 건설공사 표준시장단가를 다음 달 8일 공고한다고 29일 밝혔다.",
+      "published": "Wed, 29 Apr 2026 06:00:09 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "하반기 '서울 동행 일자리' 6천943명 모집…상반기보다 345명↑",
+      "url": "https://www.yna.co.kr/view/AKR20260428150600004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 올해 하반기 '서울 동행일자리' 참여자 총 6천943명을 모집한다고 29일 밝혔다.",
+      "published": "Wed, 29 Apr 2026 06:00:07 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중기부, 수출 中企 대외무역 대응 민관 합동 설명회 개최",
+      "url": "https://www.yna.co.kr/view/AKR20260428149600030",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 중소기업의 대외무역환경 변화 대응을 지원하기 위해 민-관 합동 설명회를 개최한다고 29일 밝혔...",
+      "published": "Wed, 29 Apr 2026 06:00:05 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "롯데백화점, 외국인 전용 멤버십 '잠실 롯데타운'으로 확대",
+      "url": "https://www.yna.co.kr/view/AKR20260428158200030",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 롯데백화점이 작년 12월 본점에 도입한 '롯데 투어리스트 멤버십'을 롯데타운 잠실 전체로 확대하며 외국인 관광...",
+      "published": "Wed, 29 Apr 2026 06:00:04 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "코트라, LA서 '취업비자 지원' 기업 초청 잡페어",
+      "url": "https://www.yna.co.kr/view/AKR20260428168100003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 대한무역투자진흥공사(코트라)는 28일(현지시간) 미국 로스앤젤레스에서 주로스앤젤레스 총영사관과 협력해 '202...",
+      "published": "Wed, 29 Apr 2026 06:00:03 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한경협, 청년 창업가 초청 강연…코스모비·리소리우스 대표",
+      "url": "https://www.yna.co.kr/view/AKR20260428170100003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국경제인협회 기업가정신발전소는 오는 30일 제3회 기업가정신발전소 토크 라이브 행사를 개최한다고 29일 밝혔...",
+      "published": "Wed, 29 Apr 2026 06:00:02 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "일반회사채 석달째 순상환…CP·단기사채는 발행 늘어",
+      "url": "https://www.yna.co.kr/view/AKR20260428172800002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 지난달 일반회사채 발행 실적은 감소한 반면 단기자금 조달 수단인 기업어음(CP)과 단기사채 발행 규모는 늘어난...",
+      "published": "Wed, 29 Apr 2026 06:00:01 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "일본 중고무기 수출에 한국 방산업계 긴장…\"경쟁자 될 수도\"",
+      "url": "https://www.yna.co.kr/view/AKR20260428169300003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 일본이 최근 중고 무기를 개발도상국에 무상이나 저가로 수출하는 방안을 본격적으로 검토하면서 국내 방산업계의 긴...",
+      "published": "Wed, 29 Apr 2026 05:59:01 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "기업은행 중소 부동산업 연체율 13년 만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20260428173400002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 중소기업 특화 은행인 IBK기업은행의 부동산업 및 임대업 연체율이 13년 만에 최고 수준에 달한 것으로 나타났...",
+      "published": "Wed, 29 Apr 2026 05:51:01 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "이찬진, 업추비 첫 공개…8개월간 약 1천700만원 지출",
+      "url": "https://www.yna.co.kr/view/AKR20260429000600002",
+      "summary": "(서울=연합뉴스) 배영경 강류나 기자 = 이찬진 금융감독원장의 취임 이후 업무추진비 집행내역이 공개됐다.",
+      "published": "Wed, 29 Apr 2026 05:00:01 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국제유가, UAE의 OPEC 탈퇴에도 3%↑…WTI 다시 100달러",
+      "url": "https://www.yna.co.kr/view/AKR20260429006000072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 아랍에미리트(UAE)의 석유수출국기구(OPEC) 탈퇴 소식 속에 미국과 이란 간 종전 논의가 교착 상태에 빠...",
+      "published": "Wed, 29 Apr 2026 04:26:11 +0900",
+      "scraped_at": "2026-04-28T23:12:36.369Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oil Holds Gains as Traders Focus on Next Steps for Peace Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/latest-oil-market-news-and-analysis-for-april-29",
+      "summary": "Oil steadied as investors focused on the next steps for peace talks over the Iran war, with the near-closure of the vital Strait of Hormuz prolonging disruptions that have upended global markets.",
+      "published": "Tue, 28 Apr 2026 22:06:07 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "UAE Exit Blindsides OPEC and Threatens to Shake Its Grip on Oil",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/uae-exit-blindsides-opec-and-threatens-to-shake-its-grip-on-oil",
+      "summary": "The shock decision by the United Arab Emirates to quit OPEC blindsided its partners of six decades. Now the cartel will have to fight to stay relevant in a fast-shifting global oil market.",
+      "published": "Tue, 28 Apr 2026 22:39:39 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/gold-steady-after-two-day-drop-as-iran-war-fans-inflation-fears",
+      "summary": "Gold steadied after a two-day drop as investor focus remained on talks between the US and Iran, with the indefinite closure of the Strait of Hormuz continuing to heighten inflation risks.",
+      "published": "Tue, 28 Apr 2026 22:39:27 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bank Groups Eye Changes to Fed’s Relaxed Capital Proposals",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/bank-groups-eye-changes-to-fed-s-relaxed-capital-proposals",
+      "summary": "Bank groups said that although the Federal Reserve’s eased capital plans are a major improvement over previous versions, the recent proposals still need changes to help avoid risk assessments they say may hinder banks’ ability to boost lending.",
+      "published": "Tue, 28 Apr 2026 22:36:37 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Vale Falls Short as Seasonal Pressures Offset Stronger Prices",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/vale-falls-short-as-seasonal-pressures-offset-stronger-prices",
+      "summary": "Iron-ore giant Vale SA posted disappointing first-quarter results as operational pressures more than offset higher prices and volumes.",
+      "published": "Tue, 28 Apr 2026 22:33:59 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Booking’s 2Q Guidance Misses on Middle East, Shares Slide",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/booking-s-2q-guidance-misses-on-middle-east-impact-shares-slide",
+      "summary": "Booking Holdings Inc forecast worse-than-expected second-quarter revenue growth and cut its outlook for the full year as travel demand suffers from the conflict in the Middle East.",
+      "published": "Tue, 28 Apr 2026 20:33:18 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asia Open Clouded by US Stock Slide on AI Worries: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/asian-stocks-set-for-muted-open-after-us-selloff-markets-wrap",
+      "summary": "Stocks in Asia are set for a subdued start after a tech-led selloff dragged down US benchmarks, as doubts resurface over whether massive spending in artificial intelligence will pay off — just as traders brace for a wave of megacap earnings.",
+      "published": "Tue, 28 Apr 2026 22:07:16 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "First Independence Bank CEO: Fed is Doing a 'Fine Job'",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/first-independence-bank-ceo-fed-is-doing-a-fine-job-video",
+      "summary": "First Independence Bank Chairman & CEO and Chair of the American Bankers Association Kenneth Kelly discusses the importance of stability in the banking system and why the Fed is doing a fine job given the uncertainty. He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomber",
+      "published": "Tue, 28 Apr 2026 21:01:51 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Nvidia-Tied Data Center Raises $4.59 Billion From Junk-Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/nvidia-tied-data-center-raises-4-59-billion-from-junk-bond-sale",
+      "summary": "A Nevada data center project tied to Nvidia Corp. has raised $4.59 billion from a junk-bond sale, adding to a wave of deals to fund artificial intelligence infrastructure.",
+      "published": "Tue, 28 Apr 2026 20:57:53 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Why the US Is Working Less Than Before",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/opinion-why-the-us-is-working-less-than-before-video",
+      "summary": "The US still works more than most other countries, but that gap is starting to close. Bloomberg Opinion columnist Allison Schrager explains why. (Source: Bloomberg)",
+      "published": "Tue, 28 Apr 2026 20:53:43 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed May Take 2% Inflation Goal off Table, Hoenig Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/fed-may-take-2-inflation-goal-off-table-hoenig-says-video",
+      "summary": "Federal Reserve Bank of Kansas City Former President & CEO Thomas Hoenig discusses the Fed possibly taking the 2% inflation target off the table, the challenges facing Kevin Warsh, and previews Wednesday's rate decision. He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloom",
+      "published": "Tue, 28 Apr 2026 20:45:28 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Iran Can't Have Nuclear Weapon, Despite 'Hot Mess' of War, Says Ed Price",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/war-in-iran-a-hot-mess-says-ed-price-video",
+      "summary": "Ed Price, former British trade official and nonresident senior fellow at New York University, said that while the US is embroiled in a 'hot mess' war with Iran, there is still a convincing argument to back the use of force in stopping Iran from having a nuclear weapon. Price also discussed King Char",
+      "published": "Tue, 28 Apr 2026 20:40:26 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bond Traders Ramp Up Wagers Hedging for 5% Yields as Oil Surges",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/bond-traders-ramp-up-wagers-hedging-for-5-yields-as-oil-surges",
+      "summary": "Traders in the Treasury options market are bracing for long-dated bond yields to surge past 5% as a rally in oil prices continues unabated.",
+      "published": "Tue, 28 Apr 2026 20:31:06 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Kone Is Said to Near €29 Billion Deal for Rival TK Elevator",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/kone-is-said-to-near-29-billion-deal-for-rival-tk-elevator",
+      "summary": "Kone Oyj is nearing a cash-and-stock deal to acquire TK Elevator, people familiar with the matter said, in what will be one of the biggest-ever private equity exits in Europe.",
+      "published": "Tue, 28 Apr 2026 20:25:34 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "China’s Used Cooking Oil Ships to US as War Drives Biofuel Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/china-s-used-cooking-oil-ships-to-us-as-war-drives-biofuel-boom",
+      "summary": "American imports of used cooking oil from China are set to accelerate as increased US biofuel-blending requirements kick in and the Iran war drives up energy costs, making the feedstock a relative bargain.",
+      "published": "Tue, 28 Apr 2026 20:23:45 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Stocks Slump on OpenAI Report | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/stocks-slump-on-openai-report-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Tue, 28 Apr 2026 20:18:31 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Warns of Sanctions Risks for Chinese Refiners of Iranian Oil",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/us-warns-of-sanctions-risks-for-chinese-refiners-of-iranian-oil",
+      "summary": "The US warned financial institutions of sanction risks on Chinese oil refineries over ties to Iran, ramping up economic pressure on Tehran and risking tension with Beijing ahead of an expected summit between the country’s leaders.",
+      "published": "Tue, 28 Apr 2026 19:46:39 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Italy’s Eni Expands Venezuela Push With Orinoco Oil Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/italy-s-eni-expands-venezuela-push-with-orinoco-oil-deal",
+      "summary": "Eni SpA agreed to restart an oil project in Venezuela’s Orinoco Belt, deepening its presence as US sanctions ease.",
+      "published": "Tue, 28 Apr 2026 19:36:58 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "FCC to Start Early Review of Disney-Owned Stations",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-28/fcc-to-start-early-review-of-disney-owned-stations-video",
+      "summary": "The Federal Communications Commission will review licenses of stations owned by Walt Disney's ABC network. Regulators say they're looking for potential \"unlawful discrimination.\" This comes after President Donald Trump told ABC to fire late night host Jimmy Kimmel.  (Source: Bloomberg)",
+      "published": "Tue, 28 Apr 2026 19:11:02 GMT",
+      "scraped_at": "2026-04-28T23:12:36.481Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14120,526 +14500,6 @@
       "summary": "Nifty 50’s breadth signals a new bull market, according to Macquarie.",
       "published": "Wed, 22 Apr 2026 02:47:51 GMT",
       "scraped_at": "2026-04-22T06:23:27.947Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "전국 외식비 줄줄이 인상…'5만원대' 안동찜닭 나온다 [프라이스&]",
-      "url": "https://www.hankyung.com/article/202604214857i",
-      "summary": "",
-      "published": "Wed, 22 Apr 2026 06:00:05 +0900",
-      "scraped_at": "2026-04-21T22:09:52.852Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 스타벅스 주변으로 몰려드는 저가 커피의 '인접 출점' 전략",
-      "url": "https://www.hankyung.com/article/2026042166991",
-      "summary": "",
-      "published": "Wed, 22 Apr 2026 06:00:01 +0900",
-      "scraped_at": "2026-04-21T22:09:52.852Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“주한미군도 정동영 핵시설 발언에 항의”…즉각사퇴 요청한 국힘",
-      "url": "https://www.mk.co.kr/news/politics/12023583",
-      "summary": "鄭 ‘북핵시설 발언’ 진위공방정동영 통일부 장관의 ‘북한 구성 소재 핵시설’ 발언을 놓고 한미 외교안보 이슈를 넘어 정치권 논쟁으로 불붙고 있다. 미국이 일부 북한에 대한 위성 정..",
-      "published": "Wed, 22 Apr 2026 06:02:32 +09:00",
-      "scraped_at": "2026-04-21T22:09:53.838Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "구로구 '가리봉1구역 재개발' 내달 1일 창립총회",
-      "url": "https://www.yna.co.kr/view/AKR20260422016300004",
-      "summary": "(서울=연합뉴스) 정준영 기자 = 구로구(구청장 장인홍)는 가리봉1구역(가리봉동 115번지 일대) 주택정비형 재개발사업 창립총회가 5월 1일 오...",
-      "published": "Wed, 22 Apr 2026 07:02:47 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "IMF \"중동 전쟁 아프리카 경제 위협\"…성장률 4.3%로 둔화 전망",
-      "url": "https://www.yna.co.kr/view/AKR20260421130500898",
-      "summary": "(서울=연합뉴스) 박성진 기자 = 중동 전쟁으로 인한 유가 상승 등으로 전 세계 경제가 큰 충격을 받는 가운데 아프리카 등 최빈국에 미치는 영향...",
-      "published": "Wed, 22 Apr 2026 07:02:00 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "워시 \"난 대통령 꼭두각시 아냐…인플레, 덜 문제되는 건 사실\"(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20260421179752071",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 후보자는 21일(현지시간) 대통령은 일반적으로 기준금리 인...",
-      "published": "Wed, 22 Apr 2026 06:49:06 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "울산경제자유구역 3차 추가지정 밑그림…입지전략 용역 착수",
-      "url": "https://www.yna.co.kr/view/AKR20260421170600057",
-      "summary": "(울산=연합뉴스) 장지현 기자 = 울산경제자유구역청은 22일 오후 2시 청사 대회의실에서 '경제자유구역 제3차 추가지정을 위한 입지전략 수립 연...",
-      "published": "Wed, 22 Apr 2026 06:05:03 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "원전수출 창구 한전으로 단일화…'공동 주계약'으로 갈등 차단",
-      "url": "https://www.yna.co.kr/view/AKR20260421167900003",
-      "summary": "(서울=연합뉴스) 신창용 김동규 기자 = 정부가 한국전력과 한국수력원자력으로 이원화된 원전 수출 체계를 전면 개편한다.",
-      "published": "Wed, 22 Apr 2026 06:05:02 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"반려동물 주사기 판다\" 입금받고 잠적…수급난 악용 사기 기승",
-      "url": "https://www.yna.co.kr/view/AKR20260421155000030",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 중동 정세 불안 여파로 반려동물용 의료 소모품 수급에 차질이 빚어지자 이를 악용한 판매 사기가 잇따라 발생해 ...",
-      "published": "Wed, 22 Apr 2026 06:01:02 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[서미숙의 집수다] \"폐지냐 축소냐\"…뜨거운 장특공제 논쟁, 시장도 '술렁'",
-      "url": "https://www.yna.co.kr/view/AKR20260421161900003",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 1주택자에 대한 양도소득세 장기보유특별공제(장특공제) 논쟁이 6월 지방선거를 앞두고 연일 정치권을 뜨겁게 달구...",
-      "published": "Wed, 22 Apr 2026 06:01:01 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "싼타페·레이·토레스 등 17개 차종 53만2천대 리콜",
-      "url": "https://www.yna.co.kr/view/AKR20260421121400003",
-      "summary": "(서울=연합뉴스) 임성호 기자 = 국토교통부는 현대차, 기아, KG모빌리티(KGM), 한국토요타자동차에서 제작·수입해 판매한 17개 차종 53만...",
-      "published": "Wed, 22 Apr 2026 06:00:14 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "시민이 공공개발 투자하고 수익 배당받는 '서울동행리츠' 도입",
-      "url": "https://www.yna.co.kr/view/AKR20260421155600004",
-      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 공공개발의 수익을 시민과 공유하는 '서울동행리츠'(지역상생리츠)를 도입한다고 22일 밝혔다.",
-      "published": "Wed, 22 Apr 2026 06:00:07 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "나프타 68%·에틸렌 61%↑…3월 생산자물가 4년만에 최대폭 상승",
-      "url": "https://www.yna.co.kr/view/AKR20260421149200002",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 이란 전쟁 여파로 국제 유가가 급등하면서 국내 생산자물가가 약 4년 만에 가장 큰 폭으로 뛰었다.",
-      "published": "Wed, 22 Apr 2026 06:00:07 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "코트라, 美 시애틀서 현지 대학생 등 해외인재 유치 지원",
-      "url": "https://www.yna.co.kr/view/AKR20260421157600003",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 대한무역투자진흥공사(코트라)는 21일(현지시간) 주시애틀 총영사관, 시애틀한국교육원과 함께 '시애틀 한국유학박...",
-      "published": "Wed, 22 Apr 2026 06:00:06 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "현대차·기아, 관세·판매보증충당금에 1분기 실적 동반부진 전망",
-      "url": "https://www.yna.co.kr/view/AKR20260421156600003",
-      "summary": "(서울=연합뉴스) 김보경 기자 = 현대차와 기아가 이번 주 올해 1분기 실적을 발표하는 가운데 두 기업 모두 관세와 판매보증충당금 증가 등으로 ...",
-      "published": "Wed, 22 Apr 2026 06:00:05 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "고지서 열람·세금 납부 한번에…ETAX 전자사서함 서비스 시행",
-      "url": "https://www.yna.co.kr/view/AKR20260421161100004",
-      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 21일 인터넷 세금납부 시스템인 ETAX에서 고지서를 전자송달 받을 수 있는 'ETAX 전자사서...",
-      "published": "Wed, 22 Apr 2026 06:00:03 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "미·이란 2차회담 불확실성에 국제유가 급등…브렌트유 3.1%↑",
-      "url": "https://www.yna.co.kr/view/AKR20260422007400072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 21일(현지시간) 미국과 이란 간 2차 종전협상을 둘러싼 불확실성이 고조되며 국제유가가 급등했다.",
-      "published": "Wed, 22 Apr 2026 04:50:56 +0900",
-      "scraped_at": "2026-04-21T22:09:55.079Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Capital One Boosts Provision for Bad Loans, Misses Estimates",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/capital-one-boosts-provision-for-bad-loans-misses-estimates",
-      "summary": "Capital One Financial Corp., the biggest US credit-card lender, reported a first-quarter profit that missed Wall Street estimates and set aside more cash to cover soured loans.",
-      "published": "Tue, 21 Apr 2026 20:34:41 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Vanguard Scoops Up Treasuries as Iran Conflict Lifts Yields",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/vanguard-scoops-up-treasuries-as-iran-conflict-lifts-yields",
-      "summary": "Vanguard is boosting its holdings of Treasuries, taking advantage of higher yields following the Middle East conflict to lock in rates and hedge against the risks of a potential growth slowdown.",
-      "published": "Tue, 21 Apr 2026 21:25:41 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Commodity Traders Reap Profit Bonanza as Iran War Upends Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
-      "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
-      "published": "Tue, 21 Apr 2026 21:00:39 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Baird Capital Raises $450 Million for Private Equity Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/baird-capital-raises-450-million-for-third-private-equity-fund",
-      "summary": "The private equity arm of financial services firm Robert W. Baird & Co. has raised $450 million for a fund that will invest in lower middle market companies in the US and the UK.",
-      "published": "Tue, 21 Apr 2026 12:00:00 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Switch Taps $2.6 Billion of Bank Cash for Data Center Push",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/switch-lands-2-6-billion-of-bank-pledges-to-power-data-centers",
-      "summary": "Switch Inc. gathered $2.6 billion of bank pledges to help the data-center operator procure electricity, a mounting challenge for the booming industry and one of its biggest costs.",
-      "published": "Tue, 21 Apr 2026 12:51:21 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump Extends Iran Ceasefire Until Talks Conclude",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/trump-extends-iran-ceasefire-until-talks-conclude-video",
-      "summary": "President Donald Trump posted on social media that he would extend the ceasefire with Iran, after plans for diplomatic talks between the two countries were scrapped. Joe Mathieu reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "published": "Tue, 21 Apr 2026 20:36:34 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bond Traders Bet on Post-War Calm to Keep Rates in Tight Range",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/bond-traders-bet-on-post-war-calm-to-keep-rates-in-tight-range",
-      "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
-      "published": "Tue, 21 Apr 2026 20:36:26 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Markets Extend Downturn | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/markets-extend-downturn-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Tue, 21 Apr 2026 20:24:55 GMT",
-      "scraped_at": "2026-04-21T22:09:55.431Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "하림, 홈플러스 익스프레스 인수 유력",
-      "url": "https://www.hankyung.com/article/2026042171561",
-      "summary": "",
-      "published": "Wed, 22 Apr 2026 01:41:06 +0900",
-      "scraped_at": "2026-04-21T19:55:16.457Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "에너지연구그룹,\"호르무즈 봉쇄 3개월 지속시 세계 경기침체\"",
-      "url": "https://www.hankyung.com/article/202604227221i",
-      "summary": "",
-      "published": "Wed, 22 Apr 2026 00:55:59 +0900",
-      "scraped_at": "2026-04-21T19:55:16.457Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[뉴욕유가] 美·이란 협상 물 건너가나…WTI 3% 급등",
-      "url": "https://www.yna.co.kr/view/AKR20260422005300009",
-      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 국제 유가가 2거래일 연속 급등세를 이어갔다.",
-      "published": "Wed, 22 Apr 2026 03:39:28 +0900",
-      "scraped_at": "2026-04-21T19:55:25.596Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "달러-원, 美 소비 호조·이란 불확실성에 급등…1,480.80원 마감",
-      "url": "https://www.yna.co.kr/view/AKR20260422003800002",
-      "summary": "(서울=연합뉴스) 김성진 연합인포맥스 기자 = 달러-원 환율은 야간 거래에서 급등하며 1,480원 선을 소폭 넘어섰다.",
-      "published": "Wed, 22 Apr 2026 02:49:59 +0900",
-      "scraped_at": "2026-04-21T19:55:25.596Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "워시 \"대통령들은 금리인하 선호하지만…난 꼭두각시 아니다\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260421179751071",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 후보자는 21일(현지시간) 대통령은 일반적으로 기준금리 인...",
-      "published": "Wed, 22 Apr 2026 01:49:24 +0900",
-      "scraped_at": "2026-04-21T19:55:25.596Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Deutsche Telekom Weighs Full Combination With T-Mobile",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/deutsche-telekom-weighs-full-combination-with-t-mobile",
-      "summary": "Deutsche Telekom AG is considering a full combination with its American arm T-Mobile US Inc., a move that would create a multinational telecom group and rank as the largest-ever public M&A deal, people with knowledge of the matter said.",
-      "published": "Tue, 21 Apr 2026 18:03:04 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh Says Fed ‘Must Stay in Its Lane’",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/warsh-says-fed-must-stay-in-its-lane-video",
-      "summary": "Bloomberg's Mike McKee detailed changes to the Federal Reserve that fed chair nominee Kevin Warsh revealed in his confirmation hearing Tuesday, saying that Warsh may want to change or eliminate economic guidance. Warsh told Senators that he is not a fan of the Fed's forward guidance and feels that i",
-      "published": "Tue, 21 Apr 2026 19:00:16 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Paraguay Leaves Key Rate at 5.5% on Stable Inflation Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/paraguay-leaves-key-rate-at-5-5-amid-stable-inflation-outlook",
-      "summary": "Paraguay’s central bank held its benchmark interest rate unchanged for a second-consecutive month at 5.5% amid a stable inflation outlook.",
-      "published": "Tue, 21 Apr 2026 18:36:12 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Top Oil Traders Say Billion-Barrel Shock to Echo Long After War",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/top-traders-say-billion-barrel-oil-shock-to-echo-long-after-war",
-      "summary": "The impact of the Iran war will continue for months even after any deal to restore shipping through the Strait of Hormuz, the world’s largest oil traders have warned. Some said flows through the waterway may never return to normal.",
-      "published": "Tue, 21 Apr 2026 18:48:28 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Terna CEO Ready to Waive Severance After Italy’s Meloni Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/meloni-demands-terna-ceo-choose-7-3-million-payout-or-eni-role",
-      "summary": "The outgoing chief executive officer of grid operator Terna SpA, Giuseppina di Foggia, is willing to waive a €7.3 million ($8.6 million) severance to take a new role as chairwoman of ENI SpA after Italian Premier Giorgia Meloni said she had to decide between the two options.",
-      "published": "Tue, 21 Apr 2026 11:48:47 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Vance Trip to Pakistan for Talks With Iran Is On Hold, NYT Reports",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/vance-trip-to-pakistan-is-on-hold-nyt-reports-video",
-      "summary": "The New York Times reports that Vice President JD Vance's trip to Pakistan for peace talks with Iran is on hold for now. We hear more from Republican strategist Lanhee Chen and Jeanne Sheehan Zaino, a Bloomberg contributor, on \"Balance of Power.\" (Source: Bloomberg)",
-      "published": "Tue, 21 Apr 2026 18:33:59 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh's Undisclosed Investments Raise Questions on Influence Says Richards",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/warsh-undisclosed-investments-raise-question-richards-video",
-      "summary": "Former Treasury official Kitty Richards, senior strategic adviser at the Groundwork Collaborative, said the financial disclosures of Kevin Warsh, the nominee to be chair of the Federal Reserve, leave some important questions unanswered because some of his holdings remain under wraps. Richards also s",
-      "published": "Tue, 21 Apr 2026 18:32:28 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Here comes the food price inflation",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-21/here-comes-the-food-price-inflation",
-      "summary": "Input costs are already on the rise",
-      "published": "Tue, 21 Apr 2026 18:19:36 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Senator Tillis Floats Off-Ramp to Move Warsh’s Fed Nomination Forward",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/tillis-floats-off-ramp-to-move-warsh-nomination-forward-video",
-      "summary": "Senator Thom Tillis, a Republican from North Carolina, says that he would be in favor of a joint committee investigation into the oversight of renovations at the Federal Reserve. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
-      "published": "Tue, 21 Apr 2026 18:14:00 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh Pledges Independence But Dodges Questions on Rates",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/warsh-pledges-independence-but-dodges-questions-on-rates-video-mo8xs4wh",
-      "summary": "Kevin Warsh repeatedly pledged to act independently if he’s confirmed as the next Federal Reserve chair, rejecting Democratic concerns he would be a “sock puppet” for President Donald Trump, who continues to demand lower interest rates. (Source: Bloomberg)",
-      "published": "Tue, 21 Apr 2026 18:07:34 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Sen. Tillis Calls for End to Powell Probe During Warsh Hearing",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/tillis-calls-for-end-to-powell-probe-amid-warsh-hearing-video",
-      "summary": "Republican Sen. Thom Tillis called on the Department of Justice to end its probe into Federal Reserve Chair Jerome Powell for the Fed building cost overruns so he can support Kevin Warsh’s nomination.\nTillis praised Warsh during the Senate hearing for Trump’s pick for Fed chair, saying, “I look forw",
-      "published": "Tue, 21 Apr 2026 17:15:59 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tim Cook's Exit, Warsh Faces Congress | Open Interest 4/21/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/open-interest-4-21-2026-video",
-      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Apple’s era shifts as Tim Cook steps down after 15 years, with John Ternus set to take over.  And Kevin Warsh faces Capitol Hill in a high-stakes Fed showdown. We'll take you to Capitol Hill. Plus, ",
-      "published": "Tue, 21 Apr 2026 17:13:34 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Here Are the Key Takeaways From Kevin Warsh’s Fed Confirmation Hearing",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/kevin-warsh-s-fed-confirmation-hearing-key-takeaways-on-interest-rates-policy",
-      "summary": "Here are the key takeaways from Kevin Warsh’s remarks at his confirmation hearing to be the next chairman of the Federal Reserve. He testified before the US Senate Banking Committee on Tuesday.",
-      "published": "Tue, 21 Apr 2026 16:52:26 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Citadel Securities Takes On Banks With Push for Big Stock Trades",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/ken-griffin-s-citadel-securities-takes-on-wall-street-in-equity-trading-push",
-      "summary": "Jamie Dimon’s letter to JPMorgan Chase & Co. shareholders published this month runs to about 25,000 words. For Wall Street, two in particular stand out: “Citadel Securities.”",
-      "published": "Tue, 21 Apr 2026 16:50:45 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Davidson Kempner Ex-Trader Says He Blew Whistle, Was Ousted",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/davidson-kempner-ex-partner-says-he-blew-whistle-was-forced-out",
-      "summary": "A former top trader and partner at Davidson Kempner Capital Management accused the firm and its investing chief, Tony Yoseloff, of ousting him last year after he attempted to expose wrongdoing.",
-      "published": "Tue, 21 Apr 2026 11:20:06 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Traders Warn of Recession Impact as Hormuz Hits Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/top-oil-traders-warn-worst-of-demand-hit-from-war-is-yet-to-come",
-      "summary": "The world’s top oil traders warned that the ongoing closure of the Strait of Hormuz is increasing the risk of a global recession as fuel demand takes a hit.",
-      "published": "Tue, 21 Apr 2026 11:46:52 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Says It Boarded Oil Tanker, First During Iranian Blockade",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/us-says-it-boarded-oil-tanker-first-during-iranian-blockade",
-      "summary": "The US government said it stopped and boarded a sanctioned oil tanker in its campaign to disrupt Iran’s shipping network, the first such intervention since the imposition of a blockade just over a week ago.",
-      "published": "Tue, 21 Apr 2026 16:08:28 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Mercuria Was Able to Get Ships Out Through Hormuz, CEO Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/mercuria-was-able-to-get-ships-out-through-hormuz-ceo-says",
-      "summary": "Mercuria Energy Group Ltd. was reasonably well positioned before the closure of the Strait of Hormuz, and has been able to get ships out even after war erupted at the end of February, its co-founder and chief executive officer said.",
-      "published": "Tue, 21 Apr 2026 16:08:06 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hybrid Bond Buybacks Return After War Paused Riskier Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/hybrid-bond-buybacks-return-after-war-paused-riskier-debt-deals",
-      "summary": "European companies are once again buying back junior bonds after the market turmoil sparked by the war in the Middle East and the AI-related software selloff put some riskier debt deals on ice.",
-      "published": "Tue, 21 Apr 2026 11:35:36 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street’s Crypto Ambitions Dealt a Setback by Latest Hack",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/wall-street-s-crypto-ambitions-dealt-a-setback-by-latest-hack",
-      "summary": "The weekend hack that drained nearly $300 million from a small crypto project and triggered a $10 billion run on the largest decentralized lending platform could slow Wall Street’s growing interest in blockchain technology, according to Jefferies LLC.",
-      "published": "Tue, 21 Apr 2026 16:03:05 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tax-the-Rich Boosts Appeal of Bonds That Give Shelter to Wealthy",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/tax-the-rich-boosts-appeal-of-bonds-that-give-shelter-to-wealthy",
-      "summary": "Democrats around the country are pushing forward on plans to tax the rich — moves that are supportive for the tax-exempt municipal-bond market.",
-      "published": "Tue, 21 Apr 2026 16:00:25 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "European Stocks Drop on Geopolitical Angst; Royal Unibrew Sinks",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/european-stocks-steady-with-iran-talks-in-focus-ab-foods-falls",
-      "summary": "European stocks fell on Tuesday as investors weighed a flurry of earnings and tracked developments in the Middle East conflict ahead of Wednesday’s ceasefire deadline.",
-      "published": "Tue, 21 Apr 2026 07:28:05 GMT",
-      "scraped_at": "2026-04-21T19:55:25.801Z"
     }
   ]
 }
