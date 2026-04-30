@@ -1,6 +1,566 @@
 {
-  "updated_at": "2026-04-30T13:09:37.633Z",
+  "updated_at": "2026-04-30T18:00:11.826Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 우지커피, '2026 브랜드 고객충성도 대상' 카페프랜차이즈 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101627",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:33:04 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 에뜨와, '2026 브랜드 고객충성도 대상' 유아동복 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101607",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:31:49 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 바이오트루, '2026 브랜드 고객충성도 대상' 프리미엄렌즈세척액 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101577",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:30:12 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 베이비하우스, '2026 브랜드 고객충성도 대상' 육아용품아울렛 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101547",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:29:15 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 레이지, '2026 브랜드 고객충성도 대상' 레몬즙(농축) 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101527",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:28:20 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 솔리몬, '2026 브랜드 고객충성도 대상' 레몬즙(착즙) 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101507",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:27:24 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 에버크린, '2026 브랜드 고객충성도 대상' 고양이모래 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101487",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:26:29 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 카페인중독, '2026 브랜드 고객충성도 대상' 와플전문점 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101457",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:25:18 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 싱귤생귤, ' 2026 브랜드 고객충성도 대상' 감귤 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101447",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:24:09 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 크리스피프레시, ' 2026 브랜드 고객충성도 대상' 샐러드·포케전문점 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101417",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:23:08 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 월계관, ' 2026 브랜드 고객충성도 대상' 사케 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101407",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:22:31 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 카페프리헷, ' 2026 브랜드 고객충성도 대상' 무인카페전문점 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101347",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:21:45 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 콘티넨탈타이어, ' 2026 브랜드 고객충성도 대상' 타이어 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101337",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:17:10 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] KGM 무쏘, ' 2026 브랜드 고객충성도 대상' 픽업트럭 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101327",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:16:27 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 고려휴먼스, ' 2026 브랜드 고객충성도 대상' 아웃소싱 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101307",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:15:45 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 장인한과, ' 2026 브랜드 고객충성도 대상' 약과 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101297",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:15:02 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 거북이동네, ' 2026 브랜드 고객충성도 대상' 숙성고기구이 전문점 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101287",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:14:24 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 해피톡, ' 2026 브랜드 고객충성도 대상' AI고객상담플랫폼 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101277",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:13:33 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 동원 참치액, ' 2026 브랜드 고객충성도 대상' 참치액 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101257",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:12:42 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 나이스파크, ' 2026 브랜드 고객충성도 대상' 주차플랫폼 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101237",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:11:37 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 디케이화인케미칼, ' 2026 브랜드 고객충성도 대상' 친환경 셀룰로스 소재 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101227",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:10:54 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 가나디, ' 2026 브랜드 고객충성도 대상' 캐릭터 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101177",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:10:08 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 아파트너, ' 2026 브랜드 고객충성도 대상' 아파트관리앱 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101147",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:05:44 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 삼성금거래소, ' 2026 브랜드 고객충성도 대상' 금거래소 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101137",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:04:55 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 육회바른연어, ' 2026 브랜드 고객충성도 대상' 육회·연어 전문점 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101117",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:03:51 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 비에날퀸, ' 2026 브랜드 고객충성도 대상' 갱년기유산균 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101097",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:03:05 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 캐츠랑, ' 2026 브랜드 고객충성도 대상' 펫푸드(반려묘건식사료) 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101077",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:02:20 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 쿡셀, ' 2026 브랜드 고객충성도 대상' 쿡웨어 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101067",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:01:37 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 힘펠, ' 2026 브랜드 고객충성도 대상' 환기가전 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101047",
+      "summary": "",
+      "published": "Fri, 01 May 2026 01:00:40 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[포토] 매나테크 앰브로토스, ' 2026 브랜드 고객충성도 대상' 면역기능개선식품 부문 수상",
+      "url": "https://www.hankyung.com/article/2026050101037",
+      "summary": "",
+      "published": "Fri, 01 May 2026 00:59:58 +0900",
+      "scraped_at": "2026-04-30T18:00:07.235Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미국 이어 ECB·영국도 금리 동결…전쟁발 인플레 우려(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260430213252082",
+      "summary": "(베를린·런던=연합뉴스) 김계연 김지연 특파원 = 중동전쟁으로 인플레이션 우려가 커진 가운데 미국·영국에 이어 유로존(유로화 사용 21개국) 통...",
+      "published": "Thu, 30 Apr 2026 23:08:48 +0900",
+      "scraped_at": "2026-04-30T18:00:10.374Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Investors Need Proof of Meta's Spending Paying Off: Feeney",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/investors-need-proof-of-meta-s-spending-working-feeney-video",
+      "summary": "JoAnne Feeney, portfolio manager & partner at Advisors Capital Management. joins Scarlet Fu on \"Bloomberg Markets.\" Meta Platforms shares plunged by the most in six months after the company raised its spending outlook for the year, reigniting fears that the historic levels of investment that CEO Mar",
+      "published": "Thu, 30 Apr 2026 17:43:17 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'No Signs Whatsoever' of Consumer Pullback: Hoplamazian",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/-no-signs-whatsoever-of-consumer-pullback-hoplamazian-video",
+      "summary": "Mark Hoplamazian, president & CEO at Hyatt Hotels Corporation, joins Scarlet Fu on \"Bloomberg Markets.\" Hyatt shares climb after the hotel operator reported adjusted earnings-per-share for the first quarter that topped analysts’ expectations. Analysts were encouraged by the update, which showed that",
+      "published": "Thu, 30 Apr 2026 17:50:57 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Is Miami the New Wall Street?",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/is-miami-the-new-wall-street-video",
+      "summary": "Miami is rapidly transforming into the new financial capital of the US as MIAX CEO Thomas Gallagher joins a special edition of Bloomberg Open Interest to explain why Wall Street firms, top traders, and major capital are migrating south. Backed by cutting-edge tech and a Bloomberg partnership, MIAX i",
+      "published": "Thu, 30 Apr 2026 17:50:17 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Kalshi Bows to Agriculture Industry Pushback on Trading Hours",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/kalshi-bows-to-agriculture-industry-pushback-on-trading-hours",
+      "summary": "Kalshi Inc. has agreed to limit trading hours on new financial contracts tied to crops like corn and wheat after facing pushback from the agriculture industry and derivatives exchanges.",
+      "published": "Thu, 30 Apr 2026 17:40:44 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Banamex Offers Global Bonds for First Time Since Citi Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/banamex-is-selling-global-bonds-for-first-time-since-citi-sale",
+      "summary": "Mexico’s Grupo Financiero Banamex is tapping global markets for the first time since Citigroup Inc. started offloading its stake in the bank.",
+      "published": "Thu, 30 Apr 2026 14:17:37 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Apple Earnings Become Sideshow With New CEO Ready to Grab Reins",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/apple-earnings-become-sideshow-with-new-ceo-ready-to-grab-reins",
+      "summary": "Apple Inc. reports quarterly earnings after the close on Thursday, but investors will be largely looking past the numbers and seeking clues to incoming Chief Executive Officer John Ternus’ strategic plans.",
+      "published": "Thu, 30 Apr 2026 09:00:53 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Italy’s Meloni Backs Housing Access Plan as Election Nears",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/italy-s-meloni-backs-housing-access-plan-as-election-nears",
+      "summary": "Giorgia Meloni’s government presented a series of measures aimed at expanding housing access for Italians, part of a push to address cost-of-living concerns as the prime minister prepares for a general election in 2027.",
+      "published": "Thu, 30 Apr 2026 17:35:08 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Blue Owl Surges as Growth Eases Private Credit ‘Doomsday’ Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/blue-owl-s-asset-growth-meet-estimates-amid-direct-lending-slump",
+      "summary": "Blue Owl Capital Inc. shares surged after it reported fee-related earnings that beat estimates, providing a reprieve from a bruising year marked by record redemption requests in some of its funds.",
+      "published": "Thu, 30 Apr 2026 11:01:57 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "KKR Preparing New $10 Billion AI Firm Led by Ex-Amazon Web Chief",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/kkr-preparing-new-10-billion-ai-firm-led-by-ex-amazon-web-chief",
+      "summary": "KKR & Co. has secured more than $10 billion to launch a company that will develop and operate artificial intelligence infrastructure, according to people with knowledge of the matter.",
+      "published": "Thu, 30 Apr 2026 17:27:57 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dollar Wraps Worst Month Since June as Haven Trade Unwinds",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/dollar-wraps-worst-month-since-june-as-haven-trade-unwinds",
+      "summary": "The US dollar is heading for its worst monthly slump since June as the promise of peace talks to end the Iran war led traders to unravel bets on the haven currency.",
+      "published": "Thu, 30 Apr 2026 17:16:50 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Meta Shares Fall as Capex Spending Rises",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/meta-shares-fall-as-investors-weigh-tech-prospects-video",
+      "summary": "Meta Platforms Inc. raised its spending outlook for the year, projecting full-year capital expenditures of $125 billion to $145 billion, driven by its AI strategy and higher component pricing. Mandeep Singh of Bloomberg Intelligence has the latest. (Corrects spelling of analyst’s name in the descrip",
+      "published": "Thu, 30 Apr 2026 00:00:07 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/spacex-investor-137-raises-700-million-ahead-of-musk-led-ipo",
+      "summary": "137 Ventures, a repeat investor in Elon Musk’s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.",
+      "published": "Thu, 30 Apr 2026 11:00:00 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "French Government Keeps Growth Forecast Despite Stagnation",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/french-government-keeps-growth-forecast-despite-stagnation",
+      "summary": "France’s government is not revising its growth forecasts despite a surprise stagnation in the first quarter on weak domestic demand and a fall in exports, Finance Minister Roland Lescure said Thursday.",
+      "published": "Thu, 30 Apr 2026 17:01:48 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Citi Retreats From Physical Metals Markets as Bank Cuts Traders",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/citi-retreats-from-physical-metals-markets-as-bank-cuts-traders",
+      "summary": "Citigroup Inc. is stepping back from physical trading in industrial metals and has made a number of staff from its commodities team redundant, an employment tribunal in London heard.",
+      "published": "Thu, 30 Apr 2026 17:00:48 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "TelevisaUnivision CEO on Global Sports Media",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/televisaunivision-ceo-on-global-sports-media-video",
+      "summary": "Daniel Alegre, CEO, TelevisaUnivision discusses global sports media economics and Spanish-language audience growth with Bloomberg’s Dani Burger at Bloomberg House Miami 2026. (Source: Bloomberg)",
+      "published": "Thu, 30 Apr 2026 16:15:33 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasuries Draw Buyers After Selloff as Oil Surge Stalls",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/us-treasuries-rebound-post-fed-as-oil-eases-from-four-year-highs",
+      "summary": "Treasuries rose as the recent surge in oil prices stalled and bond investors were drawn to 30-year yields that topped 5% for the first time this year.",
+      "published": "Thu, 30 Apr 2026 10:37:31 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "‘Right Tail Risk’ Trade Put to Test by Megacap Earnings Deluge",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/-right-tail-risk-trade-put-to-test-by-megacap-earnings-deluge",
+      "summary": "With the US-Iran standoff keeping energy prices at levels that threaten the economy, investors have plenty of risks to worry about when analyzing possible outcomes that could damage portfolios.",
+      "published": "Thu, 30 Apr 2026 16:37:19 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Mario Carbone on Modern Power Dining",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/mario-carbone-on-modern-power-dining-video",
+      "summary": "Mario Carbone, Chef; Co-Founder, Major Food Group discusses scaling luxury dining concepts into a global business with Bloomberg’s Kate Krader at Bloomberg House Miami 2026. (Source: Bloomberg)",
+      "published": "Thu, 30 Apr 2026 15:51:30 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "F1 Meets Finance in Miami | Open Interest 4/30/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/open-interest-4-30-2026-video",
+      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" It's a special edition of Open Interest from the Miami Design District as Formula 1 takes over the city. Dani Burger and Matt Miller have exclusive conversations from Bloomberg House Miami. Matt Mil",
+      "published": "Thu, 30 Apr 2026 16:36:27 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Novo-Backed Drugmaker Avalyn Soars 44% After $300 Million US IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/novo-backed-drugmaker-avalyn-soars-44-after-300-million-us-ipo",
+      "summary": "Avalyn Pharma Inc. shares jumped 44% in its trading debut, after the biopharmaceutical company raised $300 million in an upsized US initial public offering.",
+      "published": "Thu, 30 Apr 2026 16:36:02 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "ECB Officials See June Hike If Energy Costs Don’t Ease First",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/ecb-officials-see-june-hike-if-energy-prices-don-t-ease-first",
+      "summary": "European Central Bank policymakers are likely to raise interest rates at their next meeting in June unless there are positive developments on energy prices and ending the Iran war, according to people familiar with the situation.",
+      "published": "Thu, 30 Apr 2026 15:14:04 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The David Rubenstein Show: Charlie Scharf",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/the-david-rubenstein-show-charlie-scharf-video",
+      "summary": "Wells Fargo Chairman & CEO Charlie Scharf says the independence of the Federal Reserve is \"critically important\" to the US financial system, even as presidents weigh in on policy. In this wide-ranging interview, Scharf discusses the state of US economy amid tensions with Iran, as well as the risks a",
+      "published": "Thu, 30 Apr 2026 15:23:47 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Haves and Have Nots of AI",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-30/the-haves-and-have-nots-of-ai",
+      "summary": "The world’s already fracturing along technological fault lines.",
+      "published": "Thu, 30 Apr 2026 16:30:19 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Miami Mayor on Growth, World Cup, Wealth Influx",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/miami-mayor-on-growth-world-cup-wealth-influx-video",
+      "summary": "Eileen Higgins, Mayor, City of Miami discusses managing growth, investment inflows and long-term competitiveness with Bloomberg’s Daniel Cancel at Bloomberg House Miami 2026. (Source: Bloomberg)",
+      "published": "Thu, 30 Apr 2026 16:00:57 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Audi F1 CEO Tries to Turn Also-Ran Legacy Team Into a Winner",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/audi-f1-ceo-tries-to-turn-also-ran-legacy-team-into-a-winner",
+      "summary": "Audi’s Formula 1 boss said entering the sport via a legacy team has proved more difficult than starting with a clean slate, as the German carmaker runs up against more established rivals.",
+      "published": "Thu, 30 Apr 2026 16:21:16 GMT",
+      "scraped_at": "2026-04-30T18:00:10.606Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14330,306 +14890,6 @@
       "summary": "Blackstone Inc.’s secondaries business reached $100 billion of assets under management in the first quarter, making it one of the biggest players in the market for selling secondhand stakes.",
       "published": "Thu, 23 Apr 2026 17:33:46 GMT",
       "scraped_at": "2026-04-23T21:07:54.661Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 토스, 조폐공사와 협약",
-      "url": "https://www.hankyung.com/article/2026042326261",
-      "summary": "",
-      "published": "Fri, 24 Apr 2026 00:38:36 +0900",
-      "scraped_at": "2026-04-23T17:03:33.386Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "이재용 \"기업인은 실적으로 말해야죠\"…베트남서 '자신감'",
-      "url": "https://www.hankyung.com/article/2026042330027",
-      "summary": "",
-      "published": "Thu, 23 Apr 2026 21:15:50 +0900",
-      "scraped_at": "2026-04-23T17:03:33.386Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한-베트남 비즈니스 포럼…첨단인력·에너지 등 경협 모색",
-      "url": "https://www.yna.co.kr/view/AKR20260423163700003",
-      "summary": "(서울=연합뉴스) 조성흠 기자 = 한국과 베트남을 대표하는 주요 기업인들이 한자리에 모여 양국 경제협력 확대 방안을 논의했다.",
-      "published": "Thu, 23 Apr 2026 22:36:41 +0900",
-      "scraped_at": "2026-04-23T17:03:36.722Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "산업부-코트라, 베트남서 수출상담회…역대 최대 8천만달러 계약(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260423178451003",
-      "summary": "(서울=연합뉴스) 신창용 김동규 기자 = 이재명 대통령의 베트남 국빈 방문에 맞춰 산업통상부와 대한무역투자진흥공사(코트라)가 23일 베트남 하노...",
-      "published": "Thu, 23 Apr 2026 22:23:25 +0900",
-      "scraped_at": "2026-04-23T17:03:36.722Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "두산에너빌, 베트남 원전 협력 확대…\"원전 사업 참여기반 확보\"",
-      "url": "https://www.yna.co.kr/view/AKR20260423182900003",
-      "summary": "(서울=연합뉴스) 윤민혁 기자 = 두산에너빌리티는 박지원 회장을 비롯한 주요 경영진이 베트남 신규원전 참여를 위한 협력 기반 강화에 나섰다고 2...",
-      "published": "Thu, 23 Apr 2026 21:07:39 +0900",
-      "scraped_at": "2026-04-23T17:03:36.722Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Japan Expert Sees Risk to the Yen",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/japan-expert-sees-risk-to-the-yen-video",
-      "summary": "Former BOJ Board member Sayuri Shirai and BlackRock Japan Managing Director and Portfolio Manager Rie Shigekawa speak with Bloomberg reporter Lisa Du at the Bloomberg New Voices 2026 event in Tokyo. (Source: Bloomberg)",
-      "published": "Thu, 23 Apr 2026 16:51:35 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "ADP Is Said Planning to Reduce Stake in India’s GMR Airports",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/adp-is-said-planning-to-reduce-stake-in-india-s-gmr-airports",
-      "summary": "ADP, operator of the main Paris airports, is planning to reduce its stake in India’s GMR Airports Ltd., people familiar with the matter said.",
-      "published": "Thu, 23 Apr 2026 16:41:34 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Siemens Energy Raises Outlook on Strong AI-Driven Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/siemens-energy-raises-outlook-on-strong-ai-driven-demand",
-      "summary": "Gas-turbine and energy-equipment maker Siemens Energy AG raised its outlook for the fiscal year 2026, citing strong demand.",
-      "published": "Thu, 23 Apr 2026 16:40:59 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Trader Andurand Lost 52% in April First Half on Oil Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/andurand-lost-52-in-april-first-half-as-ceasefire-hurt-oil-bets",
-      "summary": "Energy trader Pierre Andurand’s largest hedge fund plunged about 52% in the first half of April, wiping out first quarter gains made on bullish oil bets at the start of the Iran war.",
-      "published": "Thu, 23 Apr 2026 13:41:23 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Stocks Waver on Mixed Earnings and US-Iran Impasse",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/us-futures-decline-as-us-iran-impasse-continues-oil-price-jumps",
-      "summary": "US stocks swung between narrow gains and losses on Thursday after Israel said it was poised to resume the war with Iran, while the impasse between Washington and Tehran continued.",
-      "published": "Thu, 23 Apr 2026 12:59:22 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pimco Privately Lends $10 Billion to Gulf in Wartime Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/pimco-privately-lends-10-billion-to-gulf-in-wartime-bond-deals",
-      "summary": "As Persian Gulf states build cash buffers to deal with any potential economic fallout from the Iran war, one large buyer has stepped in: Pacific Investment Management Co.",
-      "published": "Thu, 23 Apr 2026 14:30:57 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Sheinbaum Points to Local Officials After CIA Agent Deaths",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/sheinbaum-points-to-local-officials-after-cia-agent-deaths",
-      "summary": "Mexico’s President Claudia Sheinbaum sought to ease tensions with the US after the death of CIA agents following a recent drug lab bust in northern Mexico, blaming an opposition state government for failing to adhere to proper security protocols.",
-      "published": "Thu, 23 Apr 2026 16:05:15 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Rogers’ Spending Cut Plan Prompts Two Analysts to Boost Ratings",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/rogers-spending-cut-plan-prompts-two-analysts-to-boost-ratings",
-      "summary": "Rogers Communications Inc.’s decision to pull back on capital spending and boost free cash flow this year prompted at least two analysts to raise their recommendation on the telecommunications firm after the company released its first-quarter results Wednesday.",
-      "published": "Thu, 23 Apr 2026 15:58:43 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dow CEO Says Petrochemical Supply Disruptions to Persist in 2026",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/dow-ceo-says-petrochemical-supply-disruptions-to-persist-in-2026",
-      "summary": "Dow Inc., one of the world’s largest producers of petrochemicals, expects supply disruptions tied to the war in Iran to persist throughout the remainder of 2026, according to Chief Executive Officer Jim Fitterling.",
-      "published": "Thu, 23 Apr 2026 15:54:08 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Uruguay Finance Chief Says Pensions Will Stay in Private Hands",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/uruguay-finance-chief-says-pensions-will-stay-in-private-hands",
-      "summary": "Uruguay’s pension savings will continue to be managed by the private sector under the government’s planned overhaul of the social security system, Finance Minister Gabriel Oddone said.",
-      "published": "Thu, 23 Apr 2026 15:51:28 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Treasuries Headed for Tightest Monthly Trading Range Since 2020",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/treasuries-headed-for-tightest-monthly-trading-range-since-2020",
-      "summary": "US Treasury benchmark yields have been locked in the narrowest range since the depths of the coronavirus pandemic, as investors fatigued by conflicting geopolitical headlines search for direction.",
-      "published": "Thu, 23 Apr 2026 15:49:41 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "CAAT Pension Earns 8.4% as Stock Gains Outweigh Weak PE Returns",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/caat-pension-earns-8-4-as-stock-gains-outweigh-weak-pe-returns",
-      "summary": "CAAT Pension Plan earned 8.4% last year as buoyant stock performance outweighed soft returns in the fund’s private market portfolio.",
-      "published": "Thu, 23 Apr 2026 15:00:16 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gold Falls as US-Iran Hormuz Standoff Heightens Inflation Risk",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/gold-steadies-as-hormuz-standoff-keeps-inflation-risk-high",
-      "summary": "Gold declined as an escalation in tension over the Strait of Hormuz drove oil prices higher, rekindling concerns over high inflation.",
-      "published": "Wed, 22 Apr 2026 22:40:26 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The WNBA's Expansion into Cleveland is Powered by PE",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/the-wnba-s-expansion-into-cleveland-is-powered-by-pe-video",
-      "summary": "In this episode of The Deal, Kara Nortman breaks down for Alex Rodriguez and Jason Kelly how Monarch, her private equity firm, became the first PE firm approved to invest in the WNBA and why they chose Cleveland as their team (Source: Bloomberg)",
-      "published": "Thu, 23 Apr 2026 14:48:57 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bloomberg Surveillance 4/23/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/bloomberg-surveillance-4-23-2026-video",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-      "published": "Thu, 23 Apr 2026 14:48:43 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Avis Shares Plunge 62% in Two Days in Crashing Halt to Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/avis-shares-sink-57-in-two-days-as-rally-meets-a-crashing-halt",
-      "summary": "A searing surge in the shares of Avis Budget Group Inc. has hit a wall, with the stock plunging over 62% in just two days.",
-      "published": "Thu, 23 Apr 2026 14:01:09 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Czech Utility Giant CEZ Plans Asset Split Before Possible Buyout",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/czech-utility-giant-cez-plans-asset-split-before-possible-buyout",
-      "summary": "Czech power utility CEZ AS outlined a plan to split its assets, a move that could pave the way for the government to obtain full ownership of its electricity production in a long-planned buyout.",
-      "published": "Thu, 23 Apr 2026 14:44:17 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Why EV Demand Is Stronger Than It Looks",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/why-ev-demand-stronger-than-it-looks-video",
-      "summary": "Tesla is tripling AI spending to $25B as its robotics ambitions ramp up, while EV sales send mixed signals. TD Cowen’s Itay Michaeli joined Bloomberg Open Interest to explain why demand may be stronger than it looks, why losing tax credits hurt more than high gas prices helped, and how upcoming EV l",
-      "published": "Thu, 23 Apr 2026 14:38:22 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "New Mountain Raises $2.4 Billion to Hold Azuria Water Longer",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/new-mountain-raises-2-4-billion-to-hold-azuria-water-for-longer",
-      "summary": "New Mountain Capital collected $2.4 billion to extend its hold on infrastructure firm Azuria Water Solutions, underscoring the booming market for secondhand private equity stakes.",
-      "published": "Thu, 23 Apr 2026 13:30:11 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "American Express Sees Strong Card Spending, Higher Costs",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/american-express-sees-strong-card-spending-higher-costs-video",
-      "summary": "American Express Co. plans to boost spending on marketing and technology and said its customers’ spending on air travel has been slowing. Romaine Bostick discusses his interview with American Express CEO Stephen Squeri on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-      "published": "Thu, 23 Apr 2026 14:32:27 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The Deal with Alex Rodriguez and Jason Kelly | Season 4A Trailer",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/the-deal-season-4a-trailer-video",
-      "summary": "The Deal with Alex Rodriguez and Jason Kelly showcases intimate conversations with business titans and sports champions that reveal their investment philosophies, missed opportunities and more. (Source: Bloomberg)",
-      "published": "Thu, 23 Apr 2026 14:11:00 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hasbro Preliminary Sales Beat Estimates, Buoyed by ‘Magic’",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/hasbro-preliminary-revenue-beats-estimates-buoyed-by-magic",
-      "summary": "Hasbro Inc. reported preliminary revenue that beat analysts’ estimates, buoyed by its fantasy card game Magic: The Gathering. The toy company said it couldn’t release full quarterly results at this time due to a previously disclosed cybersecurity attack.",
-      "published": "Thu, 23 Apr 2026 12:05:11 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Teck Warns of Higher Fuel Costs From Mideast Energy Shock",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/teck-warns-of-higher-fuel-costs-caused-by-mideast-energy-shock",
-      "summary": "Canada’s Teck Resources Ltd. warned of higher fuel costs for its key Chilean copper mines as the war in the Middle East chokes supply chains, even as higher commodity prices buoyed the company’s earnings in the first quarter.",
-      "published": "Thu, 23 Apr 2026 08:47:10 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Junk-Bond Binge Brings Rare Early Repayments to Sweeten Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/ai-junk-bond-binge-brings-rare-early-repayments-to-sweeten-deals",
-      "summary": "As a more than $20 billion borrowing frenzy to build out data centers descended on the junk-bond market this year, some issuers offered up a rare sweetener: an early cash payback.",
-      "published": "Thu, 23 Apr 2026 14:00:01 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "American Airlines Lowers Outlook on Rising Fuel Costs",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/american-airlines-lowers-outlook-on-rising-fuel-costs-video",
-      "summary": "American Airlines announced it expects $4 billion in additional expenses due to rising jet fuel prices but plans to raise fares to offset these costs, maintaining some of the price increases even if fuel prices return to prewar levels. Siddharth Philip has more on \"Bloomberg Open Interest.\" (Source:",
-      "published": "Thu, 23 Apr 2026 13:58:43 GMT",
-      "scraped_at": "2026-04-23T17:03:36.911Z"
     }
   ]
 }
