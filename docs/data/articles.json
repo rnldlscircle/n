@@ -1,6 +1,326 @@
 {
-  "updated_at": "2026-05-05T17:07:19.154Z",
+  "updated_at": "2026-05-05T21:39:56.785Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "쿠팡Inc 1분기 '어닝쇼크'…4년 3개월 만에 최대 적자 [상보]",
+      "url": "https://www.hankyung.com/article/202605067259g",
+      "summary": "",
+      "published": "Wed, 06 May 2026 05:40:14 +0900",
+      "scraped_at": "2026-05-05T21:39:47.944Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[속보] 쿠팡Inc, 1분기 매출 12조 넘겼지만…영업손실 3545억원",
+      "url": "https://www.hankyung.com/article/202605067252g",
+      "summary": "",
+      "published": "Wed, 06 May 2026 05:19:49 +0900",
+      "scraped_at": "2026-05-05T21:39:47.944Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "러시아 내무장관 방북…미중정상회담 앞두고 북·중·러 고위급 외교 확대",
+      "url": "https://www.mk.co.kr/news/politics/12022897",
+      "summary": "중국 외교부장, 이달 초 방북 러시아 외무장관은 중국 방문 러 외무, 곧 평양 방문 가능성중국과 러시아의 고위급 인사들이 연쇄적으로 북한을 방문하고 있다. 5월 14~15일 미중 ..",
+      "published": "Tue, 21 Apr 2026 15:03:33 +09:00",
+      "scraped_at": "2026-05-05T21:39:49.261Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[팩트체크] 1년반으로 늘어난 육아휴직, 누구나 다 쓸 수 있을까",
+      "url": "https://www.yna.co.kr/view/AKR20260430169800518",
+      "summary": "(서울=연합뉴스) 김은경 기자 = 육아휴직 등 일·가정 양립 지원제도의 수급자 수가 지난해 역대 최다인 34만명 대를 기록하는 등 나날이 증가하...",
+      "published": "Wed, 6 May 2026 06:30:01 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼성바이오 조업 재개…노사 '준법투쟁' 시각차",
+      "url": "https://www.yna.co.kr/view/AKR20260505034100017",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 삼성바이오로직스[207940] 노동조합이 6일 조업을 재개했지만 당분간 준법 투쟁을 이어가기로 했다.",
+      "published": "Wed, 6 May 2026 06:05:00 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "50대 그룹 보유 '비업무용 부동산' 100조원 넘어…삼성·롯데 순",
+      "url": "https://www.yna.co.kr/view/AKR20260505034300003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 국내 50대 그룹이 보유한 비업무용 부동산 규모가 100조원대를 넘어선 것으로 나타났다.",
+      "published": "Wed, 6 May 2026 06:00:06 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"전기차·배터리 따로 살 수 있도록\"…한경협, 규제개선 건의",
+      "url": "https://www.yna.co.kr/view/AKR20260505033300003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국경제인협회(한경협)는 회원사 의견을 수렴해 마련한 '2026 규제개선 종합과제' 100건을 국무조정실에 전...",
+      "published": "Wed, 6 May 2026 06:00:05 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "롯데백화점, 잠실 롯데월드몰에 PS 전문 매장…'미코노미' 겨냥",
+      "url": "https://www.yna.co.kr/view/AKR20260505045400030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 롯데백화점은 지난 4일 송파구 잠실 롯데월드몰 지하 1층에 소니의 콘솔 게임기 플레이스테이션 전문 매장을 열었...",
+      "published": "Wed, 6 May 2026 06:00:03 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"강아지도 냉면·빙수 즐긴다\"…이마트, 반려견 여름 간식 출시",
+      "url": "https://www.yna.co.kr/view/AKR20260505047500030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 이마트의 반려동물 전문 브랜드 몰리스는 여름철을 앞두고 반려견 전용 냉면과 빙수를 출시한다고 6일 밝혔다.",
+      "published": "Wed, 6 May 2026 06:00:03 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "쿠팡Inc, 1분기 영업손실 3천545억원으로 '적자전환'(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260506008752030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 미국 뉴욕증시 상장사인 쿠팡Inc가 1분기 3천500억원 규모의 영업손실을 내며 적자로 전환했다.",
+      "published": "Wed, 6 May 2026 05:57:17 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "공정위, 설탕 담합 과징금 990억원 깎아줬다…\"조사·심의 협조\"",
+      "url": "https://www.yna.co.kr/view/AKR20260505053100002",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 공정거래위원회가 약 3조2천억원 규모의 설탕 담합 사건을 제재하면서 과징금을 1천억원 가까이 깎아준 사실이 드...",
+      "published": "Wed, 6 May 2026 05:51:00 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[2보] 쿠팡Inc, 1분기 영업손실 3천545억원 '적자전환'…매출 12.4조원",
+      "url": "https://www.yna.co.kr/view/AKR20260506008751030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 미국 뉴욕증시 상장사인 쿠팡Inc는 올해 1분기 매출이 12조4천억원(85억400만달러)으로 전년 동기 대비 ...",
+      "published": "Wed, 6 May 2026 05:21:56 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[1보] 쿠팡Inc, 1분기 매출 12조4천억원…3천500억원 영업손실",
+      "url": "https://www.yna.co.kr/view/AKR20260506008700030",
+      "summary": "(",
+      "published": "Wed, 6 May 2026 05:12:31 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미·이란 휴전 유지에 안도…국제유가 4% 급락",
+      "url": "https://www.yna.co.kr/view/AKR20260506008100072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 5일(현지시간) 미국이 이란과의 교전 속에서도 휴전은 유효하다고 확인함에 따라 국제유가가 변동성 심한 장세 ...",
+      "published": "Wed, 6 May 2026 04:54:20 +0900",
+      "scraped_at": "2026-05-05T21:39:55.399Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Compass Shares Surge After 2Q Revenue Forecast Beats Estimates",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/compass-shares-surge-after-2q-revenue-forecast-beats-estimates",
+      "summary": "Compass Inc. shares soared as much as 21% in after-hours trading on Tuesday after the real estate brokerage company forecast stronger-than-expected quarterly revenue.",
+      "published": "Tue, 05 May 2026 21:18:31 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Prudential Profit Rises Even as Firm Grapples With Japan Pause",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/prudential-profit-rises-even-as-firm-grapples-with-japan-pause",
+      "summary": "Prudential Financial Inc.’s first-quarter profit beat Wall Street’s expectations, relieving pressure on Chief Executive Officer Andy Sullivan as he contends with a sales pause in one of its biggest markets.",
+      "published": "Tue, 05 May 2026 21:09:01 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Sixth Street BDC Cuts Its Dividend After Posting Quarterly Loss",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/sixth-street-bdc-cuts-its-dividend-after-posting-quarterly-loss",
+      "summary": "A private credit fund managed by Sixth Street Partners lowered its dividend and reported a quarterly loss, citing credit spread widening and declining valuations.",
+      "published": "Tue, 05 May 2026 20:58:36 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "End Quarterly Earnings Reports? Here’s the Debate",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/end-quarterly-earnings-reports-here-s-the-debate",
+      "summary": "For more than 50 years, public companies in the US have been required to report earnings on a quarterly basis. That would change if a proposal by regulators allowing twice-yearly financial disclosures is adopted.",
+      "published": "Tue, 05 May 2026 20:50:08 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latam Airlines Changes Guidance on Fuel Cost Despite Profit Jump",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/latam-airlines-changes-guidance-on-fuel-cost-despite-profit-jump",
+      "summary": "LATAM Airlines Group SA posted quarterly earnings that exceeded expectations, but updated their full-year guidance to reflect higher jet fuel prices as Latin America’s largest carrier by market value starts to see the impact of rising costs.",
+      "published": "Tue, 05 May 2026 20:47:55 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russian Fuel Tanker Stalls Off Cuban Coast Amid US Blockade",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/russian-fuel-tanker-stalls-off-cuban-coast-amid-us-blockade",
+      "summary": "An oil tanker transporting Russian fuel to Cuba appears to have stalled roughly 1,000 miles (1,600 kilometers) off the coast, dealing a fresh blow as the island faces its worst fuel crisis in decades.",
+      "published": "Tue, 05 May 2026 20:40:09 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Boom Fuels Sterling Infrastructure’s Jump to a Record",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ai-boom-sends-sterling-infrastructure-stock-soaring-peers-gain",
+      "summary": "Shares of Sterling Infrastructure Inc. hit an all-time high Tuesday following an earnings blowout that was fueled by the race to buildout artificial intelligence infrastructure. Other construction and engineering firms also soared.",
+      "published": "Tue, 05 May 2026 19:29:17 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/fresh-ai-disruption-selloff-hits-thomson-reuters-despite-strong-results",
+      "summary": "Thomson Reuters Corp. shares fell despite positive first-quarter results after Anthropic PBC unveiled new artificial intelligence agents designed to handle a broader mix of financial services tasks.",
+      "published": "Tue, 05 May 2026 18:24:27 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Traders Ramp Up Bets Warsh’s Fed Could Hike Rates Before Cutting",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/traders-ramp-up-bets-warsh-s-fed-could-hike-rates-before-cutting",
+      "summary": "Bond traders are boosting wagers that the Federal Reserve’s next policy move could be an interest rate hike rather than a cut.",
+      "published": "Tue, 05 May 2026 20:32:42 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Charlotte Airport Gets Approval For $215 Million in Financing",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/charlotte-airport-gets-approval-for-215-million-in-financing",
+      "summary": "Charlotte received the green light on Tuesday to issue $215 million in revenue bonds that will finance a new runway at Charlotte Douglas International Airport.",
+      "published": "Tue, 05 May 2026 20:30:16 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Barings CEO: We’ve Got to Underwrite Through Uncertainty",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-05/barings-ceo-we-ve-got-to-underwrite-through-uncertainty-video",
+      "summary": "Barings Chairman & CEO Mike Freno discusses navigating through market uncertainty, building a business with both public and private capabilities, and implementing a ‘holistic’ M&A strategy. He talks with Katie Greifeld and Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, C",
+      "published": "Tue, 05 May 2026 19:52:21 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The US is Trying To Force Iran's Hand",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-05/opinion-the-us-is-trying-to-force-iran-s-hand-video",
+      "summary": "Can Trump’s Project Freedom work in the Strait of Hormuz? Bloomberg Opinion columnist explains using the high-risk, high-reward plan. (Source: Bloomberg)",
+      "published": "Tue, 05 May 2026 19:48:46 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Embrace AI or Get Left Behind: Job Cuts Sweep Through Crypto Firms",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/embrace-ai-or-get-left-behind-job-cuts-sweep-through-crypto-firms",
+      "summary": "A spate of AI-tinged job cuts at crypto and payments companies has brought up a curious question for analysts and investors: how does one assess whether the artificial intelligence part is real?",
+      "published": "Tue, 05 May 2026 19:41:08 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Saudi Arabia Sees Widest Deficit Since 2018 on More Spending",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/saudi-arabia-posts-biggest-deficit-since-2018-on-hormuz-closure",
+      "summary": "Saudi Arabia’s fiscal deficit widened in the first quarter to the highest level since 2018 as spending on projects to diversify the economy continued to rise.",
+      "published": "Tue, 05 May 2026 13:45:39 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Mexico’s MIP Seeking to Invest $12 Billion for Infrastructure",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/mexico-s-mip-seeking-to-invest-12-billion-for-infrastructure",
+      "summary": "Mexican infrastructure investment manager MIP Real Assets is seeking to invest more than $12 billion for projects involving renewable energy and highways in Mexico, one of the most ambitious private-sector programs yet as President Claudia Sheinbaum pushes for more development.",
+      "published": "Tue, 05 May 2026 19:27:26 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Saudi Arabia Cuts Oil Prices for June From Record-High Premium",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/saudi-arabia-cuts-oil-prices-for-june-from-record-high-premium",
+      "summary": "Saudi Arabia cut the price of its main oil grade for Asia next month from a record-high in May, though it remained near historic levels as the war in the Middle East continues to severely disrupt supplies.",
+      "published": "Tue, 05 May 2026 19:20:11 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "TCW's Katie Koch Sees No Reason to Panic Over Private Credit",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-05/tcw-s-koch-sees-no-reason-to-panic-over-private-credit-video",
+      "summary": "TCW President and CEO Katie Koch says she sees \"tremendous opportunity\" in the private credit market. Speaking at the Milken Institute Global Conference in Beverly Hills, California, Koch discusses the landscape for the asset management industry. (Source: Bloomberg)",
+      "published": "Tue, 05 May 2026 19:13:51 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "LIV Golf Taps Advisers to Find New Investors After PIF’s Exit",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/liv-golf-taps-advisers-to-find-new-investors-after-pif-s-exit",
+      "summary": "LIV Golf has tapped law firm Gibson Dunn & Crutcher to advise it in an effort to turn around a money-losing business and find investors to fill the gap left by Saudi Arabia’s Public Investment Fund, according to people familiar with the matter.",
+      "published": "Tue, 05 May 2026 19:07:33 GMT",
+      "scraped_at": "2026-05-05T21:39:55.784Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -13340,406 +13660,6 @@
       "summary": "The Federal Communications Commission will review licenses of stations owned by Walt Disney's ABC network. Regulators say they're looking for potential \"unlawful discrimination.\" This comes after President Donald Trump told ABC to fire late night host Jimmy Kimmel.  (Source: Bloomberg)",
       "published": "Tue, 28 Apr 2026 19:11:02 GMT",
       "scraped_at": "2026-04-28T23:12:36.481Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"금융규제당국,강력한 AI 위험 대응해 에이전트형AI기능 도입해야\"",
-      "url": "https://www.hankyung.com/article/202604293782i",
-      "summary": "",
-      "published": "Wed, 29 Apr 2026 00:37:05 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 수출입은행, 핵심광물 공급망 라운드테이블",
-      "url": "https://www.hankyung.com/article/2026042832191",
-      "summary": "",
-      "published": "Wed, 29 Apr 2026 00:08:54 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "美, 고용시장 안정에 '4월 소비자신뢰지수' 예상밖 상승",
-      "url": "https://www.hankyung.com/article/202604283765i",
-      "summary": "",
-      "published": "Tue, 28 Apr 2026 23:39:43 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"오픈AI 부진\" 소식에 기술주 흔들…뉴욕증시 혼조세",
-      "url": "https://www.hankyung.com/article/202604283734i",
-      "summary": "",
-      "published": "Tue, 28 Apr 2026 23:13:58 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "트럼프 주니어 방한…정용진 회장 부인 콘서트 간다",
-      "url": "https://www.hankyung.com/article/2026042837171",
-      "summary": "",
-      "published": "Tue, 28 Apr 2026 23:11:36 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "AI의 미래에 영향 줄 '머스크 VS 오픈AI' 소송 시작됐다",
-      "url": "https://www.hankyung.com/article/202604283646i",
-      "summary": "",
-      "published": "Tue, 28 Apr 2026 22:29:21 +0900",
-      "scraped_at": "2026-04-28T19:11:35.326Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[뉴욕유가] 진전없는 美·이란 협상…WTI 100달러 육박 마감",
-      "url": "https://www.yna.co.kr/view/AKR20260429005300009",
-      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 미국과 이란의 종전 협상에 진전이 보이지 않자 국제 유가는 2거래일 연속 상승했다.",
-      "published": "Wed, 29 Apr 2026 03:44:08 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "달러-원, UAE OPEC 탈퇴에 유가 따라 뒷걸음질…1,473.20원 마감",
-      "url": "https://www.yna.co.kr/view/AKR20260429004100002",
-      "summary": "(서울=연합뉴스) 김성진 연합인포맥스 기자 = 달러-원 환율은 야간 거래에서 하락 반전했다.",
-      "published": "Wed, 29 Apr 2026 03:01:21 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "미·이란 협상교착에 미국내 휘발유 가격 3년8개월만에 최고",
-      "url": "https://www.yna.co.kr/view/AKR20260429000300072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 논의가 교착 상태에 빠지면서 28일(현지시간) 미국 주유소의 휘발유 가격이 4년 만에 ...",
-      "published": "Wed, 29 Apr 2026 00:17:04 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "UAE OPEC 탈퇴 한국에도 영향 미치나…\"단기 영향은 제한적\"",
-      "url": "https://www.yna.co.kr/view/AKR20260428190200003",
-      "summary": "(서울=연합뉴스) 조성흠 기자 = 아랍에미리트(UAE)가 석유수출국기구(OPEC)와 OPEC+(OPEC과 러시아 등 주요 산유국 10개국 연대체...",
-      "published": "Tue, 28 Apr 2026 23:16:18 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "UAE, OPEC·OPEC+ 전격 탈퇴…'사우디 오일 카르텔' 타격(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260428187051009",
-      "summary": "(서울=연합뉴스) 강훈상 기자 = 중동의 주요 산유국 중 하나인 아랍에미리트(UAE)가 다음달 1일부로 석유수출국기구(OPEC)와 OPEC+(O...",
-      "published": "Tue, 28 Apr 2026 23:08:41 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "이란 전쟁중 갈라진 '석유 카르텔'…UAE, 독자 증산 나설듯",
-      "url": "https://www.yna.co.kr/view/AKR20260428189000079",
-      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 미국·이스라엘과 이란의 전쟁 와중에 60년 넘게 세계 에너지 질서를 좌우해온 석유 카르텔 OPEC(석유수출...",
-      "published": "Tue, 28 Apr 2026 22:58:37 +0900",
-      "scraped_at": "2026-04-28T19:11:37.341Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Columbia Eyes $485 Million Sale of Taxable, Tax-Exempt Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/columbia-university-considers-485-million-bond-sale-for-may",
-      "summary": "Columbia University is planning to tap the bond market next month for capital projects and to refinance debt.",
-      "published": "Tue, 28 Apr 2026 14:19:41 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hollywood Gear Supplier Quixote to Exit Atlanta Operations",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/hollywood-gear-supplier-quixote-to-exit-atlanta-operations",
-      "summary": "Quixote, a supplier of gear to movie and TV productions, is shutting down its Atlanta-area operations and exiting many of its soundstages in Los Angeles in the latest sign of the slump in US entertainment filming.",
-      "published": "Tue, 28 Apr 2026 18:56:59 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Appalachian Lithium Cache Enough to Power 130 Million EVs, USGS Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/appalachians-hold-enough-lithium-to-curb-us-imports-usgs-says",
-      "summary": "The Appalachian region of the eastern US holds enough lithium to curb America’s reliance on imports for centuries, according to new research by the US Geological Survey, underscoring domestic resource potential as demand for critical minerals accelerates.",
-      "published": "Tue, 28 Apr 2026 18:56:01 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "TD Securities’ Nixon Leaves for National Bank Fixed Income Sales",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/td-securities-nixon-leaves-for-national-bank-fixed-income-sales",
-      "summary": "Katy Nixon, a director in debt capital markets syndication at TD Securities, is leaving the bank for a fixed income sales role at National Bank of Canada, according to a spokesperson at National Bank.",
-      "published": "Tue, 28 Apr 2026 18:38:41 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Canada Launches Sovereign Wealth Fund for Major Projects",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-28/canada-launches-sovereign-wealth-fund-for-major-projects-video",
-      "summary": "Canada will create its first sovereign wealth fund to provide financing for large infrastructure projects and domestic companies, Prime Minister Mark Carney said, pledging to offer Canadian investors the opportunity to buy in.\nThe new vehicle, dubbed the Canada Strong Fund, will be seeded with C$25 ",
-      "published": "Tue, 28 Apr 2026 18:37:36 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oaktree Capital Accuses BJ’s of Reneging on Tariff Refund Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/oaktree-capital-accuses-bj-s-of-reneging-on-tariff-refund-trade",
-      "summary": "Oaktree Capital Management LP sued BJ’s Wholesale Club Inc. for allegedly backing out of a deal to sell its rights to around $29 million in tariff refunds for 70 cents on the dollar.",
-      "published": "Tue, 28 Apr 2026 18:31:56 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Jane Street Set to Double Footprint in London Office Move",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/jane-street-set-to-double-footprint-in-london-office-move",
-      "summary": "Jane Street Group has placed an offer to lease a new London office, a deal that will see the rapidly growing trading firm almost double its footprint in the UK capital.",
-      "published": "Tue, 28 Apr 2026 18:31:31 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Petroperu Needs to Borrow $2 Billion-Plus to Avert Fuel Shortage",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/petroperu-needs-to-borrow-2-billion-plus-to-avert-fuel-shortage",
-      "summary": "Petroperu needs more than $2 billion of private funding to avoid fuel shortages as Peru’s struggling state-owned oil refiner navigates high global fuel prices due to war in the Middle East.",
-      "published": "Tue, 28 Apr 2026 18:20:40 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "JPMorgan Taps Former Goldman Exec to Lead Blockchain Unit",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-taps-former-goldman-executive-to-lead-blockchain-unit",
-      "summary": "JPMorgan Chase & Co. has named former Goldman Sachs Group Inc. executive Oliver Harris to lead its blockchain division Kinexys, as the bank looks to grow the adoption of products and services built using crypto’s underlying technology.",
-      "published": "Tue, 28 Apr 2026 16:00:04 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Red-State AGs Call Out Credit-Rating Companies Over ESG",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/red-state-ags-call-out-credit-rating-companies-over-esg-policy",
-      "summary": "A group of state attorneys general wrote to the US Securities and Exchange Commission and major credit-rating firms, raising concerns about the use of environmental, social and governance factors in downgrade decisions.",
-      "published": "Tue, 28 Apr 2026 17:13:29 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "HSBC Upgrades US Stocks as Focus Shifts to Earnings From War",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/hsbc-upgrades-us-stocks-as-focus-shifts-to-earnings-from-war",
-      "summary": "Signs that geopolitical risks are easing has shifted the narrative back to fundamentals, prompting HSBC Holdings Plc to lift its view on US equities.",
-      "published": "Tue, 28 Apr 2026 18:07:40 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dynatrace to Discuss Ideas With Starboard After Firm Takes Stake",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/dynatrace-to-discuss-ideas-with-starboard-after-firm-takes-stake",
-      "summary": "Dynatrace Inc. said it has met with Starboard Value LP and will discuss ideas with the investment firm, which recently took a stake in the tech company and began pushing for changes.",
-      "published": "Tue, 28 Apr 2026 18:07:15 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "California Jet Fuel Woes Deepen as Asia Flows Hit Decade Low",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/california-jet-fuel-woes-deepen-as-asia-flows-hit-decade-low",
-      "summary": "Jet fuel exports from Asia to California are at the lowest point in at least a decade, adding another pressure point to a burgeoning air travel crunch on the West Coast stemming from the war on Iran.",
-      "published": "Tue, 28 Apr 2026 18:03:13 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Budget Fears Weigh on Defense Stocks Ahead of Hegseth Testimony",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/budget-fears-weigh-on-defense-stocks-ahead-of-hegseth-testimony",
-      "summary": "Two months after the Iran war began, euphoria around US defense stocks has faded as investors worry a rally that pushed shares to all-time highs went too far, too fast, and that a massive boost to the defense budget is unlikely.",
-      "published": "Tue, 28 Apr 2026 17:57:51 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Franklin Shares Rise as $12.4 Billion Flows Into Alternatives",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/franklin-shares-rise-as-12-4-billion-flows-into-alternatives",
-      "summary": "Franklin Resources Inc. took in about $12.4 billion for alternative investments in the first three months of the year, as clients withdrew cash from its stock and bond funds.",
-      "published": "Tue, 28 Apr 2026 17:54:13 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Spelman's Roz Brewer: Need to Run Colleges Like a Business",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-27/spelman-s-roz-brewer-need-to-run-colleges-like-business-video",
-      "summary": "Former Sam's Club CEO and Spelman College Interim President Roz Brewer discusses launching a $500 million 'Spelman Forward' campaign aimed at helping students prepare for their future after graduation, and her focus on creating the best education for black women in the country. She talks with Romain",
-      "published": "Mon, 27 Apr 2026 21:59:56 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Algos Are ‘Dominating’ Buy-Side Currency Trading, Report Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/algos-are-dominating-buy-side-currency-trading-report-says",
-      "summary": "Currency traders’ increasing reliance on algorithms is sparking a debate about the merits of traditional banks versus independent firms in the $9.5 trillion-a-day foreign-exchange market, a new report says.",
-      "published": "Tue, 28 Apr 2026 17:50:42 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Traders Protect Against Selloff Even as Oil Climbs Above $110",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/traders-protect-against-selloff-even-as-oil-climbs-above-110",
-      "summary": "Even as Wall Street calls for oil to hold above $100, stockpiles shrivel and the Strait of Hormuz remains all but shut, some traders are buying options to protect against an abrupt deescalation between the US and Iran.",
-      "published": "Tue, 28 Apr 2026 17:48:19 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Goldman’s Flood Says Brace for Near-Term Selloff, Buy Stocks Dip",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/goldman-s-gs-flood-says-brace-for-near-term-selloff-buy-stocks-spy-dip",
-      "summary": "US stock investors should brace for a near-term pullback as positioning becomes increasingly stretched and key institutional buyers flip to sellers, according to Goldman Sachs Group Inc.’s John Flood.",
-      "published": "Tue, 28 Apr 2026 17:39:17 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Blackstone’s QTS Asks Banks for $2 Billion to Guarantee AI Power",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/blackstone-s-qts-asks-banks-for-2-billion-to-guarantee-ai-power",
-      "summary": "Blackstone Inc.-backed data center operator QTS is in talks with banks for about $2 billion to help procure electricity, intensifying the race for ever-more creative forms of financing in the industry.",
-      "published": "Tue, 28 Apr 2026 17:32:32 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "DIGI: Finding the Cracks in the US Consumer | Meredith Whitney",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-28/finding-the-cracks-in-the-us-consumer-meredith-whitney-video",
-      "summary": "Meredith Whitney, the CEO of Meredith Whitney Advisory Group, breaks down the illusion of a strong US consumer, revealing a widening gap between wealthy spenders and struggling households. She explains how government stimulus is temporarily masking deeper cracks, and why the economy could face a sha",
-      "published": "Tue, 28 Apr 2026 17:29:49 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Cancer Drug Developer Erasca Sinks by Record 55% After Patient Death",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/cancer-drug-developer-erasca-sinks-by-record-55-after-patient-death",
-      "summary": "Erasca Inc. shares plunged as much as 55% Tuesday after the cancer-drug developer said one patient withdrew from its clinical trial and later died after suffering severe side effects related to the treatment.",
-      "published": "Tue, 28 Apr 2026 17:23:43 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Treasuries Fall as Oil Rally Boosts Inflation Expectations",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/us-treasuries-trade-rangebound-as-fed-officials-prepare-to-meet",
-      "summary": "Treasuries fell, lifting yields to the highest levels in several weeks, as rebounding oil prices drove up inflation expectations and curbed expectations for Federal Reserve interest-rate cuts.",
-      "published": "Tue, 28 Apr 2026 10:47:58 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "OPEC Faces Rift After UAE Exit | Open Interest 4/28/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-28/open-interest-4-28-2026-video",
-      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Stocks tied to OpenAI slide after a report of missed growth targets, while oil holds above $110 even as the UAE exits OPEC on May 1. Earnings roll in against a cautious consumer backdrop as confiden",
-      "published": "Tue, 28 Apr 2026 17:18:36 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Lula to Unveil $20 Billion Debt Relief Plan Ahead of Election",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/lula-to-unveil-20-billion-debt-relief-plan-ahead-of-election",
-      "summary": "President Luiz Inacio Lula da Silva plans to roll out a program to renegotiate more than 100 billion reais ($20 billion) in household debt, adding to a string of measures to support consumption as he seeks to bolster his popularity ahead of Brazil’s October election.",
-      "published": "Tue, 28 Apr 2026 17:16:59 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Markets Downplay War’s Impact on Petrochemicals, Pipeline CEO Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/markets-downplay-war-s-impact-on-petrochemicals-pipeline-ceo-says",
-      "summary": "Investors are misjudging how much Strait of Hormuz closures could impact global flows of petrochemicals, said Enterprise Products Partners LP Chief Executive Officer Jim Teague, adding to a chorus of industry voices warning about lingering disruptions from the Iran war.",
-      "published": "Tue, 28 Apr 2026 17:16:25 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wheat Highest Since 2024 as Drought, Fertilizer Costs Hit Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/wheat-highest-since-2024-as-drought-fertilizer-costs-hit-supply",
-      "summary": "Wheat surged to the highest in nearly two years as drought in the US was pressuring yields at a time soaring fertilizer costs prompted farmers to pare back planting of nutrient-intensive crops such as grains.",
-      "published": "Tue, 28 Apr 2026 17:15:59 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump Reflects on 'Cherished Bond' With King Charles III",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-28/trump-reflects-on-cherished-bond-with-king-charles-video",
-      "summary": "President Donald Trump praised the \"cherished\" bond between the US and UK as he hosted King Charles III at the White House on Tuesday.  (Source: Bloomberg)",
-      "published": "Tue, 28 Apr 2026 17:14:52 GMT",
-      "scraped_at": "2026-04-28T19:11:37.631Z"
     }
   ]
 }
