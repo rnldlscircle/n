@@ -1,6 +1,556 @@
 {
-  "updated_at": "2026-05-12T09:49:12.573Z",
+  "updated_at": "2026-05-12T17:35:08.020Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "유가상승과 CPI보고서에 뉴욕증시 하락",
+      "url": "https://www.hankyung.com/article/202605122119i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 23:59:59 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "예상대로 높았던 4월 CPI…\"연준 올해 금리인하 난망\"",
+      "url": "https://www.hankyung.com/article/202605122103i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 23:03:09 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[속보] 美, 4월 CPI 연율 3.8% 급등…3년만에 최고",
+      "url": "https://www.hankyung.com/article/202605122057i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 21:39:15 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "이베이, 83조원 게임스톱 인수 제안 거부…\"신뢰 못 해\"",
+      "url": "https://www.hankyung.com/article/202605122013i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:38:47 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "李대통령 지적 상록수 '청산절차'…새도약기금 外 채권까지 매각",
+      "url": "https://www.hankyung.com/article/2026051219947",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:13:32 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "메타·테슬라·블랙록 등 '민원 해소'…방중사절단 참여",
+      "url": "https://www.hankyung.com/article/202605121993i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:07:14 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"공항 면세점까지 깔았다\"…JTI 전자담배 승부수",
+      "url": "https://www.hankyung.com/article/202605129954i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:00:05 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"주식 대신 현금 가능\"…유류분 제도 바뀌어도 풀리지 않은 문제",
+      "url": "https://www.hankyung.com/article/202605118198i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:00:03 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"손님들은 영업하는 줄도 몰라요\"…홈플러스에 무슨 일이 [현장+]",
+      "url": "https://www.hankyung.com/article/202605121330g",
+      "summary": "",
+      "published": "Tue, 12 May 2026 20:00:01 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신한은행, '51조원' 서울시 1·2금고 맡는다",
+      "url": "https://www.hankyung.com/article/2026051219551",
+      "summary": "",
+      "published": "Tue, 12 May 2026 19:37:37 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "구윤철 부총리, 13일 美 베선트 만난다",
+      "url": "https://www.hankyung.com/article/202605121950i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 19:35:58 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"멸균우유처럼 싸면 모를까\"…국산 우유, 비싼 이유 있었다",
+      "url": "https://www.hankyung.com/article/202605121158g",
+      "summary": "",
+      "published": "Tue, 12 May 2026 19:05:46 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "K뷰티 질주에 ODM사도 '훨훨'…코스맥스·한국콜마 최대 실적",
+      "url": "https://www.hankyung.com/article/202605121857i",
+      "summary": "",
+      "published": "Tue, 12 May 2026 19:00:04 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "김남호 \"F1 엔지니어 경험 살려…포트홀 수리 로봇 만들었죠\"",
+      "url": "https://www.hankyung.com/article/2026051217861",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:41:28 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신현송 한은 총재, BIS 이사로 선임",
+      "url": "https://www.hankyung.com/article/2026051217951",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:38:15 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "장재훈 현대차그룹 부회장, 금탑산업훈장 수훈",
+      "url": "https://www.hankyung.com/article/2026051217941",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:36:54 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "LG전자, 나이지리아에 무료 세탁방 지원",
+      "url": "https://www.hankyung.com/article/2026051217881",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:36:22 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "한화비전, 장애 영유아 안전 시스템 구축",
+      "url": "https://www.hankyung.com/article/2026051217891",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:35:36 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신용보증기금, 1인 1나눔계좌 캠페인",
+      "url": "https://www.hankyung.com/article/2026051217901",
+      "summary": "",
+      "published": "Tue, 12 May 2026 18:35:14 +0900",
+      "scraped_at": "2026-05-12T17:35:03.089Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "이 대통령 “정동영 구성 핵시설 언급, 이미 널리 알려진 팩트” 두둔",
+      "url": "https://www.mk.co.kr/news/politics/12022256",
+      "summary": "한미 정보공유 제한 논란 확산 가운데 “기밀 누설 주장은 잘못” 鄭 힘실어줘 鄭 “이제와 문제제기하는 저의가 의심”이재명 대통령은 20일 정동영 통일부 장관의 ‘북한 구성 우라늄 ..",
+      "published": "Mon, 20 Apr 2026 21:38:58 +09:00",
+      "scraped_at": "2026-05-12T17:35:04.381Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "워시, 美연준 이사 인준안 통과…13일 의장 인준안 표결 전망",
+      "url": "https://www.yna.co.kr/view/AKR20260513001500071",
+      "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 케빈 워시 미국 연방준비제도(Fed·연준) 의장 지명자에 대한 연준 이사직 인준안이 12일(현지시간) 미국...",
+      "published": "Wed, 13 May 2026 02:06:15 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'유가상승'에 국고채 금리 급등…3년·10년물 30개월만 최고(종합2보)",
+      "url": "https://www.yna.co.kr/view/AKR20260512153352008",
+      "summary": "(서울=연합뉴스) 김태종 기자 = 12일 국고채 금리가 유가 상승 등의 영향으로 일제히 큰 폭으로 상승 마감했다.",
+      "published": "Tue, 12 May 2026 20:06:53 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "李대통령 지적 상록수 청산절차…새도약기금 外 채권까지 매각",
+      "url": "https://www.yna.co.kr/view/AKR20260512179500002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 이재명 대통령이 12일 국무회의에서 과도한 장기추심 문제를 지적한 민간 배드뱅크 '상록수'가 청산 절차를 밟기...",
+      "published": "Tue, 12 May 2026 19:57:38 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "재판소원 2건 사전심사 추가 통과…\"법원이 위헌적 법해석\" 청구(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260512167951004",
+      "summary": "(서울=연합뉴스) 이미령 기자 = 헌법재판소가 12일 법원의 확정재판을 취소할지 판단할 재판소원 사건 두 건을 추가로 전원재판부에 회부했다.",
+      "published": "Tue, 12 May 2026 19:25:11 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "무보, 관세·중동전쟁 직격탄 해외법인에 1조원 자금 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260512175100003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 미국의 관세 장벽과 중동 전쟁으로 경영 불확실성이 커진 우리 기업의 해외 현지법인을 위해 경영자금 지원...",
+      "published": "Tue, 12 May 2026 19:07:30 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "알엔티엑스, 200억원 제3자배정 유상증자",
+      "url": "https://www.yna.co.kr/view/AKR20260512169200008",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 알엔티엑스[123010]는 운영자금 등 약 200억원을 조달하고자 제3자배정 유상증자를 결정했다고 12일 공시했...",
+      "published": "Tue, 12 May 2026 18:55:57 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'합병가액 결정시 주가 외 요소 고려' 자본시장법 국회소위 통과(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260512153451001",
+      "summary": "(서울=연합뉴스) 박수윤 기자 = 기업 합병 시 합병가액을 결정할 때 주가 외에도 자산 가치, 수익 가치 등을 종합적으로 고려해 공정가액을 결정...",
+      "published": "Tue, 12 May 2026 18:55:39 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "코미코, 주당 1.0주 무상증자 결정",
+      "url": "https://www.yna.co.kr/view/AKR20260512168300008",
+      "summary": "(서울=연합뉴스) 코스닥 상장사 코미코[183300]는 보통주식 1주당 1.0주를 배정하는 무상증자를 결정했다고 12일 공시했다.",
+      "published": "Tue, 12 May 2026 18:54:59 +0900",
+      "scraped_at": "2026-05-12T17:35:06.451Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Boom Shows Top US Grid ‘Too Big to Function,’ Regulator Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/biggest-us-grid-may-be-too-large-to-function-regulator-says",
+      "summary": "The chairman of the top US energy regulator has put America’s biggest power grid on notice, warning that its operator may be too big to function adequately amid the AI data center boom.",
+      "published": "Tue, 12 May 2026 15:45:27 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Boeing Bets Comeback on Trump, China and an Elusive New Plane",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/boeing-bets-comeback-on-trump-china-elusive-new-plane-video",
+      "summary": "When Richard Nixon landed in Beijing in 1972 to end a quarter-century of Chinese diplomatic and economic isolation, his hosts were so enthralled with the US president’s airliner that within months they ordered 10 Boeing Co. 707 jets.\n\nThat purchase kicked off one of the most consequential commercial",
+      "published": "Tue, 12 May 2026 17:27:24 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Jersey ICE Warehouse Paused as US to Weigh Green Impact",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/new-jersey-ice-detention-project-paused-as-us-to-conduct-review",
+      "summary": "The federal government agreed to review the environmental impact of a proposed immigrant detention facility in New Jersey and temporarily pause a lawsuit seeking to block the conversion of an industrial warehouse.",
+      "published": "Tue, 12 May 2026 16:48:23 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Copper Rallies Above $14,000 a Ton, Nearing Fresh All-Time High",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/copper-rallies-above-14-000-a-ton-nearing-fresh-all-time-high",
+      "summary": "Copper jumped above $14,000 a ton, closing in on a record high as a rebound in Chinese demand and mounting supply risks outweigh concerns about the Iran war’s impact on global growth.",
+      "published": "Tue, 12 May 2026 14:11:31 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dimon Says JPMorgan Would Scrap UK HQ Over Higher Bank Taxes",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/dimon-says-jpmorgan-would-scrap-new-uk-hq-over-higher-bank-taxes",
+      "summary": "Jamie Dimon warned the UK that any move to hike taxes on banks in the event Keir Starmer is replaced as the UK’s prime minster would see JPMorgan Chase & Co. scrap plans to invest billions in a new London headquarters in Canary Wharf.",
+      "published": "Tue, 12 May 2026 15:09:09 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia Sees 2026 Oil Output Flat as Kyiv Steps Up Drone Strikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/russia-sees-2026-oil-output-flat-as-kyiv-steps-up-drone-strikes",
+      "summary": "Russia expects its oil production to remain flat in 2026 and grow modestly in the coming two years as its energy infrastructure comes under intense drone attacks from Ukraine.",
+      "published": "Tue, 12 May 2026 17:00:31 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Emerging-Market Currencies, Stocks Fall as Iran Truce Hopes Dim",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/emerging-market-currencies-stocks-fall-as-iran-peace-hopes-dim",
+      "summary": "Emerging-market currencies and stocks dropped Tuesday on concern the ceasefire between the US and Iran is on the brink of collapse, while a slump in South Korean shares also weighed on sentiment.",
+      "published": "Tue, 12 May 2026 09:44:52 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "An 82% Earnings Drop at US LBM Shows Pain in Building Materials",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/an-82-earnings-drop-at-us-lbm-shows-pain-in-building-materials",
+      "summary": "Building materials and products distributor US LBM Holdings reported sharply weaker first-quarter earnings as operating expenses ramped up and demand continued to soften in one of the starkest examples yet of the pain engulfing the industry.",
+      "published": "Tue, 12 May 2026 16:56:30 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bessent Tells Japan That FX Volatility Is 'Undesirable'",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/bessent-tells-japan-that-fx-volatility-is-undesirable-video",
+      "summary": "US Treasury Secretary Scott Bessent echoed his Japanese counterpart Satsuki Katayama by characterizing excess foreign-exchange volatility as undesirable in another indication of tacit US approval of Japan’s recent market intervention.\n\n“We both believe that excess volatility is undesirable,” Bessent",
+      "published": "Tue, 12 May 2026 16:54:19 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "LNG Pioneer Souki Talks Energy Markets Amid Tensions",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/lng-pioneer-souki-talks-energy-markets-amid-tensions-video",
+      "summary": "Energy markets on edge as a fragile Middle East ceasefire hangs in the balance. Charif Souki, the founder of Cheniere Energy who helped transform the US into the world’s largest LNG exporter, discusses the outlook on “Bloomberg Open Interest.” (Source: Bloomberg)",
+      "published": "Tue, 12 May 2026 16:52:09 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rockpoint Gets Selective on Real Estate Bets",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/rockpoint-gets-selective-on-real-estate-bets-video",
+      "summary": "Private equity is becoming more selective -- especially in real estate. Rockpoint Co-CEO Tom Gilbane discusses where the capital is flowing now on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "published": "Tue, 12 May 2026 16:48:49 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Markets Brace as Keir Starmer Battles To Save His Job",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/markets-brace-as-keir-starmer-battles-to-save-his-job-video",
+      "summary": "The UK is facing fresh political uncertainty as Prime Minister Keir Starmer fights to remain in Downing Street.\n\nFrom the pound to gilts, Mishal Husain breaks down what to watch. (Source: Bloomberg)",
+      "published": "Tue, 12 May 2026 16:46:39 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Vietnam Urges US Navy to Let Oil Tanker Through Its Blockade",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/vietnam-urges-us-navy-to-let-oil-tanker-through-its-blockade",
+      "summary": "Vietnam’s state oil company urged the US to let a supertanker pass through an American naval blockade outside of the Persian Gulf, saying the shipment is critical to the Asian country’s economy.",
+      "published": "Tue, 12 May 2026 14:52:57 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Tech Firm CGI Picks Tim Hurlebaus as CEO After AI Fears Crush Share Price",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/tech-firm-cgi-picks-hurlebaus-as-ceo-after-ai-fears-crush-share-price",
+      "summary": "Shares of Canadian IT consulting firm CGI Inc. extended their losses over 40% in one year after it appointed a new chief executive officer, a slump largely due to concerns about disruption from artificial intelligence upstarts such as Anthropic PBC.",
+      "published": "Tue, 12 May 2026 13:16:18 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chip Stocks Down on Momentum and Not CPI, Bokeh's Forrest Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/chip-stocks-down-on-momentum-not-cpi-bokeh-s-forrest-video",
+      "summary": "Kim Forrest, Bokeh Capital Partners chief investment officer, says Tuesday's selloff is just a pause in momentum for skyrocketing chip stocks, not a shock from a hotter-than-estimated inflation report. She speaks with Ed Ludlow and Caroline Hyde on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "published": "Tue, 12 May 2026 16:24:55 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "European Stocks Slip as Vodafone Plunges, Banks Weigh",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/european-stocks-drop-on-iran-ceasefire-worries-ftse-100-falls",
+      "summary": "European stocks fell on Tuesday, with losses accelerating after a hotter-than-expected US inflation reading underscored the pressure on central banks and clouded the outlook for equities.",
+      "published": "Tue, 12 May 2026 07:26:11 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US to Unveil New Data Spotlighting Hormuz and Global Reserves",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/us-to-unveil-new-data-spotlighting-hormuz-and-global-reserves",
+      "summary": "The US government’s energy statistics agency will start releasing new data on the world’s strategic reserves and flows of petroleum and liquefied natural gas through shipping choke points.",
+      "published": "Tue, 12 May 2026 16:08:17 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chile’s Populist Renegade Is Getting His Way on Kast’s Big Bill",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/chile-s-populist-renegade-is-getting-his-way-on-kast-s-big-bill",
+      "summary": "Chile’s Franco Parisi, the third-place finisher in last year’s presidential election, is proving to be a formidable political operative, strong-arming the government to accept his populist initiatives in exchange for supporting its economic agenda.",
+      "published": "Tue, 12 May 2026 15:58:48 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Inflation to Peak in May or June, Gapen Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/morgan-s-gapen-expects-inflation-to-peak-in-may-or-june-video",
+      "summary": "Morgan Stanley Chief US Economist expects US inflation to peak this year in May or June. He says the latest CPI report will keep the Federal Reserve on the sidelines for the rest of this year. He speaks on Bloomberg Surveillance.",
+      "published": "Tue, 12 May 2026 15:52:55 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Kazakh CPC Oil Exports to Drop as Europe Faces Tight Supplies",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/kazakh-cpc-oil-exports-to-drop-as-europe-faces-tight-supplies",
+      "summary": "Kazakhstan will cut crude exports from a key Russian Black Sea port next month at a time when European refineries are already grappling with an unprecedented supply disruption from the Middle East.",
+      "published": "Tue, 12 May 2026 15:52:05 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Venture Global Shares Surge on LNG Deals, Project Expansions",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/venture-global-shares-surge-on-lng-deals-project-expansions",
+      "summary": "Venture Global Inc. shares shot up on Tuesday after the liquefied natural gas exporter announced two new supply deals and detailed expansion plans for export projects in Louisiana.",
+      "published": "Tue, 12 May 2026 15:44:31 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Alphabet Offers Eight-Tranche Deal in Its Debut Yen Bond Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/alphabet-offers-eight-tranche-deal-in-its-debut-yen-bond-sale",
+      "summary": "Alphabet Inc. has begun marketing its first-ever bond sale in yen, further broadening its funding channels as the Google parent sharply increases capital spending to finance artificial intelligence efforts.",
+      "published": "Tue, 12 May 2026 15:38:25 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "JPMorgan Fully Committed to EU,  EMEA Co-Head Wiltz Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/jpmorgan-fully-committed-to-eu-emea-co-head-wiltz-says-video",
+      "summary": "Matthieu Wiltz, JPMorgan EMEA co-CEO, says M&A, equity and debt capital markets, and leveraged finance had a “booming” first quarter with a solid pipeline, and that investor appetite and cash levels support decent performance in coming months despite geopolitical uncertainty. (Source: Bloomberg)",
+      "published": "Tue, 12 May 2026 15:32:49 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Soy Growers Want Commitments From China as Season Slips Away",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/us-soy-growers-want-commitments-from-china-as-season-slips-away",
+      "summary": "As US President Donald Trump travels to Beijing for a summit this week with his Chinese counterpart Xi Jinping, American soybean farmers are in a now-familiar spot: Fields are getting planted when demand from their biggest customer is uncertain.",
+      "published": "Tue, 12 May 2026 15:30:59 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ex-Eaton Vance CEO Takes Majority Stake in Mutual Fund Rescuer",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ex-eaton-vance-ceo-takes-majority-stake-in-mutual-fund-rescuer",
+      "summary": "Thomas Faust, who engineered the sale of Eaton Vance to Morgan Stanley, is beginning his next act: helping out mutual fund managers who are facing redemption requests.",
+      "published": "Tue, 12 May 2026 15:29:06 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "EQT Taps Qatari Funding as Bids for €8 Billion VW Unit Near",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/eqt-taps-qatari-funding-as-bids-for-8-billion-vw-unit-near",
+      "summary": "Swedish buyout firm EQT AB is tapping funding from the Qatari sovereign fund as it prepares to make a binding bid for Volkswagen AG’s large marine engine unit by a deadline next month, people with knowledge of the matter said.",
+      "published": "Tue, 12 May 2026 15:27:24 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasuries Fall as Rising Oil Prices Herald Sticky Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/us-treasuries-hold-losses-as-rising-gas-costs-fuel-inflation",
+      "summary": "Treasuries fell as rising oil prices threatened to keep inflation at levels that could prompt the Federal Reserve to raise interest rates next year.",
+      "published": "Tue, 12 May 2026 12:48:18 GMT",
+      "scraped_at": "2026-05-12T17:35:06.975Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -10800,926 +11350,6 @@
       "summary": "LIV Golf has tapped law firm Gibson Dunn & Crutcher to advise it in an effort to turn around a money-losing business and find investors to fill the gap left by Saudi Arabia’s Public Investment Fund, according to people familiar with the matter.",
       "published": "Tue, 05 May 2026 19:07:33 GMT",
       "scraped_at": "2026-05-05T21:39:55.784Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "혼하이, AI서버 수요로 4월에도 매출 30% 증가",
-      "url": "https://www.hankyung.com/article/202605057141i",
-      "summary": "",
-      "published": "Wed, 06 May 2026 00:04:05 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "송진웅 에스비비테크 대표 \"로봇관절 핵심부품으로 2030년 1000억\"",
-      "url": "https://www.hankyung.com/article/2026042169331",
-      "summary": "",
-      "published": "Wed, 06 May 2026 00:00:01 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "美 3월 구인공고 687만건…전반적으로 \"안정적\"",
-      "url": "https://www.hankyung.com/article/202605057198i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 23:48:50 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "휴전의지 확인에 기업실적호조…美증시 나스닥 사상최고돌파",
-      "url": "https://www.hankyung.com/article/202605057170i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 23:22:35 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "캐나다, 원유가격 상승과 금 수출에 반년 만에 무역흑자",
-      "url": "https://www.hankyung.com/article/202605057165i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 22:27:46 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "장바구니 물가 부담 줄인다…수산물 최대 50% 할인 행사",
-      "url": "https://www.hankyung.com/article/2026050571327",
-      "summary": "",
-      "published": "Tue, 05 May 2026 22:01:00 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "美, 3월에도 수입증가로 무역적자 603억달러로 증가",
-      "url": "https://www.hankyung.com/article/202605057147i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 21:57:16 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "팰런티어, 비트앤드레이즈에도 주가 하락",
-      "url": "https://www.hankyung.com/article/202605057105i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 21:27:11 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "코스피 '역대급 불장'에도 美증시만 보는 금융위 직원",
-      "url": "https://www.hankyung.com/article/2026050568641",
-      "summary": "",
-      "published": "Tue, 05 May 2026 21:03:51 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "머스크 자회사 美국적 선박은 호르무즈 해협 통과",
-      "url": "https://www.hankyung.com/article/202605057083i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 20:46:10 +0900",
-      "scraped_at": "2026-05-05T17:07:14.592Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "한국 드라마 시청했다고 공개총살…김정은의 무자비한 공포정치",
-      "url": "https://www.mk.co.kr/news/politics/12029068",
-      "summary": "전환기정의워킹그룹 보고서 코로나 때 처형건 248% 폭증 가족·집단 앞에서 공개처형도 총살 외 쇠몽둥이·망치도 동원북한 당국이 코로나 팬데믹 기간 한국 드라마와 영화 등 외부 문화..",
-      "published": "Tue, 28 Apr 2026 08:42:43 +09:00",
-      "scraped_at": "2026-05-05T17:07:16.359Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Macron Ally Moulin Named to Head France’s Central Bank",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/macron-to-name-moulin-french-central-bank-governor",
-      "summary": "French President Emmanuel Macron nominated Emmanuel Moulin, one of his closest advisers, to run the Bank of France.",
-      "published": "Tue, 05 May 2026 15:57:19 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Alphabet’s Record Canadian Debt Deal Weighs on Bond Spreads",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/alphabet-s-record-canadian-debt-deal-weighs-on-bond-spreads",
-      "summary": "Alphabet Inc.’s C$8.5 billion ($6.24 billion) bond deal is driving corporate and provincial spreads wider in Canada as investors’ enthusiasm for the hyperscaler’s debt tests the market’s ability to absorb it.",
-      "published": "Tue, 05 May 2026 16:46:14 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "PayPal Plans to Cut 20% of Workforce as CEO Seeks to Revamp",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/paypal-plans-to-cut-20-of-workforce-as-ceo-seeks-revamp-video",
-      "summary": "PayPal Holdings Inc. plans to cut around 20% of its workforce in the next two to three years, according to a person familiar with the matter, as new Chief Executive Officer Enrique Lores seeks to reduce costs and turn around the payments company.\nPayPal employed around 23,800 people at the end of th",
-      "published": "Tue, 05 May 2026 16:29:53 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wynn Weighs Delayed Opening of Its UAE Resort Due to Iran War",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/wynn-weighs-delayed-opening-of-its-uae-resort-due-to-iran-war",
-      "summary": "Wynn Resorts Ltd. is considering postponing the expected opening date of its casino resort in the United Arab Emirates due to construction delays brought on by the US war with Iran, according to a person familiar with the company’s plans.",
-      "published": "Tue, 05 May 2026 16:07:35 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Canadian Gold Miner Halts Trading Again as Project Blocked",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/dominican-republic-protests-derail-canadian-gold-mining-project",
-      "summary": "Canada’s Goldquest Mining Corp. halted trading of its shares for a second time this week, after the Dominican Republic suspended operations at its Romero gold mine project in the wake of mass protests.",
-      "published": "Tue, 05 May 2026 12:47:16 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "ECB Doesn’t See Enough Yet to Warrant Rate Hike, Villeroy Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/villeroy-says-ecb-doesn-t-see-enough-yet-to-warrant-rate-hike",
-      "summary": "The European Central Bank doesn’t yet see enough impact on inflation from rising oil prices to prompt an increase in interest rates, outgoing Governing Council member Francois Villeroy de Galhau said.",
-      "published": "Tue, 05 May 2026 16:01:16 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Larry Fink Says Futures of Compute Will Be New Asset Class",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/fink-says-futures-of-compute-will-be-new-asset-class-video",
-      "summary": "BlackRock Chair and CEO Larry Fink suggests the demand for computing power is so large that a new asset class will spring up. He speaks at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)",
-      "published": "Tue, 05 May 2026 15:56:54 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Strategy Survives Another Bitcoin Crash With More Alchemy",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy",
-      "summary": "Michael Saylor’s Bitcoin accumulation firm Strategy Inc. has survived yet another crypto market meltdown with some fresh financial engineering.",
-      "published": "Tue, 05 May 2026 15:54:00 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Stocks Rise With Eyes on Fragile Iran Ceasefire, AMD Results",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/us-stock-futures-rise-with-eyes-on-iran-ceasefire-amd-results",
-      "summary": "US stocks were on track to set a record high on Tuesday as the US-Iran ceasefire appeared to hold after clashes in the Strait of Hormuz and missile attacks against the United Arab Emirates raised tensions in the Gulf.",
-      "published": "Tue, 05 May 2026 11:51:54 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AEP Weighs Break From Two of America’s Biggest Power Grids",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/aep-weighs-break-from-two-of-america-s-biggest-power-grids",
-      "summary": "American Electric Power Co. is reviewing its memberships in two of the biggest US power networks after the utility’s top boss accused the grid operators of being too slow to connect data-center customers.",
-      "published": "Tue, 05 May 2026 15:43:44 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Goldman's Snider Sees 'Yellow Flags' in Equities",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/goldman-s-snider-sees-yellow-flags-in-equities-video",
-      "summary": "Ben Snider, chief US equities strategist at Goldman Sachs Group Inc., says only a small number of stocks are driving the market to new highs. “If you look at the S&P 500, we’re at an all-time high, but the median stock in the index is still about 13% below its respective high,” Snider said Tuesday i",
-      "published": "Tue, 05 May 2026 15:41:35 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "ECB’s Lagarde Urges Europe to Cut Reliance on Energy Imports",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ecb-s-lagarde-urges-europe-to-reduce-energy-import-dependency",
-      "summary": "European Central Bank President Christine Lagarde said soaring energy costs due to the Iran war should act as a wake-up call for Europe to reduce its reliance on fossil fuels and energy imports.",
-      "published": "Tue, 05 May 2026 12:30:00 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Debt Crisis Brews in Brazil as 8 Million Firms Miss Payments",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/drowning-in-debt-eight-million-firms-miss-payments-in-brazil",
-      "summary": "Take a glance at the stock market, and all appears well in the Brazilian economy. The Ibovespa has soared more than any other major index in the Americas over the past year — roughly 60% in dollar terms at last count.",
-      "published": "Tue, 05 May 2026 09:15:00 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Diamondback Sees 10% More Permian Oil Rigs by Year-End as War Boosts Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/diamondback-fang-sees-10-more-permian-oil-rigs-by-year-end-as-war-lifts-price",
-      "summary": "Diamondback Energy Inc., one of the biggest US shale producers, predicts that drillers will add as many as 30 rigs to America’s most prolific oil field by the end of the year as the Iran war sends crude prices soaring.",
-      "published": "Tue, 05 May 2026 15:32:45 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ambev Soars Most Since 1999 as Brazil Beer Boosts Earnings",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ambev-soars-most-since-1999-as-brazil-beer-boosts-earnings",
-      "summary": "Shares of Ambev SA, the Brazilian unit of Anheuser-Busch InBev NV, soared the most in nearly 27 years after stronger-than-expected beer volumes in the South American nation drove a beat in first quarter earnings.",
-      "published": "Tue, 05 May 2026 15:31:43 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "What It Will Take to Fix the Oil Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/what-it-will-take-to-fix-the-oil-market-video",
-      "summary": "The standoff in the Strait of Hormuz has removed millions of barrels of oil from markets, exposed stockpiles, spare capacity and even OPEC. Here's what would get the energy markets back on track. (Source: Bloomberg)",
-      "published": "Tue, 05 May 2026 15:22:04 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Says Iran Ceasefire Still in Place After Clashes Over Hormuz",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/us-iran-ceasefire-holds-after-hormuz-clashes-and-uae-strikes-mosec4nt",
-      "summary": "The US played down the prospect of a return to active war with Iran after a day of clashes involving ships in the Strait of Hormuz and missile strikes against the United Arab Emirates.",
-      "published": "Tue, 05 May 2026 08:46:30 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Bond Yield at 5% Highlights Mounting Pressure in Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/key-us-yield-at-5-highlights-mounting-pressure-in-bond-market",
-      "summary": "The yield on 30-year US government debt hovered around 5% after breaching the key level for the first time this year — suggesting pressure in the world’s biggest bond market isn’t letting up.",
-      "published": "Tue, 05 May 2026 11:27:16 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bloomberg Surveillance 5/5/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/bloomberg-surveillance-5-5-2026-video",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-      "published": "Tue, 05 May 2026 15:13:44 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Carlyle’s $5B Private Equity Shakeup",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/carlyle-s-5b-private-equity-shakeup-video",
-      "summary": "Carlyle Co-President John Redett joins Bloomberg's Dani Burger at the Milken Conference to break down a $5B liquidity strategy that aims to reshape private equity. He explains what’s really behind the industry’s exit slowdown, and pushes back on the AI investment frenzy saying diversification wins o",
-      "published": "Tue, 05 May 2026 15:02:00 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Inflationary Signals Are Popping up Everywhere",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-05/inflationary-signals-are-popping-up-everywhere",
-      "summary": "It’s not just the US.",
-      "published": "Tue, 05 May 2026 14:59:06 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "New World Weighs Sale of Stake in $2 Billion Hotel Portfolio",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/new-world-weighs-sale-of-stake-in-2-billion-hk-hotel-portfolio",
-      "summary": "New World Development Co., the cash-strapped property developer, is in talks to sell its 50% stake in a portfolio of three Hong Kong hotels valued at $2 billion, people familiar with the matter said.",
-      "published": "Tue, 05 May 2026 06:43:18 GMT",
-      "scraped_at": "2026-05-05T17:07:18.116Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "배달용 전기 이륜차 보험료 대폭 인하…\"고유가 부담 완화\"",
-      "url": "https://www.hankyung.com/article/2026050570457",
-      "summary": "",
-      "published": "Tue, 05 May 2026 19:48:58 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "호르무즈 긴장속 국제유가 하루만에 하락 전환",
-      "url": "https://www.hankyung.com/article/202605057026i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 19:32:36 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"애플, 삼성과 인텔에서도 핵심 프로세서 조달 추진\"",
-      "url": "https://www.hankyung.com/article/202605057030i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 19:08:18 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "삼성·SK가 정치인들 '전리품'?…\"반도체 공장 짓겠다\" 또 난리 [김채연의 재계 인사이드]",
-      "url": "https://www.hankyung.com/article/2026050568411",
-      "summary": "",
-      "published": "Tue, 05 May 2026 19:00:01 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "미국으로 날아간 김정관, 대미투자 조율",
-      "url": "https://www.hankyung.com/article/2026050569531",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:23:50 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "대미투자 치고 나가는 日…\"너무 급해\" 지적도",
-      "url": "https://www.hankyung.com/article/2026050569491",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:23:38 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"나프타 생산 늘리자\"…폐플라스틱 규제 손 본다",
-      "url": "https://www.hankyung.com/article/2026050569391",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:23:06 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "초고단 낸드 뜨자 장비업체도 '들썩'",
-      "url": "https://www.hankyung.com/article/2026050569101",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:22:47 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "차세대 낸드 패권 '하이브리드 본딩'이 가른다",
-      "url": "https://www.hankyung.com/article/2026050569091",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:22:40 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 포스코퓨처엠, 日 완성차 업체와 전고체 양극재 개발",
-      "url": "https://www.hankyung.com/article/2026050568461",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:15:42 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'기술력·무상수리' 앞세운 中가전, 韓안방 점령 속도",
-      "url": "https://www.hankyung.com/article/2026050568421",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:15:30 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"파업땐 노사 모두 설 자리 잃어\"…신제윤 삼성전자 의장의 직격",
-      "url": "https://www.hankyung.com/article/2026050568401",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:15:17 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "항공업계, 2분기 '고유가 쇼크' 본격화",
-      "url": "https://www.hankyung.com/article/2026050568451",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:14:40 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 삼성·LG, 美서 차세대 OLED 공개",
-      "url": "https://www.hankyung.com/article/2026050568431",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:14:31 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 삼성생명 5세대 실손 GA서는 판매 안한다",
-      "url": "https://www.hankyung.com/article/2026050569211",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:10:19 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "보험료 싼 5세대 실손…도수치료 안되고 발달장애 되고",
-      "url": "https://www.hankyung.com/article/2026050569201",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:09:51 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "中업체로 새는 노후장비 교체 지원금",
-      "url": "https://www.hankyung.com/article/2026050568561",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:07:16 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "韓 시장 주춤하자…쿠팡, 해외 공략 '속도전'",
-      "url": "https://www.hankyung.com/article/2026050568251",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:05:17 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "엔저효과에 팝업 행사까지…日 맥주 수입액 역대 최대",
-      "url": "https://www.hankyung.com/article/2026050568231",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:04:45 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"K아이웨어, 해외서 급성장…선·후발 업체 상생해야 시장 커져\"",
-      "url": "https://www.hankyung.com/article/2026050568221",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:04:29 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "이마트, 990원 초저가 '구구탁 막걸리' 출시",
-      "url": "https://www.hankyung.com/article/2026050568241",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:04:03 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "증권사의 새 먹거리…'회장님 금융' 뜬다",
-      "url": "https://www.hankyung.com/article/2026050568671",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:03:43 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "차기 여신협회장 서태종·김근익 등 거론",
-      "url": "https://www.hankyung.com/article/2026050568631",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:03:06 +0900",
-      "scraped_at": "2026-05-05T11:52:23.191Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "신한은행, 맞춤형 신용대출 조회 서비스",
-      "url": "https://www.hankyung.com/article/202605055944i",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:02:46 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] KB, 어린이날 기념행사",
-      "url": "https://www.hankyung.com/article/2026050568661",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:02:21 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'1억 이하' 정기예금 계좌수, 6년만에 최소…증시 몰려",
-      "url": "https://www.hankyung.com/article/2026050568651",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:01:46 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "월 2만원, 첫 6개월은 1만원…年 회원가입 땐 10만원",
-      "url": "https://www.hankyung.com/article/2026050568191",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:00:11 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "매일 아침 만나는 9가지 킬러 콘텐츠…한경닷컴에서 프리미엄9 클릭하세요",
-      "url": "https://www.hankyung.com/article/2026050568211",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:00:10 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "특종·단독기사 가장 먼저 전합니다",
-      "url": "https://www.hankyung.com/article/2026050568171",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:00:09 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
-      "url": "https://www.hankyung.com/article/2026050568141",
-      "summary": "",
-      "published": "Tue, 05 May 2026 18:00:07 +0900",
-      "scraped_at": "2026-05-05T11:52:23.192Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[부고] 허윤경(한국건설산업연구원 연구위원)씨 부친상",
-      "url": "https://www.yna.co.kr/view/AKR20260505056900003",
-      "summary": "▲ 허철(항년 87세)씨 별세, 윤명옥씨 남편상, 허윤경(한국건설산업연구원 연구위원)씨 부친상, 박규봉씨 장인상, 박산호씨 외조부상 = 5일, ...",
-      "published": "Tue, 5 May 2026 20:23:34 +0900",
-      "scraped_at": "2026-05-05T11:52:25.612Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "코스닥協, '코스피 이전상장 추진' 알테오젠에 재고 요청",
-      "url": "https://www.yna.co.kr/view/AKR20260505054200008",
-      "summary": "(서울=연합뉴스) 이민영 기자 = 코스닥협회가 코스피 이전 상장을 추진 중인 알테오젠[196170]에 이전 상장 재고를 요청했다.",
-      "published": "Tue, 5 May 2026 19:35:05 +0900",
-      "scraped_at": "2026-05-05T11:52:25.612Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[경북소식] 경북도, 고교생 대상 관상어 전문인력 교육",
-      "url": "https://www.yna.co.kr/view/AKR20260505052300053",
-      "summary": "(안동=연합뉴스) 경북도 내수면관상어비즈니스센터는 오는 20일까지 지역 특성화 고등학교 3곳 학생 41명을 대상으로 관상어 산업 전문인력 양성 ...",
-      "published": "Tue, 5 May 2026 18:52:01 +0900",
-      "scraped_at": "2026-05-05T11:52:25.612Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "구윤철 만난 우즈베크 대통령 \"韓기업 전용 산업단지 조성 추진\"",
-      "url": "https://www.yna.co.kr/view/AKR20260505037700002",
-      "summary": "(세종=연합뉴스) 이세원 기자 = 샵카트 미르지요예프 우즈베키스탄 대통령은 한국 기업 전용 산업단지를 조성할 것이라며 경제 협력 의지를 강하게 ...",
-      "published": "Tue, 5 May 2026 17:43:47 +0900",
-      "scraped_at": "2026-05-05T11:52:25.612Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iran-US Skirmishes Only Enlarge the Oil Supply Gap",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-05/iran-us-skirmishes-only-enlarge-oil-supply-gap",
-      "summary": "With every day that the war drags on, the shortfall gets bigger and a market reckoning draws nearer.",
-      "published": "Tue, 05 May 2026 11:37:22 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pakistan’s Trade Deficit Widens to Highest in Four Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/pakistan-trade-deficit-widens-as-imports-surge",
-      "summary": "Pakistan’s trade deficit increased to nearly four-year high adding strain to the fragile economy and thin foreign exchange reserves.",
-      "published": "Tue, 05 May 2026 08:28:31 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UniCredit Opens Its €35 Billion Commerzbank Bid to Investors",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/unicredit-opens-its-35-billion-commerzbank-bid-to-investors",
-      "summary": "UniCredit SpA has submitted its Commerzbank AG takeover proposal to the target’s shareholders, initiating a six-week period that will decide the German lender’s independence.",
-      "published": "Tue, 05 May 2026 08:42:47 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "ADM Raises Profit Outlook as US Biofuel Policy Boosts Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/adm-raises-profit-outlook-as-us-biofuels-policy-boosts-demand",
-      "summary": "Archer-Daniels-Midland Co. increased its annual earnings outlook as the crop trader expects a clearer US biofuels policy to offset market disruptions from the conflict in the Middle East.",
-      "published": "Tue, 05 May 2026 10:13:22 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/alphabet-kicks-off-six-tranche-euro-debt-offering",
-      "summary": "Alphabet Inc. has kicked off its latest megabond deal as it returns to the euro market just months after selling nearly $32 billion of dollar, sterling and Swiss franc-denominated debt.",
-      "published": "Tue, 05 May 2026 06:36:29 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Starting to See Demand Destruction, Rystad Energy Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/oil-starting-to-see-demand-destruction-rystad-energy-video",
-      "summary": "Jorge Leon, senior VP and head of geopolitical analysis at Rystad Energy, says demand destruction has begun in the global oil market due to the Iran war and looks at the potential for additional supplies coming to the market if prices remain at elevated levels. (Source: Bloomberg)",
-      "published": "Tue, 05 May 2026 11:14:56 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Vodafone to Buy Out UK’s Biggest Operator for $5.8 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ck-hutchison-to-sell-stake-in-uk-telecom-group-for-5-8-billion",
-      "summary": "Vodafone Group Plc is buying CK Hutchison Holdings Ltd. stake in the UK’s largest mobile operator in a deal worth £4.3 billion ($5.8 billion), as Chief Executive Officer Margherita Della Valle accelerates a plan to consolidate in the company’s biggest markets.",
-      "published": "Tue, 05 May 2026 04:32:56 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US-Iran Ceasefire Holds; Apple Weighs Using Intel, Samsung for Processors | Bloomberg Brief 5/5/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/bloomberg-brief-5-5-2026-video",
-      "summary": "US equity futures rebound and oil eases as the US-Iran ceasefire holds after a day of clashes involving shipping in the Strait of Hormuz and missile attacks against the United Arab Emirates. In a Bloomberg scoop, Apple has held preliminary talks about enlisting Intel and Samsung to produce the main ",
-      "published": "Tue, 05 May 2026 11:05:35 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Erste Plans SRT Tied to Austrian Commercial Real Estate Loans",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/erste-plans-srt-tied-to-austrian-commercial-real-estate-loans",
-      "summary": "Erste Group Bank AG is working on a significant risk transfer tied to commercial real estate loans in Austria as regulators push lenders to bolster their capital buffers against potential defaults in the sector.",
-      "published": "Tue, 05 May 2026 11:05:24 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ferrari Profit Beats Views as Higher Prices Outweigh Volume Drop",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ferrari-profit-beats-views-as-higher-prices-outweigh-volume-drop",
-      "summary": "Ferrari NV reported a rise in first-quarter earnings that beat analysts’ estimates, as personal add-ons and a richer mix of supercars outweighed a wartime drop in deliveries.",
-      "published": "Tue, 05 May 2026 11:02:11 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Harbour’s Tie-Up With Waldorf Cleared in Court Defeat for HMRC",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/harbour-s-tie-up-with-waldorf-cleared-in-court-defeat-for-hmrc",
-      "summary": "Harbour Energy Plc is set to acquire Waldorf Production UK after a London court dismissed an objection to plans to write off most of Waldorf’s unpaid taxes.",
-      "published": "Tue, 05 May 2026 10:48:04 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Singapore’s Marina One Office Complex Said to Attract CapitaLand, Hongkong Land",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/singapore-s-marina-one-office-complex-said-to-attract-capitaland-hongkong-land",
-      "summary": "CapitaLand Group Pte and Hongkong Land Holdings Ltd. are among possible bidders for the Marina One high-rise complex in Singapore’s central business district, according to people familiar with the matter.",
-      "published": "Tue, 05 May 2026 09:40:24 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "JPMorgan’s Matejka Sees More Stock Gains After Narrow Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/jpmorgan-s-matejka-sees-more-stock-gains-after-narrow-rally",
-      "summary": "The rebound in global stocks from their Iran war lows has been so narrow that the market is primed for broader gains triggered by even slightly positive news, according to strategists at JPMorgan Chase & Co.",
-      "published": "Tue, 05 May 2026 10:21:36 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Companies Are Eagerly Buying Back Their Own Shares",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-05/us-companies-are-eagerly-buying-back-their-own-shares",
-      "summary": "Companies have announced $665 billion of buybacks this year.",
-      "published": "Tue, 05 May 2026 10:21:28 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hong Kong Weathers War Shocks With Fastest Growth Since 2021",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/hong-kong-weathers-war-shocks-with-fastest-gdp-growth-since-2021",
-      "summary": "Hong Kong’s economy expanded at its fastest pace in almost five years despite a global energy crisis unleashed by the war in Iran, thanks to an insatiable global demand for artificial intelligence along with an uptick in both consumption and investment.",
-      "published": "Tue, 05 May 2026 08:36:05 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AMD Earnings Need to Justify Rally After Best Month in 25 Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/amd-earnings-need-to-justify-rally-after-best-month-in-25-years",
-      "summary": "Advanced Micro Devices Inc. is coming off its best month in the stock market since the dot-com era, and with the chipmaker’s first-quarter earnings due after the bell, investors will get a chance to see whether its shares have gotten ahead of its fundamentals.",
-      "published": "Tue, 05 May 2026 10:15:00 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "France Says EU Will Retaliate If US Threatens Its Industries",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/eu-has-tools-if-us-threatens-industries-french-minister-says",
-      "summary": "The European Union has tools that it can turn to if Donald Trump makes excessive threats to strategic industries such as steel, French Trade Minister Nicolas Forissier said.",
-      "published": "Tue, 05 May 2026 07:20:41 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UK to Introduce 12-Month Treasury Bills to Broaden Debt Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/uk-to-introduce-12-month-treasury-bills-to-broaden-debt-market",
-      "summary": "The UK will begin selling 12-month Treasury bills at its weekly auctions, as part of the government’s efforts to tilt its borrowing toward shorter-maturity debt.",
-      "published": "Tue, 05 May 2026 10:12:10 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "European Corn Hits Two-Year High as Input Cost Concerns Mount",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/corn-holds-near-one-year-high-on-strong-demand-supply-concerns",
-      "summary": "European corn hit a fresh two-year high as weather concerns and higher farm input costs due to the closure of the Strait of Hormuz threaten to limit supply outside the US.",
-      "published": "Tue, 05 May 2026 06:03:13 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Brazil Nears Its China Beef Quota in Big Shift for Trade Flows",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/brazil-nears-its-china-beef-quota-in-big-shift-for-trade-flows",
-      "summary": "The world’s top beef exporter Brazil is close to reaching its annual quota for shipments to its biggest buyer China, a situation that’s set to redraw trade flows at a time when global consumers are facing higher meat prices.",
-      "published": "Tue, 05 May 2026 10:00:00 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "India’s RBI Mulls New Move Using Foreign Bonds to Prop Up Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/inr-usd-india-s-rbi-mulls-sale-of-foreign-bonds-by-state-owned-lenders",
-      "summary": "India’s central bank, grappling to support the beleaguered rupee, is weighing a plan for state-owned lenders to sell foreign-currency bonds to draw capital inflows, according to people familiar with the matter.",
-      "published": "Tue, 05 May 2026 09:58:43 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Japan Has Two More Windows for Yen Intervention by IMF Rules",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/japan-has-two-more-key-windows-for-yen-intervention-by-imf-rules",
-      "summary": "Japan can conduct only two more sessions of three-day interventions by November if it wants to maintain its status of having a freely floating exchange rate, based on International Monetary Fund guidelines.",
-      "published": "Tue, 05 May 2026 07:00:12 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ratcliffe’s Ineos Markets New Bond After Boost From Iran War",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/ratcliffe-s-ineos-markets-new-bond-after-boost-from-iran-war",
-      "summary": "Ineos Group, the heavily-indebted chemicals conglomerate helmed by Jim Ratcliffe, plans to raise €400 million ($468 million) from bonds to repay upcoming term loans.",
-      "published": "Tue, 05 May 2026 09:48:23 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Emerging Assets Drop as Middle East Flareup Weighs on Sentiment",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/emerging-assets-drop-as-middle-east-flareup-weighs-on-sentiment",
-      "summary": "The currency and stock benchmarks for developing economies declined as a flareup in the Middle East conflict reinforced concerns over a global inflation spike and curbed risk appetite.",
-      "published": "Tue, 05 May 2026 09:40:45 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iran War: US Stocks Bounce as Traders Track If Truce Hold | The Opening Trade 5/5/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-05/the-opening-trade-5-5-2026-video",
-      "summary": "US stock futures rebounded and oil prices eased as traders monitor whether a fragile ceasefire in the Middle East can hold.\n\nA flareup of violence in the Middle East has injected fresh uncertainty after a month-long rally that pushed equities to new records, fueled by strong earnings from tech megac",
-      "published": "Tue, 05 May 2026 09:34:56 GMT",
-      "scraped_at": "2026-05-05T11:52:25.942Z"
     }
   ]
 }
