@@ -1,6 +1,316 @@
 {
-  "updated_at": "2026-05-30T20:44:27.039Z",
+  "updated_at": "2026-05-30T22:49:13.314Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "매도보다 보유가 더 손해 되도록 하겠다는데…진짜일까? [김용우의 각개전투]",
+      "url": "https://www.hankyung.com/article/202605283764i",
+      "summary": "",
+      "published": "Sun, 31 May 2026 07:00:06 +0900",
+      "scraped_at": "2026-05-30T22:49:09.501Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'불기둥' 삼전닉스 주요임원 자사주 수익률 보니…최대 400%",
+      "url": "https://www.yna.co.kr/view/AKR20260530045700008",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 최근 '30만전자'와 '200만닉스'를 달성한 삼성전자와 SK하이닉스 일부 임원의 자사주 수익률이 최소 180...",
+      "published": "Sun, 31 May 2026 07:35:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'연초 급등분' 반납한 귀금속…하반기 '금 랠리' 다시올까",
+      "url": "https://www.yna.co.kr/view/AKR20260530001900008",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 미국과 이란이 종전 양해각서(MOU)에 서명할 것이라는 기대감이 커지면서 최근 반등한 금 가격을 두고 투자자들...",
+      "published": "Sun, 31 May 2026 07:30:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "외국인, 이달 역대 최대로 '코스피 팔고 코스닥 담았다'",
+      "url": "https://www.yna.co.kr/view/AKR20260530043900008",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 이달 외국인이 코스피 시장에서 44조원 넘게 팔며 역대 최대 규모로 순매도한 것으로 나타났다.",
+      "published": "Sun, 31 May 2026 07:05:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[마켓인사이트] 종전 여부에 촉각…코스피, '9천피' 도전 가능성",
+      "url": "https://www.yna.co.kr/view/AKR20260530024600008",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 지난주 코스피는 6거래일만에 8,000 고지를 탈환하며 '9천피'(9,000)를 향한 도약을 준비하는 모습이었...",
+      "published": "Sun, 31 May 2026 07:00:08 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "경기도, 전국 첫 '공동주택 장기수선계획 표준서식' 마련",
+      "url": "https://www.yna.co.kr/view/AKR20260529118200061",
+      "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 전국 처음으로 '공동주택 장기수선계획 최초 수립 표준서식'을 마련해 다음 달부터 시군 자문에 나선다고...",
+      "published": "Sun, 31 May 2026 07:00:08 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대법, 헌법불합치 결정난 유류분조항 그대로 적용해 재판하면 안 돼",
+      "url": "https://www.yna.co.kr/view/AKR20260529105000004",
+      "summary": "(서울=연합뉴스) 이미령 기자 = 고인을 부양한 자녀 등의 기여분을 유류분(遺留分) 산정에 반영하지 않은 민법 조항에 대해 헌법재판소가 헌법불합...",
+      "published": "Sun, 31 May 2026 07:00:07 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "올해 수도권 매입임대 3천200가구…9만가구 목표 '불투명'",
+      "url": "https://www.yna.co.kr/view/AKR20260530054200003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 정부가 전월세 시장 안정을 위해 내년까지 수도권에 매입임대주택 9만가구 공급을 추진하고 있지만, 올해 계약 실...",
+      "published": "Sun, 31 May 2026 06:57:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[빈집의 재탄생] 손님 끊긴 낡은 모텔, 청년 창업 거점 변모",
+      "url": "https://www.yna.co.kr/view/AKR20260528143500057",
+      "summary": "[※ 편집자 주 = 저출산에 따른 인구 감소와 인구이동으로 전국에 빈집이 늘고 있습니다. 해마다 생겨나는 빈집은 미관을 해치고 안전을 위협할 뿐...",
+      "published": "Sun, 31 May 2026 06:45:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한국 수출, '꿈의 1조달러' 넘본다…세계 5강 무역강국 눈앞",
+      "url": "https://www.yna.co.kr/view/AKR20260530033200003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 지난해 사상 최초로 7천억달러 고지를 밟은 한국 수출이 올해에는 9천억달러를 겨냥하고 있다.",
+      "published": "Sun, 31 May 2026 06:45:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[뉴스페이스] ② 커지는 K-우주 생태계…스타트업도 로켓 경쟁",
+      "url": "https://www.yna.co.kr/view/AKR20260530051400017",
+      "summary": "(서울=연합뉴스) 조승한 기자 = 민간 중심 우주개발을 뜻하는 '뉴스페이스' 시대가 본격화하면서 한국판 스페이스X를 꿈꾸는 국내 기업들도 빠르게...",
+      "published": "Sun, 31 May 2026 06:36:02 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[반려동물] \"말복엔 막내도 삼계탕\"…댕댕이 냉면·멍빙수까지 '펫코노미'",
+      "url": "https://www.yna.co.kr/view/AKR20260530032800030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 본격적인 무더위를 앞두고 반려동물의 식욕 저하와 탈수, 피부·장 건강을 관리하려는 수요가 커지면서 관련 제품 ...",
+      "published": "Sun, 31 May 2026 06:30:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "스타벅스 직원들 왜 냉랭해졌나…경영진 평가 최하",
+      "url": "https://www.yna.co.kr/view/AKR20260529153600017",
+      "summary": "(서울=연합뉴스) 한상용 기자 = 스타벅스 코리아 재직자들이 남긴 회사 평가에서 경영진 항목이 가장 낮은 점수를 받았다는 분석 결과가 나왔다.",
+      "published": "Sun, 31 May 2026 06:13:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "골목·전통시장 '온기'…5월 체감경기 '연휴·지원금'에 상승",
+      "url": "https://www.yna.co.kr/view/AKR20260529131300030",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 황금연휴가 이어졌던 5월 소상공인과 전통시장의 '체감 경기동향지수(BSI)'가 증가세를 기록한 것으로 31일 ...",
+      "published": "Sun, 31 May 2026 06:11:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "고유가 지원금 10일간 이의신청 13.4만건…건보료 관련 민원 21%",
+      "url": "https://www.yna.co.kr/view/AKR20260529149500530",
+      "summary": "(서울=연합뉴스) 차민지 기자 = 지난 18일 정부의 2차 고유가 피해지원금 지급이 시작된 이후 열흘간 접수된 이의신청이 13만건을 넘어선 것으...",
+      "published": "Sun, 31 May 2026 06:08:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "시간단위 연차 의미 두고 혼선…\"1~2시간 아닌 반차\"",
+      "url": "https://www.yna.co.kr/view/AKR20260530039700003",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 연차를 시간 단위로 쪼개 쓸 수 있도록 한 근로기준법 개정안이 이달 초 국회를 통과되면서 일부 기업들이 혼선을...",
+      "published": "Sun, 31 May 2026 06:07:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[이재명정부 1년] ⑧ '산재와의 전쟁'에 산재사망자 수 최저",
+      "url": "https://www.yna.co.kr/view/AKR20260529084000530",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = '친노동'은 이재명 정부의 지난 1년을 축약하는 핵심 단어 중 하나다.",
+      "published": "Sun, 31 May 2026 06:01:21 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[이재명정부 1년] ⑥ 코스피 8천시대 개막…부동산·환율은 아직 숙제로",
+      "url": "https://www.yna.co.kr/view/AKR20260530060000002",
+      "summary": "(세종=연합뉴스) 임기창 이대희 배영경 한지훈 기자 = 비상계엄에서 촉발된 경제 위기 속에 출범한 이재명 정부가 내달 1주년을 맞이한다.",
+      "published": "Sun, 31 May 2026 06:01:05 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'스벅사태·커피 인상'에 국산차 '재조명'…정부, 소비촉진 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260530046400030",
+      "summary": "（서울=연합뉴스) 홍국기 기자 = 정부가 '차의 날'을 법정기념일로 승격해 본격적으로 국산 차(茶) 소비 확산에 나선다.",
+      "published": "Sun, 31 May 2026 06:01:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한은 금리 인상 신호에 산업계 긴장…경기 민감할수록 큰 타격",
+      "url": "https://www.yna.co.kr/view/AKR20260530059200003",
+      "summary": "(서울=연합뉴스) 김보경 강태우 오진송 기자 = 한국은행이 연내 기준금리 인상을 시사하면서 국내 기업들이 고환율, 고유가에 이어 고금리라는 '삼...",
+      "published": "Sun, 31 May 2026 06:01:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "AI발 '초과이익' 재분배론 부상…시장경제 원칙 훼손 지적도",
+      "url": "https://www.yna.co.kr/view/AKR20260529127000530",
+      "summary": "(서울=연합뉴스) 한혜원 옥성구 기자 = 인공지능(AI) 특수로 삼성전자와 SK하이닉스 등 반도체 기업의 수익이 급증하면서 초과이익을 노동자 간...",
+      "published": "Sun, 31 May 2026 05:59:04 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "체외충격파 '12회 이상' 이용 5%뿐…횟수 제한 실효성 논란",
+      "url": "https://www.yna.co.kr/view/AKR20260530057600002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 비급여 항목인 체외충격파 치료를 연 12회 이상 이용한 비율이 5% 미만에 그쳐서 관리급여 지정 없이 연 12...",
+      "published": "Sun, 31 May 2026 05:59:01 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "저축은행 신용대출 잔액↓ 차주·연체율↑…자산 질 하락",
+      "url": "https://www.yna.co.kr/view/AKR20260530057900002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 국내 중대형 저축은행들의 신용대출 잔액이 2조원 가까이 감소한 가운데 대출자 수는 늘고 연체율은 상승하고 있다...",
+      "published": "Sun, 31 May 2026 05:57:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "SK하이닉스도 임협 시즌…\"우리도 주택대출 5억\" 요구 부상",
+      "url": "https://www.yna.co.kr/view/AKR20260529157800003",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 삼성전자가 5개월여에 걸친 교섭 끝에 올해 임금협상을 마무리한 가운데 '영업이익 N%' 성과급 시대를 연 SK...",
+      "published": "Sun, 31 May 2026 05:55:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "새도약기금 가입 압박 높이는 당국…10월말까지 채권매입 목표",
+      "url": "https://www.yna.co.kr/view/AKR20260530048600002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 금융당국이 한국자산관리공사(캠코)의 새도약기금 출범 1년이 되는 올 10월까지 채권 매입을 끝낸다는 목표 아래...",
+      "published": "Sun, 31 May 2026 05:55:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "스테이블코인 제도화 앞두고…가상자산 거래소 지분 쟁탈전",
+      "url": "https://www.yna.co.kr/view/AKR20260530049400002",
+      "summary": "(서울=연합뉴스) 박수현 김지연 기자 = 원화 스테이블코인 도입을 앞두고 가상자산 사업자(VASP) 지분을 둘러싼 전방위 쟁탈전이 가열되는 양상...",
+      "published": "Sun, 31 May 2026 05:53:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중복상장 예외허용 이르면 내주 공개…주주동의 획득 첫 사례도",
+      "url": "https://www.yna.co.kr/view/AKR20260530053700002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 금융당국이 마련 중인 중복상장 원칙금지·예외허용의 구체적 기준이 이르면 다음 주 공개된다.",
+      "published": "Sun, 31 May 2026 05:51:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "24년만에 10%대 명목성장 기대…가계부채·국가채무비율 청신호",
+      "url": "https://www.yna.co.kr/view/AKR20260530044200002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 반도체 수출 가격이 크게 뛰면서 올해 명목 경제 성장률이 24년 만에 10%대를 기록할 것이란 관측이 커지고 ...",
+      "published": "Sun, 31 May 2026 05:49:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "하위 20% 월 44만원 적자…상위 20%는 344만원 여윳돈",
+      "url": "https://www.yna.co.kr/view/AKR20260530055300002",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 올해 1분기 저소득층의 적자 규모가 역대 최대로 불어났다.",
+      "published": "Sun, 31 May 2026 05:47:03 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "韓경제 이끄는 반도체…생산 13% 늘 때 임금 일자리 2% 증가",
+      "url": "https://www.yna.co.kr/view/AKR20260530056300002",
+      "summary": "(세종=연합뉴스) 이세원 안채원 기자 = 슈퍼사이클을 맞이한 반도체 제조업이 한국 경제를 견인하고 있지만 고용 확대를 비롯해 성장의 효과를 두루...",
+      "published": "Sun, 31 May 2026 05:47:02 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "반도체 훈풍 부는데…성장률·소득 증가율 격차 2년만에 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260530002600002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 반도체 슈퍼 사이클에 올라탄 한국 경제가 1분기 깜짝 성장했지만, 가계 전체로 온기가 다 미치지 못하는 것으로...",
+      "published": "Sun, 31 May 2026 05:47:00 +0900",
+      "scraped_at": "2026-05-30T22:49:11.937Z"
+    },
     {
       "source_id": "bloomberg",
       "source_name": "Bloomberg",
@@ -14080,16 +14390,6 @@
       "summary": "The world’s best-performing yet most volatile market is set to debut its first ever single-stock leveraged exchange‑traded funds this week, tools that have the potential to amplify gains and losses.",
       "published": "Sun, 24 May 2026 00:00:00 GMT",
       "scraped_at": "2026-05-24T02:26:36.165Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“수령 결사옹위”…북한, 김일성 빨치산 창건일에 김정은 충성 강조",
-      "url": "https://www.mk.co.kr/news/politics/12027189",
-      "summary": "북한이 조선인민혁명군 창건 94주년을 맞아 김정은 국무위원장에 충성하고 주체혁명 위업의 새 승리를 향해 나아가자고 촉구했다. 조선인민혁명군은 김일성이 만주에서 항일운동할 때 조직했..",
-      "published": "Sat, 25 Apr 2026 09:38:17 +09:00",
-      "scraped_at": "2026-05-23T22:42:41.241Z"
     }
   ]
 }
