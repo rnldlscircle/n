@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-06-03T19:41:33.488Z",
+  "updated_at": "2026-06-03T22:23:51.135Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"젠슨 황 근처 앉을 자리 있나요\"…성수동 삼겹살집 예약 폭주",
+      "url": "https://www.hankyung.com/article/202606034561i",
+      "summary": "",
+      "published": "Thu, 04 Jun 2026 06:00:02 +0900",
+      "scraped_at": "2026-06-03T22:23:47.588Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "평양시내 점령한 중국산 자동차…자가용 증가에 교통체증·주차 대란도",
+      "url": "https://www.mk.co.kr/news/politics/12046206",
+      "summary": "북한에서 교통 체증과 주차 대란이 포착되고 있다. 자가용 소유자가 늘어나고 중국산 자동차 수입이 증가하면서 새로운 현상이 나타났다는 분석이 제기된다. 13일 연합뉴스에 따르면 로이..",
+      "published": "Wed, 13 May 2026 15:47:16 +09:00",
+      "scraped_at": "2026-06-03T22:23:48.272Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "김정은, 자주포 이어 총·포탄공장 찾아 재래식 전력 현대화 강조",
+      "url": "https://www.mk.co.kr/news/politics/12045904",
+      "summary": "당·정·군 간부들과 잇따라 무기 공장行 “박격포·곡사포 강화”…저격무기 강조 포병 등 대남 재래식절겨 확충의도 해석김정은 북한 국무위원장이 최근 신형 자주포 생산시설에 이어 총·포..",
+      "published": "Wed, 13 May 2026 10:18:35 +09:00",
+      "scraped_at": "2026-06-03T22:23:48.272Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] 아프리카 원자력 시장의 기회…한국이 주목할 이유",
+      "url": "https://www.yna.co.kr/view/AKR20260528107500898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "published": "Thu, 4 Jun 2026 07:00:03 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "반도체 훈풍에 대중국 무역수지 4년 만에 흑자전환 유력",
+      "url": "https://www.yna.co.kr/view/AKR20260603054400003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 우리나라의 최대 무역 시장인 중국 시장에서도 반도체 훈풍이 불고 있다.",
+      "published": "Thu, 4 Jun 2026 06:05:01 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울시, 식당·미용실 등 '착한가격업소' 2천25곳 운영",
+      "url": "https://www.yna.co.kr/view/AKR20260603028000004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시는 고물가 속 합리적 소비를 돕고 생활물가 안정을 지원하기 위해 '착한가격업소' 신규 지정을 확대한다고 ...",
+      "published": "Thu, 4 Jun 2026 06:00:06 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "5월 외환보유액 4천270억달러…환율 방어에 8.8억달러↓",
+      "url": "https://www.yna.co.kr/view/AKR20260602134800002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 외환보유액이 환율 방어 등에 쓰이면서 9조원가량 줄었다.",
+      "published": "Thu, 4 Jun 2026 06:00:05 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "정부, 중만생종 양파 수매비축 2만t 추진…\"평년보다 82% 확대\"",
+      "url": "https://www.yna.co.kr/view/AKR20260603024100030",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 정부가 공급량이 증가한 중만생종 양파 수급 안정 대책을 추진한다.",
+      "published": "Thu, 4 Jun 2026 06:00:01 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한국·EU 통상수장 면담…한국산 철강 '우호적 대우' 강력 요청",
+      "url": "https://www.yna.co.kr/view/AKR20260603078800003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 정부가 내달 1일 시행 예정인 유럽연합(EU)의 철강 수입 규제 조치로 인한 우리 기업의 피해를 최소화하기 위...",
+      "published": "Thu, 4 Jun 2026 06:00:01 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중동긴장 재고조에 美 주식·채권 동반하락하고 유가 상승(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260604033351072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 협상이 진전을 보이지 못하는 가운데 무력 공방이 다시 이어지면서 3일(현지시간) 뉴욕증...",
+      "published": "Thu, 4 Jun 2026 05:40:21 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "젠슨 황, 나흘간 한국서 광폭 행보…총수·스타트업 만난다",
+      "url": "https://www.yna.co.kr/view/AKR20260603053800017",
+      "summary": "(서울=연합뉴스) 한상용 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이르면 4일 저녁 한국에 입국해 나흘간 한국 AI 생태계를 훑으며 종횡...",
+      "published": "Thu, 4 Jun 2026 05:33:00 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "美 원유재고, 호르무즈 봉쇄 장기화에 22년만에 최저수준",
+      "url": "https://www.yna.co.kr/view/AKR20260604032900072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미·이란 전쟁에 따른 호르무즈해협 운항 제한이 4개월째 이어지는 가운데 미국의 원유 및 석유류 제품 재고가 ...",
+      "published": "Thu, 4 Jun 2026 05:19:53 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국제유가, 중동 무력공방 재개에 3일 연속 상승…WTI 96달러",
+      "url": "https://www.yna.co.kr/view/AKR20260604029700072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란 간 종전 협상이 진전을 보이지 못하는 가운데 무력 공방이 다시 이어지면서 3일(현지시간) 국제 ...",
+      "published": "Thu, 4 Jun 2026 04:43:33 +0900",
+      "scraped_at": "2026-06-03T22:23:49.595Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Stocks Set to Fall on Fresh US-Iran Clashes: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
+      "summary": "Asian stocks were poised for losses on Thursday as renewed clashes between the US and Iran added strain to a fragile ceasefire, while pushing oil prices higher.",
+      "published": "Wed, 03 Jun 2026 22:04:45 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oil Holds Three-Day Gain as Iran-US Clashes Lower Deal Prospects",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
+      "summary": "Oil steadied after three days of gains as the US and Iran exchanged strikes, threatening the prospects of a peace deal that would reopen the Strait of Hormuz.",
+      "published": "Wed, 03 Jun 2026 22:01:29 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Energy Companies 'Weren't Prepared' For AI Data Center Boom Says NRG's Caroline Golin",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/companies-weren-t-prepared-for-data-center-boom-golin-video",
+      "summary": "Caroline Golin, chief growth and policy officer at NRG Energy, said that AI expansion has outpaced the infrastructure necessary to power it and that energy companies 'weren't prepared' for the opportunity in front of them as the US data center buildout ramps up even further. Despite the pressure on ",
+      "published": "Wed, 03 Jun 2026 21:58:09 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Glazer Family Members Are Studying Manchester United Stake Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/glazer-family-members-are-said-to-study-man-united-stake-sale",
+      "summary": "Some members of the billionaire Glazer family have been debating whether to sell their stake in Manchester United FC, after more than 20 years of ownership that has often been blighted by fan protest, people familiar with the matter said.",
+      "published": "Wed, 03 Jun 2026 21:46:30 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Fed Beige Book Survey Shows Inflation Up Across Most Districts, Steady Employment",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/new-fed-beige-book-survey-shows-inflation-up-video",
+      "summary": "Stuart Paul, US and Canada economist for Bloomberg Economics, and Tom Keene, co-host of Bloomberg Surveillance, broke down the information out of the Fed's Beige Book Survey as the Fed reported inflation up across most districts, with costs rising due to conflict with Iran.  On the other side, emplo",
+      "published": "Wed, 03 Jun 2026 21:37:38 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "OpenAI y Anthropic alistan sus OPI que podrían redefinir el mercado de la inteligencia artificial",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/openai-y-anthropic-preparan-opi-record-en-ia",
+      "summary": "Dos grandes de la IA tienen la mirada puesta en los mercados bursátiles, pero algunos se preguntan si la salida a bolsa de SpaceX, prevista para junio, les va a robar el protagonismo.",
+      "published": "Wed, 03 Jun 2026 21:29:43 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Inotiv, Breeder of Laboratory Animals, Files For Bankruptcy",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/inotiv-breeder-of-laboratory-animals-files-for-bankruptcy",
+      "summary": "Inotiv Inc., which breeds dogs and imports monkeys that are used in drug experiments, filed for bankruptcy in part on what it blamed are tighter rules on its US canine farm and tariffs on non-human primates raised in China.",
+      "published": "Wed, 03 Jun 2026 15:15:00 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
+      "summary": "SpaceX is seeking to raise $75 billion in an initial public offering that would be the biggest of all time, as Elon Musk’s rocket, satellite and artificial intelligence company targets a historic debut that could clear a path for more mega-listings.",
+      "published": "Wed, 03 Jun 2026 20:46:32 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Macy's CEO on Earnings, Brand Strategy and Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/macy-s-ceo-on-earnings-brand-strategy-and-outlook-video",
+      "summary": "Macy's CEO Tony Spring discusses the company's earnings, consumer spending trends and the outlook for retail sales with Romaine Bostick on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "published": "Wed, 03 Jun 2026 21:02:28 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "America's H-1B Housing Bust",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/america-s-h-1b-housing-bust-video",
+      "summary": "North of Dallas, towns like Frisco, Prosper and Celina became some of the fastest-growing suburbs in the US, fueled in part by corporate relocations and Indian-born workers with H-1B visas. But tech layoffs, higher visa costs, tighter immigration rules and AI disruption are now cooling demand in a h",
+      "published": "Wed, 03 Jun 2026 20:25:32 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Applied Aerospace Shares Drop 5% After $650 Million IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/applied-aerospace-shares-rise-3-75-after-650-million-us-ipo",
+      "summary": "Applied Aerospace & Defense Inc. fell 5% on its first day of trading, after the space and defense engineering firm raised $650 million in an initial public offering priced near the top of a marketed range.",
+      "published": "Wed, 03 Jun 2026 16:37:15 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "S&P 500 Nine-Day Winning Streak Ends | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/s-p-500-nine-day-winning-streak-ends-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Alexis Christoforous, and Isabelle Lee. (Source: Bloomberg)",
+      "published": "Wed, 03 Jun 2026 20:17:13 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Xcel Building More Modern, Resilient, Sustainable Grid, Says CEO Frenzel",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/xcel-building-more-sustainable-grid-says-ceo-frenzel-video",
+      "summary": "Xcel Energy CEO Bob Frenzel said that his company is investing across a wide range of energy sources including wind and solar to build a 'more modern, more resilient, more sustainable grid of the future.' \nTalking to Bloomberg Washington Correspondent Tyler Kendall, Frenzel said that despite rising ",
+      "published": "Wed, 03 Jun 2026 19:47:41 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI CapEx Rush Seen as Continuing as Market Stresses Bubble Up",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-capex-rush-seen-as-continuing-as-market-stresses-bubble-up",
+      "summary": "The AI-driven boom will ease up at some point in the future but not yet, Diameter Capital Partners co-founder and Managing Partner Scott Goodwin said at the Bloomberg Global Credit Forum on Wednesday.",
+      "published": "Wed, 03 Jun 2026 19:45:36 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Yum Is In Exclusive Talks To Sell Pizza Hut To LongRange",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/yum-is-in-exclusive-talks-to-sell-pizza-hut-to-longrange-video",
+      "summary": "Bloomberg's Michelle Davis joins Scarlet Fu on \"Bloomberg Deals.\" Yum! Brands is in exclusive talks to sell its Pizza Hut chain to LongRange Capital, according to people familiar with the matter.\n (Source: Bloomberg)",
+      "published": "Wed, 03 Jun 2026 19:39:00 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Coastal GasLink Eyes C$1 Billion Canadian Bond Sale in Two Parts",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/coastal-gaslink-eyes-c-1-billion-canadian-bond-sale-in-two-parts",
+      "summary": "Coastal GasLink, a pipeline project in Western Canada, is readying a two-part bond sale to raise C$1 billion ($720 million), according to people with knowledge of the matter.",
+      "published": "Wed, 03 Jun 2026 19:05:40 GMT",
+      "scraped_at": "2026-06-03T22:23:50.090Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -16290,276 +16580,6 @@
       "summary": "Eric Weiner, Bloomberg News senior editor for equities Americas and Sarah Hunt, chief market strategist at Alpine Saxon Woods, break down muted market reaction to Iran peace negotiations as oil remains high with the future of MidEast shipping lanes uncertain.  (Source: Bloomberg)",
       "published": "Wed, 27 May 2026 21:55:55 GMT",
       "scraped_at": "2026-05-27T23:10:44.307Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "울산 AI 데이터센터 연관산업 생태계 조성…기업 투자 본격 유치",
-      "url": "https://www.yna.co.kr/view/AKR20260527167000057",
-      "summary": "(울산=연합뉴스) 장지현 기자 = 울산시는 28일 오후 시청 본관에서 '인공지능(AI) 데이터센터 연관산업 유치 전략 수립 용역' 최종 보고회를...",
-      "published": "Thu, 28 May 2026 06:03:02 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "울산시, 세계 창업 생태계 지수 391위…1년 만에 155계단 상승",
-      "url": "https://www.yna.co.kr/view/AKR20260527166800057",
-      "summary": "(울산=연합뉴스) 장지현 기자 = 울산시는 국제 창업생태계 평가기관 '스타트업블링크'(StartupBlink)가 선정한 '세계 창업기업 생태계 ...",
-      "published": "Thu, 28 May 2026 06:00:11 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국내은행 1분기 총자본비율 0.19%p↓…대출자산 늘고 환율 올라",
-      "url": "https://www.yna.co.kr/view/AKR20260527140800002",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 올 1분기 국내은행의 건전성 지표인 국제결제은행(BIS) 자본비율이 대출자산 증가와 환율 상승 등 영향으로 하...",
-      "published": "Thu, 28 May 2026 06:00:09 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주류업계, 고환율·고유가 직격탄…페트병 20%·비닐류 50% 폭등",
-      "url": "https://www.yna.co.kr/view/AKR20260527138900030",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 고환율과 국제 유가 상승, 중동 지역의 지정학적 리스크 장기화가 겹치면서 국내 주류업계의 원부자재 및 포장자재...",
-      "published": "Thu, 28 May 2026 06:00:07 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'알테쉬' 등 해외직구 어린이 우산·우비서 납·유해성물질 검출",
-      "url": "https://www.yna.co.kr/view/AKR20260527153000004",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 중국 직접구매(직구) 사이트에서 판매하는 어린이용 우비와 선글라스, 의류 잡화 등이 국내 안전 기준에 미달해 ...",
-      "published": "Thu, 28 May 2026 06:00:01 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "회계감사 방해·거짓자료 제출하면 가중조치…시행세칙 개정",
-      "url": "https://www.yna.co.kr/view/AKR20260527153800002",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 앞으로 회계자료 제출 요구를 거부하거나 거짓 자료를 내는 등 감사를 방해하면 가중 제재를 받을 수 있다.",
-      "published": "Thu, 28 May 2026 05:53:00 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "노동시장 불참 20대 후반 6년만에 최대↑…'쉬었음' 3만명 늘어",
-      "url": "https://www.yna.co.kr/view/AKR20260527161900002",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 취업 전선에 본격적으로 뛰어들어야 할 20대 후반 청년들의 고용시장 이탈이 심화하고 있다.",
-      "published": "Thu, 28 May 2026 05:51:01 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "신현송 첫 금통위…물가·성장전망 높이고 인상 신호 보낼 듯",
-      "url": "https://www.yna.co.kr/view/AKR20260527138000002",
-      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 한국은행 금융통화위원회는 28일 오전 통화정책방향 회의에서 기준금리 조정 여부를 결정한다.",
-      "published": "Thu, 28 May 2026 05:30:00 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국제유가, 이란 협상타결 기대고조에 급락…WTI 90달러 하회",
-      "url": "https://www.yna.co.kr/view/AKR20260528005000072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 이란 국영매체가 종전 협상안 초안을 보도하면서 종전 합의가 임박했다는 기대감이 커지자 국제유가가 27일(현지...",
-      "published": "Thu, 28 May 2026 04:27:08 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "JP모건 다이먼 \"2년안에 최대 30조원 인수 기회 기대\"",
-      "url": "https://www.yna.co.kr/view/AKR20260528004600072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 최대 은행인 JP모건체이스가 최대 200억 달러(약 30조원) 규모의 잠재적 인수·합병(M&amp;A)...",
-      "published": "Thu, 28 May 2026 04:08:42 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "달러-원, 정체 상태인 美·이란 종전 협상에 관망…1,500.20원 마감",
-      "url": "https://www.yna.co.kr/view/AKR20260528004200002",
-      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 낙폭을 소폭 넓혔다.",
-      "published": "Thu, 28 May 2026 03:48:43 +0900",
-      "scraped_at": "2026-05-27T21:46:40.496Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Google Engineer Charged With Insider Trading on Polymarket",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/google-engineer-charged-with-insider-trading-on-polymarket",
-      "summary": "A Google software engineer was charged with insider trading on Polymarket, where he allegedly made more than $1 million betting on one of last year’s most popular Internet searches.",
-      "published": "Wed, 27 May 2026 21:09:04 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "BlackRock's Rosenberg on Fed Rates, IALT ETF Strategy",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/blackrock-s-rosenberg-on-fed-rates-ialt-etf-strategy-video",
-      "summary": "Jeffrey Rosenberg, portfolio manager of the iShares Systematic Alternatives Active ETF (IALT) at BlackRock, explains how the ETF is navigating the current economic environment on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 21:08:35 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "KKR’s Nuttall Says Trading Private Credit Is ‘Likely to Happen’",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/kkr-s-nuttall-says-trading-private-credit-is-likely-to-happen",
-      "summary": "KKR & Co.’s co-chief executive officer Scott Nuttall said it was likely that the alternative asset manager would eventually start trading private credit, following early efforts by Apollo Global Management Inc. to create a market for less liquid debt.",
-      "published": "Wed, 27 May 2026 20:50:49 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fed's Cook Says She's Ready to Raise Rates If Inflation Lingers",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/fed-s-cook-ready-to-raise-rates-if-inflation-lingers-video",
-      "summary": "\"The risks remain tilted toward higher inflation,\" Federal Reserve Governor Lisa Cook says during an event at Stanford University. (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 20:41:53 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dimon Says JPMorgan Could Spend $20 Billion on Deals",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/dimon-on-the-lookout-for-jpmorgan-s-next-big-deal-video",
-      "summary": "Bloomberg Intelligence's Herman Chan joins Dani Burger on \"Bloomberg Deals.\" JPMorgan Chase CEO Jamie Dimon says, “there might be, in the next couple years, a chance to put $10 billion to $20 billion to work buying something,” adding that JPMorgan is “on the lookout” for a deal. (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 18:22:51 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Bonds’ Return to Pre-War Calm Fuels Bets It’ll Be Short-Lived",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/us-bonds-return-to-pre-war-calm-fuels-bets-it-ll-be-short-lived",
-      "summary": "The return of calm to the US bond market following turbulence stirred up by the Iran war is attracting big moves in options, with some traders wagering it won’t last.",
-      "published": "Wed, 27 May 2026 20:30:24 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fuel-Starved Cuba Dealt Blow as Russian Tanker Changes Course",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/fuel-starved-cuba-dealt-blow-as-russian-tanker-changes-course",
-      "summary": "A Russian tanker carrying over 240,000 barrels of diesel has abandoned its voyage to Cuba and is now sailing southeast after weeks of uncertainty surrounding a shipment meant to help relieve the fuel-starved island’s worsening energy crisis.",
-      "published": "Wed, 27 May 2026 20:08:45 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Jamie Dimon 'On The Lookout' For Next Big Deal, Real-Estate Deals | Bloomberg Deals 5/27/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/bloomberg-deals-5-27-2026-video",
-      "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Ancora Alternatives President Jim Chadwick, Newmark President of Leasing for North America Liz Hart, Brown Harris Stevens CEO Bess F",
-      "published": "Wed, 27 May 2026 19:55:56 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Compute Market is Broken: Midha",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/compute-market-is-broken-midha-video",
-      "summary": "Anjney Midha, founder of AMP, founding investor of Anthropic, and former general partner at Andreessen Horowitz, joins Dani Burger on \"Bloomberg Deals.\" AMP aims to secure 1.3 GW of compute for the independent ecosystem over the next four years, deploying roughly $40B across equity, debt, and struct",
-      "published": "Wed, 27 May 2026 19:17:41 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "H.B. Fuller Has Great Assets For Potential Buyers: Chadwick",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/h-b-fuller-has-assets-for-potential-buyers-chadwick-video",
-      "summary": "Jim Chadwick, president of Ancora Alternatives, joins Dani Burger on \"Bloomberg Deals.\" Activist investor Ancora is pushing US adhesives maker H.B. Fuller to abandon a proposed takeover of UK-based Advanced Medical Solutions Group. (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 18:43:25 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Three Charts Capturing Micron’s Record Rise to $1 Trillion",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/three-charts-capturing-micron-s-record-rise-to-1-trillion",
-      "summary": "Micron Technology Inc.’s incredible rally this year has launched the memory-chip firm into an elite group of stocks worth at least $1 trillion, setting at least one record along the way.",
-      "published": "Wed, 27 May 2026 19:15:01 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The SpaceX IPO Is the Perfect Embodiment of Markets",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-27/the-spacex-ipo-is-the-perfect-embodiment-of-markets",
-      "summary": "Momentum trumps everything.",
-      "published": "Wed, 27 May 2026 19:00:15 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "PGIM Backs $4B of US Land-Bank Deals in Asset-Based Push",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/pgim-backs-4b-of-us-land-bank-deals-in-asset-based-push-video",
-      "summary": "Bloomberg's Scott Carpenter  joins Dani Burger on \"Bloomberg Deals.\" Prudential Financial’s asset-management arm has financed about $4 billion of land-banking projects through a partnership with Domain Real Estate Partners, part of a push to gain exposure to the US homebuilding industry. (Source: Bl",
-      "published": "Wed, 27 May 2026 18:56:31 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Uber Proposes Delivery Hero Takeover at $11.6B Valuation",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/uber-proposes-delivery-hero-takeover-at-11-6b-valuation-video",
-      "summary": "Bloomberg's Natalie Lung joins Dani Burger on \"Bloomberg Deals.\" Uber has offered to take over Delivery Hero in a deal that would value the German delivery company at about $11.6 billion as it seeks to ramp up competition with DoorDash outside the US.  (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 18:36:13 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Lilly Goes on $20B Buying Spree as It Seeks Next Act",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-27/lilly-goes-on-20b-buying-spree-as-it-seeks-next-act-video",
-      "summary": "Bloomberg's Michelle Davis joins Dani Burger on \"Bloomberg Deals.\" Eli Lilly is on a record spending spree, announcing acquisitions worth more than $20 billion so far in 2026 as the drugmaker expands beyond its blockbuster obesity franchise.  (Source: Bloomberg)",
-      "published": "Wed, 27 May 2026 18:30:11 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Goldman Says Iran War Dollar Surge Weighed on Treasury Demand",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/goldman-says-iran-war-dollar-surge-weighed-on-treasury-demand",
-      "summary": "A stronger dollar during the first month of the US-Iran conflict spurred foreign official institutions to sell Treasuries, according to Goldman Sachs.",
-      "published": "Wed, 27 May 2026 17:55:07 GMT",
-      "scraped_at": "2026-05-27T21:46:40.832Z"
     }
   ]
 }
