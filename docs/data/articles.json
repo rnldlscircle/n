@@ -1,6 +1,356 @@
 {
-  "updated_at": "2026-06-14T08:08:24.211Z",
+  "updated_at": "2026-06-14T11:49:34.341Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "전쟁에도 힘 못쓴 금값, 고금리에 '무이자 약점' 찔렸다",
+      "url": "https://www.hankyung.com/article/2026061452811",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 19:21:46 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'디지털 금' 비트코인도 최고가 대비 반토막",
+      "url": "https://www.hankyung.com/article/2026061452801",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 19:17:30 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "일본은행, 기준금리 0.25%P 인상할 듯",
+      "url": "https://www.hankyung.com/article/2026061452911",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 19:01:06 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "중동戰 종전땐 원·달러 1500원 밑으로",
+      "url": "https://www.hankyung.com/article/2026061452941",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:59:17 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "Fed 신임의장, 첫 정례회의 주재",
+      "url": "https://www.hankyung.com/article/2026061452931",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:57:45 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'롤러코스피' 불안하다면…안전자산 달러 투자해볼까",
+      "url": "https://www.hankyung.com/article/2026061452831",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:53:15 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"환율 뛰어도 여행은 간다\"…여름 휴가철 필수 카드는",
+      "url": "https://www.hankyung.com/article/2026061452841",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:50:27 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "플레이스토어에 맞서던 '원스토어'에 무슨 일",
+      "url": "https://www.hankyung.com/article/2026061453361",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:47:28 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"제네시스, 친환경차로 獨 3사 뛰어넘는다\"",
+      "url": "https://www.hankyung.com/article/2026061453301",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:42:51 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "최태원 \"AX 가속 위해 1인 1에이전트 도입해야\"",
+      "url": "https://www.hankyung.com/article/2026061453291",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:41:53 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"伊, 삼성에 특별…첨단분야 협력\"",
+      "url": "https://www.hankyung.com/article/2026061453281",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:41:20 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "효성重, 美에 초고압차단기 생산기지 구축…시장 선점 나서",
+      "url": "https://www.hankyung.com/article/2026061453311",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:40:49 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "동원F&B, 1400억 투입 '단백질 공장' 완공",
+      "url": "https://www.hankyung.com/article/2026061453271",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:40:16 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "한화에어로, 안전혁신위 출범…\"대전사고 재발 방지\"",
+      "url": "https://www.hankyung.com/article/2026061453321",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:40:00 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "HD한국조선, 말콘 손잡고 해상풍력 지원선 공동개발",
+      "url": "https://www.hankyung.com/article/2026061453331",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:39:35 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "성수동에 뜬 '신라면 분식'… MZ·외국인 고객 사로잡는다",
+      "url": "https://www.hankyung.com/article/202606145035i",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:35:15 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[단독] 허제홍 \"이젠 가격보다 수명이 더 중요…배터리 산업 패러다임 바뀐다\"",
+      "url": "https://www.hankyung.com/article/2026061453161",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:33:32 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "中 'LFP 배터리 천하' 흔들 변수는 자율주행차·휴머노이드 대중화",
+      "url": "https://www.hankyung.com/article/2026061453171",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:31:07 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"공장 풀가동해도 모자라\"…슈퍼사이클 제대로 탄 K방산",
+      "url": "https://www.hankyung.com/article/2026061453131",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:25:22 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"숙련공 몸에 밴 노하우, 데이터화…신입 1명이 로봇 활용해 7명 몫\"",
+      "url": "https://www.hankyung.com/article/2026061453561",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:16:58 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "AI 훈풍에 웃은 ICT…5월 수출도 사상 최대",
+      "url": "https://www.hankyung.com/article/2026061453571",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:16:11 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "돈 빌려주고 수주하는 中, 고부가 선박까지 점령하나",
+      "url": "https://www.hankyung.com/article/2026061453051",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:15:27 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "中 대외 금융자산 11조달러 돌파",
+      "url": "https://www.hankyung.com/article/2026061453071",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:14:42 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "저금리 앞세운 위안화 김치본드…국내 채권시장 침투",
+      "url": "https://www.hankyung.com/article/2026061453061",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:14:25 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "디지털자산 투자 인사이트 포럼",
+      "url": "https://www.hankyung.com/article/2026061453501",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 18:05:42 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'50억 내면 1000억짜리를…\" 한국 덮친 '차이나머니' 공포",
+      "url": "https://www.hankyung.com/article/2026061453491",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 17:53:36 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "제네시스에 '레이싱 DNA' 심는 정의선…현대차의 다음 10년 승부수",
+      "url": "https://www.hankyung.com/article/2026061452317",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 17:31:57 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "전쟁發 에너지 대란에도 석탄 수입 단가는 하락",
+      "url": "https://www.hankyung.com/article/2026061452001",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 17:10:11 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "사과보다 당도 높은 초당 옥수수, 개당 1500원 안팎",
+      "url": "https://www.hankyung.com/article/2026061451991",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 17:09:40 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "15일부터 배달앱서 '마감할인'…파리바게뜨 등 50% 싸게",
+      "url": "https://www.hankyung.com/article/2026061452031",
+      "summary": "",
+      "published": "Sun, 14 Jun 2026 17:08:53 +0900",
+      "scraped_at": "2026-06-14T11:49:29.974Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "李 \"창을 쳐서 낫 만들자… 남북 평화에 온힘 다할것\"",
+      "url": "https://www.mk.co.kr/news/politics/12073879",
+      "summary": "이탈리아를 국빈방문 중인 이재명 대통령이 14일(현지시간) 남북 관계에 대해 \"저는 지금도 그 희망의 불씨가 살아 있다고 굳게 믿는다\"며 \"정전 상태를 넘어 지속가능한 평화 체제를..",
+      "published": "Sun, 14 Jun 2026 19:00:00 +09:00",
+      "scraped_at": "2026-06-14T11:49:31.369Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금감원, '스페이스X 0주 배정' 미래에셋 검사…투자자보호 파악",
+      "url": "https://www.yna.co.kr/view/AKR20260614048300002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 금융감독원이 미래에셋증권[006800]에 배정 예정이었던 스페이스X 공모주 물량이 전량 삭감된 사태와 관련해 ...",
+      "published": "Sun, 14 Jun 2026 19:46:34 +0900",
+      "scraped_at": "2026-06-14T11:49:32.845Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "스페이스X 공모주 '0주'에 투자자들 '부글부글'…\"배신감\"",
+      "url": "https://www.yna.co.kr/view/AKR20260614044300008",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 미국 우주기업 스페이스X의 공모주 인수단에 참여했던 미래에셋증권[006800]이 공모주 물량 확보에 실패하면서...",
+      "published": "Sun, 14 Jun 2026 19:08:24 +0900",
+      "scraped_at": "2026-06-14T11:49:32.845Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한미 당국자, 미국서 회동…'원화 약세 대응 공조' 방침 확인",
+      "url": "https://www.yna.co.kr/view/AKR20260614043200002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 최근 원/달러 환율이 1,500원대에서 고공행진 하는 가운데 한미 외환 당국 고위 관계자가 만나 원화 약세 대...",
+      "published": "Sun, 14 Jun 2026 18:10:01 +0900",
+      "scraped_at": "2026-06-14T11:49:32.845Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Is Gaining Access to New Catastrophe Models to Help Predict Wars",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/wall-street-gets-access-to-new-catastrophe-models-to-predict-wars",
+      "summary": "As Wall Street races to incorporate war into its risk scenarios, the same people modeling natural catastrophes are now adapting their methodology to help investors, banks and insurers predict military conflicts.",
+      "published": "Sun, 14 Jun 2026 09:00:00 GMT",
+      "scraped_at": "2026-06-14T11:49:33.294Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -17210,386 +17560,6 @@
       "summary": "Partners Group Holding AG co-founder Alfred Gantner said the firm’s recent share-price decline was a “massive overreaction” and blamed unfounded attacks by short-seller Grizzly Research.",
       "published": "Sun, 07 Jun 2026 08:25:50 GMT",
       "scraped_at": "2026-06-07T13:22:22.478Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "OECD \"내년 韓 잠재성장률 1.5% 밑돌 것\"",
-      "url": "https://www.hankyung.com/article/2026060717991",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:36:15 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "지난달 114조원 쏟았지만…엔저 못 막은 日",
-      "url": "https://www.hankyung.com/article/2026060718001",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:35:57 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "젠슨 황 방한 스케쥴 의도는? 딸 매디슨의 치밀한 전략 있었다",
-      "url": "https://www.hankyung.com/article/2026060716167",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:35:01 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "주담대 금리 연 7.3%…3년8개월 만에 최고",
-      "url": "https://www.hankyung.com/article/2026060716991",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:34:47 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "AI로 주 1.5시간 아꼈지만…생산성 향상 제로라고?",
-      "url": "https://www.hankyung.com/article/2026060717001",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:34:30 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "60조 잭팟 터질라…1년 만에 '92% 급등' 들썩이는 종목",
-      "url": "https://www.hankyung.com/article/2026060717461",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:34:29 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "K방산 호황에도 희비 갈린 소부장株…무기 성능 좌우할 '핵심 부품사' 질주",
-      "url": "https://www.hankyung.com/article/2026060717451",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:34:04 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'수주전 빅2' KDDX·加잠수함…이달 중 사업자 윤곽 나온다",
-      "url": "https://www.hankyung.com/article/2026060717431",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:32:39 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토+] 젠슨 황, '치맥-삼쏘 이어 관중들과 맥주 한 잔'",
-      "url": "https://www.hankyung.com/article/2026060718287",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:27:06 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'최대 5억 보장' 개인용 드론보험",
-      "url": "https://www.hankyung.com/article/2026060717581",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:21:15 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "미래보다 현재가 중요한 MZ세대, 보험에 소극적인 마음 돌리려면…",
-      "url": "https://www.hankyung.com/article/2026060717601",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:20:53 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "직장인 자녀 생활비 보태주면 증여세 낼까?",
-      "url": "https://www.hankyung.com/article/2026060717041",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:20:27 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "가계 빚 2000조 시대, 정기보험이 필요한 이유",
-      "url": "https://www.hankyung.com/article/2026060717031",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:20:10 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토+] 잠실에 뜬 젠슨 황, '박정원 회장과 멋진 시구'",
-      "url": "https://www.hankyung.com/article/2026060718227",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:19:48 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'행동주의 표적'된 기업 60곳…벌써 작년 전체 넘었다",
-      "url": "https://www.hankyung.com/article/2026060717681",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:18:49 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "농협은행, 한화솔루션 태양광 전력 더 산다",
-      "url": "https://www.hankyung.com/article/2026060717671",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:18:26 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "상의, 내달 제주포럼…기업인 600여명 집결",
-      "url": "https://www.hankyung.com/article/2026060717661",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:18:09 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'삼전닉스' 영업익 150조…2분기 또 사상최대 전망",
-      "url": "https://www.hankyung.com/article/2026060717701",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:17:59 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] LG전자, 기후변화 글로벌 캠페인",
-      "url": "https://www.hankyung.com/article/2026060717711",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:17:40 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "탄소배출권값 급등에 웃는 LX인터",
-      "url": "https://www.hankyung.com/article/2026060717721",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:17:05 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "이주성 가구협회장 \"中企 디지털 전환 지원\"",
-      "url": "https://www.hankyung.com/article/2026060717151",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:13:38 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "하수처리장에 데이터센터 결합…냉각비 줄이고 부지 가치 높여",
-      "url": "https://www.hankyung.com/article/2026060717161",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:13:15 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 칼라일, 청호나이스 매매계약 체결",
-      "url": "https://www.hankyung.com/article/2026060717181",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:12:44 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "젠슨 황 '피지컬 AI 생태계' 빅픽처…핵심 파트너로 한국 찍었다",
-      "url": "https://www.hankyung.com/article/2026060717911",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 18:11:23 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 젠슨 황 시구, 박정원 시타…잠실이 '들썩'",
-      "url": "https://www.hankyung.com/article/2026060717841",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:57:25 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "젠슨 황, 잠실야구장서 두산과 '피지컬AI' 논의…광폭 행보",
-      "url": "https://www.hankyung.com/article/2026060717507",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:54:58 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "1600원 향하는 환율…2분기 원·달러, 외환위기 후 최고",
-      "url": "https://www.hankyung.com/article/2026060717831",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:54:02 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "韓주식 보유하지만 원화는 판다…환율 쏠림 키우는 '외국인 환헤지'",
-      "url": "https://www.hankyung.com/article/2026060717981",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:52:55 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "야구장서 한국 치킨 '샤라웃'한 젠슨 황…\"치맥보다 좋은 것 없다\"",
-      "url": "https://www.hankyung.com/article/2026060716597",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:39:50 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "포스코그룹, '2026 글로벌 볼런티어 위크' 9일간 진행…장인화 회장도 동참",
-      "url": "https://www.hankyung.com/article/202606071706i",
-      "summary": "",
-      "published": "Sun, 07 Jun 2026 17:38:02 +0900",
-      "scraped_at": "2026-06-07T10:22:01.875Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "시진핑 방북 하루전날 … 北 \"핵보유 지위 불퇴\"",
-      "url": "https://www.mk.co.kr/news/politics/12067922",
-      "summary": "시진핑 중국 국가주석이 8~9일 북한 평양을 방문할 예정인 가운데 북한 지도부가 핵무기를 포기하지 않겠다는 의지를 대외에 공표했다.\n7일 노동신문에 따르면 김여정 북한 노동당 총무..",
-      "published": "Sun, 07 Jun 2026 18:03:49 +09:00",
-      "scraped_at": "2026-06-07T10:22:02.839Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "北 여자축구팀 우승에…이 대통령 “우린 다시 만날 것”",
-      "url": "https://www.mk.co.kr/news/politics/12056430",
-      "summary": "내고향여자축구단 AFC 우승 李 “평화·화합 되새기는 계기”이재명 대통령이 북한 평양시 소속 ‘내고향여자축구단’의 아시아축구연맹(AFC) 여자 챔피언스리그 우승을 축하했다. 한국에..",
-      "published": "Sun, 24 May 2026 10:42:24 +09:00",
-      "scraped_at": "2026-06-07T10:22:02.839Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "레미콘 노조 8일 휴업 돌입…수도권 1만1천대 운송 중단",
-      "url": "https://www.yna.co.kr/view/AKR20260607038900003",
-      "summary": "(서울=연합뉴스) 오진송 기자 = 레미콘 운송 노동조합이 사측에 임금 및 단체협약(임단협) 체결 등을 요구하며 8일부터 휴업에 들어간다.",
-      "published": "Sun, 7 Jun 2026 17:15:36 +0900",
-      "scraped_at": "2026-06-07T10:22:03.926Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "F4 \"원화약세 편승한 투기적 움직임 점검해 엄정한 조치할 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20260607034700002",
-      "summary": "(세종=연합뉴스) 이세원 안채원 기자 = 자금·외환시장을 규율하는 4개 기관장은 최근 원화 약세 흐름에 편승한 투기적 수요가 엿보인다며 시장 교...",
-      "published": "Sun, 7 Jun 2026 16:55:46 +0900",
-      "scraped_at": "2026-06-07T10:22:03.926Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "中企·소상공인업계, 한성숙 총리 지명 환영…\"AI 전환 적임자\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260607034351030",
-      "summary": "(서울=연합뉴스) 구정모 기자 = 중소기업계와 소상공인업계, 벤처·기술혁신 업계는 7일 한성숙 중소벤처기업부 장관의 국무총리 후보자 지명을 일제...",
-      "published": "Sun, 7 Jun 2026 16:52:30 +0900",
-      "scraped_at": "2026-06-07T10:22:03.926Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "OpenAI Readies ‘Superapp’ Pivot Ahead of Planned IPO, FT Reports",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/openai-plans-superapp-pivot-ahead-of-planned-ipo-ft-reports",
-      "summary": "OpenAI is readying a major platform overhaul ahead of its highly anticipated IPO later this year to better compete with rivals such as Anthropic, the Financial Times reported.",
-      "published": "Sun, 07 Jun 2026 10:08:43 GMT",
-      "scraped_at": "2026-06-07T10:22:04.231Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "South Korea Unveils Measures to Stem Won Slide, Curb Speculation",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/south-korea-unveils-measures-to-stem-won-slide-curb-speculation",
-      "summary": "South Korea laid out a series of targeted measures to curb pressure on the won after the currency slid to its weakest level since 2009, pledging firm action against speculative trading and other activities that authorities said had amplified recent market swings.",
-      "published": "Sun, 07 Jun 2026 09:07:11 GMT",
-      "scraped_at": "2026-06-07T10:22:04.231Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fire Erupts on Luxury Yacht Near Singapore's Sentosa Cove",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-07/fire-erupts-on-luxury-yacht-near-singapore-s-sentosa-cove",
-      "summary": "Firefighters attempt to extinguish a fire that broke out on a luxury yacht berthed in Singapore's Sentosa Cove. (Source: Bloomberg)",
-      "published": "Sun, 07 Jun 2026 08:23:25 GMT",
-      "scraped_at": "2026-06-07T10:22:04.231Z"
     }
   ]
 }
