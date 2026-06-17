@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-06-17T16:51:05.526Z",
+  "updated_at": "2026-06-17T20:00:29.429Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[속보] 美 Fed, 기준금리 연 3.5~3.75%로 동결 [Fed워치]",
+      "url": "https://www.hankyung.com/article/202606183059i",
+      "summary": "",
+      "published": "Thu, 18 Jun 2026 03:00:44 +0900",
+      "scraped_at": "2026-06-17T20:00:23.938Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "북한, 근거리미사일·방사포 섞어쏘기 시험…대남 정밀타격 역량 과시",
+      "url": "https://www.mk.co.kr/news/politics/12058596",
+      "summary": "“전술순항미사일 남부국경 배치” 전방부대 정밀타격 상설화 노려북한이 27일 관영매체를 통해 전날 김정은 국무위원장이 참관한 가운데 ‘경량급 다용도 미사일 발사체계’와 ‘다연장 전술..",
+      "published": "Wed, 27 May 2026 11:09:10 +09:00",
+      "scraped_at": "2026-06-17T20:00:25.085Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "美국채금리, 점도표 '연내 금리인상' 시사에 급등세…2년물 4.2%",
+      "url": "https://www.yna.co.kr/view/AKR20260618008700072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 17일(현지시간) 신임 케빈 워시 의장 체제하에 개최한 첫 연방...",
+      "published": "Thu, 18 Jun 2026 04:34:22 +0900",
+      "scraped_at": "2026-06-17T20:00:27.969Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국제유가 \"합의안 최종아냐\" 트럼프 발언에 반등…브렌트 0.7%↑",
+      "url": "https://www.yna.co.kr/view/AKR20260618009100072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미 대통령이 이란과의 종전 양해각서(MOU)가 양측의 최종 합의안이 아니며 이란이 제대로 행동...",
+      "published": "Thu, 18 Jun 2026 04:21:29 +0900",
+      "scraped_at": "2026-06-17T20:00:27.969Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "워시의 美연준 '완화편향' 문구 삭제…점도표는 연내인상 반영",
+      "url": "https://www.yna.co.kr/view/AKR20260618007400072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 17일(현지시간) 케빈 워시 신임 의장 체제에서 처음 열린 미 연방준비제도(Fed·연준)의 연방공개시장위원회...",
+      "published": "Thu, 18 Jun 2026 04:03:16 +0900",
+      "scraped_at": "2026-06-17T20:00:27.969Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "달러-원, FOMC 결과 앞두고 상승폭 확대…1,515.50원 마감",
+      "url": "https://www.yna.co.kr/view/AKR20260618002700002",
+      "summary": "*그림1*",
+      "published": "Thu, 18 Jun 2026 02:42:27 +0900",
+      "scraped_at": "2026-06-17T20:00:27.969Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "LIV CEO Lays Out Plans To Keep League Alive",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/liv-ceo-lays-out-plans-to-keep-league-alive-video",
+      "summary": "Scott O'Neil, CEO of LIV Golf, joins Dani Burger and Scarlet Fu on \"Bloomberg Deals.\" LIV Golf has begun laying the groundwork for a potential US bankruptcy filing if it fails to raise new funds, according to people familiar with the matter. The golf league is currently looking for money after its m",
+      "published": "Wed, 17 Jun 2026 19:46:14 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Yen Slides to Weakest Level Versus Dollar Since July 2024",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/yen-slides-to-weakest-level-versus-dollar-since-july-2024-mqih9kot",
+      "summary": "The yen slumped to its weakest level against the US dollar since July 2024, raising the risk of official intervention to prop it up.",
+      "published": "Wed, 17 Jun 2026 19:42:20 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "J&J Is Focused on Fighting Cancer, Not Obesity Drugs, CEO Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/j-j-is-focused-on-cancer-not-obesity-drugs-ceo-says-video",
+      "summary": "Johnson & Johnson has no plans to enter the booming obesity market, opting instead to focus on diseases such as cancer, CEO Joaquin Duato said in an interview for an upcoming episode of The David Rubenstein Show: Peer to Peer Conversations. The comments set J&J apart from many of its rivals that are",
+      "published": "Wed, 17 Jun 2026 19:37:09 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Traders Fully Price in a Rate Hike by October on Hawkish Fed",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/us-yields-jump-as-fed-dots-boost-trader-bets-on-a-2026-rate-hike",
+      "summary": "Short-dated US Treasury yields leaped as Federal Reserve officials signaled they expect an interest-rate hike in the coming months, pushing traders to fully price in higher borrowing costs by October.",
+      "published": "Wed, 17 Jun 2026 18:18:05 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed's Warsh Says He Doesn't Think Submitting Dots Is Helpful",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/fed-s-warsh-says-he-thinks-submitting-dots-isn-t-helpful-video",
+      "summary": "Federal Reserve Chair Kevin Warsh says his colleagues have been \"very open\" about changes during a news conference after the Fed decided to leave rate unchanged. (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 19:19:51 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "PE Must Be Proactive to Drive Transactions: Bain's Gordon",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/pe-must-be-proactive-to-drive-transactions-chris-gordon-video",
+      "summary": "Chris Gordon, co-head of the global private equity at Bain Capital, joins Dani Burger on \"Bloomberg Deals.\" (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 19:16:14 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Seeking to Raise $300M, Create Unique Structure: LIV CEO",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/seeking-to-raise-300m-create-unique-structure-liv-ceo-video",
+      "summary": "Scott O'Neil, CEO of LIV Golf, joins Dani Burger and Scarlet Fu on \"Bloomberg Deals.\" LIV Golf has begun laying the groundwork for a potential US bankruptcy filing if it fails to raise new funds, according to people familiar with the matter. The golf league is currently looking for money after its m",
+      "published": "Wed, 17 Jun 2026 19:09:54 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed Getting US Ready for Rate Hikes, JPMorgan's Michele Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/fed-getting-us-ready-for-rate-hikes-jpm-s-michele-says-video",
+      "summary": "Bob Michele, JPMorgan Asset Management's global head of fixed income, says the Federal Reserve's policy-setting Federal Open Market Committee is showing a hawkish tilt after its decision to leave rates unchanged. He speaks on \"Bloomberg Surveillance: The Fed Decides.\" (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 18:38:59 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bass Pro Shops Is Buying a Luxury Florida Keys Fishing Lodge",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/bass-pro-shops-is-buying-a-luxury-florida-keys-fishing-lodge",
+      "summary": "Outdoor retailer Bass Pro Shops is buying a historic fishing lodge in the Florida Keys, adding another luxury hotel to its growing portfolio.",
+      "published": "Wed, 17 Jun 2026 18:22:16 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Stellantis Is in Talks With Two Possible Partners for Maserati",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/stellantis-is-in-talks-with-two-possible-partners-for-maserati",
+      "summary": "Stellantis NV Chief Executive Officer Antonio Filosa said the company is in talks with two potential partners for Maserati, which will have implications for the plants producing the ailing luxury’s brand’s cars.",
+      "published": "Wed, 17 Jun 2026 18:14:21 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed's Warsh 'Destined to Disappoint' Trump, JPMorgan's Michele Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/warsh-destined-to-disappoint-trump-jpm-s-michele-says-video",
+      "summary": "\"We have to accept the economy is in pretty good shape,\" Bob Michele, JPMorgan Asset Management's global head of fixed income, says during an interview on \"Bloomberg Surveillance: The Fed Decides.\" (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 18:00:16 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Books That Influenced Elon Musk",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/books-that-influenced-elon-musk-video",
+      "summary": "On \"Bloomberg Money\" Scarlet Fu and Tom Keene discuss the books that influenced Elon Musk. This was from the episode on June 12. (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 16:53:41 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Maybe the Market Was Never Expensive",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-17/maybe-the-market-was-never-expensive",
+      "summary": "If only we had known what was coming.",
+      "published": "Wed, 17 Jun 2026 17:51:37 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "UniQure Shares Soar After FDA Reversal on Its Huntington’s Therapy",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/uniqure-resolves-huntington-s-dispute-will-file-for-us-approval",
+      "summary": "UniQure NV shares soared after the company announced it will be able to seek US approval for its Huntington’s disease gene therapy before conducting a new study, a dramatic reversal that shows the Trump administration is relaxing its previous hard-line stance on drug reviews.",
+      "published": "Wed, 17 Jun 2026 11:27:15 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SpaceX Fuels AI Boom Higher | Open Interest 6/17/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/open-interest-6-17-2026-video",
+      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Kevin Warsh's big day—America’s new Fed Chair takes center stage as markets split on the path for rates. At the G7, President Trump warns the US could return to military action if an Iran deal falls",
+      "published": "Wed, 17 Jun 2026 17:35:41 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "A First-Ever Default Shakes an $80 Billion Corner of Muni Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/a-first-ever-default-shakes-an-80-billion-corner-of-muni-market",
+      "summary": "More than two decades after Wall Street started pumping out a new type of bonds — those backed by the legal-settlement payments governments receive from cigarette companies — one batch has finally been driven into a default. It almost certainly won’t be the last.",
+      "published": "Wed, 17 Jun 2026 17:25:43 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Operar día y noche: el cambio cultural que se aproxima a Wall Street",
+      "url": "https://www.bloomberg.com/news/features/2026-06-17/wall-street-avanza-hacia-mercados-24-7-por-presion-cripto",
+      "summary": "Las entidades financieras tradicionales están empezando a evaluar modelos de negociación ininterrumpida de diversos activos, de una forma que lleva años revolucionando los horarios en el sector cripto.",
+      "published": "Wed, 17 Jun 2026 17:16:33 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump Says Iran Deal to Be Signed by Thursday or Friday",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-17/trump-says-iran-deal-to-be-signed-by-friday-video",
+      "summary": "\"The deal we reached with Iran on Sunday will be signed shortly, tomorrow, maybe the next day,” President Donald Trump said during a press conference at the G7 summit in France.  (Source: Bloomberg)",
+      "published": "Wed, 17 Jun 2026 17:13:06 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Revives Risky Loan Deals That Banks Couldn’t Sell",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/wall-street-revives-risky-loan-deals-that-banks-couldn-t-sell",
+      "summary": "Wall Street banks are looking to make the most of rising demand for risky debt with a raft of leveraged loan sales that they previously couldn’t sell.",
+      "published": "Wed, 17 Jun 2026 17:11:55 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazilian Nickel Seeks Anchor Investor for $1.4 Billion Mine",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/brazilian-nickel-seeks-anchor-investor-for-1-4-billion-mine",
+      "summary": "Brazilian Nickel Ltd. is seeking an anchor investor to help attract more equity funding for its planned $1.4 billion nickel and cobalt mine in northeastern Brazil.",
+      "published": "Wed, 17 Jun 2026 17:00:00 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "India’s Largest Bourse NSE Files Draft Papers for Landmark IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/india-s-largest-bourse-nse-files-draft-papers-for-landmark-ipo",
+      "summary": "National Stock Exchange of India Ltd., the operator of the world’s busiest derivatives market, has filed draft documents for what’s on track to be one of the largest initial public offerings in India’s history.",
+      "published": "Wed, 17 Jun 2026 16:57:35 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brevan Howard Prepares to Start Backing External Stocks Traders",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/brevan-howard-prepares-to-start-backing-external-stocks-traders",
+      "summary": "Brevan Howard Asset Management is preparing to give money to stocks-focused hedge funds, adding to a wave of giant firms forking over cash to outside talent.",
+      "published": "Wed, 17 Jun 2026 16:56:37 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Warsh Says ‘We Had a Good Family Fight’ on Fed Policy",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-06-17/fed-rate-decision-and-warsh-briefing-live-updates",
+      "summary": "",
+      "published": "Wed, 17 Jun 2026 16:45:30 GMT",
+      "scraped_at": "2026-06-17T20:00:28.192Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -16600,266 +16890,6 @@
       "summary": "Matt Kennedy, senior strategist at Renaissance Capital, and Josef Schuster, founder and CEO of IPOX Schuster, join Matt Miller on \"Bloomberg Deals.\" SpaceX is offering 555.6 million shares at a fixed price of $135 each, which would raise about $75 billion. The stock is set to start trading on June 1",
       "published": "Wed, 10 Jun 2026 18:39:43 GMT",
       "scraped_at": "2026-06-10T21:54:21.273Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "오폰AI 올트먼,올해 아닌 \"내년중 IPO 예상\"",
-      "url": "https://www.hankyung.com/article/202606119410i",
-      "summary": "",
-      "published": "Thu, 11 Jun 2026 01:25:07 +0900",
-      "scraped_at": "2026-06-10T18:24:31.378Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "아마존,26조원 대출계약…빅테크들 자금 조달 러시",
-      "url": "https://www.hankyung.com/article/202606119397i",
-      "summary": "",
-      "published": "Thu, 11 Jun 2026 00:52:51 +0900",
-      "scraped_at": "2026-06-10T18:24:31.378Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'결국 4%대' 인플레의 이면…수급 지옥에 빠진 기술주 [빈난새의 개장전요것만]",
-      "url": "https://www.hankyung.com/article/202606109373i",
-      "summary": "",
-      "published": "Thu, 11 Jun 2026 00:09:28 +0900",
-      "scraped_at": "2026-06-10T18:24:31.378Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "한라대, 원산갈마 관광지구 세미나",
-      "url": "https://www.mk.co.kr/news/politics/12071115",
-      "summary": "12일 서울 코엑스서 컨퍼런스 원산갈마해안관광지구와 환동해경제벨트 전략한라대학교(총장 김응권)는 (재)통일과나눔, 한국관광공사와 함께 12일 오후 2시 서울 코엑스(COEX) 32..",
-      "published": "Thu, 11 Jun 2026 00:53:14 +09:00",
-      "scraped_at": "2026-06-10T18:24:32.293Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한-EU, 디지털 통상협정 체결…'디지털 교역' 기반 대폭 확장",
-      "url": "https://www.yna.co.kr/view/AKR20260610169100001",
-      "summary": "(브뤼셀=연합뉴스) 임형섭 고동욱 기자 = 한국과 유럽연합(EU)은 10일(현지시간) 이재명 대통령과 안토니우 코스타 EU 정상회의 상임의장, ...",
-      "published": "Thu, 11 Jun 2026 00:17:26 +0900",
-      "scraped_at": "2026-06-10T18:24:34.028Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX Leaves Some Banks Peeved at Junior Roles in IPO Lineup",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-leaves-some-banks-peeved-at-junior-roles-in-ipo-lineup",
-      "summary": "Several junior banks marketing shares in SpaceX’s landmark listing are working for relatively small fees and being relegated to roles that don’t come with any credit, according to people familiar with the matter.",
-      "published": "Wed, 10 Jun 2026 18:14:13 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Sparks Fly at Brexit Debate",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/sparks-fly-at-brexit-debate-video",
-      "summary": "Old Brexit foes, Alastair Campbell, co-host The Rest Is Politics, and Sir Jacob Rees-Mogg, presenter for GB News, debate over Brexit at a Bloomberg.com subscriber-only event hosted by Mishal Husain held in London on June 10. (Source: Bloomberg)",
-      "published": "Wed, 10 Jun 2026 17:55:43 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tensions Still High 10 Years After Brexit",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/tensions-still-high-10-years-after-brexit-video",
-      "summary": "Alastair Campbell, co-host The Rest Is Politics and Sir Jacob Rees-Mogg, presenter for GB News, debate the impact of Brexit, a defining moment in British history. They speak to Mishal Husain at a Bloomberg.com subscriber-only event held in London on June 10. (Source: Bloomberg)",
-      "published": "Wed, 10 Jun 2026 18:00:43 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UK’s Reeves to Lower Tax Burden for Wealthy US Expats",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/uk-s-reeves-to-lower-tax-burden-for-wealthy-us-expats",
-      "summary": "Chancellor of the Exchequer Rachel Reeves said she will ease the tax burden faced by rich US investors wanting to relocate to the UK.",
-      "published": "Wed, 10 Jun 2026 17:59:35 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX IPO Draws Billions in Orders",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/spacex-ipo-draws-billions-in-orders-video",
-      "summary": "Bloomberg's Ed Ludlow and Bailey Lipschultz joins Matt Miller on \"Bloomberg Deals.\" SpaceX is offering 555.6 million shares at a fixed price of $135 each, which would raise about $75 billion. The stock is set to start trading on June 12. The IPO is expected to rank as the biggest ever, topping Saudi",
-      "published": "Wed, 10 Jun 2026 17:47:33 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Who Is Your Dream Odd Lots Guest?",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/who-is-your-dream-odd-lots-guest-video",
-      "summary": "We caught up with listeners before the Odd Lots live recording at City Winery to hear their favorite episodes, most unexpected takeaways and dream guest picks.\n\nThe answers covered everything from logging in Canada to behavioral economics—and a few very ambitious guest requests.  (Source: Bloomberg)",
-      "published": "Wed, 10 Jun 2026 17:43:53 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Under Pressure as SpaceX Mania Grows | Open Interest 6/10/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/open-interest-6-10-2026-video",
-      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg: Open Interest.\" A relatively tame inflation report brings some relief to Wall Street, even as tensions in the Middle East continue to weigh on sentiment. President Trump warns Iran will pay a price for taking too ",
-      "published": "Wed, 10 Jun 2026 17:38:08 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Amazon’s Record Bond Deal Shakes Up Canada’s Credit Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/amazon-s-record-bond-deal-shakes-up-canada-s-credit-market",
-      "summary": "Amazon.com Inc.’s record loonie bond sale has the Canadian fixed income market working hard to accommodate the deluge of debt, pushing risk spreads higher and spurring other borrowers to delay note sales of their own.",
-      "published": "Wed, 10 Jun 2026 17:28:26 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warburg CEO Calls IPO Market ‘Broken’ Even Amid Giant Offerings",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/warburg-ceo-calls-ipo-market-broken-amid-giant-offerings-video",
-      "summary": "Bloomberg's Dani Burger speaks with Warburg Pincus CEO Jeffrey Perlman at the SuperReturn conference in Berlin. They discuss US IPOs as the current pipeline is now worth some $3.6 trillion.\n\n (Source: Bloomberg)",
-      "published": "Wed, 10 Jun 2026 16:27:50 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Sitting Out the SpaceX IPO? Why That’s Hard to Do",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/how-the-spacex-ipo-will-affect-portfolios-and-everyday-investors",
-      "summary": "Wall Street has been fixated on the stock market debut of Elon Musk’s SpaceX. The rocket-and-AI company’s initial public offering on June 12 is set to be the largest in history.",
-      "published": "Wed, 10 Jun 2026 17:15:49 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX IPO Is Said to Be More Than Four Times Oversubscribed",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-ipo-is-said-to-be-more-than-four-times-oversubscribed",
-      "summary": "SpaceX’s initial public offering has attracted demand for more than four times the available shares, according to people familiar with the matter, ahead of the Elon Musk-led rocket, satellite and artificial intelligence firm stopping taking orders.",
-      "published": "Wed, 10 Jun 2026 17:15:05 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ashley’s Frasers Seeks to Buy Rest of Boss for $2.3 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/ashley-s-frasers-offers-to-buy-hugo-boss-in-3-1-billion-deal",
-      "summary": "Frasers Group Plc offered to buy the rest of Hugo Boss AG for about €2 billion ($2.3 billion) as billionaire Mike Ashley seeks to add another fashion brand to his growing collection.",
-      "published": "Wed, 10 Jun 2026 16:45:02 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Drugmaker Parabilis Soars 67% After $745 Million IPO, Placement",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/drugmaker-parabilis-soars-67-after-745-million-ipo-placement",
-      "summary": "Parabilis Medicines Inc. shares jumped as much as 67% in its trading debut, after the company raised nearly $745 million in an upsized US initial public offering that priced above its marketed range and a private placement.",
-      "published": "Wed, 10 Jun 2026 17:10:06 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX Holder Says Orbital Data-Centers Offer Big Payoff, Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-holder-sees-large-risk-on-orbital-data-centers",
-      "summary": "SpaceX’s $1.75 trillion initial public offering highlights the potential upside — and downside — from Elon Musk’s bold vision to place data centers in Earth orbit, according to one of the company’s private investors.",
-      "published": "Wed, 10 Jun 2026 17:06:46 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "TrueCar's Scott Painter on Elon Musk and SpaceX",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/truecar-s-scott-painter-on-elon-musk-and-spacex-video",
-      "summary": "SpaceX fever is spreading fast as investors rush into the record-breaking IPO. But before it became a global powerhouse, SpaceX was a startup fighting for survival. TrueCar founder and longtime Elon Musk adviser Scott Painter shares insight into Musk's entrepreneurial journey and SpaceX's early days",
-      "published": "Wed, 10 Jun 2026 17:00:20 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Seanergy Sees Strength in Commodity Demand",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/seanergy-sees-strength-in-commodity-demand-video",
-      "summary": "While markets watch the Strait of Hormuz, strong demand for coal, infrastructure materials, and other commodities continues to support dry bulk shipping. Stamatis Tsantanis, CEO of Seanergy Maritime and United Maritime, discusses the global demand outlook on 'Bloomberg Open Interest.' (Source: Bloom",
-      "published": "Wed, 10 Jun 2026 17:00:10 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "'There's A Ton of Dry Powder': Latham & Watkins' Kelly",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/-there-s-a-ton-of-dry-powder-latham-watkins-kelly-video",
-      "summary": "Alex Kelly, global co-chair of the M&A and Private Equity Practice at Latham & Watkins, joins Dani Burger on \"Bloomberg Deals.\" They speak at the SuperReturn conference in Berlin. (Source: Bloomberg)",
-      "published": "Wed, 10 Jun 2026 16:50:25 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Crunch Is Stoking Asia’s Demand for Coal, Shipping CEO Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/china-restocks-massive-coal-amounts-as-strait-of-hormuz-closure-reshapes-energy",
-      "summary": "Coal is emerging as an increasingly attractive alternative to oil for energy-starved countries across Asia, according to Stamatis Tsantanis, chief executive officer of Seanergy Maritime Holdings Corp.",
-      "published": "Wed, 10 Jun 2026 16:37:42 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Subprime Auto Dealer America’s Car-Mart Seeks Rescue Funds",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/subprime-auto-dealer-america-s-car-mart-seeks-rescue-financing",
-      "summary": "America’s Car-Mart Inc., a used car seller and subprime lender, is working on an eleventh hour capital raise to stave off a potential bankruptcy filing after a cash crunch put the company on the verge of default, according to people familiar with the matter.",
-      "published": "Wed, 10 Jun 2026 14:48:17 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "European Stocks Steady With ECB in Focus After US Inflation Data",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/european-stocks-rise-lifted-by-stmicro-personal-care-sector",
-      "summary": "European stocks were muted as a key report on US inflation offered some relief to investors, with attention now turning to the European Central Bank’s policy decision.",
-      "published": "Wed, 10 Jun 2026 07:30:30 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Traders Keep Bets on a Fed Hike in 2026 After CPI Data",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/traders-keep-bets-on-a-fed-hike-in-2026-after-cpi-data-video",
-      "summary": "Bond traders maintained bets that the Federal Reserve will raise interest rates by the end of the year, even after a soft US core inflation reading eased pressure on Chairman Kevin Warsh to act sooner. \nSree Kochugovindan, Senior Research Economist at Aberdeen, discusses the path forward for the Fed",
-      "published": "Wed, 10 Jun 2026 16:02:40 GMT",
-      "scraped_at": "2026-06-10T18:24:34.245Z"
     }
   ]
 }
