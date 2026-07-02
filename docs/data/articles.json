@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-07-02T13:30:13.446Z",
+  "updated_at": "2026-07-02T15:59:36.657Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "삼성 파운드리, 美 앤트로픽 '2나노 AI 칩' 개발",
+      "url": "https://www.hankyung.com/article/202607023060i",
+      "summary": "",
+      "published": "Thu, 02 Jul 2026 23:26:17 +0900",
+      "scraped_at": "2026-07-02T15:59:33.263Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "LH 신임 사장에 이성훈 국토교통비서관",
+      "url": "https://www.yna.co.kr/view/AKR20260703000700003",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 약 8개월간 공석이던 한국토지주택공사(LH) 사장에 이성훈 청와대 국토교통비서관이 낙점됐다.",
+      "published": "Fri, 3 Jul 2026 00:25:43 +0900",
+      "scraped_at": "2026-07-02T15:59:35.401Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금감원, '홈플러스 사태' MBK에 '직무정지'…GP 대상 첫 중징계",
+      "url": "https://www.yna.co.kr/view/AKR20260702170100002",
+      "summary": "(서울=연합뉴스) 강수련 김지연 기자 = 금융감독원이 홈플러스 사태와 관련 MBK파트너스에 '직무정지'를 포함한 중징계를 결정한 것으로 알려졌다...",
+      "published": "Thu, 2 Jul 2026 23:00:58 +0900",
+      "scraped_at": "2026-07-02T15:59:35.401Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "DOJ Probes Alleged Insider Trading Scheme That Stung Susquehanna",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/doj-probes-alleged-insider-trading-scheme-that-stung-susquehanna",
+      "summary": "The Justice Department is looking into Susquehanna International Group’s allegations that unknown insider traders made $100 million on options bets placed ahead of a recent Chinese regulatory crackdown on cross-border brokerages, according to people familiar with the matter.",
+      "published": "Thu, 02 Jul 2026 15:37:09 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "EG Group’s Gas-Station Firm Cumberland Farms Files for US IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/eg-group-s-gas-station-firm-cumberland-farms-files-for-us-ipo",
+      "summary": "Cumberland Farms Ltd, the gas station and convenience store operator, filed for a US initial public offering, joining a rush of debuts that’s powered a record start to the year.",
+      "published": "Thu, 02 Jul 2026 15:36:27 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Florida’s Brightline Taps Reserves to Make Key Bond Payments",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/florida-s-brightline-taps-reserves-to-make-key-bond-payments",
+      "summary": "Brightline, the debt-laden Florida private railroad, tapped reserves to made a July 1 interest payment due to holders of its senior municipal bonds and corporate notes, according to people familiar with the matter.",
+      "published": "Thu, 02 Jul 2026 15:19:12 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bloomberg Surveillance 7/2/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-surveillance-7-2-2026-video",
+      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 15:16:27 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The German Warship Reversal That Sank a Landmark Tank IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/the-germany-warship-reversal-that-also-sunk-a-landmark-tank-ipo",
+      "summary": "It’s been a rough few weeks for Europe’s ambitious rearmament efforts.",
+      "published": "Thu, 02 Jul 2026 14:22:28 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SAS CEO Is Likely Air Canada Boss After Crash Video Debacle",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/sas-ceo-emerges-as-possible-air-canada-boss-after-french-debacle",
+      "summary": "SAS AB Chief Executive Officer Anko van der Werff is emerging as a frontrunner to lead Air Canada, according to people familiar with the matter, succeeding Michael Rousseau, who said in March he’d leave after a public outcry over the his omission to speak French in a corporate video.",
+      "published": "Thu, 02 Jul 2026 14:52:19 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "America Runs on Natural Gas: Fuel Set to Surpass Oil as US Top Energy Source by 2030",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/america-runs-on-natural-gas-fuel-set-to-surpass-oil-as-us-top-energy-source",
+      "summary": "For 75 years, petroleum has been the energy source that has powered the US more than any other. That’s about to change.",
+      "published": "Thu, 02 Jul 2026 15:06:06 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Hiring Slows Sharply, Curbing Job-Market Momentum",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-hiring-slows-sharply-curbing-job-market-momentum-video",
+      "summary": "US hiring slowed sharply in June even as the unemployment rate fell, curbing some of the budding momentum in job growth this year. \nNonfarm payrolls increased 57,000 last month after downward revisions to the prior two months took some of the shine off recent blockbuster reports, Bureau of Labor Sta",
+      "published": "Thu, 02 Jul 2026 15:01:47 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Google Loses EU Antitrust Fight; Softbank Moves on Computing Power | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/google-s-eu-antitrust-fight-softbank-computing-power-video",
+      "summary": "On this episode of Stock Movers:\n\n- SoftBank (SFTBY) shares are responding to news that it is starting a new U.S. venture to rent out the computing power needed to build and run artificial-intelligence models, aiming to capitalize on strong American demand for AI computing resources.\n- Shares of Alp",
+      "published": "Thu, 02 Jul 2026 15:00:35 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Debt Deluge Makes Credit Market Look Safer While Masking Risk",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/ai-debt-deluge-makes-credit-market-look-safer-while-masking-risk",
+      "summary": "On paper, the US corporate bond market is getting safer as more high-rated tech companies sell debt. Many investors fear that safety will prove illusory.",
+      "published": "Thu, 02 Jul 2026 14:55:07 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Factory and Durable Goods Orders Fall",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-factory-and-durable-goods-orders-fall-video",
+      "summary": "US factory orders declined by 1.3% in May as durable goods orders fell 4.5%. Mike McKee reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 14:45:11 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "BlackRock’s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/rick-rieder-on-jobs-report-fed-rate-cuts-yields-video",
+      "summary": "Rick Rieder, global fixed income CIO at BlackRock, says “hiring is stable, but I would say, broadly unimpressive,” as he examines the June US jobs report. He also discuses a timeframe for an interest rate hike from the Federal Reserve, the lack of forward guidance from the Fed, and where he sees yie",
+      "published": "Thu, 02 Jul 2026 14:35:54 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Takaichi and Modi Deepen Strategic Ties",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/takaichi-and-modi-deepen-strategic-ties-video",
+      "summary": "India and Japan are strengthening ties on defense, technology and energy after Japanese Prime Minister Sanae Takaichi's first official visit to New Delhi, as both countries look to reduce their dependence on China. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 14:35:20 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hassett Says Jobs Data Strong, Criticizes Fed's Powell",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/hassett-says-jobs-data-strong-criticizes-fed-s-powell-video",
+      "summary": "White House National Economic Council Director Kevin Hassett reacts to the June US employment report, saying the US jobs market is on an \"upward trajectory.\" Speaking on \"Bloomberg Open Interest,\" Hassett also criticizes former Federal Reserve Chairman Jerome Powell for staying on at the central ban",
+      "published": "Thu, 02 Jul 2026 14:29:44 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chanel Buys Charvet, Maker of $750 Shirts Favored by Churchill",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/chanel-buys-charvet-maker-of-750-shirts-favored-by-churchill",
+      "summary": "Chanel agreed to buy Charvet, the oldest shirtmaker in France that once counted Winston Churchill among its clients and whose striped linen shirts typically go for about €655 ($746).",
+      "published": "Thu, 02 Jul 2026 14:26:26 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "What Dan Wang Saw on His Last Trip to China",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/what-dan-wang-saw-on-his-last-trip-to-china-video",
+      "summary": "There's this weird contradiction that hovers almost all conversations regarding the Chinese economy. On the one hand, the growth and rising material prosperity is undeniable. And of course, Chinese industrial giants are at the frontier in all kinds of things, like batteries. On the other hand, you a",
+      "published": "Thu, 02 Jul 2026 13:44:44 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Giro hacia el libre mercado de Cuba no logra convencer a EE.UU.",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/giro-hacia-el-libre-mercado-de-cuba-no-logra-convencer-a-ee-uu",
+      "summary": "Cuba enfrenta dificultades para convencer al gobierno de Donald Trump de que sus reformas económicas más ambiciosas en décadas son suficientes para impulsar los cambios que exige Estados Unidos. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 14:15:49 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed's Daly Sees Inflation Slowing, Warns of Uncertainties",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/fed-s-daly-sees-slower-inflation-warns-of-uncertainties-video",
+      "summary": "Federal Reserve Bank of San Francisco President Mary Daly says inflation should start to slow but the economic outlook remains uncertain during a Bank of Spain event in Santander, Spain. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 14:08:35 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Employment Picture ‘Just OK,’ BlackRock’s Rieder Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/us-employment-picture-just-ok-blackrock-s-rieder-says-video",
+      "summary": "Rick Rieder, global fixed income CIO at BlackRock, says “hiring is stable, but I would say, broadly unimpressive,” as he examines the June US jobs report. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 14:01:47 GMT",
+      "scraped_at": "2026-07-02T15:59:35.736Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -18130,296 +18350,6 @@
       "summary": "The SpaceX IPO set off a predictable frenzy—we look at who may lead the pack. Also, betting against AI, high-yield bonds, plus bonus mentions.",
       "published": "Thu, 25 Jun 2026 15:08:18 GMT",
       "scraped_at": "2026-06-25T18:03:11.187Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "안전자산의 배신…3년간 오르던 금, 약세장 진입 신호탄",
-      "url": "https://www.hankyung.com/article/2026062587987",
-      "summary": "",
-      "published": "Thu, 25 Jun 2026 22:11:06 +0900",
-      "scraped_at": "2026-06-25T14:04:31.929Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"서울에 요즘 외국인 없다고?\"…뜻밖의 도시에 인파 몰렸다 [트래블톡]",
-      "url": "https://www.hankyung.com/article/202606257763g",
-      "summary": "",
-      "published": "Thu, 25 Jun 2026 21:18:02 +0900",
-      "scraped_at": "2026-06-25T14:04:31.929Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "메리츠-MBK 홈플러스 공방에 시간만 간다…\"이러다 파산할라\"",
-      "url": "https://www.hankyung.com/article/202606257850g",
-      "summary": "",
-      "published": "Thu, 25 Jun 2026 20:07:56 +0900",
-      "scraped_at": "2026-06-25T14:04:31.929Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "자영업자 빚탕감 심사 깐깐해진다",
-      "url": "https://www.hankyung.com/article/2026062587371",
-      "summary": "",
-      "published": "Thu, 25 Jun 2026 19:35:54 +0900",
-      "scraped_at": "2026-06-25T14:04:31.929Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "국방부-통일부, 국방백서 ‘북한은 주적’ 표현 두고 입장차 드러내",
-      "url": "https://www.mk.co.kr/news/politics/12077376",
-      "summary": "국방부 “북한 정권·軍은 주적” 입장 변화 없어 통일부 “주적과 평화공존 못해” 수정필요 입장국방부와 통일부가 올 연말 발간될 ‘2026 국방백서’에서 이른바 ‘주적(主敵)’ 개념..",
-      "published": "Thu, 18 Jun 2026 14:37:01 +09:00",
-      "scraped_at": "2026-06-25T14:04:32.559Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“방공능력 확대, 침략 억제”…미국이 한국에 팔기로 한 무기의 정체",
-      "url": "https://www.mk.co.kr/news/politics/12071217",
-      "summary": "미국 도널드 트럼프 행정부가 한국에 중거리 공대공 미사일 등 2억9200만달러(4440억원 규모) 상당의 무기를 판매하기로 했다. 미 국무부는 10일(현지시간) 한국 정부가 요청한..",
-      "published": "Thu, 11 Jun 2026 07:53:09 +09:00",
-      "scraped_at": "2026-06-25T14:04:32.559Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'큰손' 국민연금 곁으로…한화운용, 전주에 내달 사무소 개소",
-      "url": "https://www.yna.co.kr/view/AKR20260625165600008",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 한화자산운용이 다음 달 전주에 사무소를 개소할 예정이다.",
-      "published": "Thu, 25 Jun 2026 20:21:44 +0900",
-      "scraped_at": "2026-06-25T14:04:33.803Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "JP모건 \"코스피, 강세장서 15,000 간다…조정시 사야\"",
-      "url": "https://www.yna.co.kr/view/AKR20260625163800008",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 글로벌 투자은행 JP모건이 강세장에서 코스피 전망치를 기존 10,000에서 15,000으로 상향 조정했다.",
-      "published": "Thu, 25 Jun 2026 20:00:58 +0900",
-      "scraped_at": "2026-06-25T14:04:33.803Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "SKT, SK하이닉스 미국 AI 투자법인에 7천억원대 출자",
-      "url": "https://www.yna.co.kr/view/AKR20260625163000017",
-      "summary": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]이 SK하이닉스[000660]의 미국 투자 법인에 7천억원대의 대규모 투자를 결정했다.",
-      "published": "Thu, 25 Jun 2026 19:28:31 +0900",
-      "scraped_at": "2026-06-25T14:04:33.803Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Apple Raises Mac, iPad Prices on Memory Shortage; Shares Dive",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages",
-      "summary": "Apple Inc. took the extreme measure of raising prices of Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
-      "published": "Thu, 25 Jun 2026 12:39:45 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "What to Know About the Screwworm Threat to US Livestock",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/what-to-know-about-the-screwworm-threat-to-us-livestock-video",
-      "summary": "Bloomberg's Julie Fine, Joe Lovinger and Elizabeth Elkin discuss the scope of the screwworm outbreak and what it means for the US beef industry and other livestock. (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 13:31:51 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Backlash Is the Risk Wall Street Fears Can Stop Tech Stocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/wall-street-sees-ai-backlash-as-rising-risk-to-tech-fueled-rally",
-      "summary": "Market professionals already on edge about the staying power of soaring artificial intelligence stocks are starting to grapple with another risk: public anger toward the technology.",
-      "published": "Thu, 25 Jun 2026 12:02:15 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Inflation Climbs as Consumers Spent More in May",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/us-inflation-climbs-as-consumers-spent-more-in-may-video",
-      "summary": "US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years. Inflation-adjusted consumer spending rose 0.3% from a month earlier. The personal consumption expenditures price index rose 4.1% last month from a year earlier. Enda Curran reports.  (Source: Bl",
-      "published": "Thu, 25 Jun 2026 13:23:31 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Venezuela Earthquake Death Toll Rises to at Least 164",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/venezuela-earthquake-death-toll-rises-to-at-least-164-video",
-      "summary": "At least 164 people are dead and 1,000 injured after back-to-back earthquakes struck Venezuela on Wednesday. Buildings have collapsed and roads buckled. People took to the streets and looked for cover. A magnitude 7.2 earthquake struck first followed by a magnitude 7.5 quake less than a minute later",
-      "published": "Thu, 25 Jun 2026 13:15:36 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Copper Climbs as Dip-Buying and AI Rally Offset Rate Concerns",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/copper-climbs-as-lower-dollar-ai-rally-counter-rate-concerns",
-      "summary": "Copper rallied from a seven-week low as signs of consumer buying and a rebound in global stock markets bolstered sentiment.",
-      "published": "Thu, 25 Jun 2026 04:00:09 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wendy’s Shares Set to Extend Rally as Meme-Stock Crowd Piles In",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/wendy-s-shares-set-to-extend-rally-as-meme-stock-crowd-pile-in",
-      "summary": "Shares of Wendy’s Co. are poised to extend their advance for a second day as the meme-stock crowd pushes the iconic American burger chain stock even higher.",
-      "published": "Thu, 25 Jun 2026 13:06:15 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Why Fed Chairman Warsh’s Pivot Risks Confusing Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/why-fed-chairman-warsh-s-pivot-risks-confusing-markets-video",
-      "summary": "Bill Dudley, former New York Fed President and Bloomberg Opinion columnist, says streamlining the Federal Open Market Committee’s policy statement is appropriate, but Federal Reserve Chairman Kevin Warsh needs to make changes with greater care than he has shown to date. Dudley says Warsh may risk co",
-      "published": "Thu, 25 Jun 2026 12:53:16 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/treasuries-climb-as-benign-us-inflation-eases-bets-on-a-fed-hike",
-      "summary": "Short-term Treasuries jumped as a benign reading of the Federal Reserve’s favored inflation gauge slightly dragged on traders’ expectations for an interest-rate hike in the months ahead.",
-      "published": "Thu, 25 Jun 2026 12:51:09 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Europe’s Heat Wave Is a Power-Market Pressure Test",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-25/europe-s-heat-wave-is-a-power-market-pressure-test",
-      "summary": "Both France and the UK have seen temperature records this week that drove up electricity prices and strained the grid.",
-      "published": "Thu, 25 Jun 2026 12:28:08 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Braskem Seeks Emergency Protection as Debt Talks Hit Snags",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/braskem-seeks-emergency-protection-as-debt-talks-hit-snags",
-      "summary": "Brazilian petrochemical giant Braskem SA filed for emergency protection against creditors as talks for an out-of-court solution to its mounting debt woes hit snags.",
-      "published": "Thu, 25 Jun 2026 12:13:28 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Blockbuster S&amp;P 500 Earnings Will Soon Be Eclipsed. Blame Canada",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/blockbuster-s-p-500-earnings-will-soon-be-eclipsed-blame-canada",
-      "summary": "US firms just put a lid on one of the best earnings seasons in years, posting 28% profit growth. They may be upstaged by their Canadian neighbors in the next reporting period as the first half comes to a close.",
-      "published": "Thu, 25 Jun 2026 12:00:10 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Premarket Movers for June 25, 2026",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-stock-futures-today-ars-bio-techne-micron-qualcomm-wendy-s",
-      "summary": "S&P 500 Index futures climb 0.7% as of 7:42 a.m. in New York. Stocks are set to rally as a forecast from Micron reinvigorates the AI trade.",
-      "published": "Thu, 25 Jun 2026 11:49:12 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Rally as Micron Lifts AI Optimism Ahead of PCE | Bloomberg Brief 6/25/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/bloomberg-brief-6-25-2026-video",
-      "summary": "US equity futures jump after Micron's forecast shattered expectations. Oil prices slide back to pre-war levels as investors look ahead to PCE numbers. Sanjeev Rana of CLSA breaks down Micron's earnings. Stephanie Guild of Robinhood discusses what strength in memory chips could mean for the broader m",
-      "published": "Thu, 25 Jun 2026 11:28:56 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "BofA’s Raedler Says Defensives Ready to Roar if AI Trade Falters",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters",
-      "summary": "Investors should switch their focus to defensive sectors if the artificial intelligence trade starts to unravel, according to Sebastian Raedler, head of European equity strategy at Bank of America Corp.",
-      "published": "Thu, 25 Jun 2026 11:24:02 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Private Credit’s Big Arbitrage Trade Gains Backing From Advisers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/private-credit-s-big-arbitrage-trade-gains-backing-from-advisers",
-      "summary": "On paper, it seems like a no-brainer trade: Cash out of one private credit fund at 100% of net asset value and plow the money back into a similar vehicle that’s trading at a substantially discounted price.",
-      "published": "Thu, 25 Jun 2026 11:10:00 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iraq Walks Back Threat on Leaving OPEC Over Output Limits",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/iraq-walks-back-threat-on-leaving-opec-over-output-limits",
-      "summary": "Iraq isn’t considering leaving OPEC, the nation’s oil ministry said, just a few hours after saying that doing so was an eventual possibility.",
-      "published": "Thu, 25 Jun 2026 11:00:47 GMT",
-      "scraped_at": "2026-06-25T14:04:34.445Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fannie, Freddie Boost Risk to Levels That Once Shook Wall Street",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/fannie-freddie-ramp-up-rate-risk-in-mbs-portfolios-fnma-fmcc",
-      "summary": "Fannie Mae and Freddie Mac are taking on more interest-rate risk in their rapidly growing investment portfolios, driving a key gauge of their exposure to levels that rattled Wall Street two decades ago.",
-      "published": "Thu, 25 Jun 2026 11:00:00 GMT",
-      "scraped_at": "2026-06-25T14:04:34.446Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ecb-rate-hike-forecasts-pared-back-as-oil-regains-pre-war-level",
-      "summary": "A sharp drop in oil prices amid progress in Middle-East peace talks has prompted some economists to scale back expectations for European Central Bank interest-rate increases.",
-      "published": "Thu, 25 Jun 2026 10:41:06 GMT",
-      "scraped_at": "2026-06-25T14:04:34.446Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Engines and Elevators Lift German Deals Past $140 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/engines-and-elevators-lift-german-deals-past-120-billion",
-      "summary": "Germany’s dealmakers are seeing some of their long-wished-for transactions come to fruition, driving the country to one of its busiest years for mergers and acquisitions in decades.",
-      "published": "Thu, 25 Jun 2026 07:28:40 GMT",
-      "scraped_at": "2026-06-25T14:04:34.446Z"
     }
   ]
 }
