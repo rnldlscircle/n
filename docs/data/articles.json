@@ -1,6 +1,236 @@
 {
-  "updated_at": "2026-07-02T20:54:18.299Z",
+  "updated_at": "2026-07-02T22:56:49.918Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "유튜버 손길 닿자 13억 '대박'…MZ세대 지갑 60초만에 열리는 비결 [장서우의 하입:hype]",
+      "url": "https://www.hankyung.com/article/202607022918i",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 07:00:07 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "국제유가, 미·이란 종전협상 답보 속 강보합",
+      "url": "https://www.hankyung.com/article/2026070331437",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 06:55:41 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美매체 \"앤트로픽, 삼성전자와 AI칩 생산 논의\"",
+      "url": "https://www.hankyung.com/article/2026070331357",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 06:34:18 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "6월 외환보유액 3억7000만 달러↑…\"금융기관 외화예수금 증가 영향\"",
+      "url": "https://www.hankyung.com/article/2026070331227",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 06:18:30 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'퇴직자 줄었다더니'…인건비 45조 쓴 삼성전자의 '승부수'",
+      "url": "https://www.hankyung.com/article/202607022280g",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 06:00:08 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"유지비 싸다고 갈아탔는데\"…전기車 운전자 분통 터뜨린 이유 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202607022993i",
+      "summary": "",
+      "published": "Fri, 03 Jul 2026 06:00:01 +0900",
+      "scraped_at": "2026-07-02T22:56:46.098Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20260703013700011",
+      "summary": "■ [베네수 강진] 건물 잔해서 8일 버텼다…40대 경비원 극적 구조",
+      "published": "Fri, 3 Jul 2026 07:30:00 +0900",
+      "scraped_at": "2026-07-02T22:56:48.679Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미신고 숙박업소 중개한 온라인 플랫폼에 과태료 500만원",
+      "url": "https://www.yna.co.kr/view/AKR20260702112100530",
+      "summary": "(서울=연합뉴스) 서한기 기자 = 정부가 온라인 플랫폼을 통한 불법 미신고 숙박업소의 영업 확산을 막고 소비자의 안전을 지키기 위해 본격적인 규...",
+      "published": "Fri, 3 Jul 2026 06:11:00 +0900",
+      "scraped_at": "2026-07-02T22:56:48.679Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "무협, 워싱턴서 미국 행정부·의회 연쇄 접촉…현지 애로 전달",
+      "url": "https://www.yna.co.kr/view/AKR20260702151500003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 한국무역협회가 한국조선해양플랜트협회, 한국철강협회 등 국내 주요 업종별 단체와 함께 미국 워싱턴에서 정부 및 ...",
+      "published": "Fri, 3 Jul 2026 06:00:04 +0900",
+      "scraped_at": "2026-07-02T22:56:48.679Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "6월 외환보유액 4천273억달러…외화예수금 늘며 3.7억달러↑",
+      "url": "https://www.yna.co.kr/view/AKR20260702154800002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 우리나라의 외환보유액이 금융기관의 외화예수금 증가 등으로 소폭 늘었다.",
+      "published": "Fri, 3 Jul 2026 06:00:03 +0900",
+      "scraped_at": "2026-07-02T22:56:48.679Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oil Steadies as More Supply Flows Through Strait of Hormuz",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+      "summary": "Oil steadied as tanker traffic through the Strait of Hormuz increased further, adding to a gush of near-term supply while talks between the US and Iran continue.",
+      "published": "Thu, 02 Jul 2026 22:02:06 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Stocks to Fall a Second Day on Tech Worries: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks in Asia were set to decline for a second session as investors continued to rotate out of technology shares on concerns that the artificial intelligence-fueled rally has run ahead of itself.",
+      "published": "Thu, 02 Jul 2026 22:10:18 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Consumers Going to Feel 'Less Flush with Cash': Cisar",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/consumers-going-to-feel-less-flush-with-cash-cisar-video",
+      "summary": "Winnie Cisar, global head of credit strategy at CreditSights, and Matt Brill, head of North American investment grade credit at Invesco, join Scarlet Fu on \"Bloomberg Real Yield.\" (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 21:48:24 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fourth of July Cookout Costs Rise 4% Says Stew Leonard's CEO",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/4th-of-july-bbq-costs-rise-4-says-stew-leonard-s-ceo-video",
+      "summary": "Stew Leonard Jr., President and CEO of Stew Leonard's grocery stores, discussed the recent 4% increase in the average cost of an Independence Day meal for 10, now $73.82. He emphasized that despite the rise, the per-person cost remains reasonable compared to dining out. The primary driver of the pri",
+      "published": "Thu, 02 Jul 2026 21:22:09 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Warsh Using Strategic Ambiguity: Diczok",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/warsh-using-strategic-ambiguity-diczok-video",
+      "summary": "Matthew Diczok, head of cross-asset market strategy for the Chief Investment Office  within Bank of America, Kelsey Berro, fixed income portfolio manager at JPMorgan Asset Management. joins Scarlet Fu on \"Bloomberg Real Yield.\" (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 21:20:14 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Canada, Philippines Agree to Sign Trade Deal This Year, Grow Defense Ties",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/canada-philippines-agree-to-sign-trade-deal-this-year-grow-defense-ties",
+      "summary": "Canada and the Philippines plan to finalize a free trade agreement this year, and signed agreements to deepen cooperation on energy, defense, labor and migration, Prime Minister Mark Carney said Thursday.",
+      "published": "Thu, 02 Jul 2026 21:11:53 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "World Cup Muni Spending An Accelerator: Kleinman",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/world-cup-muni-spending-an-accelerator-kleinman-video",
+      "summary": "Margot Kleinman, head of municipal research & portfolio manager at Nuveen, joins Scarlet Fu on \"Bloomberg Real Yield.\" Municipal bonds helped 11 US World Cup Host Cities fund upgrades to transportation hubs, airports, and enhance security. (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 21:09:44 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-02/THKFX1RKV2TQ00",
+      "summary": "​米雇用統計、海峡通航料、インサイダー疑惑、AIチップ製造パートナー、キーウ攻撃",
+      "published": "Thu, 02 Jul 2026 21:05:25 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Private Credit Is Betting on Consumer Debt at a Precarious Time",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/private-credit-is-betting-on-consumer-debt-video",
+      "summary": "Bloomberg's Rene Ismail joins Scarlet Fu on \"Bloomberg Real Yield.\" The private credit industry was dubbed “shadow banking” as it took business away from traditional lenders. Buy Now, Pay Later companies have been referred to as hawking “phantom debt” that falls outside Wall Street’s typical trackin",
+      "published": "Thu, 02 Jul 2026 21:02:34 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Families Look For Affordable Summer Fun Amid Cost Crunch",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/families-look-for-affordable-summer-fun-amid-cost-crunch-video",
+      "summary": "Sky Zone CEO Dave Hoffman said that the trampoline park company is looking to help parents give their kids the summer they deserve with membership deals as families feel squeezed by higher prices. Hoffman said that his company's thesis is about prioritizing 'active and social play' for kids as they ",
+      "published": "Thu, 02 Jul 2026 21:00:52 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "South Korea Opens 24-Hour Won Trading at a Fraught Moment",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korea-opens-24-hour-won-trading-at-a-fraught-moment",
+      "summary": "Deep inside a government complex in Sejong, about two hours from Seoul, a room known as “the box” is ground zero for South Korea’s currency anxieties.",
+      "published": "Thu, 02 Jul 2026 21:00:00 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "World’s Worst-Performing Exchange ASX Bets on Outsider for Pivot",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/world-s-worst-performing-exchange-asx-bets-on-outsider-for-pivot",
+      "summary": "When Anthony Attia takes the helm at Australia’s ASX Ltd., the world’s worst-performing stock exchange operator, he’ll need to launch straight into a battle to win over regulators and investors.",
+      "published": "Thu, 02 Jul 2026 21:00:00 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Blue Owl Imposes Redemption Caps Again",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/blue-owl-imposes-redemption-caps-again-video",
+      "summary": "Bloomberg's Sinead Cruise joins Scarlet Fu on \"Bloomberg Real Yield.\" For the second straight quarter, two Blue Owl Capital private credit funds were hit with the industry’s largest redemption requests, forcing the manager to again cap withdrawals.\n (Source: Bloomberg)",
+      "published": "Thu, 02 Jul 2026 20:54:09 GMT",
+      "scraped_at": "2026-07-02T22:56:48.967Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -18260,276 +18490,6 @@
       "summary": "Federal Reserve Bank of New York President John Williams said interest rates are well positioned to bring inflation back toward the central bank’s target.",
       "published": "Thu, 25 Jun 2026 19:40:00 GMT",
       "scraped_at": "2026-06-25T23:08:12.312Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "체중감량 열풍에 다이어트식품 신고 급증…장년층 피해도 늘어",
-      "url": "https://www.yna.co.kr/view/AKR20260625141700030",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 위고비·마운자로 등 비만치료제 열풍과 함께 체중 감량에 대한 관심이 커지면서 다이어트 건강기능식품 시장도 확대...",
-      "published": "Fri, 26 Jun 2026 06:05:01 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "법원 \"승진 약속 안 지킨 파주시장, 퇴직 직원에게 배상해야\"",
-      "url": "https://www.yna.co.kr/view/AKR20260625146100060",
-      "summary": "(파주=연합뉴스) 노승혁 기자 = 경기 파주시청 임기제 공무원이 승진 채용 약속을 지키지 않았다며 시장을 상대로 소송을 제기, 항소심에서 1심을...",
-      "published": "Fri, 26 Jun 2026 06:00:06 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "반도체·데이터센터 투자에 1분기 건설공사 계약 23.4% 증가",
-      "url": "https://www.yna.co.kr/view/AKR20260625121100003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 올해 1분기 건설공사 계약액이 민간 반도체 생산시설과 데이터센터 투자 확대에 힘입어 작년 같은 기...",
-      "published": "Fri, 26 Jun 2026 06:00:05 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[가보니] 바이오 USA 폐막…K바이오 위상 높였다",
-      "url": "https://www.yna.co.kr/view/AKR20260625115300017",
-      "summary": "(샌디에이고=연합뉴스) 신선미 기자 = 세계 최대 제약·바이오 산업 전시회인 '2026 바이오 인터내셔널 컨벤션(바이오 USA)'이 25일(현지...",
-      "published": "Fri, 26 Jun 2026 06:00:05 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "외국인 지난달 한국주식 47조 '역대급 팔자'…지분율도 사상최고",
-      "url": "https://www.yna.co.kr/view/AKR20260625159600002",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 외국인이 지난달 국내 증시에서 47조원이 넘는 주식을 순매도하며 또 역대 최대 규모의 '셀코리아'를 기록했다.",
-      "published": "Fri, 26 Jun 2026 06:00:01 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "올해 FTA 피해보전직불금 지원 품목에 염소 고기",
-      "url": "https://www.yna.co.kr/view/AKR20260625166800030",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 농림축산식품부는 올해 자유무역협정(FTA) 피해 보전 직접지불금(직불금) 지원 품목으로 염소 고기를 선정했다고...",
-      "published": "Fri, 26 Jun 2026 06:00:00 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "호르무즈 선박 피격에 국제유가 반등…WTI 2.3%↑",
-      "url": "https://www.yna.co.kr/view/AKR20260626005500072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 하락세를 이어가던 국제유가가 25일(현지시간) 호르무즈 해협에서 발생한 선박 피격 사건의 영향으로 5거래일 ...",
-      "published": "Fri, 26 Jun 2026 04:54:18 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "달러-원, 완만한 PCE에 숨고르기…1,543.10원 마감",
-      "url": "https://www.yna.co.kr/view/AKR20260626003800002",
-      "summary": "(뉴욕=연합뉴스) 진정호 연합인포맥스 특파원 = 달러-원 환율이 야간 거래에서 추가로 소폭 올랐다.",
-      "published": "Fri, 26 Jun 2026 03:34:43 +0900",
-      "scraped_at": "2026-06-25T21:22:30.480Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "South Korea’s ‘Ant’ Army Is Driving an AI Market Frenzy",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/south-korea-s-ant-army-is-driving-an-ai-market-frenzy",
-      "summary": "Some 14 million retail investors are piling into shares of two big tech giants, but worries are growing about what happens if chip demand dries up.",
-      "published": "Thu, 25 Jun 2026 21:12:53 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Apple Prices Climb and the AI Trade Roars Back | Open Interest 6/25/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/open-interest-6-25-2026-video",
-      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\"The AI trade is roaring back after Micron’s blowout forecast. JPMorgan shakes up succession plans for Jamie Dimon. Ford CEO Jim Farley weighs in on AI versus experience, and Apple raises prices as th",
-      "published": "Thu, 25 Jun 2026 18:56:06 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-25/TH7HCPKIP3J100",
-      "summary": "ホルムズ海峡で船舶に攻撃、米PCE価格と消費支出、アップル値上げ、JPモルガンCEO後任争いで新局面、自動車部品マレリの資産取得協議",
-      "published": "Thu, 25 Jun 2026 21:07:37 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump-Backed Golf Resort Advances as Vietnam Seizes Farmland",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-backed-golf-resort-advances-as-vietnam-seizes-farmland",
-      "summary": "Eviction notices have been sent to farmers in northern Vietnam to make way for a $1.5 billion Trump Organization-branded luxury golf resort project that’s already behind schedule.",
-      "published": "Thu, 25 Jun 2026 21:00:00 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UK’s Crown Estate Profits Fall as Offshore Wind Fees Decline",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/uk-s-crown-estate-profits-fall-as-offshore-wind-fees-decline",
-      "summary": "Profits at the Crown Estate, the property company that generates income for King Charles III, fell last year as a temporary boost from the licensing of new offshore wind farms began to fade.",
-      "published": "Thu, 25 Jun 2026 21:00:00 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "OpenAI Leans Toward Waiting Until 2027 for IPO, NY Times Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says",
-      "summary": "OpenAI is leaning toward holding off on an initial public offering until 2027, the New York Times reported, citing three people involved in the company’s deliberations.",
-      "published": "Thu, 25 Jun 2026 20:51:55 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Down Jones Up, S&P 500 and Nasdaq Down | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/down-jones-up-s-p-500-and-nasdaq-down-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 20:37:39 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Venezuela Searches for Survivors After Quakes",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/venezuela-searches-for-survivors-after-quakes-video",
-      "summary": "Twin earthquakes struck Venezuela, causing widespread destruction in the coastal city of Catia La Mar and the coastal state of La Guaira. (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 20:20:34 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Confident In Growth Next Three Years: Casey CEO",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/confident-in-growth-next-three-years-casey-ceo-video",
-      "summary": "Casey CEO Darren Rebelez discusses company growth, business in Texas, competition, food expansion. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 19:55:38 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Soccer Looks To Capitalize on The World Cup Attention",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/us-soccer-looks-to-capitalize-on-the-world-cup-attention-video",
-      "summary": "JT Batson, US Soccer CEO andRandall Williams, Bloomberg News Senior Reporter AND Co-Host of the ‘Business of Sports’ Podcast join Bloomberg Businessweek Daily to discuss World Cup engagement and partnerships, fan and viewership metrics, popularity and the tournament's overall commercial expansion. (",
-      "published": "Thu, 25 Jun 2026 19:50:29 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Invests $250 Million in Billionaire’s Startup for Chip Making",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-invests-250-million-in-billionaire-s-startup-for-chip-making",
-      "summary": "I-Pulse Inc. will receive $250 million in US funding for semiconductor and pulsed-power development as the venture co-founded by Robert Friedland joins American efforts to reduce reliance on foreign-chip supply chains.",
-      "published": "Thu, 25 Jun 2026 19:39:54 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Blackrock Survey Says Americans Looking Beyond Savings for Retirement",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/blackrock-index-funds-alone-aren-t-enough-for-retirees-video",
-      "summary": "Nick Nefouse, Global Head of Retirement Solutions and Head of LifePath at BlackRock joined Bloomberg Businessweek Daily to discuss their latest retirement survey, and retirement readiness. Nick said people that are approaching retirement need something more than stock and bond portfolios. \n (Source:",
-      "published": "Thu, 25 Jun 2026 19:30:22 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Moderna's Flu Vaccine Moves Closer to FDA Approval",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/moderna-cautiously-optimistic-on-flu-vaccine-approval-video",
-      "summary": "The FDA advisory committee recommended Moderna's flu vaccine for approval. Moderna CEO Stéphane Bancel tells Romaine Bostick and Katie Greifeld he is cautiously optimistic that the agency will follow the guidance. A final decision by the FDA is expected by August 5 which is just in time for the next",
-      "published": "Thu, 25 Jun 2026 18:31:17 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Too Early to Worry About Concentration Risk: Doyle",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/too-early-to-worry-about-concentration-risk-doyle-video",
-      "summary": "Stephanie Doyle, fixed income portfolio manager at JPMorgan Asset Management, Viktor Hjort, global head of credit strategy & desks analysts at BNP Paribas, join Katie Greifeld on \"Bloomberg Real Yield.\"\n (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 19:15:39 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Endless Shrimp Deal Was Scheme to Squeeze Red Lobster, Suit Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/endless-shrimp-deal-was-scheme-to-squeeze-red-lobster-suit-says",
-      "summary": "Red Lobster’s $20 all-you-can-eat shrimp deal wasn’t just a badly designed promotion that inadvertently helped tip the iconic American restaurant chain into bankruptcy.",
-      "published": "Thu, 25 Jun 2026 18:58:45 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX Sale Shows Funding Across Equity, Credit: Hjort",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/spacex-sale-shows-funding-across-equity-credit-hjort-video",
-      "summary": "Viktor Hjort, global head of credit strategy & desks analysts at BNP Paribas, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Asset Management, join Katie Greifeld on \"Bloomberg Real Yield.\" (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 18:53:44 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fans Sit at Center of World Cup | Sports City",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/fans-sit-at-center-of-world-cup-sports-city-video",
-      "summary": "Bloomberg's Randall Williams looks at how ticket prices keep many fans out of the World Cup, but they're still spending millions of dollars on the tournament.  (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 18:44:34 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Memory is a Structural Story for AI: Lovell",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/memory-is-a-structural-story-for-ai-lovell-video",
-      "summary": "Nadia Lovell, Head of Global Equity Strategy at UBS Global Wealth, says memory is a stickier, structural story for AI and has longer legs to go within the trade. She speaks to Bloomberg's Matt Miller and Dani Burger on \"Open Interest.\" (Source: Bloomberg)",
-      "published": "Thu, 25 Jun 2026 18:43:09 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ares Private Credit Fund Caps Redemptions After 14% Seek to Exit",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-25/ares-private-credit-fund-caps-redemptions-after-14-video",
-      "summary": "Bloomberg's Nabila Ahmed and James Crombie joins Katie Greifeld on \"Bloomberg Real Yield.\" Ares Management curbed withdrawals from one of its private credit funds for the second consecutive quarter after redemption requests rose to 14.4%, the latest sign that the $1.8 trillion industry remains under",
-      "published": "Thu, 25 Jun 2026 18:40:16 GMT",
-      "scraped_at": "2026-06-25T21:22:30.666Z"
     }
   ]
 }
