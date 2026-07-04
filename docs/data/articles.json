@@ -1,6 +1,306 @@
 {
-  "updated_at": "2026-07-04T20:43:16.727Z",
+  "updated_at": "2026-07-04T22:48:17.870Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"1살이라도 어릴 때 미리\"…요즘 직장인 퇴직연금 굴리는 법 [김연지의 연금빌드업]",
+      "url": "https://www.hankyung.com/article/2026070340006",
+      "summary": "",
+      "published": "Sun, 05 Jul 2026 06:30:01 +0900",
+      "scraped_at": "2026-07-04T22:48:12.299Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"이걸 5000원에 살 수 있다니\"…1020 다이소 몰려간 이유 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202607034097i",
+      "summary": "",
+      "published": "Sun, 05 Jul 2026 06:00:02 +0900",
+      "scraped_at": "2026-07-04T22:48:12.299Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[반려동물] \"해외 대신 반려견과 국내로\"…여름 성수기 '펫캉스' 경쟁",
+      "url": "https://www.yna.co.kr/view/AKR20260704023400030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 반려동물과 함께 국내에서 여름휴가를 보내려는 이른바 '펫캉스' 수요가 늘면서 호텔·리조트업계의 여름 성수기 경...",
+      "published": "Sun, 5 Jul 2026 07:30:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "이란 \"호르무즈 통행 수수료, 우호국에 '특별대우' 고려\"",
+      "url": "https://www.yna.co.kr/view/AKR20260705004500009",
+      "summary": "(서울=연합뉴스) 임화섭 기자 = 중국 주재 이란 대사가 이란 측의 호르무즈 해협 통항 수수료 부과 방침을 재확인하면서 중국 등 우호국들에는 특...",
+      "published": "Sun, 5 Jul 2026 07:26:52 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
+      "url": "https://www.yna.co.kr/view/AKR20260703113300003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 글로벌 인공지능(AI) 반도체 등 첨단 기술 경쟁이 치열해지는 가운데 삼성전자가 지난해 4천억원이 넘는 정보보...",
+      "published": "Sun, 5 Jul 2026 07:17:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "부산 '오륙도페이·e바구페이', 민선 9기 맞아 혜택 확대",
+      "url": "https://www.yna.co.kr/view/AKR20260703095400051",
+      "summary": "(부산=연합뉴스) 김재홍 기자 = 부산 기초지자체가 도입했던 지역화폐의 인센티브 등 혜택이 민선 9기를 출범을 맞아 크게 확대된다.",
+      "published": "Sun, 5 Jul 2026 07:16:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'정보 유출' 모두의 창업, '단계별 수집' 전환…보관기간도 조정",
+      "url": "https://www.yna.co.kr/view/AKR20260704031200030",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 참가자들의 개인정보와 창업 아이디어 등이 유출된 '모두의 창업' 개인정보 정책이 이달 중 전면 개편된다.",
+      "published": "Sun, 5 Jul 2026 07:11:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'노재팬' 넘은 일본 맥주…수입량 첫 10만t 돌파 역대 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260703095300017",
+      "summary": "(서울=연합뉴스) 박상현 기자 = 편의점과 대형 마트 등에서 판매하는 일본 맥주가 늘면서 지난해 일본 맥주 수입량이 10만t을 넘었다.",
+      "published": "Sun, 5 Jul 2026 06:43:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"지갑 대신 스마트폰\"…소비자 10명 중 6명 네이버페이 쓴다",
+      "url": "https://www.yna.co.kr/view/AKR20260704037000017",
+      "summary": "(서울=연합뉴스) 오지은 기자 = 국내 소비자들이 일상에서 가장 많이 사용하는 모바일 간편결제 서비스는 네이버페이인 것으로 나타났다.",
+      "published": "Sun, 5 Jul 2026 06:33:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"결국 다시 쿠팡으로\"…정보유출 반년 뒤 이용자 더 늘었다",
+      "url": "https://www.yna.co.kr/view/AKR20260703141700017",
+      "summary": "(서울=연합뉴스) 한상용 기자 = 개인정보 유출 사태 이후 한때 소비자 이탈 조짐 현상이 나타났던 쿠팡의 결제액과 이용자 수가 최근 최고 수준으...",
+      "published": "Sun, 5 Jul 2026 06:30:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "상반기 코스피 VI 발동 역대 최대…변동성도 역대 2위",
+      "url": "https://www.yna.co.kr/view/AKR20260703157400008",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 올해 상반기 국내 증시가 '롤러코스터'를 탄 가운데 코스피 변동성 완화장치(VI)가 역대 가장 많이 발동된 것...",
+      "published": "Sun, 5 Jul 2026 06:20:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "홈플러스, '공중분해' 뒤 부동산 매각 수순 밟나…운명 가를 2주",
+      "url": "https://www.yna.co.kr/view/AKR20260704025300030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 법원이 회생절차 폐지 결정을 내리면서 홈플러스가 파산 절차에 들어갈 가능성이 커졌다.",
+      "published": "Sun, 5 Jul 2026 06:20:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "코스피 8천피 회복에도…'1조클럽' 종목 6천피 때보다 91개 적어",
+      "url": "https://www.yna.co.kr/view/AKR20260703155300008",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 지난주 코스피가 '8천피'를 되찾은 가운데, 시가총액 1조원 이상인 '1조클럽' 종목(우선주 포함) 수는 오히...",
+      "published": "Sun, 5 Jul 2026 06:15:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "월 수출 1천억달러가 고환율 때문?…\"패러다임 바뀌었다\"",
+      "url": "https://www.yna.co.kr/view/AKR20260704035100003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 지난달 우리나라 수출액이 사상 처음으로 1천억달러를 돌파했다.",
+      "published": "Sun, 5 Jul 2026 06:15:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "지난해 한국 연평균 노동시간 1천833시간…OECD서 6번째로 길어",
+      "url": "https://www.yna.co.kr/view/AKR20260703127300530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 지난해 우리나라 취업자의 연평균 노동시간은 1천833시간으로 전년보다 32시간 줄어든 것으로 나타났다.",
+      "published": "Sun, 5 Jul 2026 06:05:02 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "역동의 상반기 상승률 1위는?…삼전닉스 아닌 '756%' 삼성전기",
+      "url": "https://www.yna.co.kr/view/AKR20260703160200008",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 올 상반기 국내 증시에서 가장 높은 상승률을 기록한 종목은 '반도체 투톱' 삼성전자나 SK하이닉스가 아닌 AI...",
+      "published": "Sun, 5 Jul 2026 06:05:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "10·15와 달랐다…동탄·기흥·구리 토허제 직전 거래 '잠잠'",
+      "url": "https://www.yna.co.kr/view/AKR20260704036000003",
+      "summary": "(서울·세종=연합뉴스) 임기창 오진송 기자 = 동탄·기흥·구리에 대한 토지거래허가구역 지정이 5일부터 발효된 가운데 작년 10·15 대책 때와 ...",
+      "published": "Sun, 5 Jul 2026 06:05:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"실업급여 수급자 재취업 후 임금 더 높아…불평등 완화 효과도\"",
+      "url": "https://www.yna.co.kr/view/AKR20260703142100530",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = 퇴직 후 공백 기간에 실업급여를 받은 사람은 재취업 후 더 많은 임금을 받는다는 연구 결과가 5일 나왔다.",
+      "published": "Sun, 5 Jul 2026 06:04:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[마켓인사이트] 8,000선 되찾은 코스피…삼전·닉스 이벤트 주목",
+      "url": "https://www.yna.co.kr/view/AKR20260703156200008",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 유례없는 변동성 장세 속에 글로벌 반도체 조정이란 복병을 맞은 한국 주식시장은 지난 한 주도 거친 요동을 이어...",
+      "published": "Sun, 5 Jul 2026 06:02:10 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "탄자니아,몽골,카자흐…신수도·신도시 '세종시 벤치마킹' 러시",
+      "url": "https://www.yna.co.kr/view/AKR20260703140300063",
+      "summary": "(세종=연합뉴스) 양영석 기자 = 국가 주도로 성공적으로 건설된 세종시 도시개발 노하우를 배우려는 국가들의 발길이 이어지고 있다.",
+      "published": "Sun, 5 Jul 2026 06:01:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼성전자 감사 페스티벌 흥행…DX부문 2분기 실적 힘 보탤듯",
+      "url": "https://www.yna.co.kr/view/AKR20260703130100003",
+      "summary": "(서울=연합뉴스) 강태우 기자 = 삼성전자 디바이스경험(DX·완제품) 부문이 최근 진행된 대규모 판촉 행사 '감사 페스티벌' 효과로 올해 2분기...",
+      "published": "Sun, 5 Jul 2026 05:55:21 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "외인 156조 순매도에 원화가치 6%↓…24시 거래로 환율 안정될까",
+      "url": "https://www.yna.co.kr/view/AKR20260704030300002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 올해 들어 외국인 투자자가 국내 주식을 156조원 넘게 순매도하면서 달러화 대비 원화 가치가 6% 가까이 하락...",
+      "published": "Sun, 5 Jul 2026 05:53:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "카드론 금리 저신용자↓·고신용자↑…카드사 중금리대출 확대",
+      "url": "https://www.yna.co.kr/view/AKR20260704035300002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 카드론 금리가 고신용자는 상승하고 저신용자는 하락했다.",
+      "published": "Sun, 5 Jul 2026 05:51:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대부업체 4곳 중 1곳 공유오피스 영업…불법양도까지",
+      "url": "https://www.yna.co.kr/view/AKR20260704031400002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 전국 등록 대부업체 4곳 중 1곳은 공유오피스를 사업장으로 사용하는 것으로 나타났다. 비교적 저렴한 공유오피스...",
+      "published": "Sun, 5 Jul 2026 05:49:00 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "AI 붐·반도체 호황에 그늘진 청년고용…법률사무원 13개월째↓",
+      "url": "https://www.yna.co.kr/view/AKR20260704038100002",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 고용이 부진한 가운데 인공지능(AI) 붐이 청년 고용에 더욱 그늘을 드리우고 있다.",
+      "published": "Sun, 5 Jul 2026 05:47:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "반도체 '날개'에도 고용 부진…고용탄성치 8년 만에 최저 전망",
+      "url": "https://www.yna.co.kr/view/AKR20260704018500002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 경제 성장으로 고용이 얼마나 늘었는지 보여주는 고용 탄성치가 올해 0을 소폭 넘는 수준에 그치며 8년 만에 가...",
+      "published": "Sun, 5 Jul 2026 05:47:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내는 고위험 경고·해외선 코스피 150배…투자자 보호 '구멍'",
+      "url": "https://www.yna.co.kr/view/AKR20260704039400002",
+      "summary": "(서울=연합뉴스) 한지훈 강수련 박수현 기자 = 해외 가상자산 거래소에서 코스피에 최고 150배 레버리지를 걸 수 있는 초고위험 상품이 거래되고...",
+      "published": "Sun, 5 Jul 2026 05:45:04 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "단일종목 레버리지 '괴리율 초과' 60건 육박…LP관리 손본다",
+      "url": "https://www.yna.co.kr/view/AKR20260704036600002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 금융당국이 단일종목 레버리지 상장지수펀드(ETF)의 괴리율 확대로 인한 투자자 피해를 막기 위해 유동성공급자(...",
+      "published": "Sun, 5 Jul 2026 05:45:04 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한은 \"삼전닉스 레버리지 ETF로 쏠림 심화·변동성 확대\"",
+      "url": "https://www.yna.co.kr/view/AKR20260704026900002",
+      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 한국은행이 삼성전자[005930]와 SK하이닉스[000660] 레버리지 상장지수펀드(ETF) 위...",
+      "published": "Sun, 5 Jul 2026 05:45:03 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "빚투·영끌에 몸살앓는 주식시장…한은 \"금융불안 요인 우려\"",
+      "url": "https://www.yna.co.kr/view/AKR20260704030100002",
+      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 국내 주식시장에서 '빚투'(빚내서 투자)를 포함한 고위험 투자가 상수가 되고 있다. 한국은행은 ...",
+      "published": "Sun, 5 Jul 2026 05:45:01 +0900",
+      "scraped_at": "2026-07-04T22:48:16.249Z"
+    },
     {
       "source_id": "mk",
       "source_name": "매일경제",
@@ -18360,46 +18660,6 @@
       "summary": "(서울=연합뉴스) 한지훈 기자 = 1,500원대 환율이 그야말로 '뉴노멀'이 돼가고 있다. 벌써 29거래일 연속 1,400원대로 내려오지 못하고...",
       "published": "Sun, 28 Jun 2026 05:49:00 +0900",
       "scraped_at": "2026-06-27T22:55:05.653Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "꺾이지 않는 빚투…5대銀 마통잔액 43조, 3년8개월만에 최대",
-      "url": "https://www.yna.co.kr/view/AKR20260627031600002",
-      "summary": "(서울=연합뉴스) 임지우 기자 = 주요 시중은행의 마이너스통장(신용한도대출) 사용액이 3년 8개월 만에 최대로 불어나는 등 '빚투'(빚내서 투자...",
-      "published": "Sun, 28 Jun 2026 05:45:02 +0900",
-      "scraped_at": "2026-06-27T20:51:03.995Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'싹싹 긁어 빚투' 가계대출 6개월 연속↑…당국 곧 카드사 소집",
-      "url": "https://www.yna.co.kr/view/AKR20260627040300002",
-      "summary": "(서울=연합뉴스) 배영경 강수련 김지연 임지우 기자 = 주식·부동산 시장의 동반강세 속에 이달에도 가계대출 증가액이 크게 늘면서 올해 들어 6개...",
-      "published": "Sun, 28 Jun 2026 05:45:00 +0900",
-      "scraped_at": "2026-06-27T20:51:03.995Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
-      "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
-      "published": "Sat, 27 Jun 2026 20:00:00 GMT",
-      "scraped_at": "2026-06-27T20:51:04.234Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
-      "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
-      "published": "Sat, 27 Jun 2026 19:00:00 GMT",
-      "scraped_at": "2026-06-27T20:51:04.234Z"
     }
   ]
 }
