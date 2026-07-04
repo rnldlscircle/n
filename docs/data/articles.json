@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-07-04T01:58:58.516Z",
+  "updated_at": "2026-07-04T05:47:05.781Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "인텔도 2조3000억 쏟아부었다…반도체 판 뒤흔드는 나라 [테크로그]",
+      "url": "https://www.hankyung.com/article/202607034268g",
+      "summary": "",
+      "published": "Sat, 04 Jul 2026 11:00:02 +0900",
+      "scraped_at": "2026-07-04T05:47:01.926Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "고유가 지원금 최종 신청률 98%…6조1천123억원 지급",
+      "url": "https://www.yna.co.kr/view/AKR20260704019300530",
+      "summary": "(서울=연합뉴스) 홍준석 기자 = 고유가 피해지원금 최종 신청률이 98%로 집계됐다.",
+      "published": "Sat, 4 Jul 2026 12:00:00 +0900",
+      "scraped_at": "2026-07-04T05:47:04.201Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "용인시, 내달부터 '체납관리단' 운영…36명 채용",
+      "url": "https://www.yna.co.kr/view/AKR20260703097200061",
+      "summary": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 각종 지방세 및 세외수입 체납액을 징수할 체납관리단을 구성, 다음달 3일부터 11월 30일까지 ...",
+      "published": "Sat, 4 Jul 2026 11:01:02 +0900",
+      "scraped_at": "2026-07-04T05:47:04.201Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ebola Vaccine Trials Could Start This Year",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-04/ebola-vaccine-trials-could-start-this-year",
+      "summary": "As Ebola cases rise in Congo and Uganda, vaccine developers are accelerating efforts to combat the rare Bundibugyo strain. IAVI CEO Mark Feinberg says a candidate vaccine could enter human trials by year-end. (Source: Bloomberg)",
+      "published": "Sat, 04 Jul 2026 05:00:19 GMT",
+      "scraped_at": "2026-07-04T05:47:04.409Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia Said It Captured Key Ukraine Stronghold in Donetsk Region",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region",
+      "summary": "Russia announced the seizure of a strategic logistics hub in the Donetsk region and claimed full control of Ukraine’s Luhansk region, days after launching its deadliest attack on Kyiv since the war began.",
+      "published": "Sat, 04 Jul 2026 04:21:41 GMT",
+      "scraped_at": "2026-07-04T05:47:04.409Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "China Coast Guard Rotates Patrol Task Group East of Taiwan",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-coast-guard-rotates-patrol-task-group-east-of-taiwan",
+      "summary": "China’s coast guard said a task group led by the CCGS Xiushan vessel replaced the team headed by CCGS Daishan on Saturday to continue law-enforcement patrols in waters east of Taiwan.",
+      "published": "Sat, 04 Jul 2026 02:41:15 GMT",
+      "scraped_at": "2026-07-04T05:47:04.409Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis",
+      "summary": "There is still no lasting peace deal in the Persian Gulf, but energy-hungry Asia is already drawing energy lessons from four months of war: it needs bigger buffers, a greater diversity of fossil-fuel suppliers, and a better mix of power sources overall.",
+      "published": "Sat, 04 Jul 2026 00:00:00 GMT",
+      "scraped_at": "2026-07-04T05:47:04.409Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -18280,136 +18350,6 @@
       "summary": "BYD Co. Chairman Wang Chuanfu met Shaanxi Provincial Party Secretary Zhao Yide and Governor Zhao Gang on Friday, the latest in a series of meetings with leaders across at least five provinces since March.",
       "published": "Sat, 27 Jun 2026 04:04:48 GMT",
       "scraped_at": "2026-06-27T06:46:01.974Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"AI 다음은 에너지\"…강남 부자들이 원유·구리에 꽂힌 이유",
-      "url": "https://www.hankyung.com/article/202606233066i",
-      "summary": "",
-      "published": "Sat, 27 Jun 2026 10:00:07 +0900",
-      "scraped_at": "2026-06-27T02:14:23.374Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "“국민연금까지 7년 버텨야 하는데”… 58세 명퇴자의 고민[돈 버는 법 아끼는 법]",
-      "url": "https://www.hankyung.com/article/202606260031i",
-      "summary": "",
-      "published": "Sat, 27 Jun 2026 10:00:03 +0900",
-      "scraped_at": "2026-06-27T02:14:23.374Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"지옥의 레이스\" 도전장…전설적 드라이버가 '신생팀' 제네시스로 옮긴 이유 [인터뷰]",
-      "url": "https://www.hankyung.com/article/202606260337g",
-      "summary": "",
-      "published": "Sat, 27 Jun 2026 08:55:40 +0900",
-      "scraped_at": "2026-06-27T02:14:23.374Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"몇 잔 팔아야 하나\"…BTS 광고에 커피업계 술렁이는 이유",
-      "url": "https://www.hankyung.com/article/202606260020i",
-      "summary": "",
-      "published": "Sat, 27 Jun 2026 08:00:06 +0900",
-      "scraped_at": "2026-06-27T02:14:23.374Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "참치캔엔 왜 가시가 없을까…하루 수십만 캔 만드는 공장의 비밀 [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202606229524i",
-      "summary": "",
-      "published": "Sat, 27 Jun 2026 07:00:10 +0900",
-      "scraped_at": "2026-06-27T02:14:23.374Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "url": "https://www.yna.co.kr/view/AKR20260627024400011",
-      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "published": "Sat, 27 Jun 2026 10:30:00 +0900",
-      "scraped_at": "2026-06-27T02:14:25.325Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "호르무즈 내 한국 선박 2척 추가로 빠져나와…남은 배 3척",
-      "url": "https://www.yna.co.kr/view/AKR20260627021000051",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 중동 전쟁으로 호르무즈 해협에 발이 묶였던 한국 선박들 가운데 2척이 추가로 해협을 빠져나왔다.",
-      "published": "Sat, 27 Jun 2026 09:12:26 +0900",
-      "scraped_at": "2026-06-27T02:14:25.325Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "김해시, 8월부터 100만원 미만 소액 체납관리단 150명 규모 운영",
-      "url": "https://www.yna.co.kr/view/AKR20260626127600052",
-      "summary": "(김해=연합뉴스) 이준영 기자 = 경남 김해시는 오는 8월부터 100만원 미만 소액 체납을 징수하기 위한 체납관리단을 운영한다고 27일 밝혔다.",
-      "published": "Sat, 27 Jun 2026 09:05:00 +0900",
-      "scraped_at": "2026-06-27T02:14:25.325Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
-      "url": "https://www.yna.co.kr/view/AKR20260627014200002",
-      "summary": "(세종=연합뉴스) 이대희 배영경 한지훈 기자 = 다음주(6월 29일∼7월 3일)에는 최근 한국의 실물 경제와 물가 흐름을 가늠할 수 있는 지표가...",
-      "published": "Sat, 27 Jun 2026 08:53:42 +0900",
-      "scraped_at": "2026-06-27T02:14:25.325Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
-      "summary": "Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.",
-      "published": "Sat, 27 Jun 2026 01:22:20 GMT",
-      "scraped_at": "2026-06-27T02:14:25.598Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Philippine Government Plans to Raise Budget by 6% Next Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/philippine-government-plans-to-raise-budget-by-6-next-year",
-      "summary": "The Philippines plans to increase the budget by 6% next year to 7.2 trillion pesos ($117 billion), according to the budget department.",
-      "published": "Sat, 27 Jun 2026 00:46:35 GMT",
-      "scraped_at": "2026-06-27T02:14:25.598Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bolivia Moves to Flexible Exchange-Rate System After 15 Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/bolivia-moves-to-flexible-exchange-rate-system-after-15-years",
-      "summary": "Bolivia is moving to a flexible exchange-rate system to strengthen macroeconomic stability, its Finance Ministry announced Friday.",
-      "published": "Sat, 27 Jun 2026 00:30:56 GMT",
-      "scraped_at": "2026-06-27T02:14:25.598Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street Week | USMCA: Can North America’s Trade Deal Survive?",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/wall-street-week-north-american-trade-showdown-video",
-      "summary": "This week, a special edition of Wall Street Week on the USMCA trade deal. The renegotiations are testing the future of an auto industry built on decades of cross-border integration. And, American farmers increasingly depend on exports to Canada and Mexico as other overseas markets become more diffic",
-      "published": "Fri, 26 Jun 2026 23:13:58 GMT",
-      "scraped_at": "2026-06-27T02:14:25.598Z"
     }
   ]
 }
