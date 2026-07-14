@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-07-14T13:09:17.211Z",
+  "updated_at": "2026-07-14T15:16:39.221Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美증시, 유가 급등에도 금리 우려 완화…나스닥 0.3%·하이닉스 10%↑",
+      "url": "https://www.hankyung.com/article/202607145403i",
+      "summary": "",
+      "published": "Tue, 14 Jul 2026 23:26:53 +0900",
+      "scraped_at": "2026-07-14T15:16:35.173Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美 소비자물가 '깜짝 하락'에…금리인상 우려 완화",
+      "url": "https://www.hankyung.com/article/202607145366i",
+      "summary": "",
+      "published": "Tue, 14 Jul 2026 22:29:44 +0900",
+      "scraped_at": "2026-07-14T15:16:35.173Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'AI 붐'에 美은행권 2분기 '깜짝 실적'…스페이스X 상장도 한몫",
+      "url": "https://www.yna.co.kr/view/AKR20260714187600072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국 은행권이 2분기 들어 큰 폭의 순익 증가를 거뒀다고 발표하며 올해 두 번째 실적발표 시즌 돌입을 알렸다...",
+      "published": "Wed, 15 Jul 2026 00:05:03 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "소상공인업계 \"내년 최저임금 인상 유감…부담 완화 대책 시급\"",
+      "url": "https://www.yna.co.kr/view/AKR20260714187300030",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 소상공인업계는 14일 내년도 최저임금이 인상된 데 대해 유감을 나타내고 소상공인의 부담을 완화할 대책을 마련할...",
+      "published": "Wed, 15 Jul 2026 00:00:31 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "경영계 \"최저임금 동결됐어야…고심 끝 불가피 선택\"",
+      "url": "https://www.yna.co.kr/view/AKR20260714186900003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 경영계는 내년도 최저임금이 시간당 1만700원으로 최종 결정된 데 대해 아쉬움을 표했다.",
+      "published": "Tue, 14 Jul 2026 23:36:01 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260714185551530",
+      "summary": "(세종=연합뉴스) 한혜원 옥성구 기자 = 내년도 최저임금이 시간당 1만700원으로 최종 결정됐다.",
+      "published": "Tue, 14 Jul 2026 23:22:03 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "최저임금 심의, 노동자 넘어 '전국민 임금협상'…27개 법령 연동",
+      "url": "https://www.yna.co.kr/view/AKR20260714167500530",
+      "summary": "(세종·서울=연합뉴스) 한혜원 옥성구 기자 = 내년도 최저임금이 시간당 1만700원으로 결정된 가운데, 최저임금 심의는 사실상 '전 국민의 소득...",
+      "published": "Tue, 14 Jul 2026 23:16:56 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "최저임금 심의 매년 도돌이표…결정구조 개편 필요성",
+      "url": "https://www.yna.co.kr/view/AKR20260714177100530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 내년도 최저임금이 시간당 1만700원으로 정해졌지만, 매년 법정 심의 기한을 넘기며 노사 대립이 반복되는 현행...",
+      "published": "Tue, 14 Jul 2026 23:12:25 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[2보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
+      "url": "https://www.yna.co.kr/view/AKR20260714185500530",
+      "summary": "(세종=연합뉴스) 한혜원 기자 = 내년도 최저임금이 시간당 1만700원으로 최종 결정됐다.",
+      "published": "Tue, 14 Jul 2026 23:00:27 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[속보] 내년 최저임금 올해보다 380원 오른다…합의 불발돼 표결",
+      "url": "https://www.yna.co.kr/view/AKR20260714185300530",
+      "summary": "hye1@yna.co.kr\n(끝)",
+      "published": "Tue, 14 Jul 2026 22:57:28 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[1보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
+      "url": "https://www.yna.co.kr/view/AKR20260714185200530",
+      "summary": "(",
+      "published": "Tue, 14 Jul 2026 22:56:47 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미 6월 소비자물가 상승률 전년대비 3.5%로 둔화…예상 하회(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260714181452072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 지난달 국제 유가 하락에 힘입어 미국의 소비자물가 상승률이 예상보다 빠르게 둔화한 것으로 나타났다.",
+      "published": "Tue, 14 Jul 2026 22:38:36 +0900",
+      "scraped_at": "2026-07-14T15:16:37.942Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fuel Markets in US and Europe Are Flashing Record Tightness",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/western-fuel-markets-flash-record-tightness-on-hormuz-escalation",
+      "summary": "Fuel markets in the US and Europe are flashing record tightness as tensions flare up in the Middle East, threatening more pain for consumers already strained with high prices at the pump.",
+      "published": "Tue, 14 Jul 2026 13:52:41 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Why Stellar Bank Earnings Aren't Enough",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/why-stellar-bank-earnings-aren-t-enough-video",
+      "summary": "Baird Senior Research Analyst David George joined Bloomberg Open Interest to explain why stellar bank earnings aren't translating into stock gains. He says investors are facing a \"buy the rumor, sell the news\" moment as expectations reached extreme levels, while emphasizing that banks are far safer ",
+      "published": "Tue, 14 Jul 2026 14:50:25 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fatal ICE Shooting Draws Maine Vigils as Scrutiny Grows",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/fatal-ice-shooting-draws-maine-vigils-as-scrutiny-grows-video",
+      "summary": "Security footage obtained by The Associated Press shows the aftermath of the shooting of a man in Maine by ICE officers, including a white car circling in an intersection, a law enforcement SUV stopping the car and agents opening the door and pulling out a body. (Source: Bloomberg)",
+      "published": "Tue, 14 Jul 2026 14:50:19 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Warsh Says Fed Has 'No Tolerance' for Persistent Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/warsh-says-fed-has-no-tolerance-for-persistent-inflation-video",
+      "summary": "Federal Reserve Chairman Kevin Warsh said policymakers at the central bank have no tolerance for high inflation during remarks to the House Financial Services Committee. (Source: Bloomberg)",
+      "published": "Tue, 14 Jul 2026 14:45:56 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US CPI Falls for the First Time Since 2020, Core Gauge Flat",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-video-mrkretzg",
+      "summary": "US consumer prices declined in June for the first time in six years and a key gauge of underlying inflation was little changed, taking some pressure off the Federal Reserve to raise interest rates.\nFrances Donald, Chief Economist at RBC Capital Markets, reacts to June CPI. (Source: Bloomberg)",
+      "published": "Tue, 14 Jul 2026 14:41:35 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SK Hynix Early ADR Options Trading Leans to Short-Term Contracts",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-early-adr-options-trading-leans-to-short-term-contracts",
+      "summary": "Options on SK Hynix Inc.’s American Depository Receipts began trading on US options exchanges Tuesday, giving traders in the world’s largest derivatives market easier access to the volatile South Korean memory chipmaker.",
+      "published": "Tue, 14 Jul 2026 14:31:31 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rockefeller Capital's Fleming: I Regret Having to Sell Merrill Lynch",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/rockefeller-s-fleming-regrets-selling-merrill-lynch-video",
+      "summary": "Rockefeller Capital Management President and CEO Greg Fleming says selling Merrill Lynch remains his biggest career regret, reflecting on whether more could have been done to preserve the iconic firm. This interview was recorded for Bloomberg Wealth with David Rubenstein on May 13, 2026.   (Source: ",
+      "published": "Tue, 14 Jul 2026 14:28:27 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chip Giant CXMT Seeks $9.8 Billion in Shanghai IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-shanghai-star-board-ipo-at-8-66-yuan-per-share",
+      "summary": "Chinese memory giant CXMT Corp. unveiled the terms of its initial public offering.",
+      "published": "Tue, 14 Jul 2026 13:38:33 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "‘We Faltered’: IBM Falls Most Since At Least 1968 on Sales Miss",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back",
+      "summary": "International Business Machines Corp. shares slid by the most in at least 58 years after the company reported preliminary second-quarter sales that fell short of expectations, attributing the miss to customers shifting their spending to chips and servers amid AI-fueled shortages.",
+      "published": "Tue, 14 Jul 2026 11:18:13 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US CPI Falls for the First Time Since 2020",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-video",
+      "summary": "The US consumer price index fell 0.4% in June, dragged down by the biggest decline in gasoline prices since 2022, taking some pressure off the Federal Reserve to raise interest rates. Tiffany Wilding, economist at Pimco, examines the data on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "published": "Tue, 14 Jul 2026 13:40:36 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia Struggles to Sell All the Oil It's Being Forced to Export",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/russia-struggles-to-sell-all-the-oil-it-s-being-forced-to-export",
+      "summary": "The amount of Moscow’s oil at sea is back near the highs seen at the start of the year",
+      "published": "Tue, 14 Jul 2026 13:15:29 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Barito Makes More Than $5 Billion Takeover Bid for EDC",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/barito-makes-more-than-5-billion-takeover-bid-for-edc",
+      "summary": "Indonesia’s PT Barito Renewables Energy has made an offer to buy geothermal company Energy Development Corp. to expand in the Philippines, people familiar with the matter said.",
+      "published": "Tue, 14 Jul 2026 13:11:44 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Citi Stock Traders Post Record Revenue for Quarter",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-14/citi-stock-traders-post-record-revenue-for-quarter-video",
+      "summary": "Citigroup says revenue from equities trading surged 45% to $2.3 billion in the second quarter from a year earlier. That's 11% higher than the record set in this year's opening months. Earnings per share came in at $3.15, beating all estimates. This is coverage from \"Bloomberg Surveillance.\" (Source:",
+      "published": "Tue, 14 Jul 2026 13:06:01 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Warsh Says Fed’s New Policy Task Forces Won’t Operate in Secret",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-07-14/fed-s-warsh-testifies-before-house-panel",
+      "summary": "",
+      "published": "Tue, 14 Jul 2026 12:52:19 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Vedanta Oil to Invest $5 Billion to Boost Output Fivefold",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/vedanta-oil-to-invest-5-billion-to-boost-output-fivefold",
+      "summary": "Vedanta Oil and Gas Ltd. will invest $5 billion to expand production by more than five times, underscoring India’s push to curb reliance on energy imports.",
+      "published": "Tue, 14 Jul 2026 12:52:18 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazil’s Oncoclinicas Files to Rework Almost $1 Billion of Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/brazil-s-oncoclinicas-files-to-rework-almost-1-billion-of-debt",
+      "summary": "Medical provider Oncoclinicas announced an agreement with part of its creditors for an out-of-court restructuring of 5.1 billion reais ($993 million) of debt, the latest of a string of Brazilian companies to seek an overhaul amid the pressure of double-digit interest rates.",
+      "published": "Tue, 14 Jul 2026 12:33:39 GMT",
+      "scraped_at": "2026-07-14T15:16:38.270Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -18710,346 +18990,6 @@
       "summary": "The SpaceX IPO set off a predictable frenzy—we look at who may lead the pack. Also, betting against AI, high-yield bonds, plus bonus mentions.",
       "published": "Thu, 25 Jun 2026 15:08:18 GMT",
       "scraped_at": "2026-07-07T17:51:57.821Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "모건스탠리\"반도체대신 하이퍼스케일러\"외쳤지만…블룸버그 \"맥7 지배 끝나\"",
-      "url": "https://www.hankyung.com/article/202607071312i",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 22:16:57 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "美 5월 무역적자 118조원…14개월 만에 최대",
-      "url": "https://www.hankyung.com/article/202607071328i",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 22:08:49 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "스페이스X, 오늘 나스닥100 편입…수십억달러 매수 촉발",
-      "url": "https://www.hankyung.com/article/202607071246i",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 21:19:24 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] CCTV까지 달고 감시…한국도 당한 中 짬짜미 '충격 실태'",
-      "url": "https://www.hankyung.com/article/2026070710941",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 21:00:05 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 韓, 中 컨테이너 '54조 담합' 조사",
-      "url": "https://www.hankyung.com/article/2026070710581",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 21:00:03 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"묶음상품 안 살래요\"…가성비 따지던 소비자 돌변한 까닭 [트렌드+]",
-      "url": "https://www.hankyung.com/article/202607070507g",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 20:00:04 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 한반도 농산물 관측 '농림위성' 우주로",
-      "url": "https://www.hankyung.com/article/2026070712531",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 19:47:14 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 54조원 피해…공정위, 中 컨테이너 가격 담합 조사 착수",
-      "url": "https://www.hankyung.com/article/202607071234i",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 19:22:46 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[속보] 차세대 중형위성 4호, 발사 후 해외 지상국과 교신 성공",
-      "url": "https://www.hankyung.com/article/2026070712327",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 19:18:44 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"한국증시 때문\"에…블랙록·뱅가드 신흥시장ETF 희비엇갈려",
-      "url": "https://www.hankyung.com/article/202607071220i",
-      "summary": "",
-      "published": "Tue, 07 Jul 2026 19:15:50 +0900",
-      "scraped_at": "2026-07-07T14:07:55.957Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“머리도 없는데” 탈모공격, 신문 찢었더니 김일성 사진…아수라장 핵협상",
-      "url": "https://www.mk.co.kr/news/politics/12086547",
-      "summary": "1991~1993년 남북회담 문서 공개 남측대표, 북측에 ‘놈’ 언급하며 고성 북, 南신문 김일성 사진 찢었다 사색“핵문제 토의하는 사람이 핵이 있는지 없는지도 모르고 하는 놈이 ..",
-      "published": "Tue, 30 Jun 2026 13:55:44 +09:00",
-      "scraped_at": "2026-07-07T14:07:56.876Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“열렬히 축하”…김정은, 시진핑 생일에 축전·꽃바구니 전달",
-      "url": "https://www.mk.co.kr/news/politics/12075035",
-      "summary": "김정은 북한 국무위원장이 시진핑 중국 국가주석의 생일을 맞아 축하 메시지와 꽃바구니를 보내며 밀착 행보를 이어갔다. 조선중앙통신은 16일 김 위원장이 시 주석의 73번째 생일인 전..",
-      "published": "Tue, 16 Jun 2026 06:53:28 +09:00",
-      "scraped_at": "2026-07-07T14:07:56.876Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Angola Seeks to Raise About $320 Million in Nation’s Biggest IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/angola-seeks-to-raise-about-320-million-in-nation-s-biggest-ipo",
-      "summary": "Angola plans to raise as much as $320 million selling shares in Unitel SA, the country’s biggest telecommunications operator, to help finance its budget and deepen the oil-rich nation’s capital markets.",
-      "published": "Tue, 07 Jul 2026 13:56:53 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Abu Dhabi Royal Family Firm to Invest $1.13 Billion in LNG Company MidOcean",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/abu-dhabi-royal-family-firm-to-invest-1-13-billion-in-aramco-backed-midocean",
-      "summary": "An investment firm owned by members of Abu Dhabi’s ruling family will invest $1.13 billion in liquefied natural gas company MidOcean Energy LLC.",
-      "published": "Tue, 07 Jul 2026 13:54:58 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Apollo’s Slok Says S&amp;P 493’s Stalled Margins Are a Big-Tech Risk",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/apollo-s-slok-says-s-p-493-s-stalled-margins-are-a-big-tech-risk",
-      "summary": "Apollo Global Management Inc.’s Torsten Slok warned that companies outside the giants of the technology sector are failing to show gains in profitability from their spending on artificial intelligence, posing risks to Big Tech valuations.",
-      "published": "Tue, 07 Jul 2026 13:48:54 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Tumble on Samsung Earnings; SpaceX Gets Bullish Ratings",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
-      "summary": "US technology shares headed lower on Tuesday after earnings from Samsung Electronics Co. failed to satisfy investors, spurring worries over the durability of this year’s red-hot artificial intelligence trade.",
-      "published": "Tue, 07 Jul 2026 11:40:33 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tech Volatility Hits Highest Since Dot-Com Bust Next to S&amp;P 500",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-volatility-hits-highest-since-dot-com-bust-next-to-s-p-500",
-      "summary": "The higher the rally in technology high-flyers, the louder the anxiety around a new wave of turbulence in the group.",
-      "published": "Tue, 07 Jul 2026 11:45:43 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "BP Drove Up European Jet Fuel Output by 30% During Iran Conflict",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/bp-drove-up-european-jet-fuel-output-by-30-during-iran-conflict",
-      "summary": "BP Plc boosted jet fuel production at its European refineries by about 30% during the Iran conflict, helping the region avoid major shortages while millions of barrels were locked up in the Persian Gulf.",
-      "published": "Tue, 07 Jul 2026 13:38:51 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Mag 7 Loses Market Swagger as AI Trade Spreads Beyond Behemoths",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/mag-7-loses-market-swagger-as-ai-trade-spreads-beyond-behemoths",
-      "summary": "For years, the Magnificent Seven tech giants commanded investors’ attention, dominating the S&P 500 Index and determining which way the overall stock market was headed. Those days are over.",
-      "published": "Tue, 07 Jul 2026 10:49:34 GMT",
-      "scraped_at": "2026-07-07T14:07:58.832Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Santé Cie Loan Price Jumps as Firm Plans Lender Negotiations",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/sante-cie-loan-price-jumps-as-firm-plans-lender-negotiations",
-      "summary": "Traders are rapidly marking up prices for Santé Cie SAS’s loan after the home healthcare provider said it was looking to begin an out-of-court process to negotiate with its lenders.",
-      "published": "Tue, 07 Jul 2026 13:27:52 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "German Oil Stocking Agency Says It’s Refilling Strategic Reserve",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/german-oil-stocking-agency-says-it-s-refilling-strategic-reserve",
-      "summary": "Germany’s oil stockpiling agency EBV is looking to refill strategic reserves of diesel, a move that could pile more pressure on an already tight fuel market.",
-      "published": "Tue, 07 Jul 2026 13:25:38 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Trade Deficit Widens to Biggest in More Than a Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/us-trade-deficit-widens-to-biggest-in-more-than-a-year",
-      "summary": "The US trade deficit widened in May as a broad-based increase in imports and a decline in exports propelled the gap to the most in more than a year.",
-      "published": "Tue, 07 Jul 2026 12:34:01 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Apple Supplier Luxshare Prices $3.1 Billion HK Listing at Top",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/apple-supplier-luxshare-prices-3-1-billion-hk-listing-at-top",
-      "summary": "Apple Inc. supplier Luxshare Precision Industry Co. raised HK$24.3 billion ($3.1 billion) after pricing shares for its Hong Kong listing at the maximum amount it had set.",
-      "published": "Tue, 07 Jul 2026 13:18:27 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Russian Oil Flows Hit New High But Slumping Prices Crush Income",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/russia-s-record-oil-exports-can-t-outpace-tumbling-prices",
-      "summary": "Urals prices back where they were before US, Israel launched campaign against Iran",
-      "published": "Tue, 07 Jul 2026 12:39:30 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dangote Says Kenya Refinery Will Cost as Much as $17 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/dangote-says-kenya-refinery-will-cost-as-much-as-17-billion",
-      "summary": "A new mega-refinery to be built at the Kenyan coast by Africa’s richest person will cost as much as $17 billion, a spokesman for Dangote Industries Ltd. has confirmed.",
-      "published": "Tue, 07 Jul 2026 12:39:28 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "InsuranceDekho Said to Pick Banks for $400 Million India IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/insurancedekho-said-to-pick-banks-for-400-million-india-ipo",
-      "summary": "Indian insurance aggregator InsuranceDekho’s parent has selected HSBC Holdings Plc, Morgan Stanley, ICICI Securities Ltd. and IIFL Capital Services Ltd. as advisers to a potential initial public offering, according to people familiar with the matter.",
-      "published": "Tue, 07 Jul 2026 12:35:40 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "France Unveils New Cuts as Weaker Growth Imperils Deficit Goal",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/france-unveils-new-cuts-as-weaker-growth-imperils-deficit-goal",
-      "summary": "France said it would make €3 billion ($3.4 billion) of additional budget cuts this year as it struggles to keep on track with narrowing the budget shortfall after weaker economic activity threatened its plans.",
-      "published": "Tue, 07 Jul 2026 12:18:46 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Amazon Seeks to Raise at Least $25 Billion From Bond Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
-      "summary": "Amazon.com Inc. is looking to raise at least $25 billion from a US dollar bond sale, its latest funding push as the company ramps up investment in artificial intelligence infrastructure.",
-      "published": "Tue, 07 Jul 2026 12:00:47 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Equinor’s Chief Crude Trader Leaves After Nine-Year Tenure",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/equinor-s-chief-crude-trader-leaves-after-nine-year-tenure",
-      "summary": "Equinor ASA’s chief crude trader, David Barratt, left the company this week following a string of other departures from the Norwegian energy giant.",
-      "published": "Tue, 07 Jul 2026 12:12:16 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Standard Nuclear Seeks to Raise $383 Million in US IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/standard-nuclear-seeks-to-raise-383-million-in-us-ipo",
-      "summary": "Standard Nuclear Inc., a maker of fuel for nuclear reactors, is seeking to raise as much as $383 million in a US initial public offering.",
-      "published": "Tue, 07 Jul 2026 12:09:43 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gas Demand Set for First Drop Since 2022 on Iran War, IEA Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/gas-demand-set-for-first-drop-since-2022-on-iran-war-iea-says",
-      "summary": "Global gas demand is poised for the first annual drop since the 2022 energy crisis because of higher prices caused by the Iran war, according to the International Energy Agency.",
-      "published": "Tue, 07 Jul 2026 12:07:54 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Autodoc Is Raising €530 Million Loan to Buy Out Apollo’s Stake",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/autodoc-is-raising-530-million-loan-to-buy-out-apollo-s-stake",
-      "summary": "German online car-parts retailer Autodoc Holding SE is raising €530 million ($606 million) in debt financing to help it buy back a minority stake held by Apollo Global Management Inc.",
-      "published": "Tue, 07 Jul 2026 12:01:03 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Accounting Firm CBIZ Urged by Activist Investor to Pursue M&amp;A",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/accounting-firm-cbiz-urged-by-activist-investor-to-pursue-m-a",
-      "summary": "A CBIZ Inc. shareholder is urging the accounting firm to re-evaluate its capital allocation, abandon a share buyback plan and return to pursuing acquisitions, according to a letter sent to the company.",
-      "published": "Tue, 07 Jul 2026 12:00:13 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dudley: Still Bullish on AI Spending",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-07/dudley-still-bullish-on-ai-spending-video",
-      "summary": "Katrina Dudley, Franklin Templeton Senior Investment Strategist, discusses the slump in Samsung shares and why she continues to be bullish on AI infrastructure spending. She speaks with Bloomberg's Vonnie Quinn on “Bloomberg Brief.” (Source: Bloomberg)",
-      "published": "Tue, 07 Jul 2026 11:59:27 GMT",
-      "scraped_at": "2026-07-07T14:07:58.833Z"
     }
   ]
 }
