@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-07-16T10:00:52.643Z",
+  "updated_at": "2026-07-16T13:21:03.298Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'부산병' 걸린 외국인 많다더니…'매출 230% 폭증' 대박 터졌다",
+      "url": "https://www.hankyung.com/article/2026071601551",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 20:00:01 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"취약계층·영세업자 지원 확대\"…삼성, 2000억 출연",
+      "url": "https://www.hankyung.com/article/2026071601451",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 19:08:26 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "이세돌 \"신진서, 접바둑서 AI 이길것\"",
+      "url": "https://www.hankyung.com/article/2026071601401",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 19:06:11 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신한은행, 공무원연금공단과 업무협약",
+      "url": "https://www.hankyung.com/article/2026071601461",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 19:04:28 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"웃돈 줘도 못 구해\" 결국 터질게 터졌다…광주에 무슨 일이",
+      "url": "https://www.hankyung.com/article/2026071602031",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 19:00:03 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "씨티 \"한은, 8월에도 기준금리 올릴 듯\"",
+      "url": "https://www.hankyung.com/article/2026071603317",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:35:57 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "배민 주인 바뀐다…우버, DH 22兆에 인수",
+      "url": "https://www.hankyung.com/article/2026071601531",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:26:21 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "무알코올 시장 1위 하이트제로의 반전",
+      "url": "https://www.hankyung.com/article/2026071601571",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:25:18 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "CJ햇반·사조참치 등 가격 오른다",
+      "url": "https://www.hankyung.com/article/2026071601561",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:24:27 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "잠실운동장, 돔구장 '민간투자심의' 통과",
+      "url": "https://www.hankyung.com/article/2026071602021",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:11:55 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "결혼하고 지방 살면 아이 더 낳는다",
+      "url": "https://www.hankyung.com/article/2026071602001",
+      "summary": "",
+      "published": "Thu, 16 Jul 2026 18:11:26 +0900",
+      "scraped_at": "2026-07-16T13:20:59.490Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합3보)",
+      "url": "https://www.yna.co.kr/view/AKR20260716165353002",
+      "summary": "(서울·세종=연합뉴스) 배영경 이대희 김지연 기자 = 앞으로 단일종목 레버리지 상장지수펀드(ETF)를 매매하려면 기본예탁금으로 현금 3천만원이 ...",
+      "published": "Thu, 16 Jul 2026 20:33:00 +0900",
+      "scraped_at": "2026-07-16T13:21:01.978Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금융위 \"단일종목 레버리지 외화유출 방지효과 분명 있어\"",
+      "url": "https://www.yna.co.kr/view/AKR20260716201700002",
+      "summary": "(서울=연합뉴스) 배영경 김지연 기자 = 금융위원회는 16일 단일종목 레버리지 상장지수펀드(ETF)가 해외증시로의 외화 유출을 막는 효과가 있었...",
+      "published": "Thu, 16 Jul 2026 19:03:13 +0900",
+      "scraped_at": "2026-07-16T13:21:01.978Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합2보)",
+      "url": "https://www.yna.co.kr/view/AKR20260716165352002",
+      "summary": "(서울·세종=연합뉴스) 배영경 이대희 김지연 기자 = 앞으로 단일종목 레버리지 상장지수펀드(ETF)를 매매하려면 기본예탁금으로 현금 3천만원이 ...",
+      "published": "Thu, 16 Jul 2026 19:01:36 +0900",
+      "scraped_at": "2026-07-16T13:21:01.978Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260716024051530",
+      "summary": "(서울=연합뉴스) 홍준석 기자 = 정부가 성평등 정책을 전담하는 부서를 15개 부처에 새로 설치하고, 성별 임금 현황과 고용 실태를 공개하는 고...",
+      "published": "Thu, 16 Jul 2026 18:58:01 +0900",
+      "scraped_at": "2026-07-16T13:21:01.978Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Jobless Claims Decline to 208,000, Below Forecasts",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-jobless-claims-decline-to-208-000-below-economist-forecasts",
+      "summary": "Applications for US unemployment benefits fell last week, suggesting the labor market remains stable.",
+      "published": "Thu, 16 Jul 2026 12:35:14 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Jump Trading Doubles Team to Ride Record Prediction Market Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/jump-trading-doubles-team-to-ride-record-prediction-market-boom",
+      "summary": "As prediction markets draw record trading around events like the World Cup, Jump Trading Group is betting the once-niche contracts are becoming a lasting corner of Wall Street.",
+      "published": "Thu, 16 Jul 2026 13:17:33 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Abbott Boosts 2026 Profit Guidance as Sales Across Firm Rise",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/abbott-boosts-2026-profit-guidance-as-sales-across-business-rise",
+      "summary": "Abbott Laboratories raised its 2026 profit guidance after a stronger-than-expected second quarter driven by improved performance across most of its business lines.",
+      "published": "Thu, 16 Jul 2026 11:41:45 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Multistrat Hedge Fund Paloma to Cut Teams in Latest Pivot",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/multistrat-hedge-fund-paloma-to-cut-teams-in-latest-pivot",
+      "summary": "Donald Sussman, the veteran behind Paloma Partners, is pivoting his long-standing multistrategy hedge fund to focus on fewer managers in which he has the highest conviction as the firm adjusts to a decline in assets over the past three years.",
+      "published": "Thu, 16 Jul 2026 12:15:00 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SMBC Bolsters Global Sales and Trading Push With Macro Hire",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/smbc-bolsters-global-sales-and-trading-push-with-macro-hire",
+      "summary": "Sumitomo Mitsui Banking Corp. hired Kunal Maini as international head of macro rates, bolstering efforts to expand its sales and trading franchise beyond its core Japanese market.",
+      "published": "Thu, 16 Jul 2026 12:00:00 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Drivers Are Again Paying More Than $5 a Gallon for Diesel",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-drivers-are-again-paying-more-than-5-a-gallon-for-diesel",
+      "summary": "American drivers are once again paying more than $5 a gallon for diesel, with a fresh round of hostilities in the Middle East raising the specter of more war-induced inflation.",
+      "published": "Thu, 16 Jul 2026 11:55:42 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Stock Futures Today: AtaiBeckley, GE Aerospace, UnitedHealth",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-today-ataibeckley-ge-aerospace-unitedhealth",
+      "summary": "S&P 500 Index futures are down 0.2% as of 7:47 a.m. in New York. The US intensified strikes against Iran, hitting an oil tanker near the country’s main export terminal for the first time since the restart of the blockade on the Islamic Republic’s ports.",
+      "published": "Thu, 16 Jul 2026 11:54:50 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Power Grid Faces Defining Test for AI Boom",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/us-power-grid-faces-defining-test-for-ai-boom",
+      "summary": "The operator of America’s biggest electricity network is entering an emergency process to plug a projected supply shortfall.",
+      "published": "Thu, 16 Jul 2026 11:34:43 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Retail Traders’ Rise Upends the Established Stock Market Order",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/retail-traders-rise-upends-the-established-stock-market-order",
+      "summary": "Retail traders have moved from the stock market’s margins to its center.",
+      "published": "Thu, 16 Jul 2026 11:28:22 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Utility Warns Blast at South Africa Water Plant to Hit Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/utility-warns-blast-at-south-africa-water-plant-to-hit-supply",
+      "summary": "An explosion on power lines that feed a key water-pumping hub risks cutting supply to parts of South Africa’s commercial hub of Johannesburg and key platinum- and gold-mining towns to the city’s west, the continent’s biggest bulk-water supplier said.",
+      "published": "Thu, 16 Jul 2026 11:22:52 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Middle East Bond Spreads Hit 2022 High as Ceasefire Breaks Down",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/middle-east-bond-spreads-hit-2022-high-as-ceasefire-breaks-down",
+      "summary": "Bond investors are demanding the most compensation since October 2022 to fund Middle Eastern governments as fighting flares again between the US and Iran.",
+      "published": "Thu, 16 Jul 2026 11:22:51 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "French Power Exports Jump 36% to Record on Nuclear Output Boost",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/french-power-exports-jump-36-to-record-on-nuclear-output-boost",
+      "summary": "French power exports surged to a record in the first half of 2026 as a rebound in nuclear output and rising renewable generation left the country with a big surplus of low-cost electricity to sell across Europe.",
+      "published": "Thu, 16 Jul 2026 10:00:00 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Broker Alpaca Raises $435 Million, Explores Prime Broking Entry",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/broker-alpaca-raises-435-million-explores-prime-broking-entry",
+      "summary": "Brokerage and financial infrastructure startup Alpaca has raised $135 million in equity and $300 million in debt, as it looks to expand a business that helps investors trade across financial markets using artificial intelligence agents.",
+      "published": "Thu, 16 Jul 2026 10:00:00 GMT",
+      "scraped_at": "2026-07-16T13:21:02.345Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -18090,816 +18370,6 @@
       "summary": "The oil industry has spent more than a century pushing into new frontiers. Its engineers pulled crude from beneath deserts, oceans and frozen tundra. Its traders built markets that turned oil into the world’s most actively traded commodity.",
       "published": "Thu, 09 Jul 2026 12:02:40 GMT",
       "scraped_at": "2026-07-09T14:33:17.545Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"청소 근로자 빈소 홀로 찾아\"…다시 회자된 이재용 회장 미담",
-      "url": "https://www.hankyung.com/article/2026070964977",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 19:34:33 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "현대해상, 유병자 위한 '내몸엔(N)맞춤간편건강보험' 출시",
-      "url": "https://www.hankyung.com/article/202607096411i",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:48:57 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "정부, 동복댐 국가 소유 전환 검토…호남 반도체 용수 확보 속도",
-      "url": "https://www.hankyung.com/article/2026070964417",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:35:28 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "꿀잠 꿈꾸는 사람들…'슬립맥싱'에 눈 뜨다",
-      "url": "https://www.hankyung.com/article/2026070961421",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:32:15 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "현대카드, 스테이블코인으로 현대차 해외법인간 송금 검증",
-      "url": "https://www.hankyung.com/article/2026070961741",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:23:23 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 하나금융, 내집연금 1주년",
-      "url": "https://www.hankyung.com/article/2026070961661",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:22:04 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "청약 260조원 몰린 하이닉스 ADR 상장",
-      "url": "https://www.hankyung.com/article/2026070963211",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:17:30 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'소비자 보호' 앞장선 금융사 찾습니다",
-      "url": "https://www.hankyung.com/article/2026070962701",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:12:57 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "네이버 별점 부활… 긴장하고 있는 자영업자 [퇴근길 30초 경제]",
-      "url": "https://www.hankyung.com/article/202607096390H",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:07:25 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "공정위, 미래에셋의 코빗 인수 승인",
-      "url": "https://www.hankyung.com/article/2026070961671",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:04:07 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "국민銀 이어 신한도 대출 문턱 높였다",
-      "url": "https://www.hankyung.com/article/2026070961731",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:03:23 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 삼성의 '아픈 손가락' 드디어…'400조 시장' 노린다",
-      "url": "https://www.hankyung.com/article/2026070963231",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:02:57 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "국민銀, 포스코와 업무협약…협력업체 특화 금융 제공",
-      "url": "https://www.hankyung.com/article/2026070961721",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:02:44 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] OK금융, MG손보 품고 종합금융그룹 노린다",
-      "url": "https://www.hankyung.com/article/2026070961711",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 18:02:19 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 삼성전자, PC용 AI칩 출사표…엔비디아·퀄컴과 '맞짱'",
-      "url": "https://www.hankyung.com/article/2026070963411",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:59:33 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "박기호 사장 \"VC는 '쿨한 부모'…스타트업 지원하되 간섭 말아야\"",
-      "url": "https://www.hankyung.com/article/2026070961951",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:53:52 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "저축銀중앙회 '폭염 대비 꾸러미' 지원",
-      "url": "https://www.hankyung.com/article/2026070961891",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:52:41 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] ESG 우수 기업 한자리에…한경 '2026 사회공헌기업대상' 시상식",
-      "url": "https://www.hankyung.com/article/2026070961861",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:51:31 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "중국산 로봇청소기 찾더니 '반전'…안방 탈환 노리는 '삼성·LG' [맞짱대결]",
-      "url": "https://www.hankyung.com/article/202607095894g",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:51:00 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "SK하이닉스, 키옥시아 투자 대박…6조 현금화, 지분 15%도 보유",
-      "url": "https://www.hankyung.com/article/2026070963221",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:49:11 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 삼성전자, PC용 AI칩 출사표…엔비디아·퀄컴과 '맞짱'",
-      "url": "https://www.hankyung.com/article/202607096332i",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:47:23 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "제조업·건설 경기 부진에…韓 떠나는 외국인 6년새 최대",
-      "url": "https://www.hankyung.com/article/2026070962641",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:47:00 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "K배터리 새 먹거리 ESS, 왜 생산 더딜까",
-      "url": "https://www.hankyung.com/article/2026070963001",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:46:03 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "엘앤에프, 새만금 전구체 생산시설 가동한다",
-      "url": "https://www.hankyung.com/article/2026070963031",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:44:47 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"유럽 방산 투자 2년후엔 美 넘어…韓, 최우선 파트너\"",
-      "url": "https://www.hankyung.com/article/2026070962951",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:44:30 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "LG디스플레이 \"주사율 높으면 게이머 반응속도 향상\" 입증",
-      "url": "https://www.hankyung.com/article/2026070963021",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:43:53 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "현대차그룹, '자원순환형 수소 생산시설' 청주에 준공",
-      "url": "https://www.hankyung.com/article/2026070962991",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:43:34 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[포토] 대용량 상업용 세탁기 'LG 프로페셔널'",
-      "url": "https://www.hankyung.com/article/2026070962981",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:43:11 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] \"아시아나 빈자리 잡아라\"…장거리 노선 'LCC 3파전'",
-      "url": "https://www.hankyung.com/article/2026070963011",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:41:33 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'롤러코스피'에 개미들 지쳤나…일주일 만에 12조 몰린 곳",
-      "url": "https://www.hankyung.com/article/2026070962851",
-      "summary": "",
-      "published": "Thu, 09 Jul 2026 17:39:11 +0900",
-      "scraped_at": "2026-07-09T10:50:50.397Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "신임 평화통일민주교육원장에 이제훈",
-      "url": "https://www.mk.co.kr/news/politics/12094593",
-      "summary": "이제훈 전 한겨레 편집국장(사진)이 통일부 국립평화통일민주교육원장에 임용됐다고 통일부가 9일 밝혔다. 이 신임 원장은 1993년 한겨레에 입사해 오랜 기간 북한·통일 이슈를 다뤄온..",
-      "published": "Thu, 09 Jul 2026 17:01:01 +09:00",
-      "scraped_at": "2026-07-09T10:50:51.046Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한·몽골 CEPA 원칙적 타결…핵심광물·유통협력 가속화",
-      "url": "https://www.yna.co.kr/view/AKR20260709192700003",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 한국과 몽골이 9일 포괄적경제동반자협정(CEPA)의 원칙적 타결에 이르면서 양국이 교역·투자 확대 등 경제협력...",
-      "published": "Thu, 9 Jul 2026 19:43:57 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "내년 최저임금 격차 690원, 심의 한번더…소상공인 측 반발 퇴장(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20260709157552530",
-      "summary": "(세종=연합뉴스) 옥성구 기자 = 내년도 최저임금 수준을 협상하고 있는 노사의 격차가 '690원'으로 좁혀졌다.",
-      "published": "Thu, 9 Jul 2026 19:20:52 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'SK하이닉스 200만원 넘는데'…BNK증권, 목표가 185만원 제시",
-      "url": "https://www.yna.co.kr/view/AKR20260709189600008",
-      "summary": "(서울=연합뉴스) 고은지 기자 = SK하이닉스[000660] 목표주가를 현재가보다 낮은 수준으로 내놓은 증권사 보고서가 나왔다.",
-      "published": "Thu, 9 Jul 2026 19:06:06 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "韓총리, 고양시 찾아 3기 신도시 점검…\"신속 공급 중요\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709186200001",
-      "summary": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 9일 경기도 고양시 덕양구 고양창릉 지구를 방문해 3기 신도시 추진 현황을 점검했다.",
-      "published": "Thu, 9 Jul 2026 19:00:26 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주성코퍼레이션, 150억원 유상증자…비앤피주성에 제3자배정",
-      "url": "https://www.yna.co.kr/view/AKR20260709184500008",
-      "summary": "(서울=연합뉴스) 코스피 상장사 주성코퍼레이션[109070]은 운영자금 등 약 150억원을 조달하고자 제3자배정 유상증자를 결정했다고 9일 공시...",
-      "published": "Thu, 9 Jul 2026 18:07:58 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "아시아경제 \"제이에이치스포츠매니지먼트 주식 62억원에 취득\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709183700008",
-      "summary": "(서울=연합뉴스) 코스닥 상장사 아시아경제[127710]는 서비스업 종속회사의 종속회사 제이에이치스포츠매니지먼트의 주식 123만주를 약 62억원...",
-      "published": "Thu, 9 Jul 2026 18:06:54 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중증장애인 국가공무원 경력채용 49명 합격…평균 35.8세",
-      "url": "https://www.yna.co.kr/view/AKR20260709036400001",
-      "summary": "(서울=연합뉴스) 이상현 기자 = 인사혁신처는 9일 2026년도 중증장애인 국가공무원 경력경쟁 채용시험 최종 합격자 49명을 발표했다.",
-      "published": "Thu, 9 Jul 2026 18:00:02 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "url": "https://www.yna.co.kr/view/AKR20260709177400011",
-      "summary": "■ 전국 곳곳 '물폭탄'…하천 범람하고 급류 휩쓸려 1명 실종",
-      "published": "Thu, 9 Jul 2026 18:00:01 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "추경호, 첫 비상경제대책회의…\"대구 경제 구조 개편할 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709182000053",
-      "summary": "(대구=연합뉴스) 박세진 기자 = 추경호 대구시장이 9일 후보 시절 공약이었던 '비상경제대책회의'를 열고 산업구조 대전환과 민생경제 회복을 위한...",
-      "published": "Thu, 9 Jul 2026 17:59:39 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "최저임금 격차 730원으로…노 1만1천250원 vs 사 1만520원(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260709157551530",
-      "summary": "(세종=연합뉴스) 옥성구 기자 = 내년도 최저임금 수준을 협상하고 있는 노동계와 경영계가 9일 8차 수정안으로 각각 시간당 1만1천250원과 1...",
-      "published": "Thu, 9 Jul 2026 17:54:37 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "건설의 날 기념식…김윤덕 장관 \"AI 기반 스마트 건설현장 조성\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260708132151003",
-      "summary": "(서울=연합뉴스) 서미숙 임기창 기자 = 국토교통부와 대한건설단체총연합회는 9일 서울 강남구 건설회관에서 '2026 건설의 날' 기념식을 열었다...",
-      "published": "Thu, 9 Jul 2026 17:52:48 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'달러 매각 가짜뉴스' 유포 5명 송치…최초 유포자 계속 추적",
-      "url": "https://www.yna.co.kr/view/AKR20260709179200061",
-      "summary": "(수원=연합뉴스) 강영훈 기자 = 중동발 경제 위기에 정부가 달러를 강제로 매각하게 할 것이라는 내용의 가짜뉴스를 유포한 이들이 검찰에 넘겨졌다...",
-      "published": "Thu, 9 Jul 2026 17:46:07 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "NH증권, 인도 '초이스 증권' 지분투자…\"실질 파트너십 구축\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709178400008",
-      "summary": "(서울=연합뉴스) 김태종 기자 = NH투자증권[005940]은 인도 상장 금융그룹인 초이스 그룹(Choice International Limit...",
-      "published": "Thu, 9 Jul 2026 17:33:05 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'반도체 부지' 인근 토지거래허가구역 지정에 기대반 우려반",
-      "url": "https://www.yna.co.kr/view/AKR20260709175600054",
-      "summary": "(전남광주=연합뉴스) 장덕종 기자 = 정부가 반도체 투자로 부동산 수요가 요동칠 조짐을 보이는 광주 군공항 인근 지역을 토지거래허가구역으로 지정...",
-      "published": "Thu, 9 Jul 2026 17:31:29 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[동정] 황종우 해수부 장관, 항만물류협회와 간담회",
-      "url": "https://www.yna.co.kr/view/AKR20260709177900051",
-      "summary": "▲ 황종우 해양수산부 장관은 9일 한국항만물류협회와 간담회를 열어 항만물류업계의 성장을 위한 하역시장 안정화 방안 등 주요 현안을 논의하고 업계...",
-      "published": "Thu, 9 Jul 2026 17:25:53 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "이현재 하남시장 \"교산신도시 조속 추진·5대 현안 해결\" 촉구",
-      "url": "https://www.yna.co.kr/view/AKR20260709176000061",
-      "summary": "(하남=연합뉴스) 이우성 기자 = 이현재 경기 하남시장은 9일 시청에서 기자회견을 열고 3기 신도시인 교산지구 조성 사업의 조속한 추진과 5대 ...",
-      "published": "Thu, 9 Jul 2026 17:25:27 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'의료용 기기 제조' 레메디 코스닥 신규상장…13일부터 거래",
-      "url": "https://www.yna.co.kr/view/AKR20260709177300008",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소는 레메디의 코스닥시장 신규 상장을 승인했다고 9일 밝혔다. 이 종목에 대한 거래는 오는 13일부터 ...",
-      "published": "Thu, 9 Jul 2026 17:22:50 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "광주 토허구역, 주택 대지지분 60㎡ 이상 거래시 허가 받아야",
-      "url": "https://www.yna.co.kr/view/AKR20260709174500003",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 정부가 9일 호남 반도체 첨단국가산단 사업 예정지 일원인 광주 군공항 부지 인근을 토지거래허가구역으로 지정하면...",
-      "published": "Thu, 9 Jul 2026 17:13:56 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "경남모금회, 아동·청소년 돌봄에 복권기금 7억5천만원 지원",
-      "url": "https://www.yna.co.kr/view/AKR20260709171000052",
-      "summary": "(창원=연합뉴스) 김동민 기자 = 경남사회복지공동모금회는 '2026년 복권기금 아동·청소년 돌봄강화 프로그램' 배분금 7억5천600만원을 도내 ...",
-      "published": "Thu, 9 Jul 2026 16:57:49 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[영상] \"축의금 보냈는데 감사인사 없었다\"…알고 보니 이름이 사라졌다",
-      "url": "https://www.yna.co.kr/view/AKR20260709119200797",
-      "summary": "(서울=연합뉴스) 왕지웅 기자 = 모바일 송금이 일상이 되면서 축의금이나 조의금을 보낸 뒤에도 감사 인사를 주고받지 못하는 사례가 적지 않습니다...",
-      "published": "Thu, 9 Jul 2026 16:57:46 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "HS효성첨단소재 \"벨기에 계열사 주식 345억원에 추가취득\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709172500008",
-      "summary": "(서울=연합뉴스) 코스피 상장사 HS효성첨단소재[298050]는 벨기에의 이차전지소재 및 전지 관련 연구, 제조 및 판매 계열사(HS Hyosu...",
-      "published": "Thu, 9 Jul 2026 16:56:08 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "韓총리 \"3대 메가프로젝트, 건설에 가장 큰 미래 보이는 시간\"",
-      "url": "https://www.yna.co.kr/view/AKR20260709168100001",
-      "summary": "(서울=연합뉴스) 이상현 기자 = 한성숙 국무총리는 9일 \"정부는 대한민국 대도약의 3대 메가프로젝트 투자 계획을 발표했다\"며 \"무엇보다 건설에...",
-      "published": "Thu, 9 Jul 2026 16:55:48 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "광주 군공항 인근 토지거래허가구역 지정…14일부터 효력(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260709166551003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 호남권 반도체 클러스터 조성 예정지인 광주 군공항 부지와 인근 지역이 토지거래허가구역으로 지정됐다.",
-      "published": "Thu, 9 Jul 2026 16:53:48 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "울산, 산업 AI 전환 거점 도약 '가속'…민관 협의체 출범(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260709168500057",
-      "summary": "(울산=연합뉴스) 김근주 허광무 기자 = 울산 산업 인공지능 전환(AX) 사업을 담당하는 민관 협의체가 9일 출범했다.",
-      "published": "Thu, 9 Jul 2026 16:52:21 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국고채 금리 혼조세…3년물 연 3.778%",
-      "url": "https://www.yna.co.kr/view/AKR20260709169100008",
-      "summary": "(서울=연합뉴스) 9일 국고채 금리가 혼조세를 보였다.",
-      "published": "Thu, 9 Jul 2026 16:43:07 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'ADR상장 D-1' SK하이닉스, 티커는 'SKHY'…\"본주 재평가 기대\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260709071751008",
-      "summary": "(서울=연합뉴스) 이민영 기자 = 증권가는 오는 10일 SK하이닉스[000660] 미국 주식예탁증서(ADR) 상장에 따라 글로벌 투자자 접근성이...",
-      "published": "Thu, 9 Jul 2026 16:42:21 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "울산시, 장기 미준공 도시개발사업 해결 추진…맞춤형 행정 지원",
-      "url": "https://www.yna.co.kr/view/AKR20260709161200057",
-      "summary": "(울산=연합뉴스) 허광무 기자 = 울산시가 장기간 준공이 지연되는 도시개발사업 정상화를 위한 해결 방안 마련에 나선다.",
-      "published": "Thu, 9 Jul 2026 16:40:00 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[2보] 광주 군공항 인근 토지거래허가구역 지정…14일부터 효력",
-      "url": "https://www.yna.co.kr/view/AKR20260709166500003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 호남권 반도체 클러스터 조성 예정지인 광주 군공항 부지와 인근 지역이 토지거래허가구역으로 지정됐다.",
-      "published": "Thu, 9 Jul 2026 16:35:12 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "2027 충청 U대회 조직위, 기획예산처에 대회 운영비 증액 요청",
-      "url": "https://www.yna.co.kr/view/AKR20260709162900063",
-      "summary": "(세종=연합뉴스) 양영석 기자 = 2027 충청 유니버시아드대회(U대회) 조직위원회가 대회 준비에 필요한 운영비를 증액해달라고 기획예산처에 요청...",
-      "published": "Thu, 9 Jul 2026 16:28:54 +0900",
-      "scraped_at": "2026-07-09T10:50:52.463Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Turkey’s Vestel Hires Advisers for Dollar Bond Restructuring",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/turkey-s-vestel-said-to-start-work-on-dollar-bond-restructuring",
-      "summary": "Turkey’s Vestel Elektronik has hired advisers Houlihan Lokey for restructuring talks with bondholders, at the same time as the struggling electronics manufacturer renegotiates loans with local banks.",
-      "published": "Thu, 09 Jul 2026 09:18:32 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fuel Prices Show Inflation Is Still a Risk for Markets",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-09/fuel-prices-show-inflation-is-still-a-risk-for-markets",
-      "summary": "While oil prices have fallen, the cost of refined products like gasoline and diesel are proving to be much stickier.",
-      "published": "Thu, 09 Jul 2026 10:36:14 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Rain-Soaked China Braces For 'Gargantuan' Typhoon",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/rain-soaked-china-braces-for-gargantuan-typhoon-video",
-      "summary": "China is facing more torrential rain and flooding this weekend from a massive typhoon tracking toward the country’s east coast, following recent severe storms that led to deaths and crop damage. (Source: Bloomberg)",
-      "published": "Thu, 09 Jul 2026 10:35:44 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "India’s Wartime Buying Spree Leaves Behind a Cooking Gas Surplus",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/india-s-wartime-buying-spree-leaves-behind-a-cooking-gas-surplus",
-      "summary": "India’s frenzied efforts to counter disruptions in cooking gas supplies over the past months, while cargoes remained trapped in the Persian Gulf, has left state-run fuel retailers with the opposite problem — more than they can sell.",
-      "published": "Thu, 09 Jul 2026 10:33:39 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Nigerian Stocks Vault Past Korea’s Kospi to Claim World’s Top Returns",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/nigeria-stocks-jump-south-korea-s-kospi-to-hand-most-dollar-returns",
-      "summary": "Nigerian equities have overtaken South Korea’s to hand investors the highest dollar-based returns this year, as souring sentiment on artificial-intelligence stocks pushes the Asian nation’s world-beating rally into bear territory.",
-      "published": "Thu, 09 Jul 2026 10:26:46 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iran, US Trade Attacks For Second Day, SK Hynix To Set US Listing Price | The Pulse 7/9/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/the-pulse-7-9-2026-video",
-      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Emmanuel Cau, Barc",
-      "published": "Thu, 09 Jul 2026 10:26:44 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Serbia Holds Rates as Election Welfare Plans Signal Price Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/serbia-holds-rates-as-election-welfare-plans-signal-price-risks",
-      "summary": "Serbia kept borrowing costs unchanged for a record 22nd month as a government plan for cash handouts before this year’s general election may add to inflation pressures.",
-      "published": "Thu, 09 Jul 2026 10:02:04 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Erste Shares to Rally 30% on Poland Growth, Goldman Sachs Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/erste-shares-to-rally-30-on-poland-growth-goldman-sachs-says",
-      "summary": "Erste Group Bank AG shares are set to rally 30%, driven by growth from the lender’s expansion in Poland, according to Goldman Sachs Group Inc.",
-      "published": "Thu, 09 Jul 2026 09:47:42 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US, Iran Trade Airstrikes as Fears Grow of a Return to War",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/us-iran-trade-attacks-for-second-day-testing-fragile-ceasefire",
-      "summary": "The US military struck Iran for a second day and Tehran retaliated against American allies in the Persian Gulf, raising fears of a return to war after little progress in efforts to secure a diplomatic outcome.",
-      "published": "Thu, 09 Jul 2026 07:28:48 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Barclays Readies $875 Million Debt Sale for Buyout of Senior Plc",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/barclays-readies-875-million-debt-sale-for-buyout-of-senior-plc",
-      "summary": "Barclays Plc is preparing to sell about $875 million of debt financing used to fund a takeover of UK aerospace supplier Senior Plc.",
-      "published": "Thu, 09 Jul 2026 09:34:38 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Defense Valuations Yet to Peak as Orders Surge, BNP Banker Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/defense-valuations-yet-to-peak-as-orders-surge-bnp-banker-says",
-      "summary": "European defense sector valuations still have plenty of upside, with government pledges to boost military spending now translating into orders, according to a top banker at BNP Paribas SA.",
-      "published": "Thu, 09 Jul 2026 09:28:34 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Strikes Iran A Second Day; AI Rotation Trade on Watch | The Asia Trade 7/9/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/the-asia-trade-7-9-2026-video",
-      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets",
-      "published": "Thu, 09 Jul 2026 09:17:38 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The PWHL is Just Getting Started With Hilary Knight",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/the-pwhl-is-just-getting-started-with-hilary-knight-video",
-      "summary": "In this episode of The Deal, Hilary details for Jason and Alex the process of starting a league where players were partners from the jump and why Mark Walter and Billie Jean King were the right people to work with. She also explains how the momentum from this year’s Olympics bled into the PWHL seaso",
-      "published": "Thu, 09 Jul 2026 09:09:18 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "BlackRock’s Jewell Sees AI Capex Stable for Two to Three Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/blackrock-s-jewell-sees-ai-capex-stable-for-two-to-three-years",
-      "summary": "Commitments for AI spending should sustain the investment theme around the technology for two to three years, even as tech giants gradually turn cash-flow negative and start raising debt to fund their buildouts, according to BlackRock Inc.’s Helen Jewell.",
-      "published": "Thu, 09 Jul 2026 08:52:28 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hugo Boss Board Rejects Frasers Bid as Not Reflecting Potential",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/hugo-boss-board-rejects-frasers-bid-as-not-reflecting-potential",
-      "summary": "Hugo Boss AG recommended shareholders reject Frasers Group Plc’s takeover offer, saying the bid fails to capture the German fashion company’s long-term value.",
-      "published": "Thu, 09 Jul 2026 08:49:32 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UK’s Capita Sinks on Profit Hit From Pension Contract Failures",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/uk-s-capita-sinks-on-profit-hit-from-pension-contract-failures",
-      "summary": "Capita Plc tumbled after it said profit and cash flow will be hit by its failure to deliver on a contract to manage Britain’s civil service pension plan.",
-      "published": "Thu, 09 Jul 2026 08:37:19 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Fluctuates After Second Day of US Strikes on Iran",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/oil-fluctuates-after-second-day-of-us-strikes-on-iran-video",
-      "summary": "Oil swung as traders assessed the outlook for Middle Eastern crude supplies after US forces conducted a second day of strikes against Iran. Vessel-tracking data on Thursday showed a drop-off in transits through the Strait of Hormuz. Bloomberg's Stephen Stapczynski reports. (Source: Bloomberg)",
-      "published": "Thu, 09 Jul 2026 08:36:04 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "China's Tech Stack Outshines its Economy: 3-Minutes MLIV",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/china-s-tech-stack-outshines-its-economy-mliv-video",
-      "summary": "Anna Edwards, Guy Johnson and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-      "published": "Thu, 09 Jul 2026 08:31:33 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Thailand and Malaysia Reach Deal to End Seafood Trade Spat",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/thailand-and-malaysia-reach-deal-to-end-seafood-trade-spat",
-      "summary": "Thailand and Malaysia have resolved a seafood trade dispute, paving the way for fishery trade between the two countries to return to normal soon, their leaders said.",
-      "published": "Thu, 09 Jul 2026 08:29:40 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "How South Korea's SK Hynix Became Central to the AI Boom",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-09/how-south-korea-s-sk-hynix-became-central-to-the-ai-boom-video",
-      "summary": "SK Hynix may not be a household name, but the South Korean memory chipmaker is one of the top names in the hottest corner of the stock market.\n\nAhead of its US listing, Winnie Hsu looks at how the once-embattled company became a tech darling. (Source: Bloomberg)",
-      "published": "Thu, 09 Jul 2026 08:21:25 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "France Plans €2 Billion to Cut Fertilizer Imports Dependence",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/france-plans-2-billion-to-cut-fertilizer-imports-dependence",
-      "summary": "France will invest €2 billion ($2.3 billion) to cut dependence on fertilizer imports in an effort to shield farmers from future supply disruptions.",
-      "published": "Thu, 09 Jul 2026 08:10:52 GMT",
-      "scraped_at": "2026-07-09T10:50:52.842Z"
     }
   ]
 }
