@@ -1,6 +1,196 @@
 {
-  "updated_at": "2026-07-22T20:55:26.947Z",
+  "updated_at": "2026-07-22T22:53:19.083Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "EU 전력화 전략 본격화…산업계 버틸 체력 확보가 관건",
+      "url": "https://www.hankyung.com/article/202607230607i",
+      "summary": "",
+      "published": "Thu, 23 Jul 2026 07:35:44 +0900",
+      "scraped_at": "2026-07-22T22:53:14.636Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[단독] 美 반도체·日 패키징·대만 메모리社가 찾는 韓 'AI 유리'…어디?",
+      "url": "https://www.hankyung.com/article/202607220355i",
+      "summary": "",
+      "published": "Thu, 23 Jul 2026 07:30:03 +0900",
+      "scraped_at": "2026-07-22T22:53:14.636Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'웃돈 3000만원' 줘도 못 산다…중고 테슬라 몸값 뛴 이유",
+      "url": "https://www.hankyung.com/article/2026072200551",
+      "summary": "",
+      "published": "Thu, 23 Jul 2026 07:00:04 +0900",
+      "scraped_at": "2026-07-22T22:53:14.636Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"이제 좀 사먹겠네\"…작년보다 확 싸진 '국민 과일' [프라이스&]",
+      "url": "https://www.hankyung.com/article/202607229709i",
+      "summary": "",
+      "published": "Thu, 23 Jul 2026 06:00:07 +0900",
+      "scraped_at": "2026-07-22T22:53:14.636Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20260723017500011",
+      "summary": "■ \"美, 이스라엘에 '며칠 내 폭격기 동원 곡괭이산 폭격' 통보\"",
+      "published": "Thu, 23 Jul 2026 07:30:00 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] 민주콩고 동부지역의 총, 균 그리고 광물 전쟁",
+      "url": "https://www.yna.co.kr/view/AKR20260714026200898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "published": "Thu, 23 Jul 2026 07:00:05 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "식품·외식업 임금, 타 업종 60∼80%…전문대졸 이상 격차 커져",
+      "url": "https://www.yna.co.kr/view/AKR20260722179700030",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 국내 식품 제조업과 외식업 근로자들의 임금이 다른 업종과 비교해 낮은 수준이라는 연구 결과가 나왔다.",
+      "published": "Thu, 23 Jul 2026 06:05:02 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[일문일답] 파이어블록스 \"北해킹 조사한 뒤 창업…韓 장기 파트너 되겠다\"",
+      "url": "https://www.yna.co.kr/view/AKR20260721170100002",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 글로벌 블록체인 인프라 기업 파이어블록스의 마이클 샤울로프 최고경영자(CEO)는 한국은 파이어블록스 창업과도 ...",
+      "published": "Thu, 23 Jul 2026 06:00:11 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국토부, 해외건설 유망국가 심층정보 공유회 개최",
+      "url": "https://www.yna.co.kr/view/AKR20260722117900003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 해외건설협회와 함께 23일 서울에서 '해외건설 유망 국가 심층 정보 고도화사업 성과공유회'를 열고...",
+      "published": "Thu, 23 Jul 2026 06:00:09 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "농식품부, '농촌 사회연대경제 협력모델' 모집…각 1천만원 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260722150800030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 농촌의 생활서비스 공백을 해소하기 위해 사회연대경제 조직이 협력하는 '농촌 사회연대경제 서비스...",
+      "published": "Thu, 23 Jul 2026 06:00:08 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "롯데마트, 조각과일 용량 늘리고 가격 동결…매출 184% 증가",
+      "url": "https://www.yna.co.kr/view/AKR20260722155300030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 롯데마트·슈퍼는 지난 5월 소용량 조각과일 제품군을 개편한 결과 해당 카테고리 매출이 상승했다고 23일 밝혔다...",
+      "published": "Thu, 23 Jul 2026 06:00:07 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "하도급대금 연동제에도…수급업자 41% \"몰라서 계약 반영 안 해\"",
+      "url": "https://www.yna.co.kr/view/AKR20260722138000002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 대·중소기업 거래 행태를 개선하기 위해 하도급대금 연동제가 도입됐으나 원사업자와 수급사업자 4명 중 1명꼴로 ...",
+      "published": "Thu, 23 Jul 2026 05:53:01 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "파리 날리는 코인시장…일평균 거래대금, 코스피의 1%대",
+      "url": "https://www.yna.co.kr/view/AKR20260722115500002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 최근 국내 주요 가상자산 거래소 거래대금 규모가 유가증권시장의 1%대 수준으로 쪼그라든 것으로 나타났다.",
+      "published": "Thu, 23 Jul 2026 05:51:01 +0900",
+      "scraped_at": "2026-07-22T22:53:17.487Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for July 23",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
+      "summary": "Oil surged after Iran-backed Houthi militants said they targeted two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
+      "published": "Wed, 22 Jul 2026 22:02:06 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
+      "summary": "US equity-index futures declined in early Thursday trading as investors weighed earnings from AI heavyweights for evidence that surging capital spending is translating into growth. Oil extended its rally.",
+      "published": "Wed, 22 Jul 2026 22:12:30 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Banks Trading Parts of $35 Billion AI Chip Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
+      "summary": "Wall Street banks have started buying and selling an initial piece of a $35 billion financing package for Broadcom Inc. and Anthropic PBC’s AI infrastructure expansion, with the biggest private credit deal ever now being offered to a wider pool of investors.",
+      "published": "Wed, 22 Jul 2026 22:04:04 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brent Crude Spikes in Late Trading After Red Sea Tanker Attack",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/brent-crude-spikes-in-late-trading-after-red-sea-tanker-attack",
+      "summary": "Oil prices rose sharply in post-settlement trading Wednesday, with Brent crude oil rising near $95 a barrel after Yemen’s Iran-backed Houthi rebels said they struck two Saudi tankers.",
+      "published": "Wed, 22 Jul 2026 21:48:25 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Vitamin Well Raises $2.2 Billion From Cross-Currency Loan Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/vitamin-well-raises-2-2-billion-from-cross-currency-loan-deal",
+      "summary": "Vitamin Well AB raised about $2.2 billion through a cross-currency loan offering to fund its acquisition of protein-bar maker EMPWR Nutrition Group.",
+      "published": "Wed, 22 Jul 2026 21:04:29 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Daiwa AM Boosts Staff in Shift Toward Institutional Investors",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/daiwa-am-boosts-staff-in-shift-toward-institutional-investors",
+      "summary": "Daiwa Asset Management Co. is planning to double its sales staff targeting institutional investors to about 20 people, its president said.",
+      "published": "Wed, 22 Jul 2026 21:00:00 GMT",
+      "scraped_at": "2026-07-22T22:53:17.733Z"
+    },
     {
       "source_id": "mk",
       "source_name": "매일경제",
@@ -14800,316 +14990,6 @@
       "summary": "Billionaire Li Ka-shing and his family are preparing to usher in a new generation of leaders after some of their longest-serving lieutenants wrap up the sale of various assets to overhaul Hong Kong’s largest conglomerate.",
       "published": "Wed, 15 Jul 2026 23:00:00 GMT",
       "scraped_at": "2026-07-16T01:46:02.888Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"사고 한 번 안 냈는데\"…車보험료 30만원 오른 뜻밖의 이유 [프라이스&]",
-      "url": "https://www.hankyung.com/article/202607145166i",
-      "summary": "",
-      "published": "Thu, 16 Jul 2026 06:00:10 +0900",
-      "scraped_at": "2026-07-15T22:49:35.040Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "치킨집 알바에 80명 몰린 이유가…점주도 놀란 '충격 실상'",
-      "url": "https://www.hankyung.com/article/2026071576081",
-      "summary": "",
-      "published": "Thu, 16 Jul 2026 06:00:03 +0900",
-      "scraped_at": "2026-07-15T22:49:35.040Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "url": "https://www.yna.co.kr/view/AKR20260716016800011",
-      "summary": "■ 한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
-      "published": "Thu, 16 Jul 2026 07:30:00 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[글로컬] 中 '로봇굴기' 가속 페달…로봇 가르치는 학교도",
-      "url": "https://www.yna.co.kr/view/AKR20260715158500546",
-      "summary": "(서울=연합뉴스) 한승호 선임기자 = 실력 좋은 테니스 상대 역할을 하는 인공지능(AI) 기반 로봇이 등장했다. 상대편이 친 공을 따라 빠르게 ...",
-      "published": "Thu, 16 Jul 2026 07:07:01 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[우분투칼럼] 아프리카와 전쟁의 하청화…러시아의 '취업사기' 인력 동원",
-      "url": "https://www.yna.co.kr/view/AKR20260706070500898",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
-      "published": "Thu, 16 Jul 2026 07:00:04 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'김병기 차남취업청탁' 수사 막바지…13개 의혹 곧 처분 전망",
-      "url": "https://www.yna.co.kr/view/AKR20260715140200004",
-      "summary": "(서울=연합뉴스) 박수현 전재훈 윤민혁 정지수 기자 = 무소속 김병기 의원의 '차남 빗썸 취업 청탁 의혹'에 대한 경찰 수사가 막바지에 다다르면...",
-      "published": "Thu, 16 Jul 2026 06:00:11 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[게시판] 농식품부, 스마트팜 청년 창업 9기 교육생 208명 선발",
-      "url": "https://www.yna.co.kr/view/AKR20260715162900030",
-      "summary": "▲ 농림축산식품부는 '스마트팜(지능형 농장) 청년 창업 보육센터' 9기 교육생 208명을 선발했다고 16일 밝혔다. 모집에는 전국적으로 731명...",
-      "published": "Thu, 16 Jul 2026 06:00:06 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "농식품부, 농촌 사회연대경제 활성화…돌봄·교육 공백 해소 모색",
-      "url": "https://www.yna.co.kr/view/AKR20260715122900030",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 주민 간 연대와 협력을 기반으로 농촌의 돌봄·교육 등 생활서비스 공백을 해소하기 위한 사회연대...",
-      "published": "Thu, 16 Jul 2026 06:00:04 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중기부, 온라인 수출기업 물류비 지원 참여기업 모집",
-      "url": "https://www.yna.co.kr/view/AKR20260715155200030",
-      "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 전자상거래 방식으로 수출하는 중소기업의 물류비 부담을 덜어주는 '온라인 수출 중소기업 물류 지...",
-      "published": "Thu, 16 Jul 2026 06:00:03 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
-      "url": "https://www.yna.co.kr/view/AKR20260715168000002",
-      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 한국은행 금융통화위원회는 16일 오전 통화정책방향 회의에서 기준금리 조정 여부를 결정한다.",
-      "published": "Thu, 16 Jul 2026 05:30:01 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국제유가, 미·이란 호르무즈 대치 지속에 0.3%↑",
-      "url": "https://www.yna.co.kr/view/AKR20260716006800072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 15일(현지시간) 미국과 이란 간 호르무즈 해협 통제권을 둘러싼 무력 충돌이 지속되면서 국제유가는 상승세를 ...",
-      "published": "Thu, 16 Jul 2026 05:04:05 +0900",
-      "scraped_at": "2026-07-15T22:49:36.957Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Latest Oil Market News and Analysis for July 16",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/latest-oil-market-news-and-analysis-for-july-16",
-      "summary": "Oil climbed for a fourth day as the US continued its attacks on Iran in a bid to secure shipping through the Strait of Hormuz.",
-      "published": "Wed, 15 Jul 2026 22:02:01 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Regional Banks, Wealth Lead Financial Services M&A",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/regional-banks-wealth-management-lead-financial-services-m-a",
-      "summary": "Smaller deals involving regional banks and wealth managers are driving acquisitions in the financial services industry, according to a clutch of industry watchers.",
-      "published": "Wed, 15 Jul 2026 18:34:28 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Asia Stocks Set for Choppy Start, Oil Ticks Higher: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/stock-market-today-dow-s-p-live-updates",
-      "summary": "Stocks in Asia are set to open mixed on Thursday after a US session that saw shares rally on the back of softer-than-anticipated inflation data. Oil opened higher.",
-      "published": "Wed, 15 Jul 2026 22:07:47 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Rise as Inflation Data Outweighs Chip Rout: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/asian-stocks-poised-to-track-us-gains-on-soft-cpi-markets-wrap",
-      "summary": "Another report showing softer-than-anticipated inflation drove stocks and bonds higher as Wall Street traders further dialed back wagers on Federal Reserve interest-rate increases.",
-      "published": "Tue, 14 Jul 2026 22:06:21 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "JPMorgan Leads $3 Billion Financing for Warburg’s Pantherx Buy",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/jpmorgan-leads-3-billion-financing-for-warburg-s-pantherx-buy",
-      "summary": "A group of lenders led by JPMorgan Chase & Co. is lining up a debt package worth up to $3 billion to support Warburg Pincus’ acquisition of Pantherx Specialty LLC, according to people familiar with the matter.",
-      "published": "Wed, 15 Jul 2026 21:08:24 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Emerging Currencies Gain as Traders Cut Back Fed Bets on US PPI",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/emerging-stocks-rise-as-asia-tech-rally-offsets-gold-miner-slump",
-      "summary": "An index tracking emerging-market currencies rose Wednesday as the dollar weakened after softer-than-expected US producer prices drove traders to scale back wagers on Federal Reserve interest-rate increases this year.",
-      "published": "Wed, 15 Jul 2026 10:29:22 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The Optimistic Case for the Hochul Data Center Pause",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-15/the-optimistic-case-for-the-hochul-data-center-pause",
-      "summary": "All politicians are being forced to navigate this issue.",
-      "published": "Wed, 15 Jul 2026 20:52:38 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Education Firm Anima Sinks Over 30% as Analysts Pan M&A Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/brazil-education-firm-anima-plunges-30-as-analysts-pan-m-a-deal",
-      "summary": "Shares of Brazilian education company Anima Holding SA slumped a record 33% on Wednesday after it agreed to repurchase a business it had sold five years ago, with analysts citing high valuation and an increase in leverage.",
-      "published": "Wed, 15 Jul 2026 15:11:58 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Kalshi Seeks to Let Traders Bet on Flight Cancellation Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/kalshi-seeks-to-let-traders-hedge-on-flight-cancellation-rates",
-      "summary": "Your flight? Canceled. The silver lining? You might be able to make some money off the misery.",
-      "published": "Wed, 15 Jul 2026 18:13:33 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pool Stocks Sink as Consumers Cautious Despite Scorching Summer",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/pool-stocks-sink-as-consumers-cautious-despite-scorching-summer",
-      "summary": "Shares of companies in the swimming pool business sank on Wednesday amid signs that wary consumers are pulling back on spending despite a summer of intense heat.",
-      "published": "Wed, 15 Jul 2026 20:22:58 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX Shares Briefly Slip Below IPO Price for First Time",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades",
-      "summary": "SpaceX shares slumped to their lowest level since the rocket, satellite, and artificial intelligence company went public, briefly falling below their initial public offering price, as investor fanfare quickly evaporated in the month since its trading debut.",
-      "published": "Wed, 15 Jul 2026 16:08:36 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Bonds Extend Rally as Soft Inflation Data Dims Fed Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/treasuries-rise-as-producer-prices-reinforce-inflation-optimism",
-      "summary": "Treasuries rose for a second day after soft back-to-back US inflation readings reinforced optimism that US inflation has peaked and may curb the need for the Federal Reserve to raise interest rates.",
-      "published": "Wed, 15 Jul 2026 14:04:59 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gold Wavers as Traders Weigh Fed Rate Path After Tame Inflation",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/gold-steadies-after-soft-us-inflation-data-trims-rate-hike-bets",
-      "summary": "Gold wavered as traders weighed the Federal Reserve’s interest-rate path after weaker-than-expected US producer price data eased concerns about an imminent rate hike.",
-      "published": "Tue, 14 Jul 2026 22:54:29 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Brazil to Offer Billions in Debt Relief for Struggling Farmers",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/brazil-to-offer-billions-in-debt-relief-for-struggling-farmers",
-      "summary": "Brazil’s government plans to publish a provisional measure on Wednesday to renegotiate more than 100 billion reais ($20 billion) in rural debt, as President Luiz Inácio Lula da Silva prepares to seek reelection in October.",
-      "published": "Wed, 15 Jul 2026 19:52:10 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Latest Oil Market News and Analysis for July 15",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/latest-oil-market-news-and-analysis-for-july-15",
-      "summary": "Oil narrowly held onto a three-day winning streak as the US launched fresh strikes on Iran in response to a spate of attacks on shipping vessels and American diesel stockpiles posted a sizeable increase.",
-      "published": "Tue, 14 Jul 2026 22:02:05 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX IPO Lifts Wall Street ECM Revenue to Best Since 2021",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/record-ipos-spur-best-wall-street-share-sale-revenue-since-2021",
-      "summary": "Wall Street’s biggest investment banks hauled in the most revenue from advising on equity offerings in the second quarter since 2021, fueled by SpaceX’s record-setting IPO and a fundraising blitz for artificial intelligence infrastructure.",
-      "published": "Wed, 15 Jul 2026 17:53:31 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/short-sellers-swarm-spacex-with-paper-profit-nearing-4-billion",
-      "summary": "SpaceX bears are minting billions on paper as the company’s stock price cracks ahead of a closely-watched rocket launch and upcoming earnings that will unlock a flood of shares.",
-      "published": "Wed, 15 Jul 2026 19:48:23 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Saudi Gulf Oil Loads Slump as Iran Hits Tankers in Hormuz",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/saudi-s-gulf-oil-loads-slump-as-iran-hits-supertankers-in-hormuz",
-      "summary": "Saudi Arabia’s oil loadings from inside the Persian Gulf have slumped in the wake of an upsurge of attacks on supertankers in the Strait of Hormuz, satellite images reviewed by Bloomberg show, demonstrating how Iran is once again disrupting supply.",
-      "published": "Wed, 15 Jul 2026 17:03:20 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Airbus Set to Win A330 Jet Deals from Flynas, Condor",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/airbus-set-to-win-a330-jet-deals-from-flynas-condor",
-      "summary": "Airbus SE is in talks to sell more of its A330neo widebody aircraft to Saudi low-cost carrier Flynas Co SJSC and German airline Condor Flugdienst GmbH.",
-      "published": "Wed, 15 Jul 2026 17:36:25 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Lead Prices Slump as Trafigura Lifts LME Stockpiles to a Record",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-15/lead-prices-slump-as-trafigura-lifts-lme-stockpiles-to-a-record",
-      "summary": "Lead prices fell toward the lowest since 2022 after Trafigura Group made a second record-breaking delivery of metal into London Metal Exchange warehouses.",
-      "published": "Wed, 15 Jul 2026 17:12:13 GMT",
-      "scraped_at": "2026-07-15T22:49:37.289Z"
     }
   ]
 }
