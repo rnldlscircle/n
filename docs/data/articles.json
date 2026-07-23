@@ -1,6 +1,176 @@
 {
-  "updated_at": "2026-07-23T13:24:46.794Z",
+  "updated_at": "2026-07-23T15:47:31.035Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'중동 여파' 브렌트유 배럴당 100달러 재돌파",
+      "url": "https://www.hankyung.com/article/2026072329727",
+      "summary": "",
+      "published": "Thu, 23 Jul 2026 22:14:24 +0900",
+      "scraped_at": "2026-07-23T15:47:26.446Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[재산공개] 신현송 한은 총재 82억…취임 후 첫 신고",
+      "url": "https://www.yna.co.kr/view/AKR20260723150300002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 신현송 한국은행 총재가 취임 후 첫 재산등록에서 82억원을 보유했다고 신고했다.",
+      "published": "Fri, 24 Jul 2026 00:00:01 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[재산공개] 가상자산 최대 보유 1.1억원…대부분 수백만원대",
+      "url": "https://www.yna.co.kr/view/AKR20260723163500002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 지난 4월 신규 임명되거나 승진, 퇴직한 고위공직자 중 가상자산을 가장 많이 보유한 경우는 1억원이 조금 넘었...",
+      "published": "Fri, 24 Jul 2026 00:00:01 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "워싱턴에 한미 조선협력센터 개소…'마스가' 속도 낸다",
+      "url": "https://www.yna.co.kr/view/AKR20260723167200003",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 한미 조선협력 프로젝트 '마스가'(MASGA)의 전진기지가 될 한미 조선협력센터(KUSPC·이하 센터)가 닻을...",
+      "published": "Thu, 23 Jul 2026 23:00:00 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미·이란 충돌에 홍해 유조선 피격까지…브렌트유 100달러 돌파(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20260723195252072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 23일(현지시간) 중동 지역의 긴장감이 고조되면서 국제유가의 기준인 브렌트유 가격이 약 두 달 만에 처음으로...",
+      "published": "Thu, 23 Jul 2026 22:54:24 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "유가 급등에 미국채 금리도 상승세…10년물 4.7% 돌파",
+      "url": "https://www.yna.co.kr/view/AKR20260723196200072",
+      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란의 무력 충돌로 중동 지역 긴장이 고조된 가운데 국제 유가가 급반등하면서 23일(현지시간) 미 채...",
+      "published": "Thu, 23 Jul 2026 22:40:51 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[2보] 중동 긴장 고조에 브렌트유 두달만에 100달러 돌파",
+      "url": "https://www.yna.co.kr/view/AKR20260723195251072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 23일(현지시간) 중동 지역의 긴장감이 고조되면서 국제유가의 기준인 브렌트유 가격이 약 두 달 만에 처음으로...",
+      "published": "Thu, 23 Jul 2026 22:30:24 +0900",
+      "scraped_at": "2026-07-23T15:47:28.733Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chocolate Maker Lindt Faces US Lawsuit Over Child Labor Allegations",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/chocolate-maker-lindt-faces-us-suit-over-child-labor-allegations",
+      "summary": "Lindt & Spruengli AG has been sued by an activist law firm in the US which alleges the Swiss chocolate maker is falsely promoting its efforts to battle child labor in Ghana and the Ivory Coast from where it sources cocoa.",
+      "published": "Thu, 23 Jul 2026 15:36:05 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "How Leveraged Exchange-Traded Funds Are Suddenly Everywhere",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/how-leveraged-exchange-traded-funds-are-suddenly-everywhere",
+      "summary": "On this episode of Trillions, we discuss what’s fueling the boom and how these exchange-traded funds work in today’s market.",
+      "published": "Thu, 23 Jul 2026 15:30:18 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia’s Black Sea Waters Not Safe for Ships Amid Attacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/russia-says-its-black-sea-waters-not-safe-for-ships-amid-attacks",
+      "summary": "Moscow warned that it is unsafe to navigate in its Black Sea waters after Ukraine has been ramping up attacks on Russia-linked ships in the area.",
+      "published": "Thu, 23 Jul 2026 14:26:36 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Worrying Signal Embedded in the Momentum Selloff",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-23/the-worrying-signal-embedded-in-the-momentum-selloff",
+      "summary": "A loss of market leadership.",
+      "published": "Thu, 23 Jul 2026 15:10:31 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ireland Says Alumina Probe Finds No Proof of Russia Weapons Link",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/ireland-says-alumina-probe-finds-no-proof-of-russia-weapons-link",
+      "summary": "An investigation into alumina exports from Ireland to Russia has not found conclusive evidence linking a production plant to the manufacture of weapons in Russia, Irish Prime Minister Micheal Martin said.",
+      "published": "Thu, 23 Jul 2026 15:06:25 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Blackstone Leads $400 Million Private Loan For HVAC Firm Buyout",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/blackstone-leads-400-million-private-loan-for-hvac-firm-buyout",
+      "summary": "Blackstone Inc. led a roughly $400 million deal to support the buyout of Integra Testing Services by Harvest Partners LP, according to people familiar with the matter.",
+      "published": "Thu, 23 Jul 2026 15:04:03 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Teck Second-Quarter Earnings Triple as Copper Prices Advance",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/teck-second-quarter-earnings-triple-as-copper-prices-advance",
+      "summary": "Canadian miner Teck Resources Ltd. reported a tripling of second-quarter earnings on higher copper prices, while reaffirming output guidance, including at its flagship Quebrada Blanca mine in Chile.",
+      "published": "Thu, 23 Jul 2026 06:43:44 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dollar Jumps on Haven Flows as Middle East War Intensifies",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/dollar-jumps-on-haven-flows-as-middle-east-war-intensifies",
+      "summary": "The dollar got a boost Thursday from haven flows as the war in the Middle East intensified, pushing oil prices above $100 a barrel.",
+      "published": "Thu, 23 Jul 2026 14:28:14 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dow Says Iran War Could Boost Guidance as Supply Chain Shielded",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/dow-says-iran-war-could-boost-guidance-as-supply-chain-shielded",
+      "summary": "Dow Inc. said that persistent tensions in the Middle East could help raise prices for plastics and packaging without lifting its material costs, padding profits and offering upside to the group’s third-quarter guidance.",
+      "published": "Thu, 23 Jul 2026 14:17:02 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "BlackRock Says Focus on Credit Income in a Volatile Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/blackrock-says-focus-on-credit-income-in-a-volatile-market",
+      "summary": "BlackRock Inc. is making the case for European corporate bonds even though their spread is close to the tightest on record.",
+      "published": "Thu, 23 Jul 2026 13:27:02 GMT",
+      "scraped_at": "2026-07-23T15:47:29.545Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14610,146 +14780,6 @@
       "summary": "Maruti Suzuki India Ltd. said it will challenge a consumer court order asking the nation’s largest carmaker to replace a vehicle over alleged damage from ethanol-blended fuel, a case that assumes significance as the debate over the nation’s biofuel push intensifies.",
       "published": "Thu, 16 Jul 2026 15:31:07 GMT",
       "scraped_at": "2026-07-16T17:03:26.685Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "신임 평화통일민주교육원장에 이제훈",
-      "url": "https://www.mk.co.kr/news/politics/12094593",
-      "summary": "이제훈 전 한겨레 편집국장(사진)이 통일부 국립평화통일민주교육원장에 임용됐다고 통일부가 9일 밝혔다. 이 신임 원장은 1993년 한겨레에 입사해 오랜 기간 북한·통일 이슈를 다뤄온..",
-      "published": "Thu, 09 Jul 2026 17:01:01 +09:00",
-      "scraped_at": "2026-07-16T15:25:59.566Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Aston Martin Creditors Tap Jefferies as Debt Worries Grow",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/aston-martin-creditors-tap-jefferies-as-debt-worries-grow",
-      "summary": "A group of creditors to Aston Martin Lagonda Global Holdings Plc have picked Jefferies Financial Group Inc. as financial adviser as concern over the debt of the distressed British automaker grows, according to people familiar with the matter.",
-      "published": "Thu, 16 Jul 2026 15:12:40 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bank of America Exits Chicago Plan to Sell Overdue Parking Debt",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/bank-of-america-exits-chicago-plan-to-sell-overdue-parking-debt",
-      "summary": "Bank of America is no longer working with Chicago on the sale of debt owed to the city from fines and fees, and officials have been unable to advance the deal so far this year, according to the mayor’s office.",
-      "published": "Thu, 16 Jul 2026 15:03:27 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Ladbrokes Owner Entain to Cut 2% of Workforce as UK Taxes Bite",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/ladbrokes-owner-entain-to-cut-2-of-workforce-as-uk-taxes-bite",
-      "summary": "Entain Plc will cut 500 jobs, or about 2% of its global workforce, as the gambling industry grapples with higher UK taxes, tighter regulation and growing competition from prediction markets.",
-      "published": "Thu, 16 Jul 2026 15:01:44 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bond Traders Bail on Fed Hike Wagers on Softer Inflation Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/bond-traders-bail-on-fed-hike-wagers-on-softer-inflation-outlook",
-      "summary": "The bullish tone in the US bond market following two benign inflation reports has traders of interest-rate options scrambling to exit positions bought in anticipation of at least one increase by the Federal Reserve this year.",
-      "published": "Thu, 16 Jul 2026 15:00:01 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "What Nigeria Stocks Tell Investors About Africa Markets: Live Q&A",
-      "url": "https://www.bloomberg.com/sessions/2026-07-17/live-q-amp-a-what-nigeria-s-top-returns-tell-investors-about-african-stocks",
-      "summary": "Bloomberg reporters answer your questions about Nigeria’s world-beating stocks, and where investors are finding opportunities in African markets, in a Live Q&A on Friday, July 17 at 12 p.m. GMT",
-      "published": "Thu, 16 Jul 2026 14:51:07 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Faena Condo Project Sells $30 Million Penthouse on Miami River",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/faena-condo-project-sells-30-million-penthouse-on-miami-river",
-      "summary": "Argentine fashion entrepreneur-turned-developer Alan Faena sold a $30 million penthouse in his planned twin condo towers on the Miami River, a milestone in the mission to take his maximalist, theatrical brand worldwide.",
-      "published": "Thu, 16 Jul 2026 14:36:49 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Citigroup Sees Bondholders Recover 50% of Senegal’s Debt Under Revamp",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/citigroup-sees-bondholders-recover-50-of-senegal-s-debt-under-revamp",
-      "summary": "Holders of Senegal’s dollar bonds could end up recouping less than 50% of the face value of the securities in the event of a restructuring — below the prices at which the debt currently trades, according to Citigroup Inc.",
-      "published": "Thu, 16 Jul 2026 14:10:20 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Canada’s Forgotten Shale Gas Play Reemerges as Oil Hot Spot",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/canada-s-forgotten-shale-gas-play-reemerges-as-oil-hot-spot",
-      "summary": "On the edge of the Canadian Rocky Mountains, companies including Obsidian Energy Ltd. and Yangarra Resources Corp. are breathing new life into a long-dormant gas reservoir — except now they’re drilling for oil.",
-      "published": "Thu, 16 Jul 2026 14:08:19 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "German Chemical Industry in Crisis Despite Reprieve, Lobby Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/german-chemical-industry-in-crisis-despite-reprieve-lobby-says",
-      "summary": "Germany’s chemical industry remains in a structural crisis despite a brief breather when the conflict in the Middle East triggered stockpiling and hit rivals in Asia harder, according to the industry’s VCI association.",
-      "published": "Thu, 16 Jul 2026 14:04:54 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Raiffeisen Clears Key Hurdle in €517 Million Bid for Addiko Bank",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/raiffeisen-clears-key-hurdle-in-517-million-bid-for-addiko-bank",
-      "summary": "Raiffeisen Bank International AG reached a key milestone in its bid to acquire Addiko Bank AG after shareholders representing more than 55% tendered their shares, reaching the offer’s minimum threshold.",
-      "published": "Thu, 16 Jul 2026 13:57:04 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gaming Bonds Lose Allure as Threat From Prediction Markets Grows",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/gaming-bonds-lose-allure-as-threat-from-prediction-markets-grows",
-      "summary": "Investors increasingly see gaming bonds as a losing bet.",
-      "published": "Thu, 16 Jul 2026 13:42:43 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hoisington, US Bond Bull for Decades, Turns Decidedly Bearish",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/hoisington-us-bond-bull-for-decades-turns-decidedly-bearish",
-      "summary": "Hoisington Investment Management Co., the bond manager known for its bullish stance on US Treasuries going back more than 30 years, has turned bearish.",
-      "published": "Thu, 16 Jul 2026 13:40:55 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Why IPOs of Tiny Foreign Companies Have Vanished in US",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/why-ipos-of-tiny-foreign-companies-have-vanished-in-us",
-      "summary": "Added scrutiny on foreign microcaps puts a damper on public debuts",
-      "published": "Thu, 16 Jul 2026 13:22:06 GMT",
-      "scraped_at": "2026-07-16T15:26:02.175Z"
     }
   ]
 }
