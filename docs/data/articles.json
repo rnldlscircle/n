@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-01T14:51:37.271Z",
+  "updated_at": "2026-08-01T16:49:20.363Z",
   "articles": [
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-01/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Tim Stenovec as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+      "published": "Sat, 01 Aug 2026 15:01:56 GMT",
+      "scraped_at": "2026-08-01T16:49:19.113Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -15550,26 +15560,6 @@
       "summary": "",
       "published": "Sun, 26 Jul 2026 06:00:04 +0900",
       "scraped_at": "2026-07-25T22:43:15.621Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "AI 데이터센터 판 키운다…네이버 14조·SKT 2GW 추진(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260725033651017",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 국내 AI 데이터센터 구축 경쟁이 기가와트(GW)급 초대형 투자 단계로 본격 진입했다.",
-      "published": "Sat, 25 Jul 2026 14:43:12 +0900",
-      "scraped_at": "2026-07-25T16:45:16.108Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "summary": "When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.",
-      "published": "Sat, 25 Jul 2026 13:00:01 GMT",
-      "scraped_at": "2026-07-25T14:54:43.802Z"
     }
   ]
 }
