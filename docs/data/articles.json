@@ -1,6 +1,226 @@
 {
-  "updated_at": "2026-08-10T20:31:13.801Z",
+  "updated_at": "2026-08-10T22:26:36.603Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美정부가 손 내밀었다…러트닉, 트럼프에 '韓기업' 콕 집은 이유",
+      "url": "https://www.hankyung.com/article/202608105343g",
+      "summary": "",
+      "published": "Tue, 11 Aug 2026 06:00:10 +0900",
+      "scraped_at": "2026-08-10T22:26:31.708Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'25억에도 없어서 못 사'…딱 199명뿐인데 큰손들 줄 섰다 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202608092497i",
+      "summary": "",
+      "published": "Tue, 11 Aug 2026 06:00:02 +0900",
+      "scraped_at": "2026-08-10T22:26:31.708Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] '조만장자' 머스크가 아프리카인이라고",
+      "url": "https://www.yna.co.kr/view/AKR20260803088500898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
+      "published": "Tue, 11 Aug 2026 07:00:02 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[반려동물] 폭염에 '펫캉스' 인기…펫요가·훈련사 토크콘서트도",
+      "url": "https://www.yna.co.kr/view/AKR20260810103800030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 무더위가 이어지면서 반려동물과 함께 호텔이나 리조트에서 휴가를 보내는 이른바 '펫캉스' 수요가 늘고 있다.",
+      "published": "Tue, 11 Aug 2026 06:30:02 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "울산시, '일자리 창출 강소기업' 신청 접수…10개사 선정 예정",
+      "url": "https://www.yna.co.kr/view/AKR20260810149300057",
+      "summary": "(울산=연합뉴스) 허광무 기자 = 울산시가 일자리 창출과 근로환경 개선에 앞장서는 유망 중소기업을 발굴해 지원하고자 '2026년 일자리 창출 강...",
+      "published": "Tue, 11 Aug 2026 06:07:00 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "임금근로자 8명 중 1명은 '최저임금 미만'…임시직은 39%",
+      "url": "https://www.yna.co.kr/view/AKR20260810104900530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 국내 임금근로자 8명 중 1명가량은 시간당 임금이 최저임금에 미치지 못하는 것으로 나타났다.",
+      "published": "Tue, 11 Aug 2026 06:01:02 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "킨텍스, 벤처기업부 '민관협력 개방 혁신 지원 사업' 3개 선정",
+      "url": "https://www.yna.co.kr/view/AKR20260810126600060",
+      "summary": "(고양=연합뉴스) 노승혁 기자 = 킨텍스는 중소벤처기업부가 주관하는 '2026년 민관협력 개방형 혁신(오픈이노베이션) 지원 사업'의 하나로 유망...",
+      "published": "Tue, 11 Aug 2026 06:00:06 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대전중수청, 세종시 내 대체 임시청사 확보…입지 논란 '종지부'",
+      "url": "https://www.yna.co.kr/view/AKR20260810131000063",
+      "summary": "(세종=연합뉴스) 양영석 기자 = 임시 청사 위치 문제로 잡음이 일었던 대전중대범죄수사청(중수청)이 세종시 신도시 내 대체 사무실을 확보해 입주...",
+      "published": "Tue, 11 Aug 2026 06:00:03 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "그린벨트 해제 후보 다시 거론된 하남 감북…높아진 땅값 변수",
+      "url": "https://www.yna.co.kr/view/AKR20260810142700003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 정부가 수도권 주택 공급 확대를 위해 개발제한구역(그린벨트) 해제를 통한 신규 택지 확보를 검토하면서 과거 보...",
+      "published": "Tue, 11 Aug 2026 05:57:01 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내서 더 저렴한 비트코인…'역 김치프리미엄' 장기화",
+      "url": "https://www.yna.co.kr/view/AKR20260810144300002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 올해 들어 가상자산이 해외보다 국내에서 더 저렴하게 거래되는 이른바 '역(逆) 김치프리미엄' 현상이 뚜렷하게 ...",
+      "published": "Tue, 11 Aug 2026 05:57:00 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "공공기관서 코인 무단 채굴한 직원…법원 \"부당해고 아냐\"",
+      "url": "https://www.yna.co.kr/view/AKR20260810137600002",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 정부출연연구기관에 근무하며 회사 내 창고에서 몰래 가상자산(코인) 채굴을 하다 적발된 직원이 부당하게 해고됐다...",
+      "published": "Tue, 11 Aug 2026 05:55:00 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "외국인 국내 카드결제, 3년 반에 10배로…부산 1년새 60%↑",
+      "url": "https://www.yna.co.kr/view/AKR20260810134200002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 외국인의 국내 카드 사용 금액이 3년 반 만에 약 10배로 불었다.",
+      "published": "Tue, 11 Aug 2026 05:53:00 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "급등장에 SK하이닉스 담보대출 1년새 438%↑…40대 이하서 쑥",
+      "url": "https://www.yna.co.kr/view/AKR20260810142600002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 국내 증시 상승장이 이어진 올해 5월 말까지 SK하이닉스를 담보로 한 증권담보대출이 크게 늘었다. 고령층 비중...",
+      "published": "Tue, 11 Aug 2026 05:51:00 +0900",
+      "scraped_at": "2026-08-10T22:26:34.968Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: JPMorgan Investment Management Chief ETF Strategist Jon Maier, BlackRock Head of Digital Assets Robert Mitchnick, Avantis Investors",
+      "published": "Mon, 10 Aug 2026 20:48:54 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Aug. 11",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
+      "summary": "Oil held a three-day gain after President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
+      "published": "Mon, 10 Aug 2026 22:02:35 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "777 Partners Files Bankruptcy After Creditors’ Liquidation Push",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/777-partners-files-bankruptcy-after-creditors-liquidation-push",
+      "summary": "Alternative investment firm 777 Partners has filed for bankruptcy weeks after creditors sought to liquidate what’s left of the company that began unloading its assets more than a year ago.",
+      "published": "Mon, 10 Aug 2026 21:54:50 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Outsiders Pay $6,500 for Help With Sorority Rush",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/outsiders-pay-6-500-for-help-with-sorority-rush-video",
+      "summary": "The push by young women to gain acceptance into sororities at large schools in the Deep South has led to an increase in demand for rush coaches. Bloomberg News Reporter Gabriel Baumgaertner discusses his recent story about the high price tag some parents are willing to invest to help their kids get ",
+      "published": "Mon, 10 Aug 2026 21:45:03 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump Touts $3B in Mineral Project to Counter China",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/trump-touts-3b-in-mineral-project-to-counter-china-video",
+      "summary": "During a recent meeting with top industry executives, the US President announced $3 billion in investments aimed at strengthening the domestic critical minerals and mining sector. The initiative seeks to reduce reliance on supply chains dominated by China. Gary Evans, Chairman and CEO of US Antimony",
+      "published": "Mon, 10 Aug 2026 21:43:16 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hims & Hers Lowers Profit Forecast, Shares Drop",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/hims-hers-lowers-profit-forecast-shares-drop-video",
+      "summary": "Hims & Hers Health shares are down after the telehealth firm reduced the top end of its adjusted Ebitda forecast for the full year. Madison Muller reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "published": "Mon, 10 Aug 2026 21:22:55 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chicago Taps Fitch Senior Director as New CFO Amid Rash of Exits",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/chicago-taps-fitch-senior-director-as-new-cfo-amid-rash-of-exits-msnqjmd6",
+      "summary": "Chicago is hiring Ashlee Gabrysch, a senior director at Fitch Ratings, as its next chief financial officer, according to a person familiar with the matter.",
+      "published": "Mon, 10 Aug 2026 21:20:20 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Stock Heavy ETF Risks Spread to Broader Equity Market",
+      "url": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/",
+      "summary": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
+      "published": "Mon, 10 Aug 2026 21:00:23 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Gotham Greens CEO: Not Good To Have an Outbreak Like This",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/gotham-greens-ceo-not-good-to-have-outbreak-like-this-video",
+      "summary": "Craig Stevenson, CEO of Gotham Greens, addressed the ongoing concerns over food safety amid recent recalls linked to salmonella in jalapenos and the widespread Cyclospora outbreak affecting thousands in the U.S. He noted a temporary decline in consumer demand for greens as news of outbreaks circulat",
+      "published": "Mon, 10 Aug 2026 20:56:55 GMT",
+      "scraped_at": "2026-08-10T22:26:35.240Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -17440,126 +17660,6 @@
       "summary": "South Korean financial companies and other firms borrowed more money in short-term debt markets in the first half of the year amid an unprecedented stock market rally that gave way to a meltdown in recent weeks.",
       "published": "Mon, 03 Aug 2026 21:00:00 GMT",
       "scraped_at": "2026-08-03T22:52:09.708Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“위성 영상에 ‘딱’ 걸렸다”…北, 사전통보 없이 임진강 상류 황강댐 방류",
-      "url": "https://www.mk.co.kr/news/politics/12102838",
-      "summary": "북한이 사전통보 없이 임진강 상류 황강댐에서 물을 방류했다고 기후에너지환경부가 20일 밝혔다. 기후부는 이날 오후 8시 47분께 촬영된 위성영상으로 황강댐 방류를 확인했다. 기후부..",
-      "published": "Mon, 20 Jul 2026 22:55:46 +09:00",
-      "scraped_at": "2026-08-03T20:55:05.814Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "장동혁 “李대통령, 해군장병 숨 거둘 때 골프쳤나?...사실 아니길”",
-      "url": "https://www.mk.co.kr/news/politics/12097167",
-      "summary": "“사실이라면 李 국군통수권자로 인정할 수 없어” “7월 12일 태릉CC 출입기록 등 분 단위로 공개해야”동해 북방한계선(NLL) 인근 해상에서 실종됐던 해군 신형 호위함(FFG) ..",
-      "published": "Mon, 13 Jul 2026 15:49:42 +09:00",
-      "scraped_at": "2026-08-03T20:55:05.814Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국제유가, 트럼프 이란공격 취소에 급락…브렌트 5%↓",
-      "url": "https://www.yna.co.kr/view/AKR20260804004400072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 도널드 트럼프 미국 대통령이 이란에 대한 대규모 공습을 예고했다가 취소하고 대화 재개로 선회하면서 3일(현지...",
-      "published": "Tue, 4 Aug 2026 04:31:21 +0900",
-      "scraped_at": "2026-08-03T20:55:07.589Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "트럼프의 엔화부양 배경은…'美국채금리·대미투자 관리' 셈법",
-      "url": "https://www.yna.co.kr/view/AKR20260804000700072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국이 엔화 가치를 끌어올리기 위해 이례적으로 일본과 함께 외환시장에 공동 개입한 것을 두고 도널드 트럼프 ...",
-      "published": "Tue, 4 Aug 2026 04:28:10 +0900",
-      "scraped_at": "2026-08-03T20:55:07.589Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Williams Agrees to Buy Momentum Midstream for $5.5 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/williams-agrees-to-buy-momentum-midstream-for-up-to-5-5-billion",
-      "summary": "Williams Cos. reached a deal to buy Momentum Midstream LLC from the private equity firm EnCap Flatrock Midstream through a deal valued up to $5.5 billion, expanding its natural gas network along the US Gulf Coast.",
-      "published": "Mon, 03 Aug 2026 20:22:14 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Amazon Crosses $1T Valuation, Boeing Has Biggest Gain Since December | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/boeing-has-biggest-gain-since-december-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Mon, 03 Aug 2026 20:29:49 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Treasuries Climb to Start Week on Oil, Bessent’s Yen Pledge",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
-      "summary": "Treasuries are starting the week on an optimistic note, buoyed by tumbling oil prices and assurances that tens of billions of dollars in Japanese currency interventions won’t be funded from sales of US government debt.",
-      "published": "Mon, 03 Aug 2026 10:18:19 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fund Launches and Leveraged ETFs Flood The Industry | ETF IQ 8/3/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/etf-iq-8-3-2026-video",
-      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Vident Asset Management President Amrita Nandakumar, Matthews CIO & Portfolio Manager Sean Taylor, Amplify ETFs Founder & CEO Chris",
-      "published": "Mon, 03 Aug 2026 19:36:09 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iran War Risk Still Important in Background, Says Torsten Slok",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/iran-war-risk-still-important-in-background-says-slok-video",
-      "summary": "Torsten Slok, chief economist at Apollo, said that while AI and the Fed may be issues more at the forefront of the economic conversation, risk from the Iran war and its subsequent impact on fuel stores remains an important factor in the background. \nSlok also commented the possibility that the Fed m",
-      "published": "Mon, 03 Aug 2026 19:26:27 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Talks Are Iran’s ‘Last Chance’ Says Trump (Full Q&A)",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/talks-are-iran-s-last-chance-says-trump-full-q-a-video",
-      "summary": "President Donald Trump said his latest offer of talks is a “last chance” for Iran after he called off what he said was a major attack on the Islamic Republic.  “I want to give them every last chance before decapitation,” Trump told reporters in the Oval Office. “You’ll find out today or tomorrow. I ",
-      "published": "Mon, 03 Aug 2026 19:24:48 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Japan’s Use of Fed Tool Could Test Yen Resolve, Evercore Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/japan-s-use-of-fed-tool-could-test-yen-resolve-evercore-says",
-      "summary": "A rarely used Federal Reserve liquidity facility could prevent the Japanese from selling Treasuries to prop up the yen, but prolonged use of the tool could encourage markets to test the US and Japan’s resolve, according to Evercore ISI.",
-      "published": "Mon, 03 Aug 2026 19:18:42 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Active ETF, Model Portfolio Growth to Persist: Framsted",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/active-etf-model-portfolio-growth-to-persist-framsted-video",
-      "summary": "Holly Framsted, head of global product strategy and development at Capital Group, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discussed ETF and mutual funds flows as well as allocation shifts within model portfolios. (Source: Bloomberg)",
-      "published": "Mon, 03 Aug 2026 19:18:16 GMT",
-      "scraped_at": "2026-08-03T20:55:07.823Z"
     }
   ]
 }
