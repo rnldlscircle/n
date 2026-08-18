@@ -1,6 +1,266 @@
 {
-  "updated_at": "2026-08-18T20:12:28.768Z",
+  "updated_at": "2026-08-18T22:12:19.775Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "호르무즈 봉쇄 장기화 반영한 유가…90달러대 굳어질까",
+      "url": "https://www.hankyung.com/article/202608188204i",
+      "summary": "",
+      "published": "Wed, 19 Aug 2026 07:00:08 +0900",
+      "scraped_at": "2026-08-18T22:12:14.184Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"이젠 커피 안 마셔요\"…2030女 사로잡은 '뜻밖의 음료'",
+      "url": "https://www.hankyung.com/article/2026081878301",
+      "summary": "",
+      "published": "Wed, 19 Aug 2026 07:00:05 +0900",
+      "scraped_at": "2026-08-18T22:12:14.184Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "트럼프 한미연합훈련 축소 지시에도…북한 “명백한 행동으로 자위권 행사”",
+      "url": "https://www.mk.co.kr/news/politics/12130747",
+      "summary": "북한은 19일 한미 연합 ‘을지 자유의 방패’(UFS) 연습에 대해 “적들의 군사적 위협을 철저히 무력화하기 위한 우리의 자위적 권리 행사는 더욱 명백한 행동으로 표현될 것”이라며..",
+      "published": "Wed, 19 Aug 2026 07:01:21 +09:00",
+      "scraped_at": "2026-08-18T22:12:16.327Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "울산 첫 외국인 계절근로 지원 조례안 마련…손실보전비 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260818118200057",
+      "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 울산에서 처음 도입한 외국인 계절근로의 안정적 운영을 위한 지원책을 마련했다고 19일 밝혔다.",
+      "published": "Wed, 19 Aug 2026 07:07:00 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "충남사회서비스원, 인사위 절차 하자로 인권침해 직원 견책 취소",
+      "url": "https://www.yna.co.kr/view/AKR20260818106800063",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남사회서비스원이 인사위원회를 부적정하게 운영해 징계받은 직원의 견책 처분이 취소되고, 장애인 의무 고용률을 ...",
+      "published": "Wed, 19 Aug 2026 07:00:03 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "호텔 투자 열기 속…강남역 보원빌딩 매각 입찰",
+      "url": "https://www.yna.co.kr/view/AKR20260818150600008",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 최근 서울 호텔 투자시장이 활기를 띠는 가운데 강남역 인근 개발 부지인 서초동 보원빌딩이 이달 말 새 주인 찾...",
+      "published": "Wed, 19 Aug 2026 07:00:02 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "신세계百, 5개 제휴 카드 페스타…사은행사·무이자 할부 제공",
+      "url": "https://www.yna.co.kr/view/AKR20260818143600030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 신세계백화점은 5개 제휴카드사와 오는 30일까지 사은 혜택을 제공하는 '5메이징 카드 페스타'를 연다고 19일...",
+      "published": "Wed, 19 Aug 2026 06:00:05 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울시, 정비사업 조합설립 소요 시간 1년→4개월로 '단축'",
+      "url": "https://www.yna.co.kr/view/AKR20260818148000004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 주택 공급 속도를 높이기 위해 정비사업 조합 설립 소요 기간을 기존 1년에서 4개월로 단축한다.",
+      "published": "Wed, 19 Aug 2026 06:00:05 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "AI 특허 8년 새 7배로 증가…\"분야별 맞춤 전략 설계해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20260818154300003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 인공지능(AI) 특허 출원이 8년 새 약 7배로 증가하며 국내 특허 성장을 이끄는 가운데 분야별 강점을 활용한...",
+      "published": "Wed, 19 Aug 2026 06:00:01 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "가상자산 시장 침체에 업비트·빗썸 보유 코인 가치 '뚝'",
+      "url": "https://www.yna.co.kr/view/AKR20260818162200002",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 올해 들어 두나무와 빗썸이 보유한 가상자산 평가 가치가 30∼40% 쪼그라든 것으로 나타났다.",
+      "published": "Wed, 19 Aug 2026 05:59:00 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'돈만 잘 벌면 끝 아냐' 4대 금융 회장 성과급 잣대는",
+      "url": "https://www.yna.co.kr/view/AKR20260818155200002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 주요 금융지주 회장의 성과급을 결정하는 잣대가 수익성을 넘어 건전성, 주주가치, 디지털 경쟁력 등으로 다양해지...",
+      "published": "Wed, 19 Aug 2026 05:57:00 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "2분기 수출 절반이 '톱5'…작년 100대 기업 합계보다 많아",
+      "url": "https://www.yna.co.kr/view/AKR20260818165000002",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 올해 2분기 우리나라 수출액의 절반 이상을 상위 5대 기업이 차지했다.",
+      "published": "Wed, 19 Aug 2026 05:55:00 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"공공기관 분산, '어디'보다 지역과의 '결합'이 중요\"",
+      "url": "https://www.yna.co.kr/view/AKR20260818119200002",
+      "summary": "(세종=연합뉴스) 송정은 기자 = 공공기관 지방 이전 정책이 수도권 기능 분산과 혁신도시 조성이라는 성과를 냈지만, 지역 생태계와는 충분히 결합...",
+      "published": "Wed, 19 Aug 2026 05:53:01 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "지방이전 발표 목전 술렁이는 관가·금융권…집단행동 확대 조짐",
+      "url": "https://www.yna.co.kr/view/AKR20260818159800002",
+      "summary": "(서울=연합뉴스) 배영경 한지훈 한주홍 홍준석 김지연 오진송  기자 = 행정·공공기관 2차 지방이전 계획이 곧 발표될 수 있다는 전망 속에 후보...",
+      "published": "Wed, 19 Aug 2026 05:51:00 +0900",
+      "scraped_at": "2026-08-18T22:12:18.206Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "KKR Real Estate Lender’s Woes Attract Investment Firm Mavik",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/kkr-real-estate-lender-s-woes-attract-distressed-investor-mavik",
+      "summary": "An investment firm that specializes in commercial real estate distress is betting that a lender managed by KKR & Co. is likely to sell its loan portfolio at or around book value.",
+      "published": "Tue, 18 Aug 2026 20:08:50 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Aug. 19",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/latest-oil-market-news-and-analysis-for-aug-19",
+      "summary": "Oil rose for a fourth day, with no sign of progress toward a resolution of the US-Iran war after almost six months of conflict.",
+      "published": "Tue, 18 Aug 2026 22:02:18 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Roz Brewer Says US Retail Needs Global Partners",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/roz-brewer-says-us-retail-needs-global-partners-video",
+      "summary": "Spelman College Chair Emerita Rosalind \"Roz\" Brewer, former CEO of Walgreens Boots Alliance, discusses the state of the US consumer in the current economy with Bloomberg's Romaine Bostick at the Bloomberg New Voices event in Martha’s Vineyard. (Source: Bloomberg)",
+      "published": "Tue, 18 Aug 2026 22:01:37 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Revolution's Hall On Investing in the Defense Sector",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/revolution-s-hall-on-investing-in-the-defense-sector-video",
+      "summary": "David Hall, managing partner at Revolution, talks about investing in the defense sector and backing Hermeus, a company looking to build a hyper-sonic military jet. He speaks with Romaine Bostick at the Bloomberg New Voices event in Martha's Vineyard. (Source: Bloomberg)",
+      "published": "Tue, 18 Aug 2026 21:50:12 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Gold Falls as Traders Weigh US Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/gold-falls-as-traders-weigh-us-inflation-video",
+      "summary": "Gold valuation platform Unvault estimates that American households are sitting on $750 Billion worth of gold, largely in the form of unworn jewelry. The company says consumers consistently underestimate their jewelry's spot value by 3x or more because pieces purchased prior to 2010 have more than tr",
+      "published": "Tue, 18 Aug 2026 21:46:19 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fletcher Building Waiting on Meaningful Recovery in NZ Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/fletcher-building-waiting-on-meaningful-recovery-in-nz-demand",
+      "summary": "New Zealand’s largest construction materials company Fletcher Building Ltd. doesn’t expect a meaningful recovery in its markets until 2027, adding to signs of muted economic growth over the second half of this year.",
+      "published": "Tue, 18 Aug 2026 21:40:20 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Uruguay Holds Interest Rates Steady With Inflation Below Target",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/uruguay-holds-interest-rates-steady-with-inflation-below-target",
+      "summary": "Uruguay’s central bank held interest rates steady for a fourth consecutive policy meeting with inflation below its target.",
+      "published": "Tue, 18 Aug 2026 21:23:18 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Power Broker Frances Katzen on Pending Home Sales Slide",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/power-broker-frances-katzen-on-pending-home-sales-slide-video",
+      "summary": "Frances Katzen, founder of The Katzen Team and a top broker at Douglas Elliman in New York City, discussed the current dynamics of the housing market, highlighting a pronounced K-shaped trend. While overall housing activity has slowed, the high-end segment in Manhattan is experiencing significant gr",
+      "published": "Tue, 18 Aug 2026 20:54:49 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bond Traders Are Hedging Risk Fed Pivots to Rate Cuts in 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bond-traders-are-hedging-risk-fed-pivots-to-rate-cuts-in-2027",
+      "summary": "Bond traders are changing gears again. After a raft of data helped all but price out interest rate hikes for the rest of the year, wagers in the options market are looking to hedge the risk that the Federal Reserve pivots to cutting rates in 2027.",
+      "published": "Tue, 18 Aug 2026 20:30:04 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ripple’s Brokerage Arm Taps Private Placement Bond Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ripple-s-brokerage-arm-taps-private-placement-bond-market",
+      "summary": "The prime-brokerage arm of digital-asset company Ripple has raised $275 million through the private placement bond market.",
+      "published": "Tue, 18 Aug 2026 20:28:59 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Stocks Fall As Global Bond Yields Stay Elevated | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/stocks-fall-as-global-bonds-stay-elevated-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet, Fu, Isabelle Lee, Carol Massar and Joe Deaux. (Source: Bloomberg)",
+      "published": "Tue, 18 Aug 2026 20:18:59 GMT",
+      "scraped_at": "2026-08-18T22:12:18.616Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Long-Term Debt Costs Soar to Highest in Decades as Bonds Slump",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/long-term-debt-costs-soar-to-highest-in-decades-video",
+      "summary": "Bloomberg Intelligence chief US interest rate strategist Ira Jersey said that part of the reason for the rise in yields for long-term treasuries is that US bonds have to compete with bonds from other countries like Japan. Jersey, who was joined by Bloomberg's Davide Barbuscia, said that buyers are c",
+      "published": "Tue, 18 Aug 2026 20:18:17 GMT",
+      "scraped_at": "2026-08-18T22:12:18.617Z"
+    },
     {
       "source_id": "mk",
       "source_name": "매일경제",
@@ -18620,106 +18880,6 @@
       "summary": "Nvidia Corp.’s commitments to backstop the artificial intelligence boom seemed to be swelling by the day. There was the reported $250 billion to help kickstart a massive data center for OpenAI in Ohio, the latest in a string of big financings it was involved with.",
       "published": "Tue, 11 Aug 2026 20:38:08 GMT",
       "scraped_at": "2026-08-11T22:31:39.104Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "브렌트 1.4% 상승…중재국發 '미·이란 합의근접' 소식에도 상승",
-      "url": "https://www.yna.co.kr/view/AKR20260812004000072",
-      "summary": "(뉴욕=연합뉴스) 이지헌 특파원 = 미국과 이란이 호르무즈 해협 통항을 둘러싸고 '모종의 합의'에 근접했다는 소식에도 불구하고 11일(현지시간)...",
-      "published": "Wed, 12 Aug 2026 04:31:04 +0900",
-      "scraped_at": "2026-08-11T20:34:13.431Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Phoebe Gates Knew Phia App Took Credit For Sales It Didn’t Drive",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/gates-knew-phia-took-credit-for-sales-it-didn-t-drive-video",
-      "summary": "Phia co-founders Phoebe Gates and Sophia Kianni pushed for features in the startup’s software that took credit for sales it didn’t drive. The founders were aware of the practice for at least seven months. Olivia Solon reports. (Source: Bloomberg)",
-      "published": "Tue, 11 Aug 2026 20:07:34 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Former Hedge Fund CFO Pleads Guilty to Embezzling $3 Million",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/former-hedge-fund-cfo-pleads-guilty-to-embezzling-3-million",
-      "summary": "The former chief financial officer of a Miami Beach hedge fund admitted he embezzled more than $3 million over four years at the firm, approving phony invoices and using corporate credit cards for adult entertainment and personal travel.",
-      "published": "Tue, 11 Aug 2026 20:01:51 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Omers Returns 4.8% in 2026, Fueled by Stocks and US Dollar",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/omers-returns-4-8-in-first-half-fueled-by-stocks-and-us-dollar",
-      "summary": "Ontario Municipal Employees Retirement System returned 4.8% in the first half of the year, gaining C$6.9 billion ($5 billion) from a strong US dollar and rising stock market.",
-      "published": "Tue, 11 Aug 2026 19:20:23 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "July CPI Crucial as Inflation Rebound Concerns Rise",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/july-cpi-crucial-as-inflation-rebound-concerns-rise-video",
-      "summary": "Barclays US economist Pooja Sriram discussed expectations for the upcoming July Consumer Price Index (CPI) report, emphasizing that the recent softer inflation reading in June is likely to be short-lived. She noted that while the July CPI data may not be decisive on its own, it remains a critical da",
-      "published": "Tue, 11 Aug 2026 19:48:44 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fed Expected to Keep Raising Rates Until Inflation Cools",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/fed-expected-to-keep-raising-rates-until-inflation-cools-video",
-      "summary": "Kelsey Berro, Fixed Income Portfolio Manager at JPMorgan Asset Management, discussed the Federal Reserve's challenging position amid recent disinflationary signals. Despite expectations for a modest 0.2% month-over-month increase in core CPI and relatively moderate inflation rates over several time ",
-      "published": "Tue, 11 Aug 2026 19:40:29 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Unpriced Food Inflation Threatens Volatile Bond Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/unpriced-food-inflation-threatens-volatile-bond-market-video",
-      "summary": "Marie-Anne Allier, Fixed Income Fund Manager at Carmignac Gestion, discussed the current challenges facing bond markets amid rising energy prices and geopolitical tensions involving Iran. She noted that much of the negative impact from higher oil, gas, and energy prices is already priced into the ma",
-      "published": "Tue, 11 Aug 2026 19:33:59 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Nvidia Can’t Solve the Two Big AI Buildout Problems",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/nvidia-can-t-solve-the-two-big-ai-buildout-problems",
-      "summary": "Scarcity and profit margin.",
-      "published": "Tue, 11 Aug 2026 19:26:26 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "EToro Announces Deal to Buy TradeZero in Boost to US Presence",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/etoro-announces-deal-to-buy-tradezero-video",
-      "summary": "Yoni Assia, co-founder and CEO of eToro, said that his company bought brokerage TradeZero to expand their presence in the United States and not have to build it from the ground up. Assia said that he sees a 'huge untapped market' in the United States for eToro products that have found success in Eur",
-      "published": "Tue, 11 Aug 2026 19:25:45 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Strategist Weighs September Fed Hike Amid Mixed Data",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/strategist-weighs-september-fed-hike-amid-mixed-data-video",
-      "summary": "Laureline Renauc-Chatelain, fixed income strategy lead at Pictet Wealth Management, discussed the likelihood of a Federal Reserve rate hike in September. She noted that the recent payroll data was somewhat surprising but indicated a stable labor market that is not adding inflationary pressure. Despi",
-      "published": "Tue, 11 Aug 2026 19:25:34 GMT",
-      "scraped_at": "2026-08-11T20:34:13.928Z"
     }
   ]
 }
