@@ -1,6 +1,246 @@
 {
-  "updated_at": "2026-08-20T20:17:44.599Z",
+  "updated_at": "2026-08-20T22:16:30.420Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "베선트 '바이백' 언급에도…美 국채금리 또 솟구쳐",
+      "url": "https://www.hankyung.com/article/2026082135017",
+      "summary": "",
+      "published": "Fri, 21 Aug 2026 06:10:21 +0900",
+      "scraped_at": "2026-08-20T22:16:25.231Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"배달 음식 끊지 마세요\"…의사가 권한 '뜻밖의 식습관'",
+      "url": "https://www.hankyung.com/article/202608201673i",
+      "summary": "",
+      "published": "Fri, 21 Aug 2026 06:00:10 +0900",
+      "scraped_at": "2026-08-20T22:16:25.231Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"더 비싸질 줄 알았는데\"…바나나 가격 '뚝' 떨어진 이유  [프라이스&]",
+      "url": "https://www.hankyung.com/article/202608201130i",
+      "summary": "",
+      "published": "Fri, 21 Aug 2026 06:00:01 +0900",
+      "scraped_at": "2026-08-20T22:16:25.231Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "6월 서울 아파트값 한달새 2.5%↑…5년 만에 최대폭 상승",
+      "url": "https://www.yna.co.kr/view/AKR20260821008500004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 지난 6월 서울 아파트값이 한 달 사이 2.5% 급등하며 5년 만에 가장 큰 폭으로 오른 것으로 나타났다.",
+      "published": "Fri, 21 Aug 2026 06:02:47 +0900",
+      "scraped_at": "2026-08-20T22:16:28.899Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울미래인재재단, 이금희 초청 청년 대상 '스피치 특강'",
+      "url": "https://www.yna.co.kr/view/AKR20260820144800004",
+      "summary": "(서울=연합뉴스) 황재하 기자 = 서울미래인재재단은 21일 오후 마포구에 있는 재단 커뮤니티센터에서 이금희 아나운서를 초청해 '스피치 클리닉·소...",
+      "published": "Fri, 21 Aug 2026 06:00:07 +0900",
+      "scraped_at": "2026-08-20T22:16:28.899Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "유가 떨어지자 7월 생산자 물가 11개월 만에 하락",
+      "url": "https://www.yna.co.kr/view/AKR20260820151900002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난달 국내 생산자물가지수가 11개월 만에 하락 전환했다. 폭염에 농산물 가격이 뛰었으나, 국제 유가 하락의 ...",
+      "published": "Fri, 21 Aug 2026 06:00:03 +0900",
+      "scraped_at": "2026-08-20T22:16:28.899Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "6월 국내은행 대출 연체율 0.56%…동월 기준 10년 만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20260820164700002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 국내 은행의 원화대출 연체율이 6월말 기준으로 10년만에 최고치를 기록했다.",
+      "published": "Fri, 21 Aug 2026 06:00:01 +0900",
+      "scraped_at": "2026-08-20T22:16:28.899Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "신한금융 \"반도체 수혜 편중…외형 성장·체감경기 괴리\"",
+      "url": "https://www.yna.co.kr/view/AKR20260820167300002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 신한금융지주가 반도체 호황에도 경기 회복의 온기가 산업과 계층 전반으로 퍼지지 못하고 있다고 진단해 주목된다.",
+      "published": "Fri, 21 Aug 2026 05:51:00 +0900",
+      "scraped_at": "2026-08-20T22:16:28.899Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks in Asia were set to drop after US equities fell as oil prices and benchmark bond yields climbed, with investors betting that the Treasury’s efforts to contain borrowing costs may offer only a temporary reprieve.",
+      "published": "Thu, 20 Aug 2026 22:05:51 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Aug. 21",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21",
+      "summary": "Oil headed for a substantial weekly gain, as a US push to isolate Iran’s economy raised the specter of further market disruption.",
+      "published": "Thu, 20 Aug 2026 22:02:51 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Broadcom Seeking $60B in AI Debt Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/broadcom-seeking-60b-in-ai-debt-deal-video",
+      "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter. The financing, which is still being ironed out, may also include a roughly $30",
+      "published": "Thu, 20 Aug 2026 22:02:29 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Holcim Is Acquiring Part of James Hardie’s European Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/holcim-said-to-acquire-part-of-james-hardie-s-european-business",
+      "summary": "Holcim Ltd. is acquiring part of the European business of James Hardie Industries Plc for €840 million ($981 million), expanding its building, sustainable flooring and walling solution offerings.",
+      "published": "Thu, 20 Aug 2026 20:27:53 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing",
+      "summary": "Anthropic PBC is set to add Citigroup Inc. to the banks working on its initial public offering, according to people familiar with the matter, as Wall Street jostles for roles on the artificial intelligence firm’s debut.",
+      "published": "Thu, 20 Aug 2026 21:29:58 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "J&J Snack Foods CEO on Snack Nostalgia, Turnaround Plans",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/j-j-snack-foods-ceo-on-snack-nostalgia-turnaround-plans-video",
+      "summary": "Dan Fachner, CEO of J&J Snack Foods, discussed the company's strategic focus on the food service segment, which accounts for 60% of its business. He emphasized the strong recovery and growth potential in experiential venues such as theaters, theme parks, and ballparks, where iconic brands like ICEE,",
+      "published": "Thu, 20 Aug 2026 21:29:45 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fmr. LVMH Exec. Brown on Estée Comeback, Consumer Trends",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/fmr-lvmh-exec-brown-on-estee-comeback-consumer-trends-video",
+      "summary": "Pauline Brown, former chairman of LVMH North America, discussed evolving trends in the luxury market. She highlighted that while traditional luxury spending correlates with strong economic indicators like housing and low unemployment, today's consumers are more discerning. She speaks with Romaine Bo",
+      "published": "Thu, 20 Aug 2026 21:23:31 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Big Take: Riding The Bond Market Rollercoaster",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/big-take-riding-the-bond-market-rollercoaster-video",
+      "summary": "On today's Big Take podcast, behind the bond market selloff and the US government's intervention.  (Source: Bloomberg)",
+      "published": "Thu, 20 Aug 2026 21:07:36 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ross Stores Raises Annual Profit Outlook on Robust Momentum",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ross-stores-raises-annual-profit-outlook-on-robust-momentum",
+      "summary": "Ross Stores Inc. raised its annual profit outlook for a second time this year, signaling that the discount retailer’s momentum is holding up.",
+      "published": "Thu, 20 Aug 2026 21:04:56 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Housing Slump Winners, Losers Emerge From Australia’s Earnings",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/housing-slump-winners-losers-emerge-from-australia-s-earnings",
+      "summary": "Companies exposed to Australia’s housing downturn are facing a test this earnings season, as high interest rates and tax reforms divide the stock market into winners and losers.",
+      "published": "Thu, 20 Aug 2026 21:00:00 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bill Dudley Warns That US Stocks Are in Bubble Territory",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/bill-dudley-warns-that-us-stocks-are-in-bubble-territory-video",
+      "summary": "Bill Dudley, a Bloomberg Opinion columnist and former New York Fed President, explains why he thinks US the equity market is in bubble territory. Speaking with Romaine Bostick on \"Bloomberg The Close,\" Dudley also comments on the economic impact of AI and the rise in bond yields. (Source: Bloomberg)",
+      "published": "Thu, 20 Aug 2026 20:55:25 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Orion180 Files for IPO, Eyeing Home and Flood Insurance Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/orion180-files-for-ipo-eyeing-home-and-flood-insurance-market",
+      "summary": "Orion180 Insurance Group Inc. filed for a US initial public offering, as the company looks to carve out a bigger share of the fast-growing specialty homeowners and flood insurance market.",
+      "published": "Thu, 20 Aug 2026 20:36:16 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Texas Is Tip Of A Melting Muni Iceberg: Winkler",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/texas-is-tip-of-a-melting-muni-iceberg-winkler-video",
+      "summary": "Bloomberg's Matt Winkler joins Scarlet Fu on \"Bloomberg Real Yield.\" Borrowing costs for the state of Texas are higher than they are for California. The yield that investors demand on Texas bonds are, on average, point-3 percentage points higher than the Golden State. That adds up to as much as 3 mi",
+      "published": "Thu, 20 Aug 2026 20:32:47 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Aluminum Premium Slips as US Set to Cut Tariffs on Canada Metal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/aluminum-premium-slips-as-us-set-to-cut-tariffs-on-canada-metal",
+      "summary": "A key regional price benchmark for aluminum delivered to the US market tumbled after the Trump administration indicated it would lower tariffs on certain Canadian exports of aluminum.",
+      "published": "Thu, 20 Aug 2026 20:28:06 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Risk Of Treasuries Selloff Is Growing: Robson",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/risk-of-treasuries-selloff-is-growing-robson-video",
+      "summary": "Meghan Robson, head of US credit strategy at BNP Paribas, and Milwood Hobbs, deputy CIO of Oaktree’s Strategic Credit platform, join Scarlet Fu on \"Bloomberg Real Yield.\" US Treasuries fell a day after the Trump administration’s surprise decision to increase buybacks of longer-dated bonds, showing t",
+      "published": "Thu, 20 Aug 2026 20:25:00 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Walmart Slides 9% as Sales Slow and Stocks Retreat | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-20/walmart-slides-9-as-sales-slow-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Sally Bakewell, Carol Massar and Emily Graffeo. (Source: Bloomberg)",
+      "published": "Thu, 20 Aug 2026 20:19:49 GMT",
+      "scraped_at": "2026-08-20T22:16:29.016Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -19410,166 +19650,6 @@
       "summary": "Bobby Sharma, Founder and Managing Partner at Bluestone Equity Partners, discussed the recent $12.5 billion valuation of the Los Angeles Lakers, highlighting the extraordinary price and the broader trend of sports becoming institutionalized investment assets. Sharma emphasized that the Lakers repres",
       "published": "Thu, 13 Aug 2026 20:46:20 GMT",
       "scraped_at": "2026-08-13T22:31:13.958Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/uae-qatari-firms-debut-in-venezuela-through-bp-led-gas-deal",
-      "summary": "Arab Gulf companies are making their debut in Venezuela through an offshore natural gas project to be operated by BP Plc.",
-      "published": "Thu, 13 Aug 2026 20:26:54 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tyson to Close More Beef Plants as US Cattle Shortage Drags On",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/tyson-to-close-more-beef-plants-as-us-cattle-shortage-drags-on",
-      "summary": "Tyson Foods Inc. said it would close several additional beef plants, in the latest sign of the US beefpacking industry’s restructuring amid a prolonged US cattle shortage.",
-      "published": "Thu, 13 Aug 2026 20:22:14 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Chicago Mayor Demands Data Center Moratorium",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/chicago-mayor-demands-data-center-moratorium-video",
-      "summary": "Bloomberg's Miranda Davis joins Emily Graffeo on \"Real Yield.\" Chicago Mayor Brandon Johnson is pushing for a temporary moratorium on data centers, and signed an executive order on Tuesday to create new rules for any future developments. (Source: Bloomberg)",
-      "published": "Thu, 13 Aug 2026 19:27:08 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "‘SaaSpocalypse’ Risk From AI Reaches Beyond Private Equity",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/-saaspocalypse-risk-from-ai-reaches-past-private-equity-video",
-      "summary": "Bloomberg's Paula Seligson said that specific subsets of the software industry are especially at risk from the 'SaaSpocalypse' — the selloff of companies based around 'software-as-a-service — as artificial intelligence replaces software functionality for things like data visualization. Seligson said",
-      "published": "Thu, 13 Aug 2026 20:10:23 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "'Pile On' Real Yields, Enduring Environment: Wrzesniewsky",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/pile-on-real-yields-enduring-environment-wrzesniewsky-video",
-      "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, and Matt Wrzesniewsky, head of fixed income client portfolio management at Vanguard,  join Emily Graffeo on \"Real Yield.\" (Source: Bloomberg)",
-      "published": "Thu, 13 Aug 2026 20:01:28 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Diversified Said to Near Deal for Elliott-Backed Birch",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
-      "summary": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
-      "published": "Thu, 13 Aug 2026 19:55:12 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Inflation Softens Ahead of Fed Data, Jackson Hole",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-inflation-softens-ahead-of-fed-data-jackson-hole-video",
-      "summary": "Senior Research Economist Sree Kochugovindan from Aberdeen discussed the recent US inflation data, describing it as a subdued core inflation print that has somewhat eased pressure on the Federal Reserve. Despite inflation remaining elevated and outpacing wage growth, the inflation report was conside",
-      "published": "Thu, 13 Aug 2026 19:55:03 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stay In The Belly Of The Curve: BlackRock's Chaudhuri",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/stay-in-the-belly-of-the-curve-blackrock-s-chaudhuri-video",
-      "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, joins Emily Graffeo on \"Real Yield.\" The US government sold 30-year bonds at the highest interest rate in a quarter of a century, reflecting a relentless selloff that’s stirred speculation the nation will tilt borrowi",
-      "published": "Thu, 13 Aug 2026 19:50:38 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "NYC Pied-a-Terre Tax Can Proceed for Now, Appeals Court Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/nyc-pied-a-terre-tax-can-proceed-for-now-appeals-court-says",
-      "summary": "The rollout of New York’s pied-à-terre tax can proceed for now after an appeals court temporarily put a hold on a Staten Island judge’s order blocking the plan.",
-      "published": "Thu, 13 Aug 2026 19:48:50 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Still Seeing Credit Stress Under Surface: Cudzil",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
-      "summary": "Jerry Cudzil generalist portfolio manager, fixed income at TCW, joins Emily Graffeo on \"Real Yield.\" As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world’s safest firms. (Source: Bloomberg",
-      "published": "Thu, 13 Aug 2026 19:40:13 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US, China Gap on Critical Minerals 'Won't Change Overnight,' Say REalloys CEO",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-gap-minerals-won-t-change-overnight-realloys-ceo-video",
-      "summary": "Lipi Sternheim, REalloys CEO, said that his company is working closely with the US Army to get a critical mining operation underway on US military base and that the US government's interest in expanding critical minerals mining in the US has not slowed. Sternheim said that expanding US capacity to t",
-      "published": "Thu, 13 Aug 2026 19:39:33 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Workday Shares Surge After Report Silver Lake Is in Talks to Buy Company",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/workday-jumps-after-reuters-reports-silver-lake-in-talks-to-buy",
-      "summary": "Workday Inc. shares jumped after a Reuters report that private equity firm Silver Lake is in talks to purchase the software provider.",
-      "published": "Thu, 13 Aug 2026 18:51:30 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Pays Highest Yield on 30-Year Debt in Quarter of a Century",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-pays-highest-yield-on-30-year-debt-since-2001-video",
-      "summary": "Patrick McHenry, former Republican congressman from North Carolina and former House Financial Services Committee chairman, said that Thursday's bond sale is a 'wake up sign' for the country on government debt and deficit, as the US government sold 30-year bonds at the highest rate since 2001.  McHen",
-      "published": "Thu, 13 Aug 2026 19:18:58 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "NYC Pied-a-Terre Tax Temporarily Blocked by Judge",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/nyc-pied-a-terre-tax-temporarily-blocked-by-judge-video",
-      "summary": "Bloomberg's Laura Nahmias joins Emily Graffeo on \"Real Yield.\" The rollout of New York City Mayor Zohran Mamdani’s new pied-à-terre tax was temporarily blocked by a state court judge on Staten Island.\n\n (Source: Bloomberg)",
-      "published": "Thu, 13 Aug 2026 19:09:50 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Veja os Assuntos Que Marcaram a Semana no Brasil",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/veja-os-assuntos-que-marcaram-a-semana-no-brasil-video",
-      "summary": "A repórter Beatriz Reis conta os assuntos que foram destaque na semana no Brasil. Com edição de Barbara Nascimento, produção de Catarina Bacci e Gisele Fernandes.\n (Source: Bloomberg)",
-      "published": "Thu, 13 Aug 2026 19:05:38 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Debt Sales See No Summer Slowdown",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-debt-sales-see-no-summer-slowdown-video",
-      "summary": "Tony Rodriguez, head of fixed income strategy at Nuveen Asset Management, and Jerry Cudzil generalist portfolio manager, fixed income at TCW, join Emily Graffeo on \"Real Yield.\" August is often one of the slowest months of the year, averaging $95 billion of investment-grade bond sales since 2019. Th",
-      "published": "Thu, 13 Aug 2026 18:58:54 GMT",
-      "scraped_at": "2026-08-13T20:30:55.025Z"
     }
   ]
 }
