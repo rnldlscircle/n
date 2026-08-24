@@ -1,6 +1,266 @@
 {
-  "updated_at": "2026-08-24T20:18:47.942Z",
+  "updated_at": "2026-08-24T22:15:48.316Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "현대차 임협 111일 만에 잠정합의…성과금 '400%+1270만원'",
+      "url": "https://www.hankyung.com/article/202608259984i",
+      "summary": "",
+      "published": "Tue, 25 Aug 2026 06:36:33 +0900",
+      "scraped_at": "2026-08-24T22:15:45.021Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"본품보다 싸다\"…공항 편의점서 불티 난 '3000원 화장품' [프라이스&]",
+      "url": "https://www.hankyung.com/article/202608215487i",
+      "summary": "",
+      "published": "Tue, 25 Aug 2026 06:00:16 +0900",
+      "scraped_at": "2026-08-24T22:15:45.021Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"아이폰, 2026년 실패작\" 경고…350만원 초고가폰의 '함정'",
+      "url": "https://www.hankyung.com/article/202608249256g",
+      "summary": "",
+      "published": "Tue, 25 Aug 2026 06:00:08 +0900",
+      "scraped_at": "2026-08-24T22:15:45.021Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] 아프리카와 함께 글로벌 AI 강국…대한민국의 미래로 나가자",
+      "url": "https://www.yna.co.kr/view/AKR20260818018000898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류...",
+      "published": "Tue, 25 Aug 2026 07:00:08 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[율곡로] 잔치는 끝났다…글로벌 긴축에 대비할 때",
+      "url": "https://www.yna.co.kr/view/AKR20260824147600546",
+      "summary": "(서울=연합뉴스) 이승우 선임기자 = 세계 경제를 수년간 떠받쳐온 초저금리와 과잉 유동성 시대가 지고 있다. 미국 연방준비제도(Fed)를 비롯한...",
+      "published": "Tue, 25 Aug 2026 06:31:00 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수",
+      "url": "https://www.yna.co.kr/view/AKR20260824125200003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 환율 부담 완화와 추석 명절 특수에 대한 기대로 국내 기업의 경기 전망이 6개월 만에 긍정적으로 돌아섰다.",
+      "published": "Tue, 25 Aug 2026 06:00:09 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "주가 하락으로 8월 소비심리 넉 달 만에↓…집값 상승 기대 줄어",
+      "url": "https://www.yna.co.kr/view/AKR20260824149100002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 국내 증시가 큰 폭으로 조정되면서 소비심리가 넉 달 만에 하락했다.",
+      "published": "Tue, 25 Aug 2026 06:00:02 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "강제퇴거 위기 쪽방주민 등 42세대 서울시 '해든집' 입주",
+      "url": "https://www.yna.co.kr/view/AKR20260824165900004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 재개발이나 건물 리모델링 등으로 퇴거 위기에 놓인 서울 쪽방 주민을 비롯한 42세대가 남대문 쪽방촌에 조성된 ...",
+      "published": "Tue, 25 Aug 2026 06:00:01 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "사찰·한방에 AI 접목 관광스타트업 찾는다…실증비 1억원",
+      "url": "https://www.yna.co.kr/view/AKR20260824166400004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 사찰 음식과 사찰 체험(템플스테이), 한방 등 한국 고유의 관광자원에 인공지능(AI)과 디지털 기술을 접목해 ...",
+      "published": "Tue, 25 Aug 2026 06:00:01 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "내년 '800조+α' 슈퍼예산…반도체발 국세수입 600조 넘을 듯",
+      "url": "https://www.yna.co.kr/view/AKR20260824145900002",
+      "summary": "(세종=연합뉴스) 이세원 이대희 안채원 기자 = 정부가 역대 최대 규모인 800조원이 넘는 내년도 예산안을 내놓을 전망이다.",
+      "published": "Tue, 25 Aug 2026 05:30:00 +0900",
+      "scraped_at": "2026-08-24T22:15:46.989Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Aug. 25",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+      "summary": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+      "published": "Mon, 24 Aug 2026 22:02:31 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+      "summary": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting the strength of emerging market currencies fueled by carry trades supported by higher real yields in countries like Braz",
+      "published": "Mon, 24 Aug 2026 21:52:07 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump's Family Seeking National Bank Charter",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/trump-s-family-seeking-national-bank-charter-video",
+      "summary": "Donald Trump's family has won preliminary approval to start a national bank, riding a wave of deregulation under the Trump administration. For the president’s family, the goal is to expand the use of USD1, their dollar-backed stablecoin, World Liberty Financial said earlier this month after receivin",
+      "published": "Mon, 24 Aug 2026 21:44:29 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hartree's Morse: 3 Things Define Hormuz Strait's Future",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/hartree-s-morse-3-things-define-hormuz-strait-s-future-video",
+      "summary": "Ed Morse, Senior Advisor and Commodities Analyst, discusses the recent fall in Brent crude oil prices. The decline is attributed to market attention on the potential impact of Iran sanctions, which are influencing supply expectations and investor sentiment in the commodities market. He speaks with R",
+      "published": "Mon, 24 Aug 2026 21:39:12 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Copy Trading Offers Alternative to Traditional Investing",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/copy-trading-offers-alternative-to-traditional-investing-video",
+      "summary": "Steven Wang, Founder & CEO of Dub, launched the copy trading platform 3 years ago after dropping out of Harvard to become an entrepreneur. He says the app offers a unique alternative to sports betting, and fresh opportunities for the increasing number of young Americans who say they are now investin",
+      "published": "Mon, 24 Aug 2026 21:36:08 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bilt CEO, Equinox Exec. Chairman on New Partnership",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/bilt-ceo-equinox-exec-chairman-on-new-partnership-video",
+      "summary": "The segment features a discussion with Ankur Jain, CEO of BILT, and Harvey Spevak, Equinox Group Executive Chairman, about the newly launched exclusive partnership between Bilt, a membership and hospitality platform, and Equinox, a luxury fitness brand. The collaboration aims to connect the audience",
+      "published": "Mon, 24 Aug 2026 21:32:52 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
+      "summary": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option should be on the table.  (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 21:28:24 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasury Buybacks Are a 'Cloud' Over Markets, Apollo's Slok Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/digi-torsten-slok-video",
+      "summary": "Apollo Chief Economist Torsten Slok comments on the economic impact of the the US Treasury's strategic debt buyback operations. Speaking on \"Bloomberg The Close,\" Slok also discusses the outlook for Federal Reserve monetary policy. (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 20:35:05 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "UK Power Equipment Rental Firm Aggreko Files for New York IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/uk-power-equipment-rental-firm-aggreko-files-for-new-york-ipo",
+      "summary": "Aggreko Plc filed for a US initial public offering, revealing the private equity-backed power equipment rental company turned profitable as revenue increased.",
+      "published": "Mon, 24 Aug 2026 20:41:18 GMT",
+      "scraped_at": "2026-08-24T22:15:47.414Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Guggenheim's Walsh Says Firm Is Cooperating With Regulators",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/walsh-says-guggenheim-is-cooperating-with-regulators-video",
+      "summary": "Anne Walsh, chief investment officer of Guggenheim Partners, says the asset management firm is fully cooperating with regulators as they investigate an accounting issue at one of its subsidiaries. US prosecutors are looking at Mark Walter's investment empire and his relationship with Guggenheim. Wal",
+      "published": "Mon, 24 Aug 2026 20:34:38 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Expands Search for Critical-Mineral Projects for Defense Gear",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-expands-search-for-critical-mineral-projects-for-defense-gear",
+      "summary": "The Trump administration is seeking investment pitches from domestic producers of metals used in fighter jets, night-vision goggles and tank armor.",
+      "published": "Mon, 24 Aug 2026 20:32:50 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Nvidia Slides Ahead of Earnings as Tech Stocks Retreat | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-slides-ahead-of-earnings-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Norah Mulinda and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 20:22:04 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Test Your ETF Knowledge In Our IQ Test",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/test-your-etf-knowledge-in-our-iq-test-video",
+      "summary": "Bloomberg's Scarlet Fu puts Isabelle Lee, Athanasios Psarofagis, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 20:19:17 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Who Is Buying America’s Debt These Days?",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/who-is-buying-america-s-debt-these-days-video",
+      "summary": "With the US now $40 trillion in the red, the US Treasury’s sudden move to rein in bond yields has cast a spotlight on who is, and isn’t, purchasing American debt these days. (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 20:18:35 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "First Brands Bankruptcy-Payout Plan Rejected by Federal Judge",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/first-brands-bankruptcy-payout-plan-rejected-by-federal-judge",
+      "summary": "A federal judge rejected the bankruptcy-payout plan of defunct auto-parts maker First Brands, concluding the proposal to raise money by suing a long list of insiders and business partners was not realistic.",
+      "published": "Mon, 24 Aug 2026 20:15:42 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wellington Launches Funds with Blackstone, Vanguard",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/wellington-launches-funds-with-blackstone-vanguard-video",
+      "summary": "Nick Samouilhan, portfolio manager at Wellington Management, joins Scarlet Fu and Eric Balchunas on \"ETF IQ.\" Blackstone teamed up with Wellington Management and Vanguard Group to create two new funds that will give individual investors access to private assets. (Source: Bloomberg)",
+      "published": "Mon, 24 Aug 2026 20:14:49 GMT",
+      "scraped_at": "2026-08-24T22:15:47.415Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -20780,256 +21040,6 @@
       "summary": "Brazil’s Petrobras is weighing whether to grant improved payment terms to Braskem on some contracts as the petrochemical producer races against the clock to find a solution for its debt woes ahead of an August 24 deadline to avoid filing for bankruptcy protection, according to people familiar with t",
       "published": "Mon, 17 Aug 2026 22:35:41 GMT",
       "scraped_at": "2026-08-18T00:40:07.175Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "청년보다 50대가 많아졌다…대기업 고용시장에 무슨 일이",
-      "url": "https://www.hankyung.com/article/2026081857357",
-      "summary": "",
-      "published": "Tue, 18 Aug 2026 06:35:30 +0900",
-      "scraped_at": "2026-08-17T22:13:56.311Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "계열사서 받은 '간판값'만 2.2조…대기업 상표권 수입 역대 최대",
-      "url": "https://www.hankyung.com/article/2026081857317",
-      "summary": "",
-      "published": "Tue, 18 Aug 2026 06:28:50 +0900",
-      "scraped_at": "2026-08-17T22:13:56.311Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
-      "url": "https://www.hankyung.com/article/2026081857277",
-      "summary": "",
-      "published": "Tue, 18 Aug 2026 06:22:42 +0900",
-      "scraped_at": "2026-08-17T22:13:56.311Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[우분투칼럼] 프랑스의 아프리카 디아스포라…공은 둥글고 국경선은 곧다",
-      "url": "https://www.yna.co.kr/view/AKR20260814038900898",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류 ...",
-      "published": "Tue, 18 Aug 2026 07:00:04 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
-      "url": "https://www.yna.co.kr/view/AKR20260817042600003",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 국내 주요 대기업의 신규 채용이 최근 2년 새 15% 넘게 감소한 가운데, 30세 이하 청년층 고용 비중은 줄...",
-      "published": "Tue, 18 Aug 2026 06:01:02 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"물놀이 끝나면 해변으로 배달\"…양양 서피비치 주문 2.5배",
-      "url": "https://www.yna.co.kr/view/AKR20260817028700030",
-      "summary": "(서울=연합뉴스) 홍국기 기자 = 올해 여름 휴가철 국내 주요 해수욕장 인근의 음식 배달 주문이 대폭 늘어난 것으로 나타났다.",
-      "published": "Tue, 18 Aug 2026 06:01:01 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "전국 도시재생 명소 52곳서 스탬프투어…4곳 방문하면 상품권",
-      "url": "https://www.yna.co.kr/view/AKR20260816019700003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11월 15일까지 전국 도시재생사업지를 둘러보는 '도시재생 스탬프투어'를 진행한다고 18일 밝혔다...",
-      "published": "Tue, 18 Aug 2026 06:00:04 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20260817033400003",
-      "summary": "(서울=연합뉴스) 김윤구 기자 = 구직 청년 10명 중 6명 이상이 향후 5년 안에 자신이 희망하는 직무가 인공지능(AI)으로 대체되거나 축소될...",
-      "published": "Tue, 18 Aug 2026 06:00:04 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "서울시, 무주택 청년 이사비·중개보수 최대 40만원 지원",
-      "url": "https://www.yna.co.kr/view/AKR20260817032600004",
-      "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 부동산 중개보수와 이사비로 최대 40만원을 지원하는 '청년 부동산 중개보수 및 이사비 지원' 대상자 ...",
-      "published": "Tue, 18 Aug 2026 06:00:03 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "롯데百-SC제일은행, 우수 고객에 자산관리·라운지 상호 제공",
-      "url": "https://www.yna.co.kr/view/AKR20260817053100030",
-      "summary": "(서울=연합뉴스) 정수연 기자 = 롯데백화점은 SC제일은행과 함께 양사 우수 고객을 위한 제휴 서비스를 선보인다고 18일 밝혔다.",
-      "published": "Tue, 18 Aug 2026 06:00:01 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "김윤덕·오세훈 오는 20일 회동…용산공원 주택공급 '분수령'",
-      "url": "https://www.yna.co.kr/view/AKR20260817037200004",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 용산공원 부지 내 주택공급을 둘러싼 정부와 서울시 갈등이 오는 20일 중대 분수령을 맞을 전망이다.",
-      "published": "Tue, 18 Aug 2026 05:55:00 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "대기업집단, 작년 간판값으로 2.2조 벌었다…SK·LG·한화 순",
-      "url": "https://www.yna.co.kr/view/AKR20260814108000002",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 대기업 지주회사나 대표회사가 지난해 계열사로부터 상표권 사용료(이하 간판값)로만 2조원 넘게 벌어들인 것으로 ...",
-      "published": "Tue, 18 Aug 2026 05:53:01 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\"",
-      "url": "https://www.yna.co.kr/view/AKR20260817048700002",
-      "summary": "(세종=연합뉴스) 이세원 기자 = 국제신용평가사 무디스는 반도체 호황이 적어도 내년 중반까지 이어질 것이라며 올해 한국 성장률 전망을 3.5%로...",
-      "published": "Tue, 18 Aug 2026 05:51:01 +0900",
-      "scraped_at": "2026-08-17T22:13:58.390Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Latest Oil Market News and Analysis for Aug. 18",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
-      "summary": "Oil ticked higher as prospects for a resolution of the US-Iran war receded, with President Donald Trump saying he’s not interested in extending an expiring agreement with Tehran.",
-      "published": "Mon, 17 Aug 2026 22:01:31 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump Likes the Idea of Declaring Hormuz a \"Territory\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/trump-likes-the-idea-of-declaring-hormuz-a-territory-video",
-      "summary": "The war between the US and Iran has slowed down, as peace prospects dim with President Trump in no hurry to reach a peace deal. The apparent slowdown of actions comes as the President insists the US is controlling the Strait of Hormuz, as major US defense firms race to make cheaper missiles to bolst",
-      "published": "Mon, 17 Aug 2026 22:00:16 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Guggenheim Rushes to Clarify 77% Earnings Drop After Loan Slides",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
-      "summary": "A financing entity of Guggenheim Investments moved to explain a steep decline in second-quarter earnings after the disclosure sent its loan price tumbling.",
-      "published": "Mon, 17 Aug 2026 21:23:39 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Test Your ETF Knowledge In Our IQ Test",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/test-your-etf-knowledge-in-our-iq-test-video",
-      "summary": "Bloomberg's Joel Weber puts Scarlet Fu, James Seyffart, and Todd Sohn, ETF strategist at Baird Strategas, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 21:08:58 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "We Will Take Risks If Clients Willing: Legum",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/we-will-take-risks-if-clients-willing-legum-video",
-      "summary": "Maital Legum, head of ETF solutions at Teucrium, joins Scarlet Fu and James Seyffart on \"ETF IQ.\" They discuss the process the firm goes through as they decide to launch ETFs or not. (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:54:02 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Berkshire-Tracking ETF 'OMAH' Outperforms Company",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/berkshire-tracking-etf-omah-outperforms-company-video",
-      "summary": "Adam Patti, CEO of VistaShares, joins Scarlet Fu and James Seyffart on \"ETF IQ.\" They discuss VistaShares Target 15 Berkshire Select Income ETF (ticker: OMAH). (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:44:17 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Goldman Sachs to Acquire ETF Provider Neos in $2.3B Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
-      "summary": "Bloomberg Intelligence's Neil Sipes joins Scarlet Fu and James Seyffart on \"ETF IQ.\" Goldman Sachs will pay as much as $2.25 billion to buy Neos Investments, expanding its asset manager’s reach in the actively managed ETF market. (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:33:49 GMT",
-      "scraped_at": "2026-08-17T22:13:58.491Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Slip as Oil and Treasury Yields Rise | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/stocks-slip-as-oil-treasury-yields-rise-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet Fu, Isabelle Lee, Carol Massar and Joe Deaux. (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:27:01 GMT",
-      "scraped_at": "2026-08-17T22:13:58.492Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Anthropic Revenue Boom Boosts AI Stocks | Bloomberg Businessweek Daily 8/17/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-businessweek-daily-8-17-2026-video",
-      "summary": "Bloomberg Intelligence's Global Head of Technology Research Mandeep Singh reacts to Anthropic's revenue report, and news Alphabet is seeking billions in its debut bond offering in Australia. Then, Citi Wealth's Olaolu Aganga joins to discuss AI exposure to investment portfolios, and other AI-related",
-      "published": "Mon, 17 Aug 2026 20:24:47 GMT",
-      "scraped_at": "2026-08-17T22:13:58.492Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "We Were 'Day One Buyers' Of SpaceX: Cassidy",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/we-were-day-one-buyers-of-spacex-cassidy-video",
-      "summary": "Lauren Cassidy, CIO of Founders 100 ETF, joins Scarlet Fu and James Seyffart on \"ETF IQ.\" They discuss the fund and how they approach investing in founder-led companies. (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:21:22 GMT",
-      "scraped_at": "2026-08-17T22:13:58.492Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fmr Pepsico Executive: Consumers Are Being Intentional",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/fmr-pepsico-executive-consumers-are-being-intentional-video",
-      "summary": "Romaine Bostick sat down with Derek Lewis, Former PepsiCo Beverages North America Multicultural Business and Equity Development President, from Bloomberg's New Voices Initiative from Martha's Vineyard. (Source: Bloomberg)",
-      "published": "Mon, 17 Aug 2026 20:08:56 GMT",
-      "scraped_at": "2026-08-17T22:13:58.492Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Deals, Launches, and Risk-Taking | ETF IQ 8/17/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/etf-iq-8-17-2026-video",
-      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Baird Strategas Chief ETF Strategist Todd Sohn, Founders 100 ETF CIO Lauren Cassidy, VistaShares CEO Adam Patti, and Teucrium Head ",
-      "published": "Mon, 17 Aug 2026 20:07:14 GMT",
-      "scraped_at": "2026-08-17T22:13:58.492Z"
     }
   ]
 }
