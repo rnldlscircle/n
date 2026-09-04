@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-09-04T20:02:06.863Z",
+  "updated_at": "2026-09-04T23:34:15.312Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
+      "url": "https://www.hankyung.com/article/202609055528i",
+      "summary": "",
+      "published": "Sat, 05 Sep 2026 07:53:32 +0900",
+      "scraped_at": "2026-09-04T23:34:10.352Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
+      "url": "https://www.hankyung.com/article/2026090446956",
+      "summary": "",
+      "published": "Sat, 05 Sep 2026 07:00:04 +0900",
+      "scraped_at": "2026-09-04T23:34:10.352Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
+      "url": "https://www.hankyung.com/article/202609033212i",
+      "summary": "",
+      "published": "Sat, 05 Sep 2026 07:00:02 +0900",
+      "scraped_at": "2026-09-04T23:34:10.352Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"美서 쇳물 뽑는다\"…현대제철, HPLS 전기로 제철소 첫발",
+      "url": "https://www.hankyung.com/article/202609055485i",
+      "summary": "",
+      "published": "Sat, 05 Sep 2026 06:00:06 +0900",
+      "scraped_at": "2026-09-04T23:34:10.352Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "반찬 팔더니 1000억 쓸어 담았다…'초대박 비결' 알고 보니 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202609045036i",
+      "summary": "",
+      "published": "Sat, 05 Sep 2026 06:00:04 +0900",
+      "scraped_at": "2026-09-04T23:34:10.352Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "울산시, 중소기업·소상공인에 760억 경영안정자금 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260904157500057",
+      "summary": "(울산=연합뉴스) 허광무 기자 = 울산시는 경기 불확실성 장기화로 자금난을 겪는 지역 중소기업과 소상공인을 위해 총 760억원 규모 경영안정자금...",
+      "published": "Sat, 5 Sep 2026 08:30:01 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\"",
+      "url": "https://www.yna.co.kr/view/AKR20260904132400003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 고용노동부가 기업의 공장 신설이나 인공지능(AI) 등 신기술 도입으로 직원 배치전환이 있을 경우 노조가 교섭을...",
+      "published": "Sat, 5 Sep 2026 08:01:00 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "익산역 개발·원도심 발전 방향은…익산시청서 16일 타운홀미팅",
+      "url": "https://www.yna.co.kr/view/AKR20260904093200055",
+      "summary": "(익산=연합뉴스) 김진방 기자 = 전북 익산시는 오는 16일 'KTX 익산역 개발과 원도심 활성화 방안'을 주제로 시민과 함께 여는 타운홀미팅을...",
+      "published": "Sat, 5 Sep 2026 08:00:06 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
+      "url": "https://www.yna.co.kr/view/AKR20260904057100065",
+      "summary": "(인천=연합뉴스) 최은지 기자 = 재개발 구역 철거권을 주겠다고 속여 개발 업체로부터 5억원을 가로챈 일당이 항소심에서도 징역형의 집행유예를 선...",
+      "published": "Sat, 5 Sep 2026 07:17:01 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
+      "url": "https://www.yna.co.kr/view/AKR20260904093900053",
+      "summary": "(대구=연합뉴스) 김용민 기자 = 대구본부세관은 추석 명절을 앞두고 수출입 통관 특별 지원에 나선다고 5일 밝혔다.",
+      "published": "Sat, 5 Sep 2026 07:11:12 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
+      "url": "https://www.yna.co.kr/view/AKR20260904107200051",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 국내 컨테이너선으로는 처음으로 북극항로 시범 운항에 나선 팬스타 아크로호의 귀환이 예정보다 늦춰질 전망이다.",
+      "published": "Sat, 5 Sep 2026 07:10:01 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
+      "url": "https://www.yna.co.kr/view/AKR20260904119500003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 전국 주유소 기름값이 지난주 대비 소폭 내리며 16주 연속 하락세를 이어갔다.",
+      "published": "Sat, 5 Sep 2026 07:01:01 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
+      "url": "https://www.yna.co.kr/view/AKR20260903167500030",
+      "summary": "▲ 이랜드월드가 운영하는 후아유는 올해 가을·겨울철을 겨냥해 편안함을 강조한 아이템으로 구성한 '슬래커 인 폴' 컬렉션을 공개했다. 제품은 '시...",
+      "published": "Sat, 5 Sep 2026 07:00:07 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
+      "url": "https://www.yna.co.kr/view/AKR20260904058700030",
+      "summary": "▲ CJ푸드빌이 운영하는 뚜레쥬르는 서울의 낮과 밤의 분위기를 케이크에 담은 신제품 '글로우 오브 시티'를 선보였다.",
+      "published": "Sat, 5 Sep 2026 07:00:05 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
+      "url": "https://www.yna.co.kr/view/AKR20260904115700063",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 사람이 직접 종이 문서를 나르던 업무는 사라지고, 드론과 인공지능(AI)·빅데이터를 다루는 전문인력 수요가 커...",
+      "published": "Sat, 5 Sep 2026 06:05:01 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[부동산캘린더] 내주 서울 성북 브라운스톤월곡센트럴 등 2천852가구 분양",
+      "url": "https://www.yna.co.kr/view/AKR20260904126400003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 9월 둘째 주에는 전국에서 2천852가구가 분양에 나선다.",
+      "published": "Sat, 5 Sep 2026 06:05:00 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "바브엘만데브 해협까지 불안…국제유가 상승세 지속",
+      "url": "https://www.yna.co.kr/view/AKR20260905005600072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 4일(현지시간) 국제유가는 중동 지역의 정세 불안이 홍해와 아덴만을 잇는 해상 물류 요충지 바브엘만데브 해협...",
+      "published": "Sat, 5 Sep 2026 05:16:06 +0900",
+      "scraped_at": "2026-09-04T23:34:13.107Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
+      "summary": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&P 500 in the latest quarterly rebalance, S&P Dow Jones Indices said Friday.",
+      "published": "Fri, 04 Sep 2026 21:43:05 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
+      "summary": "The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.",
+      "published": "Fri, 04 Sep 2026 20:14:30 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Acuerdo de Trump con Venezuela inquieta a petroleras de EE.UU.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu",
+      "summary": "El presidente Donald Trump se ha jactado de que su amplio acuerdo petrolero con Venezuela, que en la práctica da a Estados Unidos control sobre gran parte de la riqueza petrolera del país, es posiblemente “el mejor acuerdo jamás firmado”.",
+      "published": "Fri, 04 Sep 2026 20:52:08 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "S&P Downgrades Senegal After Government Unveils Debt Rework",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/s-p-downgrades-senegal-after-government-unveils-debt-rework",
+      "summary": "S&P Global Ratings cut Senegal’s credit score further into junk territory, saying a distressed debt exchange or default on the country’s foreign-currency commercial debt is “extremely likely” after the government launched a plan to restructure its obligations.",
+      "published": "Fri, 04 Sep 2026 20:51:01 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hedge Funds Hike Bullish Oil Bets to May High as Iran War Flares",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/hedge-funds-hike-bullish-oil-bets-to-may-high-as-iran-war-flares",
+      "summary": "Hedge funds turned the most bullish on Brent crude since May as a fresh spate of fighting between the US and Iran heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+      "published": "Fri, 04 Sep 2026 20:38:47 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Lutnick to Review Pentagon Deals Involving Cerberus Companies",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
+      "summary": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a US official.",
+      "published": "Fri, 04 Sep 2026 20:27:13 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Algorithm Research CEO on Interest Rates Expectations",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/algorithm-research-ceo-on-interest-rates-expectations-video",
+      "summary": "Ketaki Sharma, founder and CEO of Algorithm Research, says the inflation is the main factor to watch in assessing the the bond market and the Federal Reserve’s next move. She speaks on \"Horizons: Middle East and Africa.\" (Source: Bloomberg)",
+      "published": "Fri, 04 Sep 2026 20:14:00 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Honey Deuces, Tickets, Merch: US Open Spending",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/honey-deuces-tickets-merch-us-open-spending-video",
+      "summary": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how people are spending their money at the US Open. (Source: Bloomberg)",
+      "published": "Fri, 04 Sep 2026 20:10:22 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Parents Push Teens to Start Investing Earlier Than They Did",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/parents-push-teens-to-start-investing-early-video",
+      "summary": "Bloomberg's Josyana Joshua joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Many parents are opening accounts that let teens learn the basics of investing with their supervision, in hopes of teaching them about investing early. As a result, financial firms have noticed and are rolling out produc",
+      "published": "Fri, 04 Sep 2026 20:03:45 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Heinekin Highlights Nonalcoholic Beer, Serena Williams in US Open Partnership",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-04/heinekin-highlights-nonalcoholic-beer-during-us-open-video",
+      "summary": "Maggie Timoney, CEO of Heinekin USA, said Heinekin's 0.0 nonalcoholic beer has seen success because consumers are looking to moderate their alcohol consumption, even if they're not looking to cut it out entirely. Timoney said that the beverage company wanted to honor the history of the US Open and t",
+      "published": "Fri, 04 Sep 2026 20:03:03 GMT",
+      "scraped_at": "2026-09-04T23:34:14.094Z"
+    },
     {
       "source_id": "bloomberg",
       "source_name": "Bloomberg",
@@ -15000,376 +15270,6 @@
       "summary": "This week, Chrystia Freeland talks with the former finance ministers of the Netherlands and Germany about what it takes to bring spending under control. And, are US deficits now a bigger driver of interest rates than inflation? Plus, as Fed Chair Kevin Warsh makes his debut at the Jackson Hole Econo",
       "published": "Fri, 28 Aug 2026 23:12:33 GMT",
       "scraped_at": "2026-08-29T04:50:05.283Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "주유소 기름값 15주째 하락…휘발유 L당 1861.3원",
-      "url": "https://www.hankyung.com/article/2026082905457",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 07:42:30 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"中 장기밀매 조직 있다더라\" 괴담까지…제주 '초유의 사태' [이슈+]",
-      "url": "https://www.hankyung.com/article/202608289722H",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 07:30:35 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "워시의 매파 발언, 채권 시장은 즉각 반응…베선트의 숨은 적은 캐나다? [월가 백브리핑]",
-      "url": "https://www.hankyung.com/article/202608290495i",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 06:30:29 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "1800조원은 어느 기업으로?…AI 데이터센터의 기업지도 [박신영의 월가 아나토미]",
-      "url": "https://www.hankyung.com/article/202608290490i",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 06:20:50 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "새벽부터 백화점 앞에 '바글바글'…'제2의 두쫀쿠' 뭐길래",
-      "url": "https://www.hankyung.com/article/2026082801581",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 06:00:05 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"왜 하필 중국\" 퇴직금 올인한 직장인…10년 후 '대박' 터졌다 [권용훈의 직업불만족(族)]",
-      "url": "https://www.hankyung.com/article/202608215539i",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 06:00:01 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "머스크 \"스페이스X 연간 매출 4800조원 된다\"[박신영의 개장전 요것만]",
-      "url": "https://www.hankyung.com/article/202608290471i",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 05:58:18 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "굴즈비 시카고연은 총재 \"美 국채금리 높지 않다\"",
-      "url": "https://www.hankyung.com/article/2026082904451",
-      "summary": "",
-      "published": "Sat, 29 Aug 2026 05:06:48 +0900",
-      "scraped_at": "2026-08-28T23:17:56.159Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "美 ‘전술핵 확대’ 핵전략 개편 움직임에…주한미군 전술핵 재배치 주장 다시 불붙나",
-      "url": "https://www.mk.co.kr/news/politics/12120894",
-      "summary": "美, 고위력 전략핵→저위력 전술핵 가능성 중·러 견제用 감안땐 한·일 재배치 관측도 비핵화 강조 韓, 美와 구체협의 개연성 낮아미국 NBC방송이 지난 5일(현지시간) ‘미 전쟁부가..",
-      "published": "Fri, 07 Aug 2026 14:48:34 +09:00",
-      "scraped_at": "2026-08-28T23:17:57.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[머니플로우] 조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입",
-      "url": "https://www.yna.co.kr/view/AKR20260828135800008",
-      "summary": "(서울=연합뉴스) 김태종 기자 = 국내 증시가 조정을 이어가면서 '파킹형' ETF(상장지수펀드)와 커버드콜로 자금이 몰리고 있다.",
-      "published": "Sat, 29 Aug 2026 08:00:11 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"이사람 공정위 직원이야\"…연기자 고용해 사기행각 자매 중형",
-      "url": "https://www.yna.co.kr/view/AKR20260828175400004",
-      "summary": "(서울=연합뉴스) 이영섭 기자 = 공정거래위원회 직원 행세를 할 연기자를 고용해가면서 지인들을 속여 거액을 가로챈 자매에게 중형이 선고됐다.",
-      "published": "Sat, 29 Aug 2026 08:00:01 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주유소 기름값 15주째 하락…휘발유·경유 1천800원대 유지",
-      "url": "https://www.yna.co.kr/view/AKR20260828142200003",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 15주 연속 하락세를 이어갔다.",
-      "published": "Sat, 29 Aug 2026 07:01:00 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "동남권 양성자 치료센터 밑그림 완성…\"암 치료 격차 해소\"",
-      "url": "https://www.yna.co.kr/view/AKR20260828074800051",
-      "summary": "(부산=연합뉴스) 손형주 기자 = 수도권과 지역의 암 치료 의료 격차를 획기적으로 줄여 줄 것으로 기대를 모으는 부산 기장군 동남권원자력의학원의...",
-      "published": "Sat, 29 Aug 2026 07:00:09 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[신상잇슈] 빙그레 '식후관리 워터'·오뚜기 '열찐만두'",
-      "url": "https://www.yna.co.kr/view/AKR20260828073100030",
-      "summary": "▲ 빙그레[005180]는 혈당 관련 기능성 원료인 바나나잎 추출물을 함유한 '식후관리 워터'를 출시했다.",
-      "published": "Sat, 29 Aug 2026 07:00:07 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[해수분해] 20년 지나도 반복되는 '염전 노예'…어업인 누가 지키나",
-      "url": "https://www.yna.co.kr/view/AKR20260828095400051",
-      "summary": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
-      "published": "Sat, 29 Aug 2026 07:00:05 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[금주핫템] 뉴발란스 '880R'·AGE20'S '클라우드 컴포트 파우더 팩트'",
-      "url": "https://www.yna.co.kr/view/AKR20260828135100030",
-      "summary": "▲ 이랜드월드가 운영하는 스포츠 브랜드 뉴발란스는 1980년대 러닝화 디자인을 현대적으로 재해석한 클래식 스니커즈 '880R'을 출시했다고 29...",
-      "published": "Sat, 29 Aug 2026 07:00:02 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[부동산캘린더] 내주 인천 시티오씨엘9단지오션파크뷰 등 3천713가구 분양",
-      "url": "https://www.yna.co.kr/view/AKR20260828132100003",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 내주 전국에서 3천700여가구가 분양을 시작한다.",
-      "published": "Sat, 29 Aug 2026 06:00:02 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "아들 두 명 허위취업·횡령 방조한 경찰간부…법원 \"강등 정당\"",
-      "url": "https://www.yna.co.kr/view/AKR20260828173300004",
-      "summary": "(서울=연합뉴스) 김빛나 기자 = 아들 두 명을 지인 회사에 각각 허위로 취업시키고 횡령을 방조한 경찰 간부의 강등 처분은 적법하다는 법원 판단...",
-      "published": "Sat, 29 Aug 2026 05:55:00 +0900",
-      "scraped_at": "2026-08-28T23:17:59.502Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Former FDIC Chair Sheila Bair on Inflation, Regulatory Landscape",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/sheila-bair-on-inflation-regulatory-landscape-video",
-      "summary": "Former FDIC Chair Sheila Bair discusses inflation and the regulatory landscape in an interview with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 28 Aug 2026 23:02:46 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "India’s Mazumdar-Shaw Is On A Mission to Save Lives",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/mazumdar-shaw-s-mission-to-expand-access-to-medicines-video",
-      "summary": "Known as India’s ‘Queen of Biotech’, Kiran Mazumdar-Shaw built Biocon from a rented garage almost 50 years ago. Today, her multibillion-dollar company is one of the world’s biggest producers of insulin, and a leading force in biosimilars. \nAs she looks at handing over her life’s work to successors, ",
-      "published": "Fri, 21 Aug 2026 00:06:00 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "IMF's Georgieva on Warsh's Speech, 'Stubborn' Inflation",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/imf-s-georgieva-on-warsh-s-speech-stubborn-inflation-video",
-      "summary": "IMF Managing Director Kristalina Georgieva says Federal Reserve Chairman Kevin Warsh \"did a great job\" in his Jackson Hole speech. Speaking with Bloomberg's Lisa Abramowicz on \"Bloomberg The Close.\" Georgieva also discusses recent inflation pressures and whether they reflect central bank failure or ",
-      "published": "Fri, 28 Aug 2026 21:32:33 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Iran War Hits 6 Month Mark",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/iran-war-hits-6-month-mark-video",
-      "summary": "Bloomberg Businessweek looks back on the past six months of the US war with Iran, including how President Trump's timeline for the conflict has shifted as talks with Tehran remain mostly stalled. Bloomberg News White House and National Security Editor Michelle Jamrisko discusses how the war has evol",
-      "published": "Fri, 28 Aug 2026 21:23:26 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal",
-      "summary": "Colombia’s richest family is nearing a Venezuela oil deal in conjunction with GeoPark Ltd, a Bogota-based oil company in which it is the largest shareholder with a 28% stake, according to people familiar with the matter who asked for anonymity discussing confidential plans.",
-      "published": "Fri, 28 Aug 2026 21:19:42 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tariffs Could Bring Canada Auto \"To Its Knees\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/tariffs-could-bring-canada-auto-to-its-knees-video",
-      "summary": "President Trump vowed this week to hike tariffs on Canadian cars, trucks, automotive parts, and steel to 50% at the start of next year as part of an ongoing trade war threat with the country. Linda Hasenfratz, Executive Chair of Linamar, says that after decades of free trade in automotives between h",
-      "published": "Fri, 28 Aug 2026 21:17:55 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Odd Lots: What’s Behind the Classic Jackson Hole Photo Op?",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
-      "summary": "For years, the Fed chair would give an address in Jackson Hole, Wyoming, and Wall Street and news organizations wouldn't have a recent photo of the chair to accompany stories. In steps Bloomberg's own Mike McKee. Tracy Alloway, Joe Weisenthal and Tom Keene learn the origin of the now traditional \"Fe",
-      "published": "Fri, 28 Aug 2026 21:10:16 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Yen Passes 160 Per Dollar to Hit Weakest Level in a Month",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/yen-weakens-past-160-per-dollar-eroding-intervention-gain",
-      "summary": "The yen moved past 160 per US dollar to its weakest level in a month, extending a slide that’s erased more than half of its intervention-fueled gains.",
-      "published": "Fri, 28 Aug 2026 15:54:43 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Por qué EE.UU. está detrás de una parte del petróleo de Venezuela",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/por-que-ee-uu-esta-detras-de-una-parte-del-petroleo-de-venezuela",
-      "summary": "Aunque Venezuela ya no es la gran potencia petrolera que fue en el pasado, el país cuenta con algunas de las mayores reservas de petróleo del mundo. Desde que Estados Unidos destituyó al entonces presidente venezolano Nicolás Maduro el 3 de enero, ha restablecido las relaciones diplomáticas y está c",
-      "published": "Fri, 28 Aug 2026 21:11:04 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The Science Behind The Markets | Masters in Business with David Booth",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/masters-in-business-with-david-booth-video",
-      "summary": "Barry speaks with David Booth, founder and chairman at Dimensional Fund Advisors and author of Stay Calm. They discuss his time at the University of Chicago Booth School of Business where he was the research assistant to American economist and Nobel Laureate Eugene Fama, before leaving to start Dime",
-      "published": "Fri, 28 Aug 2026 21:00:16 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Threat of a Fed Rate Hike Is Changing the Leadership in Markets, Slimmon Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/threat-of-rate-hike-is-changing-markets-slimmon-says-video",
-      "summary": "Andrew Slimmon, managing director and head of applied equity advisors at Morgan Stanley, says he's happy with what Federal Reserve Chair Kevin Warsh said during his speech at Jackson Hole and he remains consistent. Slimmon says the threat of an interest rate hike is causing a change in leadership in",
-      "published": "Fri, 28 Aug 2026 20:40:33 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Funds Add Bullish Gasoline Bets at Fastest Pace in Six Months",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/funds-add-bullish-gasoline-bets-at-fastest-pace-in-six-months",
-      "summary": "Hedge funds boosted their bullish wagers on US gasoline by the most since the US-Iran war began, Commodity Futures Trading Commission data showed.",
-      "published": "Fri, 28 Aug 2026 20:33:46 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Mexico Sells Samurai Bond for First Time in Two Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/mexico-sells-samurai-bond-for-first-time-in-two-years",
-      "summary": "Mexico returned to the Samurai bond market for the first time in two years on Friday, raising ¥282.8 billion ($1.77 billion) amid a rush of issuance as borrowers seek to lock in funding before Japanese interest rates potentially climb further.",
-      "published": "Fri, 28 Aug 2026 03:19:07 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Stocks Close Lower After Warsh Speech | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/us-stocks-close-lower-after-warsh-speech-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Lisa Mateo and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Fri, 28 Aug 2026 20:24:08 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Americans Feel Guilty About Spending Money on Fun",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/americans-feel-guilty-about-spending-money-on-fun-video",
-      "summary": "Bloomberg's  Zijia Song joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Almost three-quarters of US adults feel guilty when they spend on things that bring them joy instead of putting the money toward their financial goals. (Source: Bloomberg)",
-      "published": "Fri, 28 Aug 2026 20:02:20 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh Is Driving the Bond Market, Whether He Wants to or Not",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-is-driving-treasuries-market-whether-he-wants-to-or-not",
-      "summary": "Federal Reserve Chairman Kevin Warsh has signaled that he wants bond investors to react to underlying changes in the US economy rather than commentary from the central bank. So far, they’re doing the opposite.",
-      "published": "Fri, 28 Aug 2026 16:11:55 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "People Without Kids Now Utilize 529 Accounts",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/people-without-kids-now-utilize-529-accounts-video",
-      "summary": "Bloomberg's Sarah Foster joins Scarlet Fu on \"Bloomberg Money.\" In 2022 Congress tweaked the rules covering 529 plans. Now, people without kids are now able to pour money into those accounts after hitting the annual limits for contributing to their retirement plans — treating the 529 as a backdoor f",
-      "published": "Fri, 28 Aug 2026 19:58:21 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Employers Abandon Group Insurance as Price Hikes Bite",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/employers-abandon-group-insurance-as-price-hikes-bite-video",
-      "summary": "Bloomberg's Taylor Nicole Rogers joins Scarlet Fu on \"Bloomberg Money.\" As US employers brace for the largest price hikes on employee health plans in 15 years, a growing number are opting out of group insurance altogether. Instead of providing medical benefits directly, more than 20,000 companies en",
-      "published": "Fri, 28 Aug 2026 19:52:45 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "47% Saw Real Wages Decline Due To Inflation: Richardson",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/47-saw-real-wages-decline-due-to-inflation-richardson-video",
-      "summary": "Nela Richardson, chief economist & ESG officer with ADP and Bloomberg contributor, joins Scarlet Fu on \"Bloomberg Money.\" They discuss how all parts of the economy are getting more expensive and how Americans are handling rising prices.  (Source: Bloomberg)",
-      "published": "Fri, 28 Aug 2026 19:48:46 GMT",
-      "scraped_at": "2026-08-28T23:17:59.750Z"
     }
   ]
 }
