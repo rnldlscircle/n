@@ -1,6 +1,256 @@
 {
-  "updated_at": "2026-09-09T18:56:17.307Z",
+  "updated_at": "2026-09-09T22:06:23.560Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "中 BYD보다 800만원 싸다…현대차 '아이오닉3' 유럽 출격",
+      "url": "https://www.hankyung.com/article/202609094271g",
+      "summary": "",
+      "published": "Thu, 10 Sep 2026 06:05:00 +0900",
+      "scraped_at": "2026-09-09T22:06:18.088Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "끊이지 않는 설계공모 '로비' 논란…징계받고도 심사위원으로",
+      "url": "https://www.yna.co.kr/view/AKR20260909159700003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 세금으로 짓는 학교와 체육관, 공공청사 등의 설계자를 뽑는 공공건축 설계공모를 둘러싸고 심사위원 사전접촉 등 ...",
+      "published": "Thu, 10 Sep 2026 06:03:00 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "검역본부, 아태 12개국 참여 동물질병 진단·항생제 내성 워크숍",
+      "url": "https://www.yna.co.kr/view/AKR20260909128800030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농림축산검역본부는 아시아·태평양 지역 12개 국가 실무자가 참여하는 '세계동물보건기구(WOAH) 표준실험실 동...",
+      "published": "Thu, 10 Sep 2026 06:00:09 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[게시판] 농식품부, 동물복지기본법 제정 토론회 내일 개최",
+      "url": "https://www.yna.co.kr/view/AKR20260909118800030",
+      "summary": "▲ 농림축산식품부는 오는 11일 국회 의원회관에서 동물복지기본법 제정을 위한 전문가 토론회를 개최한다고 10일 밝혔다. 토론회는 제정안에 대한 ...",
+      "published": "Thu, 10 Sep 2026 06:00:08 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"국내 생산·청년 고용 늘리려면 세제지원 실효성 높여야\"",
+      "url": "https://www.yna.co.kr/view/AKR20260909142700003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 경제계가 정부의 8·3 세제개편안에 대해 국내생산세액공제 지원 대상을 확대하고, 대기업을 통합고용세액공제 대상...",
+      "published": "Thu, 10 Sep 2026 06:00:05 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "2분기 증시 '불장'에…증권사 순이익 5조 돌파, 또 역대 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260909180200002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 국내 증권사들이 2분기 순이익 5조원을 돌파하며 지난 1분기에 이어 또 역대 최대 실적을 기록했다.",
+      "published": "Thu, 10 Sep 2026 06:00:01 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "토큰증권 시행 앞두고 '상품 부족' 풀릴까…與 법안 주목",
+      "url": "https://www.yna.co.kr/view/AKR20260909177000002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 야당에 이어 여당도 토큰증권(STO)으로 발행할 수 있는 기초자산 범위를 확대하는 내용의 법 개정을 추진해 주...",
+      "published": "Thu, 10 Sep 2026 05:57:00 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"전세난·집값 불안\" 서울 생애최초 주택 구입 비중 역대 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260909170300003",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 지난달 등기를 마친 서울지역 집합건물 가운데 생애최초 주택 매수자 비중이 54%에 육박하며 2010년 조사 이...",
+      "published": "Thu, 10 Sep 2026 05:55:01 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
+      "url": "https://www.yna.co.kr/view/AKR20260909186300002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 보험 분쟁 민원이 급증하자 금융당국이 보험사 분쟁 처리 실태 현장 점검에 나섰다.",
+      "published": "Thu, 10 Sep 2026 05:55:01 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "2030대 8명 중 1명 \"주식·채권으로 노후준비\"…14년새 5배로↑",
+      "url": "https://www.yna.co.kr/view/AKR20260909155100002",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 노후 준비 방법으로 주식·채권 등 금융자산을 선택하는 20·30대 비율이 크게 늘어난 것으로 조사됐다.",
+      "published": "Thu, 10 Sep 2026 05:53:01 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"사업자대출 받아 부동산 매매\"…용도 외 유용 5년여간 1천167건",
+      "url": "https://www.yna.co.kr/view/AKR20260909181800002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 지난 2021년 이후 사업자 대출을 부동산 매매 등 용도 외로 사용하다 금융당국에 적발된 건수가 1천건이 넘은...",
+      "published": "Thu, 10 Sep 2026 05:51:01 +0900",
+      "scraped_at": "2026-09-09T22:06:21.914Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Reflecting on 25 Years Since 9/11 Attacks",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/reflecting-on-25-years-since-9-11-attacks-video",
+      "summary": "Mark Jacobson, International Spy Museum Historian and retired US Navy Intelligence Officer, shares his experience being inside the Pentagon on September 11, 2001. He recalls being near the point of impact, and the difficulties in getting in touch with his family to let them know he had survived. Jac",
+      "published": "Wed, 09 Sep 2026 21:10:21 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Boom eléctrico de Brasil atrae a Trafigura y Macquarie",
+      "url": "https://www.bloomberg.com/news/features/2026-09-09/boom-electrico-de-brasil-atrae-a-trafigura-y-macquarie",
+      "summary": "Trafigura y Macquarie, grandes empresas de los commodities, buscan sacar provecho del aumento de la volatilidad de los precios.",
+      "published": "Wed, 09 Sep 2026 21:00:43 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Houston, London Challenged by Volatile Brazil Power Market on Trader Pay",
+      "url": "https://www.bloomberg.com/news/features/2026-09-09/houston-london-challenged-by-volatile-brazil-power-market-on-trader-pay",
+      "summary": "Commodity powerhouses Trafigura and Macquarie are seeking to profit from a surge in price volatility.",
+      "published": "Wed, 09 Sep 2026 21:00:01 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Australian Property Stocks Vulnerable Following Bathla Collapse",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/australian-property-stocks-vulnerable-following-bathla-collapse",
+      "summary": "Australia’s property stocks are trailing global peers by the most in 16 years, and analysts worry it may get worse as the prospect of more rate hikes and the unraveling of a suburban developer intensify scrutiny in the sector.",
+      "published": "Wed, 09 Sep 2026 21:00:00 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Enbridge to Buy Tallgrass Crude Business for $2.6 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/canada-s-enbridge-to-buy-tallgrass-oil-business-for-2-6-billion",
+      "summary": "Enbridge Inc., the Canadian energy infrastructure giant, reached an agreement to buy Tallgrass Energy’s crude oil business from Blackstone Inc. for about $2.6 billion.",
+      "published": "Wed, 09 Sep 2026 20:42:19 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Anti-AI Politics Is About to Get Big",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/anti-ai-politics-is-about-to-get-big",
+      "summary": "AI fears and climate change worries aren’t so different.",
+      "published": "Wed, 09 Sep 2026 20:50:36 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Xerox Shareholder Pushes for Activist Changes at Company",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/xerox-shareholder-pushes-for-activist-changes-at-company-video",
+      "summary": "Bloomberg's Mengqi Sun joins Scarlet Fu on \"Bloomberg Deals.\" A significant shareholder in Xerox is pushing the company to take action to unlock shareholder value and is asking for a strategic review of its financial services business. (Source: Bloomberg)",
+      "published": "Wed, 09 Sep 2026 19:18:51 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Husband & Wife Explore Sale of $37B Credit Firm",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/husband-wife-explore-sale-of-37b-credit-firm-video",
+      "summary": "Bloomberg's Matt Monks joins Scarlet Fu on \"Bloomberg Deals.\" Palmer Square Capital Management is a $37 billion credit firm run by the husband-wife duo Chris and Angie Long. And the couple is exploring a sale of the business. Under their leadership, the firm has grown to become one of the biggest is",
+      "published": "Wed, 09 Sep 2026 20:04:13 GMT",
+      "scraped_at": "2026-09-09T22:06:22.327Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Can Create Massive Opportunities For All Of Us: Shah",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/ai-can-create-massive-opportunities-for-all-of-us-shah-video",
+      "summary": "Ajay Shah, chairman of global technology investment banking at Deutsche Bank Securities, joins Scarlet Fu on \"Bloomberg Deals.\" An AI researcher has resigned from Anthropic and called on other staffers to rethink their work, citing his concern that the company and its top competitor OpenAI are actin",
+      "published": "Wed, 09 Sep 2026 20:13:41 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Signet Jewelers CEO on 2Q Results & Trends To Watch",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/signet-jewelers-ceo-on-2q-results-trends-to-watch-video",
+      "summary": "J.K. Symancyk, CEO of Signet Jewelers, said the company feels confident after raising guidance for a second time this year, pointing to solid fundamentals, five positive comparable-sales quarters in the last six, and momentum heading into the important fourth quarter. He said Wall Street had expecte",
+      "published": "Wed, 09 Sep 2026 20:09:26 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "HOF Consortium Completes Purchase of Bugatti",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/hof-consortium-completes-purchase-of-bugatti-video",
+      "summary": "Hisham Elhaddad, co-founder and managing partner of HOF Capital, joins Scarlet Fu on \"Bloomberg Deals.\" Porsche said it will generate about €1 billion ($1.16 billion) from the sale of its stake in the venture that owns the Bugatti supercar brand. Under the transaction, Porsche fully divested its equ",
+      "published": "Wed, 09 Sep 2026 19:53:01 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SpaceX IPO Paved The Way For Anthropic: Kennedy",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/spacex-ipo-paved-the-way-for-anthropic-kennedy-video",
+      "summary": "Lise Buyer, partner and founder at Class V Group, Ajay Shah, chairman of global technology investment banking at Deutsche Bank Securities, and Matt Kennedy, senior strategist at Renaissance Capital, joins Scarlet Fu on \"Bloomberg Deals.\" Anthropic is set to finalize an expansion of its revolving cre",
+      "published": "Wed, 09 Sep 2026 19:42:13 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Canada’s Enbridge Said to Near Deal for Major US Oil Pipeline",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/canada-s-enbridge-said-to-near-deal-for-major-us-oil-pipeline",
+      "summary": "Enbridge Inc., the Canadian energy infrastructure giant, is in advanced talks to buy a major crude oil pipeline in the US from Blackstone Inc.’s Tallgrass Energy for about $2 billion, according to people familiar with the matter.",
+      "published": "Wed, 09 Sep 2026 19:20:24 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "GE to Buy Consolidated Precision Products for $11.75B",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-09/ge-to-buy-consolidated-precision-products-for-11-75b-video",
+      "summary": "Bloomberg's Kiel Porter joins Scarlet Fu on \"Bloomberg Deals.\" GE Aerospace agreed to buy castings manufacturer Consolidated Precision Products from Warburg Pincus and Berkshire Partners for $11.75 billion, a deal that will significantly expand the jet-engine manufacturer’s capacity for the critical",
+      "published": "Wed, 09 Sep 2026 19:15:41 GMT",
+      "scraped_at": "2026-09-09T22:06:22.328Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -15250,196 +15500,6 @@
       "summary": "Coinbase Global Inc. is adding Anthony Armstrong, an Elon Musk ally and former Morgan Stanley banker, to its board of directors.",
       "published": "Wed, 02 Sep 2026 20:10:00 GMT",
       "scraped_at": "2026-09-02T23:41:03.486Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 김여정 “우크라전 추가 파병 사실무근…북러동맹 의무는 다할것”",
-      "url": "https://www.mk.co.kr/news/politics/12131661",
-      "summary": "",
-      "published": "Wed, 19 Aug 2026 22:19:46 +09:00",
-      "scraped_at": "2026-09-02T20:17:40.511Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 北김여정 “북미 지도자 간 소통 전혀 알지 못하는 일”",
-      "url": "https://www.mk.co.kr/news/politics/12131659",
-      "summary": "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 도널드 트럼프 미국 대통령의 한미연합훈련 축소 지시와 관련해 “전혀 흥미를 느끼지 않는다”며 평가절하했다. 트럼프 대통령이..",
-      "published": "Wed, 19 Aug 2026 22:15:04 +09:00",
-      "scraped_at": "2026-09-02T20:17:40.511Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 김여정 “한미연합훈련 축소보다 지속 진행 중인 현실에 더 주목”",
-      "url": "https://www.mk.co.kr/news/politics/12131657",
-      "summary": "",
-      "published": "Wed, 19 Aug 2026 22:12:43 +09:00",
-      "scraped_at": "2026-09-02T20:17:40.511Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 북한 “한국 핵잠 추진하면 생존불가 보복공격으로 응대해야”",
-      "url": "https://www.mk.co.kr/news/politics/12125421",
-      "summary": "북한이 한국의 핵추진 잠수함 건조 계획을 강력하게 비난하며 보복 공격 능력을 갖추겠다고 위협했다. 12일 조선중앙통신에 따르면 장금철 북한 외무성 제1부상 겸 10국 국장은 담화를..",
-      "published": "Wed, 12 Aug 2026 16:17:16 +09:00",
-      "scraped_at": "2026-09-02T20:17:40.511Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국제유가, 미·이란 공방격화에 1%안팎 상승…브렌트유 95달러대",
-      "url": "https://www.yna.co.kr/view/AKR20260903006500072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 2일(현지시간) 미국과 이란 간 군사 공방이 격화하면서 국제유가는 3거래일 연속 상승했다.",
-      "published": "Thu, 3 Sep 2026 05:10:37 +0900",
-      "scraped_at": "2026-09-02T20:17:42.266Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Aurora Cannabis Board Recommends Rejecting Curaleaf Bid",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/aurora-cannabis-board-recommends-rejecting-curaleaf-bid-video",
-      "summary": "Aurora Cannabis CEO Miguel Martin called a takeover bid from cannabis company Curaleaf 'inadequate' and said that it was not in shareholder's best interest after the company's board unanimously rejected the offer. Martin said that he is not against offers on principle and would recommend going with ",
-      "published": "Wed, 02 Sep 2026 20:06:56 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Investments, Record M&A, Angels Sold | Bloomberg Deals 9/2/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/bloomberg-deals-9-2-2026-video",
-      "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: JPMorgan Global Co-Head of Investment Banking Dorothee Blessing, Cascadia Capital Managing Director Consumer & Retail Group Aarti Ka",
-      "published": "Wed, 02 Sep 2026 20:01:37 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Elliott Builds Deutsche Telekom Stake, Opposes T-Mobile Merger",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/elliott-builds-deutsche-telekom-stake-opposes-t-mobile-merger",
-      "summary": "Elliott Investment Management has built a sizeable stake in Deutsche Telekom AG and indicated the German telecommunications giant should ditch a potential merger with its American arm T-Mobile US Inc., people familiar with the matter said.",
-      "published": "Wed, 02 Sep 2026 19:38:24 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Anthropic’s Mega-IPO Plan Looms Over IPO Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/anthropic-s-mega-ipo-plan-looms-over-ipo-market-video",
-      "summary": "Anthropic's IPO is casting a long shadow over companies’ US listing plans, as they try to find room for their deals to grab attention after the Sept. 7 Labor Day holiday. Scarlet Fu reports on Bloomberg Deals. (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 19:21:51 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Will Not Tackle Debt Until Republicans, Democrats Come Together, Says Rep. Arrington",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/gop-dems-must-work-together-on-us-debt-arrington-video",
-      "summary": "House Budget Chairman Jodey Arrington said 'Republicans and Democrats are going to have to come together' on a debt reduction plan to counteract the demographic challenges of increasing Social Security and Medicare beneficiaries. Arrington also discussed the pushback against AI data centers around t",
-      "published": "Wed, 02 Sep 2026 19:14:40 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "MLB's Angels Sold For Record $4B",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/mlb-s-angels-sold-for-record-4b-video",
-      "summary": "Bloomberg's Randall Williams joins Dani Burger and Scarlet Fu on \"Bloomberg Deals.\" Billionaire Stan Kroenke is expanding his sports empire with the addition of the Los Angeles Angels. Kroenke Sports & Entertainment bought a controlling stake with a valuation at $4B. (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 19:13:07 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "KKR Scores Windfall in $17B Sale of USI Insurance",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/kkr-scores-windfall-in-17b-sale-of-usi-insurance-video",
-      "summary": "Bloomberg's Allison McNeely joins Dani Burger on \"Bloomberg Deals.\" KKR is set to reap a $3.3 billion windfall from its deal to sell USI Insurance Services to Aonfor $17 billion, a significant exit for a unit that’s invested its balance sheet in long-term private equity bets. (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 19:09:29 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Lilly to Buy Merida for $2.88B in Autoimmune Push",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/lilly-to-buy-merida-for-2-88b-in-autoimmune-push-video",
-      "summary": "Bloomberg's Michelle Davis joins Dani Burger on \"Bloomberg Deals.\" Eli Lilly plans to buy Merida Biosciences Inc. for as much as $2.88 billion in cash to expand in autoimmune and allergic diseases, part of an effort to build beyond the weight-loss and diabetes markets that made it the largest pharma",
-      "published": "Wed, 02 Sep 2026 18:59:40 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "JPMorgan’s Blessing Sees Dealmaking on Track for Record Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/jpmorgan-s-blessing-sees-dealmaking-on-track-for-record-year",
-      "summary": "A surge of mergers and public offerings in the final months of 2026 could push dealmaking volumes to a new high, despite growing concerns over the economy, according to Dorothee Blessing, co-head of global investment banking at JPMorgan Chase & Co.",
-      "published": "Wed, 02 Sep 2026 18:54:45 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "S&P Weighs Multibillion-Dollar Spinout of Data Unit CapIQ",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/s-p-weighs-multibillion-dollar-spinout-of-capiq-video",
-      "summary": "Bloomberg's Liana Baker joins Dani Burger on \"Bloomberg Deals.\"  S&P Global is considering spinning out its flagship data and research platform Capital IQ Pro, in a move that could create a standalone firm worth billions of dollars.\n (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 18:54:31 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pets, Health & Wellness Seen As Top Consumer Investments",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/pets-health-wellness-seen-as-top-consumer-investments-video",
-      "summary": "Aarti Kapoor, managing director, consumer & retail group at Cascadia Capital, and Maria Watts, head of global consumer investment banking and head of global financial sponsors group at Baird, join Dani Burger on \"Bloomberg Deals.\"\n (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 18:33:21 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "2026 Could Set M&A Record: JPMorgan's Blessing",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/2026-could-set-m-a-record-jpmorgan-s-blessing-video",
-      "summary": "Dorothee Blessing, global co-head of investment banking at JPMorgan, joins Dani Burger on \"Bloomberg Deals.\" They discuss the factors driving the record pace of global dealmaking in 2026. (Source: Bloomberg)",
-      "published": "Wed, 02 Sep 2026 18:25:52 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Two Sigma’s Overdeck Says Control of Firm a Concern in Divorce",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/two-sigma-s-overdeck-says-control-of-firm-a-concern-in-divorce",
-      "summary": "Two Sigma Investments co-founder John Overdeck testified in his divorce trial that maintaining equal control of the quantitative hedge fund with co-founder David Siegel is a “principal concern” for him in any division of marital assets.",
-      "published": "Wed, 02 Sep 2026 18:09:52 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wright & Wirth on Venezuela Oil Push | Open Interest 9/2/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-02/open-interest-9-2-2026-video",
-      "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" It’s all about oil. An escalation in US-Iran hostilities over the Strait of Hormuz puts energy markets on edge and raises fears of a return to all-out war. US Energy Secretary Chris Wright and Chevron CEO Mike Wirt",
-      "published": "Wed, 02 Sep 2026 18:06:22 GMT",
-      "scraped_at": "2026-09-02T20:17:42.554Z"
     }
   ]
 }
