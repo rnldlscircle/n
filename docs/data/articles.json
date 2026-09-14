@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-09-14T16:03:32.247Z",
+  "updated_at": "2026-09-14T21:11:22.985Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"자율주행 최강자\"라더니…국내 테슬라 80%는 '그림의 떡' [이슈+]",
+      "url": "https://www.hankyung.com/article/202609142445g",
+      "summary": "",
+      "published": "Tue, 15 Sep 2026 06:00:17 +0900",
+      "scraped_at": "2026-09-14T21:11:15.523Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "누가 뭐래도 '윤아·아이유·전지현'…광고주가 못놓는 이유 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202609143529i",
+      "summary": "",
+      "published": "Tue, 15 Sep 2026 06:00:09 +0900",
+      "scraped_at": "2026-09-14T21:11:15.523Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "김정은 “중요한 계획 실행중, 8개월 후 증명할것”…핵추진잠수함 건조 현실화?",
+      "url": "https://www.mk.co.kr/news/politics/12146521",
+      "summary": "신형 5천t급 구축함 강건호 취역식서 발언북한의 신형 5000t급 구축함 ‘강건호’ 취역식에서 김정은 국무위원장이 던진 ‘8개월 뒤’라는 시점에 관심이 쏠리고 있다. 강건호의 실전..",
+      "published": "Mon, 07 Sep 2026 19:04:03 +09:00",
+      "scraped_at": "2026-09-14T21:11:18.220Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "강화 주문도 해상서 발견된 남아 시신…해경, ‘北 주민’ 추정 이유는?",
+      "url": "https://www.mk.co.kr/news/politics/12140077",
+      "summary": "해경 “장기서 발견된 기생충, 국내서 발견 희박”한 달 전 인천 강화군 주문도 해상에서 발견된 남자 아이 시신이 북한 주민일 가능성이 높은 것으로 파악됐다. 31일 인천해양경찰서에..",
+      "published": "Mon, 31 Aug 2026 09:07:31 +09:00",
+      "scraped_at": "2026-09-14T21:11:18.220Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울시, 9월분 재산세 4조8천억원 확정…30일까지 납부해야",
+      "url": "https://www.yna.co.kr/view/AKR20260914152400004",
+      "summary": "(서울=연합뉴스) 유한주 기자 = 서울시는 토지·주택 소유자에게 부과하는 9월분 재산세 4조8천36억원을 확정하고 고지서 총 443만 건을 발송...",
+      "published": "Tue, 15 Sep 2026 06:00:10 +0900",
+      "scraped_at": "2026-09-14T21:11:19.707Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금융위 \"생산적금융 면책 방안도 추가 마련할 것…내재화 중요\"",
+      "url": "https://www.yna.co.kr/view/AKR20260914150000002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 15일 국민성장펀드에 참여하는 금융기관의 투·융자 면책에 이어 생산적 금융 면책방안도 추가로 마련...",
+      "published": "Tue, 15 Sep 2026 06:00:06 +0900",
+      "scraped_at": "2026-09-14T21:11:19.707Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한국잡월드 누적 방문객 1천만명 돌파…기념 이벤트 개최",
+      "url": "https://www.yna.co.kr/view/AKR20260914162400530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부 산하 종합직업체험관 '한국잡월드'는 개관 이후 누적 방문객 1천만명을 돌파했다고 15일 밝혔다.",
+      "published": "Tue, 15 Sep 2026 06:00:05 +0900",
+      "scraped_at": "2026-09-14T21:11:19.707Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "상반기 자동차보험 총손익 37.7%↓…보험손익 6년만 적자전환",
+      "url": "https://www.yna.co.kr/view/AKR20260914162300002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 올해 상반기 자동차보험 보험손익이 6년 만에 적자 전환하면서 총손익이 지난해 같은 기간보다 40% 가까이 감소...",
+      "published": "Tue, 15 Sep 2026 06:00:05 +0900",
+      "scraped_at": "2026-09-14T21:11:19.707Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "재취업지원서비스 우수기업 7곳 선정…최우수상 백송의료재단",
+      "url": "https://www.yna.co.kr/view/AKR20260914163300530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 노사발전재단은 '2026년 재취업지원서비스 우수기업'으로 7곳을 선정했다고 15일 밝혔다.",
+      "published": "Tue, 15 Sep 2026 06:00:04 +0900",
+      "scraped_at": "2026-09-14T21:11:19.707Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "환율 하락에 8월 수출물가 3.7%↓…3년 8개월 만에 최대폭",
+      "url": "https://www.yna.co.kr/view/AKR20260914158700002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 국제 유가 상승에도 원/달러 환율이 크게 내리며 수출물가지수가 3년 8개월 만에 최대 폭 하락했다.",
+      "published": "Tue, 15 Sep 2026 06:00:02 +0900",
+      "scraped_at": "2026-09-14T21:11:19.708Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "네이버·두나무 결합, 지주사 전환 땐 지분규제 상충 가능성",
+      "url": "https://www.yna.co.kr/view/AKR20260914162700002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 네이버파이낸셜이 두나무를 자회사로 편입하고 향후 지주회사 요건을 충족할 경우, 현행 공정거래법과 금융당국이 검...",
+      "published": "Tue, 15 Sep 2026 05:57:00 +0900",
+      "scraped_at": "2026-09-14T21:11:19.708Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "사우디 송유관 폐쇄에 국제유가 상승…브렌트유 105달러대",
+      "url": "https://www.yna.co.kr/view/AKR20260915005800072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 사우디아라비아의 핵심 송유관이 폐쇄되면서 14일(현지시간) 국제유가가 상승했다.",
+      "published": "Tue, 15 Sep 2026 04:57:07 +0900",
+      "scraped_at": "2026-09-14T21:11:19.708Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Boomer Candy Leads To Boomer Cavities: Huszczo",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/boomer-candy-leads-to-boomer-cavities-huszczo-video",
+      "summary": "Sam Huszczo, founder & CIO of SGH Wealth Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss how investors might be getting a bit overconfident amid this bull market. (Source: Bloomberg)",
+      "published": "Mon, 14 Sep 2026 21:07:35 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Sysco Seeks to Raise $1 Billion in Share Sale for Jetro Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/sysco-to-raise-1-billion-in-share-sale-for-jetro-acquisition",
+      "summary": "Sysco Corp. is seeking to raise $1 billion in a share sale to partially fund the food service firm’s $29.1 billion acquisition of Jetro Restaurant Depot LLC.",
+      "published": "Mon, 14 Sep 2026 20:36:27 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Crafting America’s Countertops is Killing Workers",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/crafting-america-s-countertops-is-killing-workers",
+      "summary": "Silicosis is an incurable workplace disease. Countertop fabrication workers around the country who have contracted the illness are suing the artificial stone industry for billions. However, while California weighs a ban on the product, the manufacturers’ defenders in Congress are trying to ban the l",
+      "published": "Mon, 14 Sep 2026 21:00:39 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Tema Rolls 'DICE' On SpaceX, Prediction Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/tema-rolls-dice-on-spacex-prediction-markets-video",
+      "summary": "Paisley Nardini, head of investment strategy at Tema ETFs, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss Tema Trading & Prediction Markets ETF (ticker: DICE) and Tema Space Innovators ETF (ticker: NASA). \n\n (Source: Bloomberg)",
+      "published": "Mon, 14 Sep 2026 20:46:31 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Emerging Markets Slide as Oil, AI Concerns Sap Risk Appetite",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks",
+      "summary": "Emerging-market assets fell at the start of a key week for global markets, as elevated oil prices and concerns over the pace of artificial-intelligence development weighed on currencies and stocks ahead of an expected Federal Reserve interest-rate hike — its first since 2023.",
+      "published": "Mon, 14 Sep 2026 04:26:21 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "BofA, Tallbacken Lift S&P 500 Views, Differ on Rate Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/bofa-s-subramanian-lifts-s-p-500-view-to-7-400-stays-cautious",
+      "summary": "Market watchers might not agree with how interest rates will impact the S&P 500 Index, but they’re still more optimistic about where stocks are headed than they were before.",
+      "published": "Mon, 14 Sep 2026 16:13:28 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Kentucky Derby Operator Taps Loan Market to Refinance Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/kentucky-derby-operator-taps-loan-market-to-refinance-debt",
+      "summary": "Kentucky Derby operator Churchill Downs Inc. is seeking to raise $500 million to refinance existing debt as maturities loom, adding to a rush of firms tapping the market for risky loans.",
+      "published": "Mon, 14 Sep 2026 20:18:13 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street’s Leveraged ETF Push Gets New Twist",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/wall-street-s-leveraged-etf-push-gets-new-twist-video",
+      "summary": "Bloomberg's Isabelle Lee joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" A corner of the ETF market drawing regulatory scrutiny is pushing for still shorter-term speculation. Defiance ETFs has submitted paperwork to the US Securities and Exchange Commission for a series of leveraged funds",
+      "published": "Mon, 14 Sep 2026 20:04:41 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "An ETF That Tracks Employees' 'HAPI'-Ness",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/an-etf-that-tracks-employees-hapi-ness-video",
+      "summary": "David van Adelsberg, founding partner & CEO at Irrational Capital, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Harbor Human Capital Factor US Large Cap ETF (ticker: HAPI), which tracks companies based on the happiness of their employees.  (Source: Bloomberg)",
+      "published": "Mon, 14 Sep 2026 19:40:24 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'Encouraging' to Hear AI Firms Taking Risk Seriously, Says Moynihan",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/encouraging-to-hear-ai-taking-risk-seriously-moynihan-video",
+      "summary": "Bank of America chairman and CEO Brian Moynihan said that it is 'encouraging' to hear that AI firms are taking the responsibility of AI safety seriously as leaders raise the alarm about the pace of innovation and potential ramifications.  Moynihan, talking to Bloomberg's Dani Burger, said that he ex",
+      "published": "Mon, 14 Sep 2026 19:29:36 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Moynihan Says Bank Is Still Strong, Even If Trading Revenue Comes In Flat",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/moynihan-says-bank-is-strong-even-with-flat-trading-video",
+      "summary": "Bank of America Corp. Chief Executive Officer Brian Moynihan said trading revenue will be \"relatively flat\" compared with last year's third quarter. But he says even if that happens, the bank will still have had one of its best third quarters ever. He speaks to Bloomberg's Dani Burger.  (Source: Blo",
+      "published": "Mon, 14 Sep 2026 19:16:19 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Worried About 'Overconfidence' In Markets: Huszczo",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/worried-about-overconfidence-in-markets-huszczo-video",
+      "summary": "Sam Huszczo, founder & CIO of SGH Wealth Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss how investors might be getting a bit overconfident amid this bull market.  (Source: Bloomberg)",
+      "published": "Mon, 14 Sep 2026 19:10:40 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'BWET' ETF Doing Too Well, Scaring Investors: Geraci",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/-bwet-etf-doing-too-well-scaring-investors-geraci-video",
+      "summary": "Nate Geraci, president of NovaDius Wealth Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss ETF M&A, Treasuries, and the performance of the Breakwave Tanker Shipping ETF (ticker: BWET).  (Source: Bloomberg)",
+      "published": "Mon, 14 Sep 2026 19:03:14 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Leveraged ETFs, TLT Flows, Boomer Cavities | ETF IQ 9/14/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-14/etf-iq-9-14-2026-video",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Novadius Wealth Management President Nate Geraci, SGH Wealth Management Founder & CIO Sam Huszczo, Irrational Capital Founder & Par",
+      "published": "Mon, 14 Sep 2026 19:00:11 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Canadian Insurer Sagen Plans to Raise Around C$300 Million",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/canadian-insurer-sagen-plans-to-raise-around-c-300-million",
+      "summary": "Insurance company Sagen MI Canada Inc. is looking to raise around C$300 million ($216 million) through a bond sale as soon as this week, according to people familiar with the matter.",
+      "published": "Mon, 14 Sep 2026 18:36:19 GMT",
+      "scraped_at": "2026-09-14T21:11:20.164Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -15530,136 +15800,6 @@
       "summary": "Government bonds are generally viewed as one of the safest assets to invest in. That’s because it’s considered relatively unlikely that the issuer — a government — will go bankrupt. Among the world’s major government debt markets, Japan’s $7.5 trillion bond market has, for decades, been considered o",
       "published": "Mon, 07 Sep 2026 20:00:00 GMT",
       "scraped_at": "2026-09-07T22:23:26.461Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
-      "url": "https://www.hankyung.com/article/202609078679i",
-      "summary": "",
-      "published": "Mon, 07 Sep 2026 22:30:01 +0900",
-      "scraped_at": "2026-09-07T18:29:48.915Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 北국방상, 한미일 ‘프리덤에지’ 훈련에 반발…“대응조치 취할것”",
-      "url": "https://www.mk.co.kr/news/politics/12146581",
-      "summary": "한미일이 7일부터 정례 다영역 연합훈련인 ‘프리덤 에지’에 돌입하자 북한이 강력한 대응 조치를 예고했다. 조선중앙통신에 따르면 김성기 북한 국방상은 이날 담화를 내고 “미국과 그 ..",
-      "published": "Mon, 07 Sep 2026 23:10:34 +09:00",
-      "scraped_at": "2026-09-07T18:29:49.585Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "北 “美의 적대정책 변함없어…끝까지 최강경 대응”",
-      "url": "https://www.mk.co.kr/news/politics/12140420",
-      "summary": "北외무성 대변인 담화로 대미압박 비핵화·인권·한미일훈련 등 거론 미북대화 재개 전제조건 재확인해북한이 30일 ‘북한 비핵화’ 목표를 유지하고 한미일 연합군사훈련을 지속하겠다는 미국..",
-      "published": "Mon, 31 Aug 2026 15:48:03 +09:00",
-      "scraped_at": "2026-09-07T18:29:49.585Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 북한 “美 변함없는 적대 정책에 끝까지 최강경 대응할 것”",
-      "url": "https://www.mk.co.kr/news/politics/12140320",
-      "summary": "북한은 31일 미국이 대북 적대정책을 고수하고 있다면서 이에 “끝까지 최강경으로 대응하려는 우리의 대미정책에는 추호의 변화도 없다”고 밝혔다. 외무성 대변인은 이날 조선중앙통신을 ..",
-      "published": "Mon, 31 Aug 2026 14:13:47 +09:00",
-      "scraped_at": "2026-09-07T18:29:49.585Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
-      "url": "https://www.yna.co.kr/view/AKR20260908001000071",
-      "summary": "(워싱턴=연합뉴스) 박성민 특파원 = 미국 휘발유 가격이 역대 노동절 집계분 가운데 사상 최고치를 기록했다.",
-      "published": "Tue, 8 Sep 2026 02:13:03 +0900",
-      "scraped_at": "2026-09-07T18:29:50.846Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Copper Hits All-Time High Amid Tariff Turmoil, Mine Struggles",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/copper-surges-to-all-time-high-as-tariff-turmoil-rocks-market",
-      "summary": "Copper surged to its highest-ever price on the London Metal Exchange after a weeks-long rally fueled by anticipation that President Donald Trump will expand US tariffs to imports of refined metal.",
-      "published": "Mon, 07 Sep 2026 15:08:36 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "High Expectations Leave Stocks Vulnerable: Noviskis",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-07/high-expectations-leave-stocks-vulnerable-noviskis-video",
-      "summary": "Jessica Noviskis, OCIO portfolio strategist at Marquette Associates, says strong earnings continue to support US stocks, but elevated expectations and higher yields leave the market vulnerable if results disappoint. “When we do see those hiccups, we can see a bigger correction,” she says on “Bloombe",
-      "published": "Mon, 07 Sep 2026 16:43:47 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "EM Stocks Jump to Highest Since June as Tech Offsets Higher Oil",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/em-stocks-jump-to-2-month-high-as-tech-rally-offsets-higher-oil",
-      "summary": "An index tracking emerging-market equities rallied at the start of the week — reaching its highest level in more than two months — as optimism over new AI models helped counter the drag from increased oil prices.",
-      "published": "Mon, 07 Sep 2026 03:44:49 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "France Champagne Output Set to Halve on Heat Waves and Drought",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/france-champagne-output-set-to-halve-on-heat-waves-and-drought",
-      "summary": "France’s Champagne output is set to fall by almost half from 2025 as extreme weather batters yields.",
-      "published": "Mon, 07 Sep 2026 16:21:01 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dangote Courts Retail Investors With $4 Entry to Record IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/dangote-turns-to-fintechs-to-make-ipo-for-the-people-a-reality",
-      "summary": "Billionaire Aliko Dangote has opened up ownership of his Nigerian refinery to ordinary Africans for as little as $4 apiece, calling it an initial public offering “for the people.”",
-      "published": "Mon, 07 Sep 2026 15:59:38 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "European Stocks Muted as Oil Prices Climb and Novartis Falls",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/european-stocks-muted-as-oil-creeps-higher-novartis-falls",
-      "summary": "European stocks were weighed down Monday by higher oil prices and a drop in Novartis AG following the failure of a heart drug.",
-      "published": "Mon, 07 Sep 2026 07:24:05 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Cerba Bank Debt for Sale as $5.8 Billion Restructuring Progresses",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/cerba-bank-debt-for-sale-as-5-billion-restructuring-progresses",
-      "summary": "A slice of Cerba Healthcare’s revolving credit facility is said to be up for sale as the EQT AB-backed private laboratories company moves toward court-supervised restructuring proceedings to tackle its €5 billion ($5.8 billion) debt pile.",
-      "published": "Mon, 07 Sep 2026 15:41:06 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Deutsche Bank’s Allen Says Traders Are Wrong on Rates or Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/deutsche-bank-s-allen-says-traders-are-wrong-on-rates-or-prices",
-      "summary": "Investors are underestimating the scale of rate hikes needed to tackle inflation given upward pressure on prices, according to Deutsche Bank AG strategist Henry Allen.",
-      "published": "Mon, 07 Sep 2026 14:01:57 GMT",
-      "scraped_at": "2026-09-07T18:29:51.251Z"
     }
   ]
 }
