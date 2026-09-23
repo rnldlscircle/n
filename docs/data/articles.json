@@ -1,6 +1,326 @@
 {
-  "updated_at": "2026-09-23T19:19:48.219Z",
+  "updated_at": "2026-09-23T22:33:44.578Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"GPU를 원유처럼 거래\"…CME, 엔비디아 H100·B200 선물 출시 임박 [김주완의 글로벌머니 X파일]",
+      "url": "https://www.hankyung.com/article/202609221656i",
+      "summary": "",
+      "published": "Thu, 24 Sep 2026 07:00:11 +0900",
+      "scraped_at": "2026-09-23T22:33:37.636Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'한국 드라마서 봤어요' 외국인 몰리는 곳이…'대박' 터졌다",
+      "url": "https://www.hankyung.com/article/2026092339561",
+      "summary": "",
+      "published": "Thu, 24 Sep 2026 06:00:01 +0900",
+      "scraped_at": "2026-09-23T22:33:37.636Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "李대통령 “정전체제, 협력·번영의 평화체제로 바꿔야”",
+      "url": "https://www.mk.co.kr/news/politics/12142494",
+      "summary": "이재명 대통령은 2일 한반도의 정전 체제를 협력과 번영에 기반한 평화 체제로 전환해야 한다고 강조했다. 북미 대화 재개를 위한 여건을 조성하는 동시에 남북 대화의 물꼬를 트기 위한..",
+      "published": "Wed, 02 Sep 2026 17:10:25 +09:00",
+      "scraped_at": "2026-09-23T22:33:40.637Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "美백악관 “트럼프, 김정은과 전제조건 없는 대화에 열려있어”",
+      "url": "https://www.mk.co.kr/news/politics/12142131",
+      "summary": "北비핵화 관련 질문엔 별다른 답변안해 ‘비핵화 불가’ 北 감안 대북 메시지 관리 볼턴 “트럼프, 사진찍으러 평양에 갈 것”미국 백악관은 1일(현지시간) “도널드 트럼프 대통령은 어..",
+      "published": "Wed, 02 Sep 2026 11:20:39 +09:00",
+      "scraped_at": "2026-09-23T22:33:40.637Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'서학개미 큰손' 잡아라…美 ETF 브랜드 대표들 잇단 방한",
+      "url": "https://www.yna.co.kr/view/AKR20260921153800008",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 해외 레버리지 상장지수펀드(ETF) 브랜드 경영진의 방한이 잇따르고 있다. 한국 투자자가 해외 레버리지 상품의...",
+      "published": "Thu, 24 Sep 2026 07:05:01 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "은행권, 추석 연휴 휴게소서 이동점포 운영…중기 자금지원 늘려",
+      "url": "https://www.yna.co.kr/view/AKR20260923178400002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 은행권이 추석 연휴 기간 고객 편의를 위해 이동점포를 운영한다. 해외여행객을 위한 환전 서비스와 각종 이벤트도...",
+      "published": "Thu, 24 Sep 2026 07:01:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "자주 사는 우유·라면 등 오르면 물가 더 뛴걸로 느낀다…'밥상물가' 비밀",
+      "url": "https://www.yna.co.kr/view/AKR20260922112600063",
+      "summary": "(홍성=연합뉴스) 김준범 기자 = 추석을 앞두고 장을 보다 보면 발표되는 물가상승률보다 장바구니 부담이 상대적으로 크게 느껴지는 경우가 적지 않...",
+      "published": "Thu, 24 Sep 2026 07:00:13 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[우분투칼럼] 선언에 갇힌 유엔 결의안…한국, '평등한 지구'의 실행자로",
+      "url": "https://www.yna.co.kr/view/AKR20260917123900898",
+      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류...",
+      "published": "Thu, 24 Sep 2026 07:00:10 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"소도시 세무서 납세자보호위 '유명무실'…신청건수 年1건 미만\"",
+      "url": "https://www.yna.co.kr/view/AKR20260922168400001",
+      "summary": "(서울=연합뉴스) 박재하 기자 = 전국 세무서에 설치된 납세자보호위원회가 지방 소도시 및 도시 외 지역 등에 있는 '2급지' 세무서에서는 사실상...",
+      "published": "Thu, 24 Sep 2026 07:00:08 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"건기식인 줄 알고 샀는데\"…일반식품 오인 광고 역대 최대",
+      "url": "https://www.yna.co.kr/view/AKR20260923157000017",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 소비자가 일반식품을 건강기능식품(건기식)으로 오인·혼동하게 만든 허위·과대광고가 지난해 7천건을 넘은 것으로 ...",
+      "published": "Thu, 24 Sep 2026 06:45:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'명품 샀는데'…소비자 피해구제 신청 10건 중 8건은 '품질'",
+      "url": "https://www.yna.co.kr/view/AKR20260923086700030",
+      "summary": "(서울=연합뉴스) = 고가의 명품을 구매했지만 제품의 품질이나 교환·환불 문제로 소비자 피해구제를 신청하는 사례가 꾸준히 발생하고 있다.",
+      "published": "Thu, 24 Sep 2026 06:30:02 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "산재신청 4년새 30% 늘었는데…건설업 불승인율은 3배로",
+      "url": "https://www.yna.co.kr/view/AKR20260923099700530",
+      "summary": "(서울=연합뉴스) 한혜원 기자 = 지난 4년 사이 산업재해 신청 건수가 30% 증가한 가운데 건설업에서는 산재 불승인율이 3배 넘게 높아진 것으...",
+      "published": "Thu, 24 Sep 2026 06:05:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"농촌 빈집 1년 새 6천호 증가…'빈집은행' 거래는 64건에 그쳐\"",
+      "url": "https://www.yna.co.kr/view/AKR20260923107700030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농촌 빈집이 1년 사이 6천호 넘게 늘어 8만4천호를 넘어선 것으로 나타났다.",
+      "published": "Thu, 24 Sep 2026 06:00:01 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "팍팍한 청춘…올해 2030 개인회생 3만명·채무조정 10만명 육박",
+      "url": "https://www.yna.co.kr/view/AKR20260923146800002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 올해 개인회생을 신청한 2030 세대가 3만명에 이르고, 채무조정은 10만명에 이르는 것으로 파악됐다.",
+      "published": "Thu, 24 Sep 2026 05:53:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "저소득 자영업자 연체율 10년 6개월 만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20260923177100002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 올해 2분기 말 저소득 자영업자 대출 연체율이 10년 6개월 만에 가장 높은 수준을 기록했다.",
+      "published": "Thu, 24 Sep 2026 05:51:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"외상값 못받는 중소기업들\"…매출채권보험 사고액 4년새 65%↑",
+      "url": "https://www.yna.co.kr/view/AKR20260923141100001",
+      "summary": "(서울=연합뉴스) 권희원 기자 = 물품·용역 등을 외상으로 공급한 중소기업이 대금을 지급받지 못해 발생한 매출채권보험 사고 금액이 4년간 65%...",
+      "published": "Thu, 24 Sep 2026 05:20:00 +0900",
+      "scraped_at": "2026-09-23T22:33:41.858Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Former SEC Regulator on Private Market Access",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/former-sec-regulator-on-private-market-access-video",
+      "summary": "Kirkland and Ellis Partner Alpa Patel sat down with Bloomberg's Romaine Bostick from the Financial Markets Quality Conference at Georgetown University to discuss the state of the private markets, and the regulatory framework around opening access to the public. (Source: Bloomberg)",
+      "published": "Wed, 23 Sep 2026 22:27:39 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Stocks, Bonds to Slide on Inflation Jitters: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/stock-market-today-dow-s-p-live-updates",
+      "summary": "Stocks and bonds in Asia were set to decline Thursday, tracking Wall Street losses as an oil rally and stronger-than-expected US economic data fueled inflation concerns and bets on further interest-rate hikes. The yen, near a three-week low, will be in focus as Japanese markets reopen.",
+      "published": "Wed, 23 Sep 2026 22:17:23 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Sept. 24",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/latest-oil-market-news-and-analysis-for-sept-24",
+      "summary": "Oil gained on renewed tensions between the US and Iran, with a defiant message from President Masoud Pezeshkian highlighting the still-wide gap between the two sides after months of war.",
+      "published": "Wed, 23 Sep 2026 22:09:08 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "IAEA Director on Nuclear Material Left in Iran",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/iaea-director-on-nuclear-material-left-in-iran-video",
+      "summary": "IAEA Director General Rafael Grossi joins Bloomberg's David Bura at the UNGA to discuss the nuclear situation in Iran. He says there is still a fairly important amount of nuclear material in Iran and that the IAEA can get on the ground and assess pretty fast if there is the political will for it.  (",
+      "published": "Wed, 23 Sep 2026 21:58:39 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "IAEA's Grossi Says Iran Nuclear Inspections Can Resume Fast",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/iaea-s-grossi-iran-nuclear-inspections-can-resume-fast-video",
+      "summary": "IAEA Director General Rafael Grossi joins Bloomberg's David Gura at the United Nations General Assembly to discuss the nuclear situation in Iran. He says there is still a fairly important amount of nuclear material in Iran and that the IAEA can get on the ground and assess pretty fast if there is th",
+      "published": "Wed, 23 Sep 2026 21:22:11 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "How David Booth Built Dimensional From A Brooklyn Brownstone",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/how-booth-built-dimensional-from-a-brooklyn-brownstone-video",
+      "summary": "David Booth started Dimensional Fund Advisors out of a Brooklyn brownstone in 1981 with an idea that challenged conventional investing: investors should have exposure to smaller companies as part of a diversified portfolio. More than four decades later, Dimensional manages over $1 trillion. Booth is",
+      "published": "Wed, 23 Sep 2026 21:21:44 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "David Booth: Control What You Can Control",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/david-booth-control-what-you-can-control-video",
+      "summary": "Dimensional Fund Advisors Founder and Chairman David Booth explains his investment philosophy of staying calm during periods of market volatility. He explains why he didn't panic during the 2020 pandemic, when markets collapsed. He's on this week's episode of The David Rubenstein Show: Peer to Peer ",
+      "published": "Wed, 23 Sep 2026 21:19:11 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Citigroup Sets Up Paramount Loan Calls as Banks Prepare to Sell Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/citigroup-sets-up-paramount-loan-calls-as-m-a-debt-sale-eyed",
+      "summary": "Citigroup Inc. will kick off meetings with loan investors on Thursday for Paramount Skydance Corp. as banks prepare to sell debt to fund its takeover of Warner Bros. Discovery Inc.",
+      "published": "Wed, 23 Sep 2026 21:07:47 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Sheinbaum Boosts Lula Before Vote as Leftist Allies Grow Scarce",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/sheinbaum-boosts-lula-before-vote-as-leftist-allies-grow-scarce",
+      "summary": "Less than two weeks before Brazil’s election, Mexico’s Claudia Sheinbaum offered a strong public show of support for Luiz Inácio Lula da Silva, as Latin America’s two most prominent leftist leaders find themselves increasingly isolated amid a wave of conservative victories across the region.",
+      "published": "Wed, 23 Sep 2026 20:40:29 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Venezuela Spot Oil Sales Snarled by Surging Freight Costs",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/venezuela-spot-oil-sales-snarled-by-surging-freight-costs",
+      "summary": "Sales of Venezuelan oil for loading in October stalled after a surge in shipping costs muddled negotiations between the country’s state oil company and buyers of its oil.",
+      "published": "Wed, 23 Sep 2026 20:39:16 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "USD rallies after US data aided case for Federal Reserve increases",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/dollar-usd-notches-seasonal-end-of-september-gains-on-hawkish-fed",
+      "summary": "The dollar jumped Wednesday after US business activity rose at the fastest pace in more than five years, fortifying the case for the Federal Reserve to continue raising interest rates.",
+      "published": "Wed, 23 Sep 2026 12:07:39 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Biggest Long-Bond ETF Hits Record Low as Traders Dump Treasuries",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/biggest-long-bond-etf-hits-record-low-as-traders-dump-treasuries",
+      "summary": "Shares of the largest exchange-traded fund tracking long-dated Treasuries closed at a record low as the yearslong bond market selloff shows few signs of relenting.",
+      "published": "Wed, 23 Sep 2026 20:13:09 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'It's All About Culture' in the 'War for Talent'",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/-it-s-all-about-culture-aiello-video",
+      "summary": "The M&A firm Weil is eyeing its own merger options as top leaders within the firm are leaving.\nWeil Partner Michael Aiello explains the factors he is weighing as he gets ready to join a new firm, and JPMorgan Global Head of M&A Charlie Bouckaert describes the \"war for talent.\" (Source: Bloomberg)",
+      "published": "Wed, 23 Sep 2026 19:38:19 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "No Slowdown Expected Ahead of Midterms: Top Dealmakers",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-23/no-slowdown-expected-ahead-of-midterms-top-dealmakers-video",
+      "summary": "JPMorgan Global Head of M&A Charlie Bouckaert and Weil Partner Michael Aiello discuss global dealmaking trends, AI disruption, and the \"war for talent\" with Dani Burger and David Carnevali on \"Bloomberg Deals.\" (Source: Bloomberg)",
+      "published": "Wed, 23 Sep 2026 19:42:09 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Peloton Holds Talks for Potential $800 Million Debut Bond Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/peloton-holds-talks-for-potential-800-million-debut-bond-deal",
+      "summary": "Peloton Interactive Inc. is eyeing its first-ever bond deal, sounding out investors for a potential $800 million sale, according to people with knowledge of the matter.",
+      "published": "Wed, 23 Sep 2026 19:54:37 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Nvidia Among Top Traded US Credit Swaps as Hedging Demand Soars",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-among-top-traded-us-credit-swaps-as-hedging-demand-soars",
+      "summary": "Derivatives tied to Nvidia Corp. are now among the most traded in the US credit default swaps market, as investors seek to hedge their exposure to the firm’s debt in the wake of June’s $25 billion bond sale.",
+      "published": "Wed, 23 Sep 2026 19:46:14 GMT",
+      "scraped_at": "2026-09-23T22:33:42.310Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14740,366 +15060,6 @@
       "summary": "Gold held a decline after the Federal Reserve raised interest rates for the first time in three years and signaled another hike was likely before year-end.",
       "published": "Wed, 16 Sep 2026 23:54:12 GMT",
       "scraped_at": "2026-09-17T02:28:59.259Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "Fed 기준금리 인상에 美 대형 은행 일제 우대금리 7%로↑",
-      "url": "https://www.hankyung.com/article/2026091798667",
-      "summary": "",
-      "published": "Thu, 17 Sep 2026 07:17:27 +0900",
-      "scraped_at": "2026-09-16T22:29:13.316Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "BIS \"레버리지 ETF는 빙산의 일각\"…삼전닉스 흔드는 자동매매 [김주완의 글로벌머니 X파일]",
-      "url": "https://www.hankyung.com/article/202609169113i",
-      "summary": "",
-      "published": "Thu, 17 Sep 2026 07:00:02 +0900",
-      "scraped_at": "2026-09-16T22:29:13.316Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "트럼프 \"美 금리 1%이거나 그보다 낮아야\"…Fed 금리인상 맹공",
-      "url": "https://www.hankyung.com/article/2026091797877",
-      "summary": "",
-      "published": "Thu, 17 Sep 2026 06:12:10 +0900",
-      "scraped_at": "2026-09-16T22:29:13.316Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "美 긴축 전환에 한은도 연내 추가 금리인상 가능성",
-      "url": "https://www.yna.co.kr/view/AKR20260917015800002",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 미국 연방준비제도(연준·Fed)가 3년 2개월 만에 기준금리를 올리면서 한국은행의 연내 추가 금리 인상 가능성...",
-      "published": "Thu, 17 Sep 2026 07:08:10 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "미국 대형은행 일제히 우대금리 7%로 인상",
-      "url": "https://www.yna.co.kr/view/AKR20260917016900009",
-      "summary": "(서울=연합뉴스) 정주호 기자 = 미국 연방준비제도(Fed·연준)가 16일(현지시간) 3년여 만에 기준금리를 인상하자 JP모건체이스·뱅크오브아메...",
-      "published": "Thu, 17 Sep 2026 07:01:08 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[우분투칼럼] ODA 이후의 아프리카…4조달러는 정말 움직일 수 있는가",
-      "url": "https://www.yna.co.kr/view/AKR20260818106100898",
-      "summary": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 '우분투 칼럼'을 게재합니다. 우분투 칼럼에는 인류...",
-      "published": "Thu, 17 Sep 2026 07:00:06 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "내한 공연 뒤 탈세 먹튀?…\"국세청, 39명 조사해 55억원 추징\"",
-      "url": "https://www.yna.co.kr/view/AKR20260916180000001",
-      "summary": "(서울=연합뉴스) 박재하 기자 = 코로나19 사태 이후 해외 아티스트 등 외국인 국내공연이 급증한 가운데, 과세당국이 관련 세금 실태를 점검해 ...",
-      "published": "Thu, 17 Sep 2026 06:30:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20260917002453071",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트(p) 인상...",
-      "published": "Thu, 17 Sep 2026 06:19:44 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "LH 매입임대 보수·하자 매년 16만건…90일 이상 방치도 389건",
-      "url": "https://www.yna.co.kr/view/AKR20260916175200003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 정부가 주거 취약계층 지원을 위해 시세보다 저렴하게 임대하는 매입임대주택에서 매년 16만건 안팎의 시설보수 및...",
-      "published": "Thu, 17 Sep 2026 06:05:01 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[만나보니] 구글 아태 총괄 \"동남아 잡으면 세계서 통한다\"",
-      "url": "https://www.yna.co.kr/view/AKR20260916178300017",
-      "summary": "(싱가포르=연합뉴스) 오지은 기자 = \"동남아시아는 6억 명이 넘는 거대한 인구와 인도네시아의 대중적 트래픽, 싱가포르의 글로벌 금융 자본이 융...",
-      "published": "Thu, 17 Sep 2026 06:00:12 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"농협銀, 보이스피싱 대응 인력·예산 확대에도 피해액 2배\"",
-      "url": "https://www.yna.co.kr/view/AKR20260916112000001",
-      "summary": "(서울=연합뉴스) 이정현 기자 = NH농협은행이 보이스피싱 등 전기통신금융사기를 예방하기 위해 전담 인력과 예산을 늘렸지만 피해금액은 오히려 배...",
-      "published": "Thu, 17 Sep 2026 06:00:11 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "검역본부, 아프리카돼지열병 백신 개발 국제 심포지엄 개최",
-      "url": "https://www.yna.co.kr/view/AKR20260916125700030",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 농림축산검역본부는 15일 경북 김천 본부에서 아프리카돼지열병(ASF) 백신 개발과 관련한 국제 심포지엄을 열었...",
-      "published": "Thu, 17 Sep 2026 06:00:10 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "성평등부·IBK기업은행, 미혼·한부모가정 자립지원 업무협약",
-      "url": "https://www.yna.co.kr/view/AKR20260916159600530",
-      "summary": "(서울=연합뉴스) 홍준석 기자 = 성평등가족부는 IBK기업은행과 '미혼·한부모가족 자립 지원을 위한 상호협력 업무협약'을 체결한다고 17일 밝혔...",
-      "published": "Thu, 17 Sep 2026 06:00:05 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "신세계그룹, 2027년 신입사원 공개채용…10개 계열사 참여",
-      "url": "https://www.yna.co.kr/view/AKR20260916158800030",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 신세계그룹은 오는 18일부터 10월 12일까지 2027년 신입사원 공개 채용 지원서를 받는다고 17일 밝혔다.",
-      "published": "Thu, 17 Sep 2026 06:00:05 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"동남아는 하나가 아니다\"…K-앱·게임 '원빌드 착각' 깨라",
-      "url": "https://www.yna.co.kr/view/AKR20260916176700017",
-      "summary": "(싱가포르=연합뉴스) 오지은 기자 = \"동남아시아는 하나의 단일 시장이 아닙니다. 6억명이 넘는 인구와 국가별로 완전히 다른 모바일 생태계를 지...",
-      "published": "Thu, 17 Sep 2026 06:00:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "산업부, 중앙아 5개국과 양·다자 협력 9건…민간 MOU도 116건",
-      "url": "https://www.yna.co.kr/view/AKR20260916186600003",
-      "summary": "(서울=연합뉴스) 장보인 기자 = 산업통상부는 지난 14∼16일 서울에서 열린 제1차 한·중앙아시아 정상회의를 계기로 중앙아시아 5개국(카자흐스...",
-      "published": "Thu, 17 Sep 2026 06:00:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중동전쟁 격화에 산업계 '긴장'…당장은 버텨도 장기화 우려",
-      "url": "https://www.yna.co.kr/view/AKR20260916169600003",
-      "summary": "(서울=연합뉴스) 김민지 장보인 기자 = 미국·이란의 중동전쟁에 따른 지정학적 리스크 악화로 국제 유가가 치솟은 가운데 국내 정유·석유화학업계가...",
-      "published": "Thu, 17 Sep 2026 05:55:01 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "새도약기금 채권매입 달성률 72%…내달 매입完 목표 '빨간불'",
-      "url": "https://www.yna.co.kr/view/AKR20260916185200002",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 이재명 정부의 대표적 빚 탕감 프로그램인 새도약기금이 출범 1년을 앞두고 애초 목표한 채권의 약 72%를 매입...",
-      "published": "Thu, 17 Sep 2026 05:55:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'글·그림만으론 어려워'…작가·예술가 연평균 소득 920만원",
-      "url": "https://www.yna.co.kr/view/AKR20260916157600002",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 글과 그림 등 전통적인 창작 영역에 종사하는 작가·화가 등의 연평균 소득이 1천만원에 미치지 못하는 것으로 나...",
-      "published": "Thu, 17 Sep 2026 05:51:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[서미숙의 집수다] '토허구역+대출규제 확대' 11개월…내몰리는 임차인들",
-      "url": "https://www.yna.co.kr/view/AKR20260916186100003",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 지난해 10·15대책으로 토지거래허가구역 확대와 초강력 대출 규제가 시행된 지 다음 달이면 1년을 맞는다.",
-      "published": "Thu, 17 Sep 2026 05:31:00 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락",
-      "url": "https://www.yna.co.kr/view/AKR20260917009300072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 이틀 연속 급등했던 국제유가가 16일(현지시간) 사우디아라비아의 원유 우회 공급 소식 등에 힘입어 하락세로 ...",
-      "published": "Thu, 17 Sep 2026 04:32:14 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20260917002452071",
-      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트(p) 인상...",
-      "published": "Thu, 17 Sep 2026 04:10:53 +0900",
-      "scraped_at": "2026-09-16T22:29:18.060Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Asian Stocks to Fall as Fed Hikes, Dollar Jumps: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
-      "summary": "Stocks in Asia were poised for losses, tracking a decline on Wall Street after the Federal Reserve raised interest rates for the first time since 2023 and signaled further tightening to curb inflation. The dollar gained the most since June.",
-      "published": "Wed, 16 Sep 2026 22:06:59 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Extends Slump as Saudi Arabia Moves to Restore Key Pipeline",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
-      "summary": "Oil extended the biggest drop in more than six weeks on signs of easing Middle East supply disruptions, with a key pipeline being restored.",
-      "published": "Wed, 16 Sep 2026 22:05:54 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Nuclear Services Firm Holtec Is Said to Suspend US IPO Plan",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/nuclear-services-firm-holtec-is-said-to-suspend-us-ipo-plan",
-      "summary": "Holtec Nuclear Corp., a supplier of specialty services to the nuclear power industry, suspended its planned US initial public offering, according to people familiar with the matter.",
-      "published": "Wed, 16 Sep 2026 22:03:00 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Highlights From Fed Chairman Warsh’s News Conference",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/highlights-from-fed-chairman-warsh-s-news-conference-video",
-      "summary": "Federal Reserve Chairman Kevin Warsh speaks after the central bank's decision to raise interest rates by 25 basis points. Here are some of the key moments from Warsh's news conference. (Source: Bloomberg)",
-      "published": "Wed, 16 Sep 2026 21:47:30 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "'Direct Indexing' to Diversity Portfolios",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/-direct-indexing-to-diversity-portfolios-video",
-      "summary": "Manju Boraiah, Senior PM and Head of Systematic Fixed Income at Allspring Global Investment, reacts to Wednesday's Fed rate decision saying fundamentally, 'we needed the hike.' He also discusses how investors can break out from frozen positions, arguing that trillions of dollars of wealth is sitting",
-      "published": "Wed, 16 Sep 2026 21:45:19 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Brown Harris Stevens CEO: We Need More Housing in Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/brown-harris-stevens-ceo-we-need-more-housing-in-market-video",
-      "summary": "Bess Freedman, CEO of Brown Harris Stevens, discusses a growing divide between affluent buyers and everyone else in the housing market. In response to a comparison with luxury consumer spending, Freedman says high-end real estate can often keep moving even when broader economic pressures, including ",
-      "published": "Wed, 16 Sep 2026 21:41:33 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Buildout Hits Inflation as Fed Hikes Rates",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/ai-buildout-hits-inflation-as-fed-hikes-rates-video",
-      "summary": "Stephanie Aliaga, Global Market Strategist at JPM Asset Management, reacts to Fed Chair Warsh's remarks after raising interest rates. She argues that while oil prices are a long-term driver of inflation, the AI buildout is also having a significant impact. She argues slowing the AI frontier will hel",
-      "published": "Wed, 16 Sep 2026 21:25:15 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Plan to Boost Biofuel Exports Targets Restrictions Abroad",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/us-plan-to-boost-biofuel-exports-targets-restrictions-abroad",
-      "summary": "The Trump administration, following up on its efforts to boost domestic biofuels production, is taking the next step to help the industry: targeting policies abroad that limit uptake of fuels made from US crops.",
-      "published": "Wed, 16 Sep 2026 20:49:00 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bloomberg Deals 9/16/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/bloomberg-deals-9-16-2026-video",
-      "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: GFL Environmental Founder & CEO Patrick Dovigi, Norton Rose Fulbright Montreal Business Law Group Co-Chair, Partner Renee Loiselle, ",
-      "published": "Wed, 16 Sep 2026 20:26:28 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Foreign Holdings of US Treasuries Fell to Nine-Month Low in July",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/foreign-holdings-of-us-treasuries-fell-to-nine-month-low-in-july",
-      "summary": "Foreign holdings of US Treasuries fell in July to the lowest level since October, led by declines in the stockpiles of France and Canada.",
-      "published": "Wed, 16 Sep 2026 20:25:37 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Market Repricing Fed Expectations, BlackRock's Rosenberg Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/market-repricing-fed-expectations-blackrock-s-rosenberg-video",
-      "summary": "Jeffrey Rosenberg, portfolio manager of the systematic alternative ETF at BlackRock, reacts to the Federal Reserve's decision to raise interest rates by 25 basis points. He speaks on \"Bloomberg Surveillance: The Fed Decides.\" (Source: Bloomberg)",
-      "published": "Wed, 16 Sep 2026 20:25:10 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Warsh Gets a Credibility Boost",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/opinion-warsh-gets-a-credibility-boost-video",
-      "summary": "The Fed unanimously raised interest rates for the first time in more than three years. Bloomberg Opinion columnist Jonathan Levin explains why this boosts Chair Kevin Warsh’s credibility. (Source: Bloomberg)",
-      "published": "Wed, 16 Sep 2026 20:10:03 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Canadian M&A Sentiment Amid Trade War",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/canadian-m-a-sentiment-amid-trade-war-video-mu4j78hl",
-      "summary": "Renee Loiselle, partner, co-chair of the Montreal Business Law Group at Norton Rose Fulbright Canada, and Jeff Hershenfield, partner at Stikeman Elliott, join Scarlet Fu on \"Bloomberg Deals.\" They discuss the current sentiment surrounding M&A in Canada after Prime Minister Mark Carney this week gath",
-      "published": "Wed, 16 Sep 2026 20:06:34 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Canadian M&A Sentiment Amid Trade War",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/canadian-m-a-sentiment-amid-trade-war-video",
-      "summary": "Bloomberg's Chris Palmeri joins Scarlet Fu on \"Bloomberg Deals.\" Authentic Brands, a licensor of everything from Elvis Presley’s image to the Reebok sportswear brand, could pursue an initial public stock offering as early as the first half of next year.\n (Source: Bloomberg)",
-      "published": "Wed, 16 Sep 2026 20:05:03 GMT",
-      "scraped_at": "2026-09-16T22:29:18.292Z"
     }
   ]
 }
