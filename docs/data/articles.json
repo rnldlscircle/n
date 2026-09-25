@@ -1,6 +1,326 @@
 {
-  "updated_at": "2026-09-25T19:42:50.907Z",
+  "updated_at": "2026-09-25T22:58:00.210Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
+      "url": "https://www.hankyung.com/article/202609256104i",
+      "summary": "",
+      "published": "Sat, 26 Sep 2026 07:00:07 +0900",
+      "scraped_at": "2026-09-25T22:57:51.459Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+      "url": "https://www.hankyung.com/article/202609232798i",
+      "summary": "",
+      "published": "Sat, 26 Sep 2026 07:00:04 +0900",
+      "scraped_at": "2026-09-25T22:57:51.459Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'아재들의 섬' 여의도 옛말…이제 '그녀들'이 지갑을 연다 [장서우의 하입:hype]",
+      "url": "https://www.hankyung.com/article/202609233846i",
+      "summary": "",
+      "published": "Sat, 26 Sep 2026 07:00:01 +0900",
+      "scraped_at": "2026-09-25T22:57:51.459Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'차 한 대 값' 컴퓨터 뜯던 소년…30년 넘게 '코딩' 못놓는 이유 [권용훈의 직업불만족(族)]",
+      "url": "https://www.hankyung.com/article/202607045653i",
+      "summary": "",
+      "published": "Sat, 26 Sep 2026 06:00:01 +0900",
+      "scraped_at": "2026-09-25T22:57:51.459Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내 기름값 19주째 하락…최고가격·고속도로 주유소 할인 영향",
+      "url": "https://www.yna.co.kr/view/AKR20260925032700003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 전국 주유소 기름값이 정부의 최고가격제와 추석 연휴 고속도로 주유소 유류 가격 인하 영향으로 전주 대비 소폭 ...",
+      "published": "Sat, 26 Sep 2026 07:31:01 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"'개인통관고유부호' 도용 3년 새 46배 증가…도용·악용 우려\"",
+      "url": "https://www.yna.co.kr/view/AKR20260924032100001",
+      "summary": "(서울=연합뉴스) 안정훈 기자 = 통관 과정에서 수하인을 특정하기 위해 발급하는 개인통관고유부호의 도용 의심 신고가 3년 사이 46배 증가한 것...",
+      "published": "Sat, 26 Sep 2026 07:30:01 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "지루한 박스권 장세…상한가·52주 신고가 종목수도 '뚝'",
+      "url": "https://www.yna.co.kr/view/AKR20260923192300008",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 7월 급락장 이후 지루한 박스권 장세를 이어가는 가운데 가격제한폭까지 치솟는 종목의 수가 연초의 ...",
+      "published": "Sat, 26 Sep 2026 07:00:05 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "공항 밥값 비싼 이유 있었네…매출 30% 넘는 임대료 이용객에 전가",
+      "url": "https://www.yna.co.kr/view/AKR20260923197800004",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = 한국공항공사 산하 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타...",
+      "published": "Sat, 26 Sep 2026 07:00:05 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "건설 기술 좋아졌다는데 아파트 하자판정은 3년 새 2.4배로",
+      "url": "https://www.yna.co.kr/view/AKR20260923084100003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 아파트 건설 기술이 좋아졌다지만 균열이나 누수 등을 두고 입주자가 하자심사를 신청해 실제 하자로 인정받은 건수...",
+      "published": "Sat, 26 Sep 2026 06:11:01 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "중기부, 보조금 부정수급 6년간 26억원 적발…바우처 사업 최다",
+      "url": "https://www.yna.co.kr/view/AKR20260924032300030",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부가 지난 6년간 추진한 지원사업에서 보조금 부정수급 91건이 적발됐으며, 금액은 26억원에 달하는...",
+      "published": "Sat, 26 Sep 2026 06:10:00 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "육아휴직 복귀, 작은 회사일수록 힘들다…중소기업 70% 그쳐",
+      "url": "https://www.yna.co.kr/view/AKR20260923141900530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 육아휴직을 마친 직원이 1년 뒤에도 회사에 계속 다니는 비율이 기업 규모별로 격차가 큰 것으로 나타났다.",
+      "published": "Sat, 26 Sep 2026 06:01:02 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[부동산캘린더] 내주 광명시티프라디움에듀하임 등 전국서 3천641가구 분양",
+      "url": "https://www.yna.co.kr/view/AKR20260922190400003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 3천641가구가 청약을 진행한다.",
+      "published": "Sat, 26 Sep 2026 06:01:00 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"폐업 선불거래 피해구제 3년 새 7배↑…필라테스·헬스장 74%\"",
+      "url": "https://www.yna.co.kr/view/AKR20260924046300001",
+      "summary": "(서울=연합뉴스) 권희원 기자 = 헬스장·필라테스 업체의 이른바 '먹튀 폐업' 피해 사례가 3년 만에 7배 이상 늘어나 안전장치 마련이 시급하다...",
+      "published": "Sat, 26 Sep 2026 06:00:05 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"4년새 저축은행 자영업자 대출잔액 절반 되고 연체율은 3.6배\"",
+      "url": "https://www.yna.co.kr/view/AKR20260922164700001",
+      "summary": "(서울=연합뉴스) 류미나 기자 = 저축은행의 개인사업자대출 잔액이 4년여 만에 절반 수준으로 줄어든 반면 연체율은 3.6 배로 뛰어오른 것으로 ...",
+      "published": "Sat, 26 Sep 2026 06:00:02 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"집값 비싼 곳 청소년 자살률 낮아\"…주거환경 밀접성 연구 결과",
+      "url": "https://www.yna.co.kr/view/AKR20260923138700004",
+      "summary": "(서울=연합뉴스) 유한주 기자 = 청소년 자살률이 지역 주거환경과 밀접한 관련이 있다는 연구 결과가 나왔다. 집값이 비싼 곳은 청소년 자살률이 ...",
+      "published": "Sat, 26 Sep 2026 05:55:02 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
+      "url": "https://www.yna.co.kr/view/AKR20260923196200002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행이 국채 등 자산의 토큰화를 추진할 전담 조직을 신설했다.",
+      "published": "Sat, 26 Sep 2026 05:51:00 +0900",
+      "scraped_at": "2026-09-25T22:57:56.814Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
+      "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da Silva’s push to ease the financial strain on households and bolster his bid for a fourth term.",
+      "published": "Fri, 25 Sep 2026 22:43:22 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ellison Pledges $9.2 Billion More in Oracle Shares for Loans",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/ellison-pledges-9-2-billion-more-in-oracle-shares-as-collateral",
+      "summary": "Larry Ellison has pledged 67 million more shares of Oracle Corp. as collateral for personal loans than he had at the same time last year.",
+      "published": "Fri, 25 Sep 2026 21:53:52 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Search for the Next Leader of the UN",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/search-for-the-next-leader-of-the-un-video",
+      "summary": "UN Secretary General Antonio Guterres' term ends this year, and three Security Council straw polls have provided no consensus. Guyana’s Permanent Representative to the UN Carolyn Rodrigues-Birkett is one of the top contenders. She speaks to Bloomberg Businessweek Daily about why she wants the job, a",
+      "published": "Fri, 25 Sep 2026 21:33:51 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Keeneland CEO on Annual Yearling Sale",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/keeneland-ceo-on-annual-yearling-sale-video",
+      "summary": "Shannon Arvin says Keeneland’s yearling sale is running ahead of last year’s pace and is on track to top $550 million, making it the largest horse sale in the world. She said the auction is already up 3% to 4% this year after increasing by 24% last year, reflecting strong demand and continued intere",
+      "published": "Fri, 25 Sep 2026 21:33:04 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video",
+      "summary": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models. (Source: Bloomberg)",
+      "published": "Fri, 25 Sep 2026 21:27:56 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Investing For The Great Wealth Transfer: Masters In Business",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/investing-the-great-wealth-transfer-masters-in-business-video",
+      "summary": "Barry speaks with Adam Frank, Managing Director and Head of Wealth Planning and Advice at J.P. Morgan Wealth Management. They discuss his time at Bear Stearns as the company was acquired by J.P. Morgan Chase, as well as his start in law before pivoting to wealth planning. They discuss building trust",
+      "published": "Fri, 25 Sep 2026 21:00:26 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback",
+      "summary": "Wall Street spent another week watching yields hit multi-decade highs, oil hold above $100 and the case for tighter Federal Reserve policy harden. Once again, risk assets refused to break.",
+      "published": "Fri, 25 Sep 2026 20:48:29 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Tiny Magnet Maker That Attracted $1.6 Billion From Lutnick",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-tiny-magnet-maker-that-attracted-1-6b-from-lutnick-video",
+      "summary": "In late January, the week before Commerce Secretary Howard Lutnick announced a $1.6 billion government commitment to fund a US magnet maker, bankers at his former financial services company, now run by his sons, were busy earning fees raising $1.5 billion more for the company from private investors.",
+      "published": "Fri, 25 Sep 2026 20:43:21 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video",
+      "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might just be a fundamental shift. Myriad forces have combined to push the government’s borrowing costs higher — from $100-a-barr",
+      "published": "Fri, 25 Sep 2026 20:39:53 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Taylor Swift To Debut 'Patient Zero' at VMAs",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/taylor-swift-to-debut-patient-zero-at-vmas-video",
+      "summary": "Bloomberg's Christina Ruffini joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss Taylor Swift's new song 'Patient Zero' and new music video debuting this weekend at the MTV Video Music Awards. (Source: Bloomberg)",
+      "published": "Fri, 25 Sep 2026 20:20:24 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Americans Misunderstand Where Wealth Comes From: Ritholtz",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/americans-misjudge-where-wealth-comes-from-ritholtz-video",
+      "summary": "Barry Ritholtz, founder and CIO of Ritholtz Wealth, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Barry discusses how he observes most wealthy people in America became successful. They also discuss Barry's new book 'How Not To Invest.'\n (Source: Bloomberg)",
+      "published": "Fri, 25 Sep 2026 20:16:43 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oracle Notice to Weigh on Data Center Debt, Morgan Stanley Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/oracle-notice-to-weigh-on-data-center-debt-morgan-stanley-says",
+      "summary": "Oracle Corp.’s force majeure notice to the developer of a massive New Mexico data center is putting loan and lease documents under fresh scrutiny and adding to the challenges facing companies looking to tap debt markets to finance the AI buildout, according to Morgan Stanley.",
+      "published": "Fri, 25 Sep 2026 20:12:16 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street’s Nike (NKE) Fandom at 25-Year Low as Bank of America Cuts to Sell",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-nike-nke-fandom-at-25-year-low-as-bank-of-america-cuts-to-sell",
+      "summary": "Wall Street’s enthusiasm for Nike Inc. has reached the lowest in at least a quarter of a century as Bank of America Corp. became the latest to sour on the troubled sportswear firm.",
+      "published": "Fri, 25 Sep 2026 18:04:44 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Manchester City Found Guilty of Nearly All 115 Premier League Charges",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/manchester-city-found-guilty-of-premier-league-charges-video",
+      "summary": "Manchester City has been found guilty of nearly all 115 charges for breaking Premier League rules, in a seismic ruling that could be a massive hit to one of the world’s top football clubs, according to a person familiar with the process.  (Source: Bloomberg)",
+      "published": "Fri, 25 Sep 2026 20:11:06 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hedge Funds Cut Bullish Yen Bets as BOJ Held Back on Rate Vows",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/hedge-funds-cut-bullish-yen-bets-as-boj-held-back-on-rate-vows",
+      "summary": "Hedge funds slashed their bets on a stronger yen after the Bank of Japan held back from providing markets with definitive vows for higher interest rates.",
+      "published": "Fri, 25 Sep 2026 20:06:07 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Can't Say 60/40 Is Back: Rosenberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/can-t-say-60-40-is-back-rosenberg-video",
+      "summary": "Jeff Rosenberg, portfolio manager of the systematic alternative ETF at BlockRock, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" He explains what's happening in bond markets and says investors should broaden to a 50/30/20 portfolio.\n (Source: Bloomberg)",
+      "published": "Fri, 25 Sep 2026 19:46:24 GMT",
+      "scraped_at": "2026-09-25T22:57:57.268Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -13050,86 +13370,6 @@
       "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: KKR Partner, Head of Global Macro & Asset Allocation Henry McVey and BNY Wealth CIO Alicia Levine. (Source: Bloomberg)",
       "published": "Fri, 18 Sep 2026 20:27:58 GMT",
       "scraped_at": "2026-09-18T23:45:10.102Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Compounding Is 8th Wonder of the World, Says KKR's McVey",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/compounding-8th-wonder-of-the-world-kkr-s-mcvey-video",
-      "summary": "Henry McVey, partner, head of global macro and asset allocation and CIO of the KKR's balance sheet, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss private markets, asset allocation, 401K's and retirement security. (Source: Bloomberg)",
-      "published": "Fri, 18 Sep 2026 19:15:11 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oil Remains Primary Risk Driving Higher Rates Says Haworth",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/oil-remains-primary-risk-driving-higher-rates-haworth-video",
-      "summary": "Treasuries fell as anticipation of additional Federal Reserve interest-rate hikes stoked interest in wagers on rising yields for short-maturity debt. Rob Haworth, Senior Investment Strategy Director at U.S. Bank Asset Management joins Bloomberg Businessweek Daily to discuss the markets as well as ho",
-      "published": "Fri, 18 Sep 2026 18:55:18 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US and China Vie For AI Lead Before Trump- Xi Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video",
-      "summary": "Less than a week before Chinese leader Xi Jinping travels to the US to meet President Donald Trump, AI has taken center stage in the bilateral relationship. In some ways the rivalry is straightforward. Most benchmarks show American models have a lead in performance that Washington very much wants to",
-      "published": "Fri, 18 Sep 2026 18:52:41 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Specialty Insurer Orion180 Falls 4.8% After $240 Million IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/specialty-insurer-orion180-slumps-4-2-after-240-million-ipo",
-      "summary": "Orion180 Insurance Group Inc. fell 4.8% in its trading debut after the company raised $240 million from an upsized initial public offering.",
-      "published": "Fri, 18 Sep 2026 15:34:06 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dollar Surges to Best Week Since June on Higher Rate Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/dollar-surges-to-best-week-since-june-on-higher-rate-outlook",
-      "summary": "The dollar is poised for its best weekly performance in three months after the US central bank signaled more interest-rate hikes are to come.",
-      "published": "Fri, 18 Sep 2026 18:26:40 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "KKR’s McVey Favors Private Markets as Traditional Hedges Crumble",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/kkr-s-mcvey-favors-private-markets-as-traditional-hedges-crumble",
-      "summary": "KKR & Co.’s Henry McVey suggested the investors should shift to private markets as the traditional stock-bond diversification model breaks down under the pressure of geopolitical tensions and growing fiscal deficits.",
-      "published": "Fri, 18 Sep 2026 18:26:27 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/investors-pull-1-8-billion-from-muni-market-as-return-slump-extends",
-      "summary": "Investors pulled about $1.8 billion out of the municipal bond market this week with returns for state and local government debt on track to tumble for the third consecutive month.",
-      "published": "Fri, 18 Sep 2026 17:55:17 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Waver as Treasuries Yield Resume Advance",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-18/bloomberg-surveillance-9-18-2026-video",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "published": "Fri, 18 Sep 2026 16:58:33 GMT",
-      "scraped_at": "2026-09-18T20:09:38.006Z"
     }
   ]
 }
