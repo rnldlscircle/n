@@ -1,6 +1,386 @@
 {
-  "updated_at": "2026-09-26T20:23:02.096Z",
+  "updated_at": "2026-09-27T00:03:31.234Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체",
+      "url": "https://www.hankyung.com/article/2026092769927",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:56:40 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "1만원 목욕탕 놔두고 9만원 낸다…'예약 전쟁' 벌어진 이곳 [박수림의 요즘 여기]",
+      "url": "https://www.hankyung.com/article/202609220866g",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:45:04 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
+      "url": "https://www.hankyung.com/article/2026092769727",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:39:58 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"AI 전기 너무 먹네\" 골치였는데…삼성도 꽂힌 신기술 나왔다",
+      "url": "https://www.hankyung.com/article/202609276925i",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:00:15 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "스테이블코인도 '은행업'처럼…Fed, 2영업일 환매·100% 준비금 추진 [김주완의 글로벌머니 X파일]",
+      "url": "https://www.hankyung.com/article/202609266710i",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:00:14 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"농기계 회사가 자율주행 한다고?\"…75년 기업의 '대변신'",
+      "url": "https://www.hankyung.com/article/202609229954i",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:00:11 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"35년 삼성맨인데 인턴입니다\"…62세에 다시 출근한 이유 [장서우의 하입:hype]",
+      "url": "https://www.hankyung.com/article/202609234199i",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:00:04 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"직원은 수억원 주면서 우리는?\"…반도체 성과급 잔치의 그늘 [강진구의 회사법 뜨락]",
+      "url": "https://www.hankyung.com/article/202609234174i",
+      "summary": "",
+      "published": "Sun, 27 Sep 2026 07:00:01 +0900",
+      "scraped_at": "2026-09-27T00:03:23.850Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
+      "url": "https://www.yna.co.kr/view/AKR20260927011600017",
+      "summary": "(서울=연합뉴스) 박형빈 기자 = 삼성전자[005930]의 갤럭시 Z8 시리즈가 유럽 주요 5개국 소비자 전문지 평가에서 폴더블 스마트폰 부문 ...",
+      "published": "Sun, 27 Sep 2026 08:55:48 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "소비자 분쟁조정 3년 새 3.3배 증가…조정 성립률은 10%P 하락",
+      "url": "https://www.yna.co.kr/view/AKR20260923188000030",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 각종 피해를 구제해달라는 소비자 분쟁조정 신청은 해마다 늘고 있지만, 실제로 조정이 성립된 비율은 오히려 낮아...",
+      "published": "Sun, 27 Sep 2026 08:13:11 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
+      "url": "https://www.yna.co.kr/view/AKR20260927007200003",
+      "summary": "(서울=연합뉴스) 임기창 기자 = 정부가 최근 중산층까지 수요층으로 삼는 고품질 공공임대주택 공급 계획을 발표하면서 이전 정부에서 내놓은 공공임...",
+      "published": "Sun, 27 Sep 2026 08:10:16 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
+      "url": "https://www.yna.co.kr/view/AKR20260922165200001",
+      "summary": "(서울=연합뉴스) 류미나 기자 = 대학생·취업준비생 등을 위한 소액금융 상품 '햇살론유스' 신청자 5명 중 1명 이상이 대출 심사의 문턱을 넘지...",
+      "published": "Sun, 27 Sep 2026 08:05:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
+      "url": "https://www.yna.co.kr/view/AKR20260923077200061",
+      "summary": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 지역화폐 발행을 확대하는 등 내년 민생회복을 위한 각종 대책을 마련해 추진한다고 27일 밝혔다.",
+      "published": "Sun, 27 Sep 2026 08:02:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "제주 양식 고등어 일본 간다…스타트업 메가플랜, 수출 협약",
+      "url": "https://www.yna.co.kr/view/AKR20260922155600056",
+      "summary": "(제주=연합뉴스) 김호천 기자 = 제주의 육상 양식장에서 키운 고등어가 일본으로 수출된다.",
+      "published": "Sun, 27 Sep 2026 08:00:11 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "원주시, 10월 3일 '사회적경제컴퍼니'…ESG·민관협력 확대",
+      "url": "https://www.yna.co.kr/view/AKR20260923043500062",
+      "summary": "(원주=연합뉴스) 임보연 기자 = 강원 원주시가 사회적경제기업과 공공기관, 시민이 함께 사회적경제의 가치와 성과를 나누는 참여형 축제를 마련한다...",
+      "published": "Sun, 27 Sep 2026 08:00:08 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "광주 중앙공원 특례사업 시공권 놓친 한양, 400억 위약금 승소",
+      "url": "https://www.yna.co.kr/view/AKR20260923069700054",
+      "summary": "(전남광주=연합뉴스) 정회성 기자 = 광주 중앙공원 1지구 민간공원 특례사업의 주주권 분쟁에서 아파트 시공권을 놓친 BS한양(이하 한양)이 40...",
+      "published": "Sun, 27 Sep 2026 08:00:07 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "LG전자, 전기쿡탑 종주국 미국서 줄줄이 최고 평가",
+      "url": "https://www.yna.co.kr/view/AKR20260923100700003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = LG전자 인덕션 쿡탑이 전기쿡탑의 원조 국가인 미국의 주요 매체로부터 최고 평가를 받았다.",
+      "published": "Sun, 27 Sep 2026 07:45:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "1천조 시장 열리는 AI반도체…\"정부, 공급망 진출 지원해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20260923100300003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 인공지능(AI) 시장의 핵심 인프라로서 성장성이 큰 데이터센터용 AI반도체 시장에 후발 주자인 한국 기업들이 ...",
+      "published": "Sun, 27 Sep 2026 07:31:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
+      "url": "https://www.yna.co.kr/view/AKR20260923161100008",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 국내 상장사들의 3분기 실적 전망이 기업별로 크게 엇갈리고 있다. 절반 이상은 최근 영업이익 눈높이가 높아진 ...",
+      "published": "Sun, 27 Sep 2026 07:15:02 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "경기도, 내년 개발제한구역 주민지원사업 국비 123억원 확보",
+      "url": "https://www.yna.co.kr/view/AKR20260923130100061",
+      "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 국토교통부의 내년도 개발제한구역(그린벨트) 주민지원사업과 관련해 국비 123억원을 확보했다고 27일 ...",
+      "published": "Sun, 27 Sep 2026 07:01:04 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "입법조사처 \"가축전염병 느는데…수의직 공무원 결원율 34%\"",
+      "url": "https://www.yna.co.kr/view/AKR20260923179400030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 가축방역을 담당하는 수의직 공무원의 결원율이 지난해 34%를 넘어선 것으로 나타났다.",
+      "published": "Sun, 27 Sep 2026 07:00:05 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
+      "url": "https://www.yna.co.kr/view/AKR20260926021000008",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 이번 주 국내 주식시장은 추석 연휴 기간 발생한 글로벌 증시 관련 이벤트를 소화하며 방향성 탐색으로 한 주를 ...",
+      "published": "Sun, 27 Sep 2026 07:00:03 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[반려동물] \"펫로스는 노령기부터 지원 필요…동물병원비 부담은 낮춰야\"",
+      "url": "https://www.yna.co.kr/view/AKR20260923177200030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 반려동물과의 이별에 따른 상실감을 뜻하는 '펫로스'에 대한 지원이 사별 이후보다 반려동물이 나이가 드는 노령기...",
+      "published": "Sun, 27 Sep 2026 06:30:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "작년 360억원 쏟은 K푸드 수출 지원…지원 기업 53% 수출액 감소",
+      "url": "https://www.yna.co.kr/view/AKR20260926039900030",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 지난해 농림축산식품부의 '농식품글로벌성장패키지' 지원 기업 가운데 절반 넘게 수출액이 감소한 것으로 나타났다.",
+      "published": "Sun, 27 Sep 2026 06:01:02 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"8월 오디세이·스파이더맨에 4명 중 1명 2회 이상 영화관람\"",
+      "url": "https://www.yna.co.kr/view/AKR20260926043700002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 대작 '오디세이'와 '스파이더맨: 브랜드 뉴 데이'(스파이더맨 4)가 연달아 극장가를 강타했던 지난달 4명에 ...",
+      "published": "Sun, 27 Sep 2026 06:01:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "최수진 \"한중 FTA 10년…경제적 효과는 정부예상치 4 분의 1\"",
+      "url": "https://www.yna.co.kr/view/AKR20260922148900001",
+      "summary": "(서울=연합뉴스) 조다운 기자 = 한중 자유무역협정(FTA)의 경제적 효과가 정부 예상치의 4분의 1 수준에 불과한 것으로 나타났다고 국민의힘 ...",
+      "published": "Sun, 27 Sep 2026 06:00:45 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"조달청, 외부선임 소송 패소율 41%…직접 수행 두배\"",
+      "url": "https://www.yna.co.kr/view/AKR20260926036400002",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 조달청이 외부 법률전문가를 선임해 수행한 소송의 패소율이 자체 소송의 두 배를 넘는 것으로 파악됐다.",
+      "published": "Sun, 27 Sep 2026 05:59:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "엔화 스테이블코인 3배로 뛰었다 급락…1인당 평가손 130만원",
+      "url": "https://www.yna.co.kr/view/AKR20260926030100002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 엔화 스테이블코인이 국내 거래소 상장 뒤 이상 급등 현상을 보인 와중에 상당수 투자자들이 손실을 입은 것으로 ...",
+      "published": "Sun, 27 Sep 2026 05:57:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "강남3구 주요단지 '추풍낙엽'…반포 5.5억·도곡 2.1억 급락",
+      "url": "https://www.yna.co.kr/view/AKR20260923098200003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 강남3구 주요 단지에서는 최근 몇 달 새 앞선 거래보다 수억원 낮은 가격에 계약이 체결되고 호가를 낮춘 매물이...",
+      "published": "Sun, 27 Sep 2026 05:57:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'공정위 퇴직자 잘나가네'…10대 로펌에 10년간 86명 이직",
+      "url": "https://www.yna.co.kr/view/AKR20260923197000002",
+      "summary": "(세종=연합뉴스) 김수현 기자 = 공정거래위원회 퇴직자 86명이 최근 10년간 김앤장, 태평양, 세종 등을 포함한 10대 로펌으로 이직한 것으로...",
+      "published": "Sun, 27 Sep 2026 05:55:03 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "매물 품귀에 서울 아파트 전세보증금 2년전보다 8천만원 상승",
+      "url": "https://www.yna.co.kr/view/AKR20260926024600003",
+      "summary": "(서울=연합뉴스) 서미숙 기자 = 서울 아파트 전세 계약 만기가 도래한 임차인은 새로 전세를 얻거나 재계약을 할 때 보증금을 2년 전보다 8천만...",
+      "published": "Sun, 27 Sep 2026 05:55:02 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금감원 검사결과 중간발표, '소비자피해 우려' 등에만 허용",
+      "url": "https://www.yna.co.kr/view/AKR20260926020600002",
+      "summary": "(서울=연합뉴스) 배영경 강류나 기자 = 금융감독원이 검사 결과를 중간에 발표해 논란이 되는 일이 줄어들 것으로 보인다. 원칙적으로 제한하되 금...",
+      "published": "Sun, 27 Sep 2026 05:53:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
+      "url": "https://www.yna.co.kr/view/AKR20260925042800002",
+      "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 금융당국이 금리 인상기 취약차주 상환 충격 흡수를 위해 정책서민금융상품 등 고정금리 대출 확대에 주력하...",
+      "published": "Sun, 27 Sep 2026 05:51:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대출 갈아타라더니 금리가 더 높다?…은행권 '금리 역전' 현상",
+      "url": "https://www.yna.co.kr/view/AKR20260923166500002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 은행권 대환 대출 금리가 일반 신규 대출 금리보다 높은 경우가 많다는 지적이 제기됐다.",
+      "published": "Sun, 27 Sep 2026 05:49:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "연휴 뒤 5대 은행장 인선 본격화…은행 추천위 역할 확대",
+      "url": "https://www.yna.co.kr/view/AKR20260926027200002",
+      "summary": "(서울=연합뉴스) 한지훈 이도흔 기자 = 추석 연휴 직후 각 금융그룹의 차기 은행장 선임 절차가 본격적으로 시작된다.",
+      "published": "Sun, 27 Sep 2026 05:47:00 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미래기금 사업 131건 중 감액 6건…95%는 부처 요구 그대로",
+      "url": "https://www.yna.co.kr/view/AKR20260925046400002",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 반도체 세수 호황을 기반으로 조성되는 미래대응기금 지출 사업의 95% 이상이 부처 요구 원안대로 반영되거나 추...",
+      "published": "Sun, 27 Sep 2026 05:45:03 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미래기금 지방 보조사업비 3년간 쓴다…회계연도 예외 더 길게",
+      "url": "https://www.yna.co.kr/view/AKR20260926043000002",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 정부는 미래대응기금의 지방계정에 반영한 국고 보조사업비를 최장 3년간 쓸 수 있도록 '회계연도 독립 원칙'의 ...",
+      "published": "Sun, 27 Sep 2026 05:45:03 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "올해 초과세수 '50조원+α'…내년 미래대응기금 200조원 넘을 듯",
+      "url": "https://www.yna.co.kr/view/AKR20260926037000002",
+      "summary": "(세종=연합뉴스) 이세원 이대희 안채원 기자 = 정부가 반도체 경기 호조 등을 반영해 다시 계산한 올해 초과세수 규모가 50조원을 넘어설 것으로...",
+      "published": "Sun, 27 Sep 2026 05:45:01 +0900",
+      "scraped_at": "2026-09-27T00:03:27.889Z"
+    },
     {
       "source_id": "yonhap",
       "source_name": "연합뉴스",
@@ -12700,386 +13080,6 @@
       "summary": "(서울=연합뉴스) 한지훈 기자 = 신한금융그룹은 베트남 시가총액 1위 민간 기업인 빈그룹과 협력을 확대하기로 했다고 20일 밝혔다.",
       "published": "Sun, 20 Sep 2026 09:00:03 +0900",
       "scraped_at": "2026-09-20T02:26:03.917Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'창사 첫 파업' 사측과 골프?…삼성·포스코 노조 '위원장 리스크'",
-      "url": "https://www.hankyung.com/article/2026092056167",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 08:20:54 +0900",
-      "scraped_at": "2026-09-19T23:50:21.459Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"김밥 한 줄 먹으려 40분 대기\"…백화점이 '로컬 브랜드' 모시는 이유 [박수림의 요즘 여기]",
-      "url": "https://www.hankyung.com/article/202609183306g",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 07:30:03 +0900",
-      "scraped_at": "2026-09-19T23:50:21.459Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "휴게소 돈가스 가격 30% 뛰었다…호두과자·커피도 '깜짝'",
-      "url": "https://www.hankyung.com/article/2026092055857",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 07:23:43 +0900",
-      "scraped_at": "2026-09-19T23:50:21.459Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "외국인 실업급여 '역대 최대'…수급자 열명 중 여덟 중국계 [곽용희의 일자리노트]",
-      "url": "https://www.hankyung.com/article/202609195257i",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 07:00:07 +0900",
-      "scraped_at": "2026-09-19T23:50:21.459Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "애플도 이제 코인처럼?…290조 몰린 서학개미들 '술렁' [김주완의 글로벌머니 X파일]",
-      "url": "https://www.hankyung.com/article/202609195213i",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 07:00:04 +0900",
-      "scraped_at": "2026-09-19T23:50:21.459Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "전세 상승도 가파른 중하위권…국평서 '한강벨트 수준' 10억",
-      "url": "https://www.yna.co.kr/view/AKR20260920008900003",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 올해 서울 아파트값 상승세가 가파르게 이어지는 가운데 가격 상승을 견인하는 중위권 이하 지역에도 국평(전용 8...",
-      "published": "Sun, 20 Sep 2026 08:31:29 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[게시판] 수은, 추석 앞두고 사회복지시설에 3억6천만원 기부",
-      "url": "https://www.yna.co.kr/view/AKR20260919055600002",
-      "summary": "▲ 한국수출입은행은 추석을 앞두고 전국 17개 사회복지시설에 총 3억6천만원을 기부하고 임직원 봉사활동을 했다고 20일 밝혔다. 임직원들은 지난...",
-      "published": "Sun, 20 Sep 2026 08:05:00 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[현장in] '건축비 폭등·주관사 이견'…평택 아주대병원 8년째 공회전",
-      "url": "https://www.yna.co.kr/view/AKR20260918131100061",
-      "summary": "(평택=연합뉴스) 최해민 기자 = 경기 평택시 브레인시티 내 아주대병원 건립 사업이 8년째 제자리걸음을 면치 못하고 있다.",
-      "published": "Sun, 20 Sep 2026 08:01:02 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"불기소됐으니 11억\" 이만희 상대 소송 건 법무법인…2심도 패소",
-      "url": "https://www.yna.co.kr/view/AKR20260919039900004",
-      "summary": "(서울=연합뉴스) 김빛나 기자 = 이만희 신천지 총회장을 대리했던 법무법인 태평양이 불기소 처분에 따른 추가보수 11억원을 지급하라며 소송을 냈...",
-      "published": "Sun, 20 Sep 2026 08:00:01 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "부산시, 동백전 캐시백 이달 30일까지 최대 15%로 상향",
-      "url": "https://www.yna.co.kr/view/AKR20260920007100051",
-      "summary": "(부산=연합뉴스) 손형주 기자 = 부산시는 시민의 생활비 부담을 덜고 소상공인의 경영 비용을 완화하기 위해 이달 30일까지 동백전 캐시백을 최대...",
-      "published": "Sun, 20 Sep 2026 07:56:55 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[경산소식] 착한가격업소 이용하면 월 최대 2만5천 원 돌려준다",
-      "url": "https://www.yna.co.kr/view/AKR20260918129100053",
-      "summary": "(경산=연합뉴스) 경북 경산시는 지역 착한가격업소에서 경산사랑카드로 결제하면 결제금액의 5%를 추가 캐시백으로 지원하는 사업을 시행하고 있다고 ...",
-      "published": "Sun, 20 Sep 2026 07:37:00 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "입법조사처 \"CPTPP 가입 시 보조금 제한…수산업 피해 가능성\"",
-      "url": "https://www.yna.co.kr/view/AKR20260917178300051",
-      "summary": "(부산=연합뉴스) 이영재 기자 = 정부가 검토 중인 포괄적·점진적 환태평양경제동반자협정(CPTPP)에 가입하면 수산 보조금 지급 제한으로 국내 ...",
-      "published": "Sun, 20 Sep 2026 07:01:01 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"현실 반영 못한 탁상행정\"…농지전수조사에 농촌 혼란·반발",
-      "url": "https://www.yna.co.kr/view/AKR20260918106800055",
-      "summary": "(전국종합=연합뉴스) 정부가 사상 처음으로 농지전수조사에 착수하자 농촌 현실을 외면한 채 경자유전 원칙만 강조하고 있다는 비판이 제기된다.",
-      "published": "Sun, 20 Sep 2026 07:00:05 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'아빠찬스' 前선관위 사무총장 딸, 임용취소 불복소송 승소",
-      "url": "https://www.yna.co.kr/view/AKR20260919042600004",
-      "summary": "(서울=연합뉴스) 이승연 기자 = 중앙선거관리위원회(중앙선관위)가 특혜 채용 논란을 빚은 박찬진 전 사무총장 딸 임용을 취소한 처분이 위법하다는...",
-      "published": "Sun, 20 Sep 2026 07:00:04 +0900",
-      "scraped_at": "2026-09-19T23:50:26.700Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 'K푸드 2.0' [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202609183572i",
-      "summary": "",
-      "published": "Sun, 20 Sep 2026 06:00:02 +0900",
-      "scraped_at": "2026-09-19T21:56:37.610Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "출생아 늘자 분유 시장도 반등…프리미엄 제품 매출 '껑충'",
-      "url": "https://www.yna.co.kr/view/AKR20260919019400030",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 출생아 감소로 장기간 침체했던 국내 분유 시장이 최근 출생아 증가와 함께 회복세를 보이고 있다.",
-      "published": "Sun, 20 Sep 2026 06:50:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "휴게소 돈가스 5년새 28%↑…호두과자·커피도 20% 안팎 상승",
-      "url": "https://www.yna.co.kr/view/AKR20260919025600003",
-      "summary": "(서울=연합뉴스) 김윤구 기자 = 고속도로 휴게소에서 판매하는 돈가스와 호두과자 가격이 최근 5년간 20% 넘게 오른 것으로 나타났다. 국밥, ...",
-      "published": "Sun, 20 Sep 2026 06:45:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
-      "url": "https://www.yna.co.kr/view/AKR20260919022200008",
-      "summary": "(서울=연합뉴스) 강수지 기자 = 국제유가가 공급 차질 우려 완화에 반락했지만, 국내 채권시장의 단기금리 상승 부담은 오히려 커지고 있다.",
-      "published": "Sun, 20 Sep 2026 06:30:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "취준생 몰리던 '네카오'…공채 멈추고 취업문 좁아지나",
-      "url": "https://www.yna.co.kr/view/AKR20260918167700017",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 국내 양대 플랫폼 기업인 네이버와 카카오[035720]는 이른바 '네카오'로 불리며 대졸 취업준비생과 정보기술...",
-      "published": "Sun, 20 Sep 2026 06:15:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "시장경보 4종목중 1개는 20일만에 30%↓…개미는 그래도 '사자'",
-      "url": "https://www.yna.co.kr/view/AKR20260919002900008",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 한국거래소의 투자경고·투자위험 종목으로 지정된 사례 4건 중 1건은 불과 20거래일 만에 주가가 30% 이상 ...",
-      "published": "Sun, 20 Sep 2026 06:10:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "학자금채무자 해외이주 미신고 4년새 4배…파악까지 평균 254일",
-      "url": "https://www.yna.co.kr/view/AKR20260919030800530",
-      "summary": "(서울=연합뉴스) 노재현 기자 = 취업후 상환 학자금대출 채무자가 해외로 이주하면서 사전신고를 하지 않는 사례가 4년 새 4배 넘게 늘어난 것으...",
-      "published": "Sun, 20 Sep 2026 06:09:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'친환경' 제품 인증 취소 3년간 464건…사유 공개는 '부실'",
-      "url": "https://www.yna.co.kr/view/AKR20260918132200530",
-      "summary": "(서울=연합뉴스) 이재영 기자 = 정부가 '친환경' 제품에 부여하는 환경표지 인증이 최근 3년간 464건 취소됐으며, 이 가운데 85%는 환경성...",
-      "published": "Sun, 20 Sep 2026 06:08:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "외국인이 받은 육아휴직 급여 1년새 2배로…지난해 364억원 지급",
-      "url": "https://www.yna.co.kr/view/AKR20260918144200530",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 지난해 외국인에게 지급된 육아휴직 급여가 364억원으로 1년 새 두배로 늘어난 것으로 나타났다.",
-      "published": "Sun, 20 Sep 2026 06:05:02 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "도수치료 제한하자 신장분사 치료 청구 53%↑…'풍선효과' 현실화",
-      "url": "https://www.yna.co.kr/view/AKR20260919041100530",
-      "summary": "(서울=연합뉴스) 김영신 기자 = 정부가 올해 7월 대표적 과잉진료 비급여 항목이었던 도수치료를 관리급여로 지정해 가격과 횟수를 제한한 이후 도...",
-      "published": "Sun, 20 Sep 2026 06:01:02 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "부동산 정책 몇달만에 잇단 조정…시장은 '예측가능성' 우려",
-      "url": "https://www.yna.co.kr/view/AKR20260918167600003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 이재명 정부 출범 이후 1년여간 토지거래허가구역 실거주 의무와 다주택자 양도소득세, 종합부동산세 등 주요 부동...",
-      "published": "Sun, 20 Sep 2026 06:01:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "공정위 민생사정 속도전에 기업 불복…현장조사부터 제동",
-      "url": "https://www.yna.co.kr/view/AKR20260918190200002",
-      "summary": "(세종=연합뉴스) 김수현 기자 = 공정거래위원회의 현장 조사가 기업들의 반발에 부딪히고 법원에서 잇따라 제동이 걸리면서 공정위가 고심하는 모양새...",
-      "published": "Sun, 20 Sep 2026 06:01:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
-      "url": "https://www.yna.co.kr/view/AKR20260918189100008",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 지난 한 주 국내 주식시장은 국제유가와 금리 급등, 인공지능(AI) 속도조절론 등 대형 악재가 연달아 엄습해 ...",
-      "published": "Sun, 20 Sep 2026 06:00:06 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "재계, 메가특구 사회적 대화에 \"시간끌기용 명분쌓기\" 우려",
-      "url": "https://www.yna.co.kr/view/AKR20260918134000003",
-      "summary": "(서울=연합뉴스) 장하나 임성호 김민지 강태우 기자 = 전국민주노동조합총연맹(민주노총)이 정부가 제안한 메가특구특별법 노동 특례 논의를 위한 '...",
-      "published": "Sun, 20 Sep 2026 05:59:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
-      "url": "https://www.yna.co.kr/view/AKR20260919051000003",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 한국과 미국이 이르면 다음 주 초 대미 투자 1호 사업을 발표하기 위해 막바지 조율을 이어가는 가운데 발표를 ...",
-      "published": "Sun, 20 Sep 2026 05:57:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "조달금리 올랐지만 카드론 금리 동결…\"중금리대출 영향\"",
-      "url": "https://www.yna.co.kr/view/AKR20260919051600002",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 1년 새 여신업계의 조달금리가 급등했는데도 차주가 부담하는 평균 카드론 금리는 그대로 유지된 것으로 나타났다....",
-      "published": "Sun, 20 Sep 2026 05:57:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주요국 금리인상에 기업 경영전략 '빨간불'…조달비용 커진다",
-      "url": "https://www.yna.co.kr/view/AKR20260918147200003",
-      "summary": "(서울=연합뉴스) 조성흠 김윤구 임성호 기자 = 미국 연방준비제도(Fed·연준)가 3년 2개월 만에 기준금리를 올리는 등 주요국들이 금리 인상 ...",
-      "published": "Sun, 20 Sep 2026 05:55:11 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "서울시, DMC 홍보관용지 재차 매각 공고…이번엔 새 주인 찾을까",
-      "url": "https://www.yna.co.kr/view/AKR20260918116900004",
-      "summary": "(서울=연합뉴스) 김준태 기자 = 서울시가 상암 디지털미디어시티(DMC) 홍보관 부지 재매각에 다시 나서 새 주인을 찾을 수 있을지 주목된다.",
-      "published": "Sun, 20 Sep 2026 05:55:02 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "상반기 인터넷은행 개인사업자 대출 8.3조…1년 새 50% 증가",
-      "url": "https://www.yna.co.kr/view/AKR20260919052300002",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 인터넷전문은행들이 가계대출 규제 속에 개인사업자대출을 중심으로 기업금융 확대에 나서는 한편 플랫폼, 자산관리 ...",
-      "published": "Sun, 20 Sep 2026 05:55:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "금융위 올해 소송 절반 패소에…홍콩 ELS 과징금 장고",
-      "url": "https://www.yna.co.kr/view/AKR20260919032400002",
-      "summary": "(서울=연합뉴스) 배영경 기자 = 금융위원회가 결정한 행정처분을 둘러싼 소송금액이 최근 5년간 200억원에 달하는데 금융위가 패소하는 경우도 적...",
-      "published": "Sun, 20 Sep 2026 05:53:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "생애최초 LTV 혼란 줄어드나…예외사유 유권해석 나온다",
-      "url": "https://www.yna.co.kr/view/AKR20260919054300002",
-      "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 은행들이 생애최초 주택담보대출비율(LTV)을 적극적으로 적용하도록 금융당국이 불가피한 사유와 관련해 유...",
-      "published": "Sun, 20 Sep 2026 05:51:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "세금·복지 재분배 OECD 29개국 중 28위…고령층은 더 부진",
-      "url": "https://www.yna.co.kr/view/AKR20260919056500002",
-      "summary": "(세종=연합뉴스) 이대희 기자 = 한국의 조세와 복지제도를 통한 소득재분배 기능이 경제협력개발기구(OECD) 회원국 중 최하위권에 머무는 것으로...",
-      "published": "Sun, 20 Sep 2026 05:49:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "반도체 제조업 일자리 8년새 15% 늘었지만…신규채용은 22%↓",
-      "url": "https://www.yna.co.kr/view/AKR20260919046000002",
-      "summary": "(세종=연합뉴스) 안채원 기자 = 반도체 제조업의 임금근로 일자리가 8년 새 15% 가까이 늘며 역대 최대치를 기록했지만, 신규채용 일자리는 2...",
-      "published": "Sun, 20 Sep 2026 05:47:00 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "고금리에 깊어진 양극화…저신용 자영업 연체율 5년새 4∼5배로",
-      "url": "https://www.yna.co.kr/view/AKR20260919036700002",
-      "summary": "(서울=연합뉴스) 한지훈 이도흔 기자 = 반도체 특수의 이면에서 긴축의 그늘이 짙어지고 있다. 호황의 온기가 고루 퍼지기도 전에, 고금리의 한기...",
-      "published": "Sun, 20 Sep 2026 05:45:01 +0900",
-      "scraped_at": "2026-09-19T21:56:42.214Z"
     }
   ]
 }
