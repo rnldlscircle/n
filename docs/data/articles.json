@@ -1,6 +1,286 @@
 {
-  "updated_at": "2026-10-06T17:36:52.170Z",
+  "updated_at": "2026-10-06T22:01:22.359Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"돈 싸들고 줄부터 섰다\"…삼전닉스 '대박 전망' 나온 이유 [테크로그]",
+      "url": "https://www.hankyung.com/article/202610017885g",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 06:00:14 +0900",
+      "scraped_at": "2026-10-06T22:01:14.155Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"정산 빨라져도 눈앞이 캄캄\"…쿠팡·다이소 거래처들 '긴장' [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202610064731i",
+      "summary": "",
+      "published": "Wed, 07 Oct 2026 06:00:03 +0900",
+      "scraped_at": "2026-10-06T22:01:14.155Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "3주 파업 예고한 삼성바이오 노조…생산·수주 불확실성 커진다",
+      "url": "https://www.yna.co.kr/view/AKR20261006102700017",
+      "summary": "(서울=연합뉴스) 신선미 기자 = 임금 인상과 인사 제도 개선을 둘러싼 삼성바이오로직스 노사 갈등이 반년 넘게 이어진 끝에 3주간의 2차 파업이...",
+      "published": "Wed, 7 Oct 2026 06:33:01 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"농업용 드론 보험금 지급 3년 새 4.7배…안전관리 과제\"",
+      "url": "https://www.yna.co.kr/view/AKR20261006127300030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 농촌 인력난을 덜기 위해 농업용 드론 보급이 확대되는 가운데 농업용 드론의 보험금 지급 건수가 최근 3년 새 ...",
+      "published": "Wed, 7 Oct 2026 06:30:01 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "스마트시티 서비스 10개 중 4개 운영차질…국비 환수는 0건",
+      "url": "https://www.yna.co.kr/view/AKR20261006124400003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 국비 600억원이 투입된 스마트시티 챌린지 사업의 세부 서비스 10개 중 4개가 운영이 중단되거나 일부만 이뤄...",
+      "published": "Wed, 7 Oct 2026 06:15:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "건설현장 사망자 절반 이상이 추락사…5년여간 642명",
+      "url": "https://www.yna.co.kr/view/AKR20261006146400003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 최근 5년여간 건설현장에서 발생한 사망사고의 절반 이상이 추락사고인 것으로 나타났다.",
+      "published": "Wed, 7 Oct 2026 06:09:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"알리익스프레스 관련 소비자 피해구제 신청 4년간 1천건 육박\"",
+      "url": "https://www.yna.co.kr/view/AKR20260930165200001",
+      "summary": "(서울=연합뉴스) 이정현 기자 = 국내 시장에서 빠르게 몸집을 키운 전자상거래 업체인 알리익스프레스와 관련한 소비자 피해구제 신청이 최근 4년간...",
+      "published": "Wed, 7 Oct 2026 06:00:13 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "원전수출 시대 본격 추진…산·학·연·관 '리더스포럼' 출범",
+      "url": "https://www.yna.co.kr/view/AKR20261006182500003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 한국형 원전의 미국 진출을 계기로 원전 수출 시대를 열기 위해 민관이 힘을 합친다.",
+      "published": "Wed, 7 Oct 2026 06:00:03 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "실손24 EMR업체에 지원금 72억원…청구 실적 없어도 유지비 준다",
+      "url": "https://www.yna.co.kr/view/AKR20261006188200002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 실손보험 청구 전산화 서비스 '실손24' 활성화를 위해 보험개발원이 전자의무기록(EMR) 업체에 70억원이 넘...",
+      "published": "Wed, 7 Oct 2026 05:57:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "기업은행, '가짜 기술평가' 의심 기업들에 1천500억원대 대출",
+      "url": "https://www.yna.co.kr/view/AKR20261006172600002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = IBK기업은행이 허위로 의심되는 기술신용평가(TCB)와 관련된 기업들에 1천500억원 넘는 자금을 빌려준 것으...",
+      "published": "Wed, 7 Oct 2026 05:55:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "은행 해킹 피해자 집단소송 움직임…로펌서 손해배상 원고 모집",
+      "url": "https://www.yna.co.kr/view/AKR20261006170400002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 최근 은행권 개인정보 유출 사고와 관련해 피해자들의 집단소송 움직임이 나타나고 있다.",
+      "published": "Wed, 7 Oct 2026 05:53:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "해외IB, 올해 한국 성장 전망치 3.5%로 상향…JP모건 4% 제시",
+      "url": "https://www.yna.co.kr/view/AKR20261006176700002",
+      "summary": "(서울=연합뉴스) 채새롬 기자 = 해외 주요 투자은행(IB)들이 올해에 이어 내년 한국 경제 성장률 전망치를 잇달아 상향 조정하고 있다.",
+      "published": "Wed, 7 Oct 2026 05:51:00 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "용모 평가·미자격자 서류 합격…'불공정 채용' 공공기관들",
+      "url": "https://www.yna.co.kr/view/AKR20261006189200001",
+      "summary": "(서울=연합뉴스) 정연솔 기자 = 농림축산식품부와 해양수산부 산하 일부 공공기관이 용모 평가 포함 면접, 미자격자의 서류 전형 합격 등 '불공정...",
+      "published": "Wed, 7 Oct 2026 05:00:05 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
+      "url": "https://www.yna.co.kr/view/AKR20261007005000072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 6일(현지시간) 국제유가가 강보합세로 마감했다.",
+      "published": "Wed, 7 Oct 2026 04:43:10 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "韓은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구",
+      "url": "https://www.yna.co.kr/view/AKR20261007004100091",
+      "summary": "(샌프란시스코=연합뉴스) 권영전 특파원 = 한국 금융사들을 해킹하는 데 쓰였다는 정황이 드러난 'ARTEX AI'는 중국에서 개발된 사이버 보안...",
+      "published": "Wed, 7 Oct 2026 04:42:07 +0900",
+      "scraped_at": "2026-10-06T22:01:19.339Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Virginia Lieutenant Governor Opposes NextEra-Dominion Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/virginia-lieutenant-governor-opposes-nextera-dominion-deal",
+      "summary": "Virginia Lieutenant Governor Ghazala Hashmi voiced opposition to NextEra’s proposed $67 billion takeover of utility Dominion Energy Inc., adding an outright objection to the calls for more scrutiny of the deal as it awaits state regulatory approval.",
+      "published": "Tue, 06 Oct 2026 21:50:51 GMT",
+      "scraped_at": "2026-10-06T22:01:19.440Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "JetBlue Wins FAA Approval to Take on Spirit’s Slots at LaGuardia",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/jetblue-wins-faa-approval-to-take-on-spirit-s-slots-at-laguardia",
+      "summary": "JetBlue Airways Corp. won approval from the US Federal Aviation Administration to take over Spirit Airlines’ takeoff and landing slots at New York’s LaGuardia Airport.",
+      "published": "Tue, 06 Oct 2026 21:18:59 GMT",
+      "scraped_at": "2026-10-06T22:01:19.440Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Greg Abbott to Skip San Antonio Trump Rally Amid Tight Race",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/texas-governor-in-tight-race-to-skip-trump-rally-in-san-antonio",
+      "summary": "Texas Governor Greg Abbott is planning to skip a political rally in San Antonio headlined by President Donald Trump, declining a chance to appear with the country’s highest-profile Republican as his reelection bid faces a surprisingly strong challenge from Democrat Gina Hinojosa.",
+      "published": "Tue, 06 Oct 2026 19:01:03 GMT",
+      "scraped_at": "2026-10-06T22:01:19.440Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Crescimento da fortuna de André Esteves",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-06/crescimento-da-fortuna-de-andre-esteves-video",
+      "summary": "Matheus Piovesana conta sobre o crescimento da fortuna do bilionário André Esteves. Com produção de Mariana Lumy e edição de Raphael Almeida.\n\n (Source: Bloomberg)",
+      "published": "Tue, 06 Oct 2026 20:56:20 GMT",
+      "scraped_at": "2026-10-06T22:01:19.440Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "FTSE Reiterates Indonesia’s Emerging Status Amid Ongoing Reforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/ftse-reiterates-indonesia-s-emerging-status-amid-ongoing-reforms",
+      "summary": "FTSE Russell has reaffirmed the emerging-market status of Indonesian equities amid measures taken by local authorities to improve transparency.",
+      "published": "Tue, 06 Oct 2026 20:50:56 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-06/constellation-energy-surges-12-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Sally Bakewell, Carol Massar and Jess Menton. (Source: Bloomberg)",
+      "published": "Tue, 06 Oct 2026 20:31:33 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Billionaire C&A Family Taps CFO to Lead 185-Year-Old Empire",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/billionaire-c-a-family-taps-cfo-to-lead-185-year-old-empire",
+      "summary": "The billionaire Brenninkmeijer family’s holding company has named a sixth-generation member as its new chairman, accelerating the succession plans for one of Europe’s richest business dynasties.",
+      "published": "Tue, 06 Oct 2026 20:30:00 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Bond Market’s Threat to American Hegemony",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-06/the-bond-market-s-threat-to-american-hegemony",
+      "summary": "Look at the US-China spread.",
+      "published": "Tue, 06 Oct 2026 20:25:58 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bessent Risks Higher Yields If He Axes 20-Year Bond, BNP Warns",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/bessent-axing-20-year-treasury-may-send-yields-higher-bnp-warns",
+      "summary": "Treasury Secretary Scott Bessent should resist calls to ax the 20-year bond, as doing so could send borrowing costs higher, according to BNP Paribas SA.",
+      "published": "Tue, 06 Oct 2026 20:25:39 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazil Market Euphoria Hinges on Fixes Flávio Bolsonaro Is Yet to Lay Out",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/brazil-market-euphoria-hinges-on-fixes-flavio-bolsonaro-is-yet-to-lay-out",
+      "summary": "Investors are betting Brazil’s election-fueled rally has just begun — a wager that ultimately hinges on a fiscal overhaul markets have long demanded, but still know little about.",
+      "published": "Tue, 06 Oct 2026 14:21:36 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Florida’s Public Schools Load Up on Debt Like Never Before",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/florida-s-troubled-public-schools-load-up-on-debt-to-pay-bills",
+      "summary": "Florida’s public schools are borrowing to pay their bills at the highest level on record, as enrollment declines and competition from school choice programs put pressure on budgets.",
+      "published": "Tue, 06 Oct 2026 17:33:08 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Walter’s Insurance CEO Told DOJ He Was Unaware of Boss’s Loans",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/walter-s-insurance-ceo-told-doj-he-was-unaware-of-boss-s-loans",
+      "summary": "The head of Mark Walter’s insurance companies told authorities he was unaware that the firms had loaned more than $20 billion to the sports mogul’s other businesses, according to people with knowledge of the matter.",
+      "published": "Tue, 06 Oct 2026 18:34:41 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Emera to Buy Canadian Utilities in C$14.3 Billion Deal (EMA CN, CU CN)",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/emera-to-buy-canadian-utilities-in-c-14-3b-deal",
+      "summary": "Emera Inc. agreed to acquire Canadian Utilities Ltd. for about C$14 billion ($10 billion) in stock, creating a sprawling, Canadian-headquartered power and natural gas provider with customers from Florida to Alberta.",
+      "published": "Tue, 06 Oct 2026 10:58:16 GMT",
+      "scraped_at": "2026-10-06T22:01:19.441Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -12820,376 +13100,6 @@
       "summary": "Alaska Airlines CEO Ben Minicucci sits down with Bloomberg's Romaine Bostick during the company's investor day to discuss the airline's foray into plush seats, new lounges in Seattle and Honolulu and international flights. (Source: Bloomberg)",
       "published": "Tue, 29 Sep 2026 21:35:25 GMT",
       "scraped_at": "2026-09-30T00:53:49.752Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"돈잔치? 남의 집 얘기\"…'반도체 집중' 한국도 대만도 고민",
-      "url": "https://www.hankyung.com/article/202609292461g",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 06:00:09 +0900",
-      "scraped_at": "2026-09-29T21:39:31.629Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 김여정, ‘DMZ 北지뢰’ 軍 발표에 “서울의 자작광대극” 부인",
-      "url": "https://www.mk.co.kr/news/politics/12164323",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 06:17:31 +09:00",
-      "scraped_at": "2026-09-29T21:39:35.126Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“날래 돈 쓰라우”…김정은, 안마의자·범퍼카로 경기부양하겠다는데",
-      "url": "https://www.mk.co.kr/news/politics/12152952",
-      "summary": "北 러닝머신·마사지 장비 수입 급증 소비진작·통제가능한 영역으로 유인 전문가 “서민생활과 괴리…시간끌기”김정은 북한 국무위원장이 북한 곳곳에 안마의자와 범퍼카를 깔고 있다. 러닝머..",
-      "published": "Tue, 15 Sep 2026 11:17:27 +09:00",
-      "scraped_at": "2026-09-29T21:39:35.126Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "HD현대중 노사, 임단협 잠정합의…기본급 12만원 인상",
-      "url": "https://www.yna.co.kr/view/AKR20260930009600057",
-      "summary": "(울산=연합뉴스) 김근주 기자 = HD현대중공업 노사가 30일 월 기본급 12만원(호봉승급분 포함) 인상을 골자로 한 올해 임금 및 단체협약(임...",
-      "published": "Wed, 30 Sep 2026 06:26:17 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"입찰 담합 적발되고도 LH 사업 3천억 가까이 수주\"",
-      "url": "https://www.yna.co.kr/view/AKR20260929161500003",
-      "summary": "(서울=연합뉴스) 서미숙 기자 = 한국토지주택공사(LH)가 발주한 건설사업관리(CM) 공사에서 입찰 담합으로 적발된 업체들이 지난해 공정거래위원...",
-      "published": "Wed, 30 Sep 2026 06:07:01 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향\"",
-      "url": "https://www.yna.co.kr/view/AKR20260929148700530",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 비정규직 근로자의 낮은 생활 만족도가 고용 형태 자체보다 사회보험 배제와 낮은 경제적 보상이라는 구조적 조건에...",
-      "published": "Wed, 30 Sep 2026 06:01:01 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "연말까지 농어촌 기본소득 연계 사회연대경제 활성화 모델 공모",
-      "url": "https://www.yna.co.kr/view/AKR20260929119800030",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 농림축산식품부는 연말까지 농어촌 기본소득 시범 지역인 17개 지방자치단체를 대상으로 '농어촌 기본소득 연계 지...",
-      "published": "Wed, 30 Sep 2026 06:00:13 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'주택공급 선행지표' 서울 인허가 올들어 개선 추세",
-      "url": "https://www.yna.co.kr/view/AKR20260929143100003",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 올 8월까지 서울 아파트 준공(입주) 물량이 작년 같은 기간 대비 23% 감소한 것으로 나타났다. 다만 공급 ...",
-      "published": "Wed, 30 Sep 2026 06:00:12 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
-      "url": "https://www.yna.co.kr/view/AKR20260929150400530",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 건설근로자공제회는 건설노동자의 장기근속을 유도하고 퇴직 후 생활 안정을 돕기 위해 특별퇴직공제금 지급 대상을 ...",
-      "published": "Wed, 30 Sep 2026 06:00:11 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "전국지자체 62곳, 미래기금發 지방교부세 축소에 우려·반대",
-      "url": "https://www.yna.co.kr/view/AKR20260929133400001",
-      "summary": "(서울=연합뉴스) 이정현 기자 = 전국 지자체 62곳이 정부에 미래대응기금 조성과 맞물린 지방교부세 모수 조정에 반대한다는 입장을 표명했다.",
-      "published": "Wed, 30 Sep 2026 06:00:11 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "농어촌 기본소득 지역에 '찾아가는 식품 서비스' 개시",
-      "url": "https://www.yna.co.kr/view/AKR20260929120300030",
-      "summary": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 농어촌 기본소득 시범 지역인 경북 영양군에서 농어촌상생협력기금을 활용한 '찾아가는 식품 서비스...",
-      "published": "Wed, 30 Sep 2026 06:00:10 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "지난해 늘어난 건축물 연면적 축구장 8천400여개 규모",
-      "url": "https://www.yna.co.kr/view/AKR20260929162300003",
-      "summary": "(서울=연합뉴스) 임기창 기자 = 지난해 전국 건축물이 1만7천여동 늘었고 연면적은 축구장 8천400여개만큼 증가한 것으로 나타났다.",
-      "published": "Wed, 30 Sep 2026 06:00:07 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "롯데百, 내달 2∼8일 잠실점서 김천김밥축제 팝업스토어",
-      "url": "https://www.yna.co.kr/view/AKR20260929156800030",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 롯데백화점은 다음 달 2∼8일 잠실점 지하 1층 식품관에서 '2026 김천김밥축제 팝업스토어'를 연다고 30일...",
-      "published": "Wed, 30 Sep 2026 06:00:07 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "8월 기업 주식·회사채 발행 10조 감소…금융채만 7조↓",
-      "url": "https://www.yna.co.kr/view/AKR20260929163600002",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 지난달 기업의 주식·회사채 발행 규모가 10조원 넘게 급감했다.",
-      "published": "Wed, 30 Sep 2026 06:00:02 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "산은 노조 \"97%가 이전 반대\"…이주 곤란 최대사유 '맞벌이'",
-      "url": "https://www.yna.co.kr/view/AKR20260929186900002",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 한국산업은행 노동조합이 공공기관 2차 지방이전 논의가 본격화된 이후 한 설문조사에서 응답 직원 약 97%가 본...",
-      "published": "Wed, 30 Sep 2026 05:59:00 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "산은, 벤처·스타트업 공급 4년새 반토막…대기업엔 20조원대",
-      "url": "https://www.yna.co.kr/view/AKR20260929182700002",
-      "summary": "(서울=연합뉴스) 강류나 기자 = 한국산업은행이 지난해 벤처·스타트업 기업에 공급한 자금이 4년 새 반토막 난 것으로 나타났다.",
-      "published": "Wed, 30 Sep 2026 05:58:01 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "美블루아울 사태에도…한투 IMA 해외사모대출 잔액 '찔끔 감소'",
-      "url": "https://www.yna.co.kr/view/AKR20260929126900002",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 한국투자증권이 종합투자계좌(IMA) 상품에서 유동성 리스크 우려가 있는 해외사모대출 잔액을 크게 줄이지 못한 ...",
-      "published": "Wed, 30 Sep 2026 05:57:00 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주금공 보증 사업장 '부실 경고등'…만기 8번 미룬 PF도",
-      "url": "https://www.yna.co.kr/view/AKR20260929172100002",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 한국주택금융공사가 대출 보증을 제공한 사업장에서 부실이 속출하는 것으로 나타났다.",
-      "published": "Wed, 30 Sep 2026 05:55:01 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "사기 계좌 은행따라 '천차만별'…발생 빈도 5.6배 차이",
-      "url": "https://www.yna.co.kr/view/AKR20260929163300002",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 새로 개설되는 은행 계좌 1만개 중 최대 7.3개가 사기이용계좌로 쓰이는 것으로 나타났다.",
-      "published": "Wed, 30 Sep 2026 05:53:00 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한국은행, 정부와 상의해 외환보유액 순위 삭제했다",
-      "url": "https://www.yna.co.kr/view/AKR20260929176700002",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 한국은행이 최근 외환보유액 국제 순위를 비공개로 돌리는 과정에서 정부와 의견 교환이 있었던 것으로 드러났다.",
-      "published": "Wed, 30 Sep 2026 05:51:01 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "사우디 홍해 원유 수출 재개에 WTI 3.5%↓…8월 31일 이후 최저",
-      "url": "https://www.yna.co.kr/view/AKR20260930005900072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 29일(현지시간) 국제유가가 사우디아라비아의 홍해 원유 수출이 재개됐다는 소식에 급락했다.",
-      "published": "Wed, 30 Sep 2026 05:12:08 +0900",
-      "scraped_at": "2026-09-29T21:39:36.893Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "There Are Some Chills in T-Bills",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-29/there-are-some-chills-in-t-bills",
-      "summary": "The buyers’ strike expands in bonds.",
-      "published": "Tue, 29 Sep 2026 21:36:08 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Torani CEO Melanie Dulbecco on Manufacturing, Company Culture",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/torani-ceo-on-manufacturing-company-culture-video",
-      "summary": "Torani CEO Melanie Dulbecco joins Businessweek Daily in celebration of National Coffee Day. The 101-year-old flavor company has surpassed $800 million in annual revenue, continues to grow more than 20% year over year, and is approaching the $1 billion mark faster than anticipated, as changing bevera",
-      "published": "Tue, 29 Sep 2026 21:33:29 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "CMHC on Canada’s Housing Market",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/cmhc-on-canada-s-housing-market-video",
-      "summary": "Mathieu Laberge, Chief Economist & Senior Vice President, Housing Insights, CMHC, discusses the outlook for Canadian homebuilding, prices and demand and what is required to bring new housing to market at greater speed and scale, with Bloomberg’s Paula Sambo at the 2026 Canadian Finance Conference.  ",
-      "published": "Tue, 29 Sep 2026 21:28:35 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-      "summary": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
-      "published": "Tue, 29 Sep 2026 21:19:19 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "OFA, CMHC on Public-Sector Funding",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/ofa-cmhc-on-public-sector-funding-video",
-      "summary": "Carlos Yep, Director, Funding, Ontario Financing Authority and David Ayre, Treasurer, CMHC, discuss how two of Canada’s largest public-sector issuers are navigating funding needs, market volatility and changing investor demand, with Bloomberg’s Chunzi Xu at the 2026 Canadian Finance Conference.  (So",
-      "published": "Tue, 29 Sep 2026 21:08:13 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "IDB Invest, IFC on the Social Impact of Macro Shocks",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/idb-invest-ifc-on-the-social-impact-of-macro-shocks-video",
-      "summary": "Eusebio Garre, Director & Head of Funding, IDB Invest and Yuri Kuroki, Head of Funding, IFC, discuss how inflation, higher rates, energy volatility and weaker growth are affecting investment in infrastructure, housing and essential services and how development finance institutions can respond, with ",
-      "published": "Tue, 29 Sep 2026 20:50:43 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Paramount Deal Delay Fuels Fears of Costly $52 Billion M&A Debt",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/paramount-deal-delay-fuels-fears-of-costly-52-billion-m-a-debt",
-      "summary": "Paramount Skydance Corp. has been talking to investors for months about the debt it’s selling to fund its Warner Bros. Discovery buyout, only to find that the longer it’s been forced to talk, the more it has to pay.",
-      "published": "Tue, 29 Sep 2026 20:46:04 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "La Caisse, BCI on Bond Market Funding",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/la-caisse-bci-on-bond-market-funding-video",
-      "summary": "Ian Charest, Vice President, Treasury, La Caisse and Charles Lesaux, Head of Funding, BCI, discuss how institutional investors use bond markets to manage funding, liquidity and their balance sheets while supporting broader investment strategies, with Bloomberg’s Layan Odeh at the 2026 Canadian Finan",
-      "published": "Tue, 29 Sep 2026 20:31:35 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Stocks Drop as Traders Parse Economic Data, Fedspeak",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-stock-futures-rise-as-traders-await-key-economic-data",
-      "summary": "US stocks slipped on Tuesday as investors digested the first of several economic data releases scheduled for this week and heard from Federal Reserve officials.",
-      "published": "Tue, 29 Sep 2026 11:59:42 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Global Issuers on Funding Strategy",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/global-issuers-on-funding-strategy-video",
-      "summary": "Randy Ewell, Senior Funding Officer, World Bank Group; Isabelle Laurent, Deputy Treasurer & Head of Funding, EBRD and Charles Perreault, Senior Director, Debt Management, Department of Finance Canada, discuss how global issuers are adapting funding programs to changing rates, geopolitical uncertaint",
-      "published": "Tue, 29 Sep 2026 20:18:25 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bank of Canada Deputy Sees ‘Dilemma’ on Trade War, Energy Shock",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/bank-of-canada-deputy-sees-dilemma-on-trade-war-energy-shock",
-      "summary": "A senior Bank of Canada official said the central bank’s rate-setting body is in a “dilemma” and having spirited discussions about how to balance the impact of the trade war against the inflation effects of high energy prices.",
-      "published": "Tue, 29 Sep 2026 20:09:58 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "PGIM Pushes for AI Limits in CLOs to Avoid Too Much Exposure",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/pgim-pushes-for-ai-limits-in-clos-to-avoid-too-much-exposure",
-      "summary": "PGIM, the asset management arm of Prudential Financial Inc., was the anchor investor on a recent collateralized loan obligation that included a novel safeguard capping the share of its AI-related debt at 15%, according to people familiar with the matter.",
-      "published": "Tue, 29 Sep 2026 19:51:02 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Financing Indigenous Investment and Ownership",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/financing-indigenous-investment-and-ownership-video",
-      "summary": "James Byra, Managing Director, Finance and Investments, First Nations Finance Authority and Michael Fedchyshyn, CEO, Building Ontario Fund, discuss financing structures to expand Indigenous participation and ownership in major projects, close capital gaps and support long-term economic growth, with ",
-      "published": "Tue, 29 Sep 2026 19:50:43 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Nuveen Said to Dump $190 Million of Brightline Debt at 45 Cents",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/nuveen-said-to-dump-190-million-of-brightline-debt-at-45-cents",
-      "summary": "Nuveen LLC was behind a flurry of trading in Brightline’s municipal debt this week, offering up its entire position in the bankrupt private railroad’s senior uninsured bonds, according to people familiar with the matter.",
-      "published": "Tue, 29 Sep 2026 19:49:44 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Barrick Flags Potential Delay for North American IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/barrick-ceo-flags-potential-delay-for-north-america-gold-ipo-mun1ei1e",
-      "summary": "Barrick Mining Corp. Chief Executive Officer Mark Hill said the company’s planned North American gold IPO could slip into January.",
-      "published": "Tue, 29 Sep 2026 18:55:57 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Chile’s Largest Refinery to Undergo Work Amid Diesel Crunch",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/chile-s-largest-refinery-to-undergo-work-amid-diesel-crunch",
-      "summary": "Chile’s state oil company will shut part of the country’s largest oil refinery for maintenance, threatening to worsen the diesel crunch with global fuel markets never tighter.",
-      "published": "Tue, 29 Sep 2026 19:36:24 GMT",
-      "scraped_at": "2026-09-29T21:39:37.206Z"
     }
   ]
 }
