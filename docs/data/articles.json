@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-10-09T16:42:41.078Z",
+  "updated_at": "2026-10-09T22:01:02.952Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[임다연의 요즘 CEO 경영법] \"저 친구 퇴사할거 같은데요\"…AI가 먼저 알려준다",
+      "url": "https://www.hankyung.com/article/202610081389i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 06:00:01 +0900",
+      "scraped_at": "2026-10-09T22:00:57.471Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑]",
+      "url": "https://www.hankyung.com/article/202610103126i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 02:17:12 +0900",
+      "scraped_at": "2026-10-09T22:00:57.471Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "쿠르스크 주둔 북한군 결국 총알받이?…러 “자국 영토 어디든 진입 가능”",
+      "url": "https://www.mk.co.kr/news/politics/12167384",
+      "summary": "러시아 순회대사, 홍콩매체 인터뷰 “북한군, 다른 지역 배치될 수도”러시아·우크라이나 전쟁에서 파병된 북한군이 주로 러시아 쿠르스크주에 배치됐지만, 향후 반격이 필요한 다른 지역으..",
+      "published": "Fri, 02 Oct 2026 17:21:17 +09:00",
+      "scraped_at": "2026-10-09T22:00:58.398Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "김여정, 이 대통령 ‘군사적 긴장완화’ 표명에도…“광대극” 조롱",
+      "url": "https://www.mk.co.kr/news/politics/12167355",
+      "summary": "김여정 북한 노동당 총무부장은 남북 간 군사적 긴장을 낮추기 위한 조치를 이어가겠다고 밝힌 이재명 대통령의 국군의날 기념사를 두고 “자작 광대극의 제2부”라며 조롱했다. 2일 조선..",
+      "published": "Fri, 02 Oct 2026 17:13:23 +09:00",
+      "scraped_at": "2026-10-09T22:00:58.398Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
+      "url": "https://www.yna.co.kr/view/AKR20261002022300017",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = \"인천공항에서 광화문까지 가는 차 좀 잡아줘.\"",
+      "published": "Sat, 10 Oct 2026 06:33:01 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "검사 지휘 폐지됐는데…산안감독관 절반은 수사경력 '1년 미만'",
+      "url": "https://www.yna.co.kr/view/AKR20261009051000530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 검사의 수사지휘권이 폐지된 가운데 산업안전감독관의 절반 가까이는 수사 경력이 1년 미만인 것으로 나타났다. 노...",
+      "published": "Sat, 10 Oct 2026 06:05:01 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "온라인 정기결제·자동갱신 피해구제 최근 5년간 8.8배↑",
+      "url": "https://www.yna.co.kr/view/AKR20261008146100001",
+      "summary": "(서울=연합뉴스) 류미나 기자 = 온라인 서비스의 정기결제·자동갱신과 관련한 소비자 피해구제 신청이 최근 5년간 8.8배로 급증한 것으로 나타났...",
+      "published": "Sat, 10 Oct 2026 06:00:02 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내 기름값 21주째 하락…휘발유·경유 1천800원대 지속",
+      "url": "https://www.yna.co.kr/view/AKR20261008122800003",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 전국 주유소 기름값이 지난주 대비 소폭 내리며 21주 연속 하락세를 이어갔다.",
+      "published": "Sat, 10 Oct 2026 06:00:02 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[부동산캘린더] 내주 향남역 그로브 스위첸 등 1천829가구 분양",
+      "url": "https://www.yna.co.kr/view/AKR20261009050400003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 1천829가구가 분양에 나선다.",
+      "published": "Sat, 10 Oct 2026 06:00:01 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"",
+      "url": "https://www.yna.co.kr/view/AKR20261009048800002",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 국세청이 최근 3년 동안 재정경제부에 낸 세금 관련 법령 개정건의 10건 중 8건은 세법개정안에 담기지 못한 ...",
+      "published": "Sat, 10 Oct 2026 05:57:41 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "작년 체납자 은닉재산 신고포상 32건 12.5억원…평균액 감소",
+      "url": "https://www.yna.co.kr/view/AKR20261009048600002",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 지난해 체납자 은닉재산 신고자에게 지급한 포상금 총액은 전년보다 늘었지만, 건당 평균 지급액은 줄어든 것으로 ...",
+      "published": "Sat, 10 Oct 2026 05:55:05 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+      "url": "https://www.yna.co.kr/view/AKR20261009056800002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 시장금리 상승 속에 은행 정기예금 금리도 연 3%대 후반으로 향하고 있다.",
+      "published": "Sat, 10 Oct 2026 05:53:01 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
+      "url": "https://www.yna.co.kr/view/AKR20261009021400002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 전산장애 발생이 잦은 금융사 20곳의 지난해 정보보호 예산 집행률이 70%를 밑도는 것으로 나타났다.",
+      "published": "Sat, 10 Oct 2026 05:51:00 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "푸틴에 손벌린 트럼프 \"러 경유 공급 합의\"…대러 제재 완화(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261010004551071",
+      "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 러시아산 경유를 미국과 세계 시장에 대규모로 공급하기로 블라디미르 푸틴 러시아...",
+      "published": "Sat, 10 Oct 2026 05:10:13 +0900",
+      "scraped_at": "2026-10-09T22:00:59.862Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Rallies Ahead of Next Week's Earnings | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-rallies-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Sally Bakewell, Carol Massar and Jess Menton. (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 21:48:58 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SpaceX’s Wireless Threat Rises With Spectrum Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/spacex-s-wireless-threat-rises-with-spectrum-deal-video",
+      "summary": "SpaceX investors are finally getting some reprieve after months of being whipsawed by volatility as the Elon Musk-led company’s stock breaks above the level it’s been stuck below since July. SpaceX is closing in on a crucial swath of spectrum needed to turn the rocket, satellite and AI company into ",
+      "published": "Fri, 09 Oct 2026 21:25:57 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Surveillance Pricing, Orszag's Retirement Warning, Suburb Discount Dwindles",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-money-10-9-2026-video",
+      "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Lazard CEO & Chairman Peter Orszag and Partners Group Chief Investment Strategist Anastasia Amoroso. (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 21:23:40 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Masters in Business with Barry Ritholtz",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video",
+      "summary": "Masters in Business with Barry Ritholtz (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 21:00:50 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "A Big Asset Manager Deleveraging Is Underway in Treasury Futures",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/a-big-asset-manager-deleveraging-is-underway-in-treasury-futures",
+      "summary": "Asset managers are offloading long-duration Treasuries futures contracts, an indication that forced selling is underway as cash yields hover just off multiyear highs.",
+      "published": "Fri, 09 Oct 2026 20:41:31 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Social Security Has To Be Addressed: Orszag",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/social-security-has-to-be-addressed-orszag-video",
+      "summary": "\"Both social security and Medicare have looming problems.\" That's Lazard's Peter Orszag on \"Bloomberg Money\" discussing how nothing will change for those programs without a crisis.\n (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 20:36:52 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally",
+      "summary": "The AI-fueled resilience of the world’s most-watched stock indexes is masking a widening retreat across financial markets, as elevated oil prices and borrowing costs take their toll.",
+      "published": "Fri, 09 Oct 2026 20:34:41 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Aritzia Rises Most in Over Two Years on Beat, Better Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/aritzia-surges-most-over-a-year-on-earnings-beat-better-outlook",
+      "summary": "Aritzia Inc. stock had its best trading day in more than two years as accelerating growth in the US and in online sales delivered another quarterly earnings beat. The company increased its full-year sales forecast.  and full-year guidance boost.",
+      "published": "Fri, 09 Oct 2026 16:41:48 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Little-Known Trading Firm That Beat Wall Street’s Biggest Giants",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-little-known-trading-firm-that-beat-wall-street-s-biggest-giants",
+      "summary": "On today’s Big Take podcast, finance reporters Max Abelson and Katherine Doherty discuss their exclusive reporting into who runs Jane Street and why it matters to global markets. (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 20:30:05 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Big Tech Rally Extends Into Fourth Week as AI Bubble Fears Fade",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede",
+      "summary": "US stocks ended the week inches away from record highs as investors brushed aside concerns around the artificial-intelligence spending spree and an energy crunch to prepare for the start of earnings season.",
+      "published": "Fri, 09 Oct 2026 12:01:10 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'Surveillance Pricing' Comes Under Scrutiny",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/-surveillance-pricing-comes-under-scrutiny-video",
+      "summary": "Bloomberg's Max Chafkin, David Gura, and Jessica Karl join Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the ongoing fight over 'surveillance pricing,' the use of consumer data to set prices by retailers, grocers and others. Walmart strenuously denies engaging in this tactic. (Source: ",
+      "published": "Fri, 09 Oct 2026 20:25:03 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "\"Pee Wees: Confessions of a Hockey Parent\", \"The Stories of John Cheever\"",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/tom-scarlet-s-must-read-books-video",
+      "summary": "Bloomberg's Scarlet Fu and Tom Keene discuss their must-read book on this week's edition of \"Bloomberg Money.\" They discuss \"Pee Wees: Confessions of a Hockey Parent\" by Rich Cohen and \"The Stories of John Cheever\" by John Cheever. (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 20:08:22 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Sees an Ominous Sign in Bond Market’s Latest Selloff",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-sees-an-ominous-sign-in-bond-market-selloff-video",
+      "summary": "It’s one of the least understood signals in the fixed-income world, but lately, everyone on Wall Street is abuzz about what it means as it reasserts itself in the market. Bloomberg's Ye Xie explains. (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 19:38:24 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Jersey Suburban Discount Dwindles",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/new-jersey-suburban-discount-dwindles-video",
+      "summary": "Bloomberg's Paulina Cachero joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" For decades, the family playbook was simple: Keep the high-paying New York City job and move to the suburbs across the Hudson River, where a lower cost of living let parents stretch their paycheck. But these days, the N",
+      "published": "Fri, 09 Oct 2026 19:38:08 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output",
+      "summary": "Hurricane Isaias is lifting US Gulf Coast crude prices, with nearly three-quarters of oil production in the region shut in.",
+      "published": "Fri, 09 Oct 2026 19:28:16 GMT",
+      "scraped_at": "2026-10-09T22:01:00.232Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -11720,646 +12010,6 @@
       "summary": "Barry speaks with Omar Aguilar, CEO and CIO of Schwab Asset Management. They discuss his time at Financial Engines, where he worked under Nobel laureate William Sharpe before joining Schwab Asset Management in 2011. They discuss how his doctorate in decision sciences helps him build trust with clien",
       "published": "Fri, 02 Oct 2026 21:00:15 GMT",
       "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
-      "url": "https://www.hankyung.com/article/202610029307i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:00:10 +0900",
-      "scraped_at": "2026-10-02T21:35:17.396Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
-      "url": "https://www.hankyung.com/article/2026100209761",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 06:00:01 +0900",
-      "scraped_at": "2026-10-02T21:35:17.396Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
-      "url": "https://www.hankyung.com/article/202610031364i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 02:12:41 +0900",
-      "scraped_at": "2026-10-02T21:35:17.396Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
-      "url": "https://www.hankyung.com/article/202610031370i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 01:44:24 +0900",
-      "scraped_at": "2026-10-02T21:35:17.396Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "군사분계 ‘선’ 아닌 이유 … 70년간 말뚝도 경계도 사라졌다",
-      "url": "https://www.mk.co.kr/news/politics/12167311",
-      "summary": "DMZ 지뢰 폭발 사고가 드러낸 ‘경계의 흐릿함’“남북의 우발적 충돌을 방지하고 군사적 긴장을 완화하기 위해 남북 군사 당국 회담을 개최하여 군사분계선의 기준선 설정에 대해 논의할..",
-      "published": "Sat, 03 Oct 2026 05:00:00 +09:00",
-      "scraped_at": "2026-10-02T21:35:19.824Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[대구소식] 공공시설공단 직원 155명 공개 채용",
-      "url": "https://www.yna.co.kr/view/AKR20261002116100053",
-      "summary": "(대구=연합뉴스) 대구공공시설관리공단은 지역 청년 일자리 지원 등을 위해 모두 155명의 직원을 공개 채용한다고 3일 밝혔다.",
-      "published": "Sat, 3 Oct 2026 06:30:01 +0900",
-      "scraped_at": "2026-10-02T21:35:21.029Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "새마을금고, 지자체 금고시장 진출 승부수…농협 아성 겨냥",
-      "url": "https://www.yna.co.kr/view/AKR20261002122800002",
-      "summary": "(서울=연합뉴스) 한지훈 기자 = 새마을금고가 지방자치단체 금고 시장에 진입하기 위해 재무 요건 완화와 은행과의 공동 참여를 골자로 한 제도 개...",
-      "published": "Sat, 3 Oct 2026 06:01:01 +0900",
-      "scraped_at": "2026-10-02T21:35:21.029Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[부동산캘린더] 내주 부산 '서면 지원 더뷰 드림' 아파트 등 185가구 분양",
-      "url": "https://www.yna.co.kr/view/AKR20261002139600003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국 2곳에서 총 185가구가 분양에 나선다.",
-      "published": "Sat, 3 Oct 2026 06:00:00 +0900",
-      "scraped_at": "2026-10-02T21:35:21.029Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'큰 돈 벌고도 보안은 뒷전'…대형證, 전산사고 배상 70억 달해",
-      "url": "https://www.yna.co.kr/view/AKR20261002183100002",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 최근 3년 가까운 기간에 10개 대형 증권사에서 전산사고로 고객에게 배상한 금액이 70억원에 달하는 것으로 나...",
-      "published": "Sat, 3 Oct 2026 05:56:00 +0900",
-      "scraped_at": "2026-10-02T21:35:21.029Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "CME Shelves Plans for 24/7 Oil Contract Amid Industry Qualms",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/cme-shelves-plans-for-24-7-oil-contract-after-industry-pushback",
-      "summary": "CME Group Inc. is shelving plans to launch a round-the-clock oil contract following industry pushback.",
-      "published": "Fri, 02 Oct 2026 20:34:44 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dollar Falls as Soft Job Data Roils Timing of Fed Rate-Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/dollar-falls-as-traders-pare-fed-hike-bets-after-soft-jobs-data",
-      "summary": "The dollar posted its worst day in a month on Friday after a report showed the US added fewer jobs than expected in September, briefly leading traders to waver on bets the Federal Reserve will raise interest rates again this year.",
-      "published": "Fri, 02 Oct 2026 13:00:28 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
-      "summary": "Wall Street has spent weeks trying to make peace with the great bond selloff. Friday offered some short-lived relief — along with a warning about the damage from stubbornly high yields across investment strategies of all stripes.",
-      "published": "Fri, 02 Oct 2026 20:40:38 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Treasury Yields Climb, Adding to Weekly Gains | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/treasury-yields-climb-add-to-weekly-gains-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 20:37:40 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/faa-says-737-max-computer-glitch-is-not-safety-issue-video",
-      "summary": "A Federal Aviation Administration review board says a software issue in certain Boeing 737 Max flight computers “is not a safety concern.\" Boeing shares rose on the news. George Ferguson of Bloomberg Intelligence has more. (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 20:36:17 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Why Robert Reich Is So Worried About Stagflation",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/why-robert-reich-is-so-worried-about-stagflation-video",
-      "summary": "Robert Reich, former US secretary of labor and UC Berkeley public policy emeritus professor, says what worries him most about the US economy is stagflation. He talks about kitchen table economics heading into the election on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 20:16:55 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-are-rebuilding-short-bets-against-japan-s-yen",
-      "summary": "Hedge funds rebuilt a short wager against the Japanese yen as the currency remains under pressure.",
-      "published": "Fri, 02 Oct 2026 20:10:08 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "A Fabulous Debt, These Are The Plunderers: Must-Read Books",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/a-fabulous-debt-these-are-the-plunderers-must-read-books",
-      "summary": "Bloomberg's Scarlet Fu and Tom Keene discuss their must-read book on this week's edition of \"Bloomberg Money.\" They discuss 'A Fabulous Debt' by Robin Wigglesworth and 'These Are The Plunderers' Gretchen Morgenson.\n (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 19:49:18 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Nadia Lovell: Equities Must Earn the Next Leg Up",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/nadia-lovell-equities-must-earn-the-next-leg-up-video",
-      "summary": "As stocks rise and bond yields pull back ahead of the jobs report, Nadia Lovell of UBS says she remains bullish on equities, but believes the market’s next advance must be earned. She argues that markets are entering a new investment cycle after years of companies prioritizing financial efficiency t",
-      "published": "Fri, 02 Oct 2026 19:20:35 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Job Growth Falls Short of Forecasts",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/us-job-growth-falls-short-of-forecasts-video-murckvvm",
-      "summary": "Bloomberg's Julia Fanzeres joins Scarlet Fu an Tom Keene on \"Bloomberg Money.\" The US added fewer jobs than expected in September and wage growth slowed, signaling some caution among employers amid rising costs.\n (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 19:19:55 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "See 'Skittishness' Around Credit: Annie Seelaus",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-01/see-skittishness-around-credit-annie-seelaus-video",
-      "summary": "Annie Seelaus, CEO of R. Seelaus, and John Lloyd, global head of multi-sector and corporate credit at Janus Henderson, join Emily Graffeo on \"Bloomberg Real Yield.\" The spread on the riskiest US corporate bonds has jumped above 1,000 basis points over Treasuries for the first time since the regional",
-      "published": "Thu, 01 Oct 2026 19:24:42 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bond Market Selloff in ‘New Chapter,’ JPM’s Berro Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-01/bond-market-selloff-in-new-chapter-jpm-s-berro-says-video",
-      "summary": "Kelsey Berro, fixed income portfolio manager at JPMorgan Asset Management, discusses recent changes in the bond market selloff, saying it now feels “very technically-driven, very momentum-driven.” Berro says on “Bloomberg Surveillance” that she expects investors to refocus soon on the fundamentals a",
-      "published": "Thu, 01 Oct 2026 11:14:39 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Following Your Passion Is The Worst Advice: Welch",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/following-your-passion-is-the-worst-advice-welch-video",
-      "summary": "Suzy Welch, professor of management practice at New York University, joins Scarlet Fu an Tom Keene on \"Bloomberg Money.\" They discuss bad career advice and following your passions professionally. (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 19:12:00 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gen Z Doesn't Want To 'Postpone Joy': Suzy Welch",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/gen-z-doesn-t-want-to-postpone-joy-suzy-welch-video",
-      "summary": "Suzy Welch, professor of management practice at New York University, joins Scarlet Fu an Tom Keene on \"Bloomberg Money.\" They discuss Gen Z spending habits and how they don't postpone their joy.\n (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 19:10:15 GMT",
-      "scraped_at": "2026-10-02T21:35:27.948Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "美 9월 '비농업 고용 쇼크'…추가 금리인상 제동 걸리나",
-      "url": "https://www.hankyung.com/article/2026100213271",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 23:20:32 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "10대 1 뚫은 '경복궁 결혼식'…첫 주인공은 유튜버 마이",
-      "url": "https://www.hankyung.com/article/2026100213297",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 22:58:35 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "예가람저축은행 고객 개인정보 유출…2금융권서 해킹",
-      "url": "https://www.hankyung.com/article/202610021315i",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 22:53:32 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "日 좋아하던 중국인들 변했다…中 여행객 몰린 '이 나라'",
-      "url": "https://www.hankyung.com/article/2026100212907",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 22:17:05 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"올겨울 깍두기 담그기 겁나네\"…시장 갔다가 놀란 이유",
-      "url": "https://www.hankyung.com/article/2026100212837",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 21:49:07 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "CJ제일제당, 美 ADM과 사료용 아미노산 합작사 설립한다",
-      "url": "https://www.hankyung.com/article/2026100212407",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 20:40:17 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"'암살자(들)' 논란에 욕설 쏟아졌다\"…버거킹 댓글창 폐쇄 [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202610020547i",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 20:00:03 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "기업 지배구조의 신규 리스크…오너의 이혼 [화우의 가사분쟁 솔루션]",
-      "url": "https://www.hankyung.com/article/202610029426i",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 20:00:01 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'AI 해킹'에 줄줄이 뚫렸다…신한·국민·하나銀 개인정보 유출",
-      "url": "https://www.hankyung.com/article/2026100212011",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 19:39:10 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"미국인들이 이렇게 좋아할 줄이야\"…15조 잭팟 터진 K뷰티",
-      "url": "https://www.hankyung.com/article/2026100211377",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 19:19:09 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[단독] 中企 인수 접은 KT…실사자료 속 호텔·골프 키웠나",
-      "url": "https://www.hankyung.com/article/202610029969H",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 19:00:04 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "'돈벼락 맞으면 뭐하나'…명품족 몰려들어도 한숨 쏟아졌다",
-      "url": "https://www.hankyung.com/article/2026100208701",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 19:00:01 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[속보] HD현대중공업 임단협 잠정합의안, 조합원 투표서 부결",
-      "url": "https://www.hankyung.com/article/2026100211487",
-      "summary": "",
-      "published": "Fri, 02 Oct 2026 18:39:23 +0900",
-      "scraped_at": "2026-10-02T17:03:10.982Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“디지털기술로 자유 더 옥죄”…유엔 사무총장, 北 인권 악화 비판",
-      "url": "https://www.mk.co.kr/news/politics/12167544",
-      "summary": "안토니우 구테흐스 유엔 사무총장이 첨단기술 적용 확대로 주민 감시·통제가 강화하는 등 북한의 인권 상황이 계속 악화하고 있다며 인권침해 가해자를 조사·처벌하고 탈북민이 강제송환되지..",
-      "published": "Fri, 02 Oct 2026 21:08:33 +09:00",
-      "scraped_at": "2026-10-02T17:03:14.478Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "산업부 \"트럼프 언급 84억불 석유프로젝트, 배경 확인 중\"",
-      "url": "https://www.yna.co.kr/view/AKR20261002185600003",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 도널드 트럼프 미국 대통령이 석유 관련 프로젝트에 한국이 84억 달러를 투자할 것이라고 2일(현지시간) 밝힌 ...",
-      "published": "Fri, 2 Oct 2026 23:38:02 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
-      "url": "https://www.yna.co.kr/view/AKR20261002178500002",
-      "summary": "(서울=연합뉴스) 강수련 기자 = 2차 국민참여형 국민성장펀드(국민참여성장펀드)가 판매 사흘간 목표액의 절반 가량 판매된 것으로 나타났다.",
-      "published": "Fri, 2 Oct 2026 21:38:00 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
-      "url": "https://www.yna.co.kr/view/AKR20261002179600530",
-      "summary": "(서울=연합뉴스) 한혜원 기자 = 가칭 메가특구 특별법 내 노동 특례 논의를 위한 노사정 사회적 대화의 2차 실무협의체 회의가 2일 열렸다.",
-      "published": "Fri, 2 Oct 2026 21:25:58 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"은행 믿고 정보 맡겼는데\"…잇단 사고에 금융소비자들 '불안'",
-      "url": "https://www.yna.co.kr/view/AKR20261002176800002",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 주요 시중은행에서 연달아 고객정보 유출 사고가 터지며 금융소비자들의 불안이 커지고 있다.",
-      "published": "Fri, 2 Oct 2026 20:20:24 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "금융위 \"국민 불안하지 않게 신속 파악\"…은행·카드에 점검지시(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261002154551002",
-      "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 신한은행과 KB국민은행에서 해킹사고가 잇따르자 금융당국이 은행·카드업권에 자체 보안 점검을 지시했다.",
-      "published": "Fri, 2 Oct 2026 19:37:27 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "신한은행에 '중국어 AI 침투' 흔적…해킹 공포 금융권 확산(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261002042352017",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 신한은행 개인정보 유출 사고에 인공지능(AI) 에이전트가 해킹 과정을 자동으로 수행하는 도구가 동원됐을 가능성...",
-      "published": "Fri, 2 Oct 2026 19:27:41 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261002128851002",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 신한은행에 이어 KB국민은행, 하나은행 등 국내 주요 시중은행에서 전방위적인 인공지능(AI) 해킹 공격으로 고...",
-      "published": "Fri, 2 Oct 2026 19:16:54 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[AI프리즘] 은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261002098551017",
-      "summary": "(서울=연합뉴스) 권하영 기자 = 보안이 가장 철저한 곳으로 꼽히는 은행마저 인공지능(AI) 에이전트를 활용한 해킹의 사정권에 들어오는 시대가 ...",
-      "published": "Fri, 2 Oct 2026 19:09:01 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국민·하나·부산은행도 당했다…금융권 해킹 피해 확산(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261002086352002",
-      "summary": "(서울=연합뉴스) 한지훈 배영경 채새롬 박수현 강수련 기자 = 신한은행에 이어 KB국민은행과 하나은행에서도 해킹으로 고객 정보가 유출되는 사고가...",
-      "published": "Fri, 2 Oct 2026 19:05:06 +0900",
-      "scraped_at": "2026-10-02T17:03:15.932Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Funds Exiting Crowded Trades Fueled Rout in French Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-exiting-crowded-trades-fueled-rout-in-french-bonds",
-      "summary": "Hedge funds caught on the wrong side of this week’s slump in French bonds were forced to unwind bets rapidly, fueling wild moves that European markets struggled to absorb.",
-      "published": "Fri, 02 Oct 2026 16:40:56 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
-      "summary": "The Group of Seven nations and its partners plan to release as much as 100 million barrels of emergency oil and diesel stocks, capping a week of mounting pressure from the Trump administration to bring down soaring fuel prices.",
-      "published": "Fri, 02 Oct 2026 14:04:27 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "France’s Bond Crisis Deepens",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/france-s-bond-crisis-deepens-video",
-      "summary": "Investors are heading for the exit as France's bond crisis deepens and political gridlock sets in.\n\nGeorgia Hall explains. (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 16:38:04 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Putin Views Military Drills Against Aggression on Land, Caspian",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/putin-views-military-drills-against-aggression-on-land-caspian",
-      "summary": "Vladimir Putin observed military exercises involving thousands of troops under the aegis of the Russia-led Collective Security Treaty Organization.",
-      "published": "Fri, 02 Oct 2026 16:35:57 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Beating Market FOMO: Main Street's Playbook",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/beating-market-fomo-main-street-s-playbook-video",
-      "summary": "When markets swing and AI stocks soar, how should everyday investors respond? Edward Jones CEO Penny Pennington joins Bloomberg Open Interest to share what 9 million clients are asking, why diversification still beats FOMO, and how to align your money with real‑life goals across generations. (Source",
-      "published": "Fri, 02 Oct 2026 16:19:07 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Stocks Advance After Cooler-Than-Expected Employment Data",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/us-stock-futures-advance-ahead-of-september-payrolls-data",
-      "summary": "US stocks rose on Friday as key jobs data came in below expectations, taking pressure off the Federal Reserve to raise interest rates later this month.",
-      "published": "Fri, 02 Oct 2026 11:47:39 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "NEC's Kevin Hassett on Sept. Jobs and Paying Down US Debt",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/nec-s-kevin-hassett-on-sept-jobs-paying-down-us-debt-video",
-      "summary": "National Economic Council Director Kevin Hassett says higher long-term rates can reflect underlying economic strength. \nSpeaking to Mike McKee and Dani Burger on Bloomberg Open Interest, Hassett calls the government’s debt-interest burden unacceptably high but says the administration is serious abou",
-      "published": "Fri, 02 Oct 2026 16:00:07 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "We’re Speaking to Don Wilson at Odd Lots LIVE in Chicago",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-02/we-re-speaking-to-don-wilson-at-odd-lots-live-in-chicago",
-      "summary": "Plus some thoughts on the bond market and statecraft.",
-      "published": "Fri, 02 Oct 2026 15:59:57 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon",
-      "summary": "For decades, US equity exchanges have hit the pause button every night, leaving markets shut for several hours. Come December, the lights will stay on much longer as the stock market shifts toward around-the-clock trading.",
-      "published": "Fri, 02 Oct 2026 14:08:29 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Job Growth Falls Short of Forecasts as Firms Remain Cautious",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/us-job-growth-falls-short-of-forecasts-video",
-      "summary": "The US added fewer jobs than expected in September and wage growth slowed, signaling some caution among employers amid rising costs. \nNonfarm payrolls increased 29,000 last month after a downward revision to the prior two months.\nThe unemployment rate rose to 4.2%, partly reflecting a growing workfo",
-      "published": "Fri, 02 Oct 2026 15:55:25 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks, Bonds Rise as Weak Jobs Curb Fed-Hike Bets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-surveillance-10-02-2026-video",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 15:40:35 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "French Bond Risk Hits Euro-Crisis Levels",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/french-bond-risk-hits-euro-crisis-levels-video",
-      "summary": "French government bonds deepened this week’s slump, with investors demanding the biggest yield premium to hold the bonds over safer German debt since the region’s debt crisis.\nHuw van Steenis, Partner at Apollo, discusses this as well as the overall European economic outlook. (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 15:38:45 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Rebecca Patterson Warns On Fragile Bond Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/rebecca-patterson-warns-on-fragile-bond-markets-video",
-      "summary": "Global markets are rallying on softer payrolls, but Council on Foreign Relations Senior Fellow Rebecca Patterson warns that the real story is rising bond yields, ballooning deficits, and nervous investors. She explains why France leads her \"fragile four,\" how hedge funds and AI-related debt are resh",
-      "published": "Fri, 02 Oct 2026 14:45:43 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bond Traders See Weak Jobs Data Letting Fed Delay Rate Hikes",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/bond-traders-pull-back-on-fed-hike-bets-after-soft-jobs-data",
-      "summary": "Bond traders priced in a later start to further Federal Reserve interest-rate hikes on indications of weakness in the US labor market.",
-      "published": "Fri, 02 Oct 2026 12:38:56 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Gabon’s Bond Yields Surge With Debt Numbers Raising Questions",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/gabon-s-bond-yields-surge-with-debt-numbers-raising-questions",
-      "summary": "Gabon’s dollar-bonds are the worst performers in emerging markets this week after the government held a series of investor calls on plans to sell new securities, raising questions about its disclosure of debt levels and sending yields soaring.",
-      "published": "Fri, 02 Oct 2026 15:10:18 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "NYC Private School That Inspired ‘Gossip Girl’ Cut by Moody’s",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/elite-upper-east-side-girls-school-downgraded-by-moody-s",
-      "summary": "The Nightingale-Bamford School, an elite all-girls school on Manhattan’s Upper East Side, is turning to its endowment to help finance a new athletics facility as it continues raising money for the project, a strategy that prompted Moody’s Ratings to downgrade its credit score.",
-      "published": "Thu, 01 Oct 2026 22:01:46 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Snap-on CEO on Tariffs and China Risks",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/snap-on-ceo-on-tariffs-and-china-risks-video",
-      "summary": "Snap-on CEO Nick Pinchuk joins Bloomberg Open Interest to discuss US manufacturing conditions, including rising diesel and material costs, how large vs. small manufacturers are coping, the impact of reshoring on hiring and why tariffs and Chinese competition are central to long-term planning. (Sourc",
-      "published": "Fri, 02 Oct 2026 15:05:12 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "London's Bridge Troubles Spread with Waterloo at Risk of Closure",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-28/london-s-bridge-troubles-spread-with-waterloo-at-risk-video",
-      "summary": "London's Waterloo Bridge faces closure within three years without urgent repairs, deepening concerns over the UK capital's crumbling river crossings. \n\nAre London's bridges really falling down? Harry Black explains. (Source: Bloomberg)",
-      "published": "Mon, 28 Sep 2026 09:27:18 GMT",
-      "scraped_at": "2026-10-02T17:03:16.248Z"
     }
   ]
 }
