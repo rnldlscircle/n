@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-10-09T22:01:02.952Z",
+  "updated_at": "2026-10-10T03:24:45.332Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"아이 키우려면 돈 벌어야 하는데\"…26세 싱글맘의 눈물 [차이나 워치]",
+      "url": "https://www.hankyung.com/article/202610079376i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 09:49:01 +0900",
+      "scraped_at": "2026-10-10T03:24:38.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "치폴레, 이번엔 백화점으로…내달 신세계 강남에 2호점 연다",
+      "url": "https://www.hankyung.com/article/202610103307i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 09:36:12 +0900",
+      "scraped_at": "2026-10-10T03:24:38.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
+      "url": "https://www.hankyung.com/article/202609144116i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 09:00:07 +0900",
+      "scraped_at": "2026-10-10T03:24:38.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"김장을 왜 해요?\"…1kg '3만원' 김치 불티나는 이유 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202610078534i",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 09:00:01 +0900",
+      "scraped_at": "2026-10-10T03:24:38.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"뭐가 진짜 불닭면이지?\"…짝퉁 한 방에 가르는 기막힌 기술",
+      "url": "https://www.hankyung.com/article/2026101032617",
+      "summary": "",
+      "published": "Sat, 10 Oct 2026 08:32:11 +0900",
+      "scraped_at": "2026-10-10T03:24:38.209Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "군사분계 ‘선’ 아닌 이유 … 70년간 말뚝도 경계도 사라졌다",
+      "url": "https://www.mk.co.kr/news/politics/12167311",
+      "summary": "DMZ 지뢰 폭발 사고가 드러낸 ‘경계의 흐릿함’“남북의 우발적 충돌을 방지하고 군사적 긴장을 완화하기 위해 남북 군사 당국 회담을 개최하여 군사분계선의 기준선 설정에 대해 논의할..",
+      "published": "Sat, 03 Oct 2026 05:00:00 +09:00",
+      "scraped_at": "2026-10-10T03:24:38.793Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "“디지털기술로 자유 더 옥죄”…유엔 사무총장, 北 인권 악화 비판",
+      "url": "https://www.mk.co.kr/news/politics/12167544",
+      "summary": "안토니우 구테흐스 유엔 사무총장이 첨단기술 적용 확대로 주민 감시·통제가 강화하는 등 북한의 인권 상황이 계속 악화하고 있다며 인권침해 가해자를 조사·처벌하고 탈북민이 강제송환되지..",
+      "published": "Fri, 02 Oct 2026 21:08:33 +09:00",
+      "scraped_at": "2026-10-10T03:24:38.793Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261009048851002",
+      "summary": "(세종=연합뉴스) 이대희 기자 = 국세청이 최근 3년 동안 재정경제부에 낸 세금 관련 법령 개정건의 10건 중 8건은 세법개정안에 담기지 못한 ...",
+      "published": "Sat, 10 Oct 2026 11:28:45 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+      "url": "https://www.yna.co.kr/view/AKR20261010022500017",
+      "summary": "(서울=연합뉴스) 박상현 기자 = 최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아...",
+      "published": "Sat, 10 Oct 2026 10:59:07 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "url": "https://www.yna.co.kr/view/AKR20261010021400011",
+      "summary": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "published": "Sat, 10 Oct 2026 10:30:00 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+      "url": "https://www.yna.co.kr/view/AKR20261010018000002",
+      "summary": "(세종·서울=연합뉴스) 이세원 배영경 한지훈 기자 = 다음 주(12∼16일)에는 취업자 숫자와 가계대출 동향 등 민생과 밀접한 경제 지표가 공개...",
+      "published": "Sat, 10 Oct 2026 09:03:29 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
+      "url": "https://www.yna.co.kr/view/AKR20261008175900004",
+      "summary": "(서울=연합뉴스) 이미령 이승연 기자 = \"기업에는 수사가 길어지는 것 자체가 처벌입니다. 수사와 기소 기관이 나뉘더라도 사건을 해결하는 과정까...",
+      "published": "Sat, 10 Oct 2026 09:00:05 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
+      "url": "https://www.yna.co.kr/view/AKR20261008073000008",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 한글날 연휴가 끝난 다음 주(12∼16일) 기업공개(IPO) 시장에서는 10개 기업이 기관투자자 대상 수요예측...",
+      "published": "Sat, 10 Oct 2026 09:00:05 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"국내은행, 외형 성장 한계…'위험 대비 수익성'으로 전환해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261009050300002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 국내은행이 자산 규모를 키우는 양적 성장 전략에서 벗어나 위험관리와 수익성을 중심으로 경영체계를 전환해야 한다...",
+      "published": "Sat, 10 Oct 2026 09:00:02 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
+      "url": "https://www.yna.co.kr/view/AKR20260921172200079",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 세계무역기구(WTO) 사무총장 응고지 오콘조이웨알라(72)의 이름 앞에는 '최초의 여성'이자 '최초의 아프...",
+      "published": "Sat, 10 Oct 2026 08:00:07 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "정부 '원양어선 안전펀드' 지원받은 11척 중 2척 중국서 건조",
+      "url": "https://www.yna.co.kr/view/AKR20261008084400051",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 정부의 노후 원양어선 교체 지원사업인 '원양어선 안전 펀드'의 지원 대상 선박 가운데 일부가 중국 조선소에서 ...",
+      "published": "Sat, 10 Oct 2026 07:01:02 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[신상잇슈] 롯데칠성 '순하리 청레몬진'·연세유업 '공주의밤 생크림빵'",
+      "url": "https://www.yna.co.kr/view/AKR20261008168100030",
+      "summary": "▲ 롯데칠성음료[005300]는 과일탄산주 브랜드 '순하리진'의 신제품 '순하리 청레몬진 무가당'을 출시했다.",
+      "published": "Sat, 10 Oct 2026 07:00:04 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[금주핫템] LG생건 '시크릿 에센스'·미즈노 '멀티 패딩 라이트'",
+      "url": "https://www.yna.co.kr/view/AKR20261008155300030",
+      "summary": "▲ LG생활건강[051900]의 '숨37'은 피부 관리 제품인 '시크릿 에센스'를 개선해 출시했다. 제품은 2009년 출시 이후 335만병이 판...",
+      "published": "Sat, 10 Oct 2026 07:00:02 +0900",
+      "scraped_at": "2026-10-10T03:24:40.080Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Thai Bourse Revises Short-Selling, High-Frequency Trading Rules",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/thai-bourse-revises-short-selling-high-frequency-trading-rules",
+      "summary": "Thailand’s stock exchange will roll out revised rules from Nov. 16, including changes to short-selling and high-frequency trading, as it seeks to improve market stability, liquidity and investor confidence, according to a filing.",
+      "published": "Sat, 10 Oct 2026 02:48:24 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Australia Says Doesn’t Need Russian Fuel After Trump Diesel Move",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/australia-says-doesn-t-need-russian-fuel-after-trump-diesel-move",
+      "summary": "Australia has no need to buy fuel from Russia and said that purchases from there will remain barred so that the country doesn’t benefit from the invasion of Ukraine.",
+      "published": "Sat, 10 Oct 2026 02:30:03 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Safari Park Plan Sparks Fresh Wave of Resident Angst in Vietnam",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/safari-park-plan-sparks-fresh-wave-of-resident-angst-in-vietnam",
+      "summary": "In the rolling hills of Ba Vi mountain range just outside Hanoi, the planned construction of a new safari park is causing consternation among residents and has sparked a backlash against the development of an area of great natural beauty.",
+      "published": "Sat, 10 Oct 2026 02:00:00 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump Says Putin to Supply US With Diesel",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-close-10-9-2026-video",
+      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares' Alessio De Longis, Flexport's Ryan Peterson, Raymond James & Associates' Inc Savanthi Syth, Council of Economic Adv",
+      "published": "Fri, 09 Oct 2026 23:17:38 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video",
+      "summary": "This week, Ford, JPMorgan and the state of Michigan team up to help domestic manufacturers turn new technology into factories and supply chains. And, hyperscalers and data centers are borrowing hundreds of billions of dollars to finance AI infrastructure, transforming the corporate bond market. Plus",
+      "published": "Fri, 09 Oct 2026 23:13:28 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Flexport CEO on Oil Tanker Costs, Diesel Prices",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video",
+      "summary": "Flexport CEO, Chairman, and Founder, discusses oil tanker costs, diesel prices and AI in an interview with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 23:05:20 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Gold Clinches Weekly Gain on Growing Bullish ETF, Energy Signs",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/gold-steadies-as-traders-assess-us-iran-tensions-fed-rate-path",
+      "summary": "Gold advanced, notching a weekly gain amid rising demand for bullion-backed exchange traded funds and signs that inflation may ease.",
+      "published": "Fri, 09 Oct 2026 00:02:32 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Atomic Machines CEO on Developing 'Micro-Machines'",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/atomic-machines-ceo-on-developing-micro-machines-video",
+      "summary": "Atomic Machines CEO Jeffrey Holden discusses a new kind of factory that takes digital code and produces 'micro-machines.' He says the technology is being developed to support a broader range of 'micro-machines.' He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "published": "Fri, 09 Oct 2026 22:40:13 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bambusa Therapeutics Files for IPO to Fund Eczema Drug Trials",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/bambusa-therapeutics-files-for-ipo-to-fund-eczema-drug-trials",
+      "summary": "Bambusa Therapeutics Inc. filed for a initial public offering to help fund trials of its drugs to treat eczema and other inflammation disorders.",
+      "published": "Fri, 09 Oct 2026 22:06:37 GMT",
+      "scraped_at": "2026-10-10T03:24:42.552Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -11760,256 +12030,6 @@
       "summary": "The International Monetary Fund approved a $1.9 billion financing program for Bolivia, including an immediate $214 million disbursement, in a package designed to help President Rodrigo Paz reverse a sharp economic slump.",
       "published": "Sat, 03 Oct 2026 00:55:49 GMT",
       "scraped_at": "2026-10-03T07:18:40.066Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "돼지는 적자 닭은 방어…원스식품 실적 바닥 통과하나",
-      "url": "https://www.hankyung.com/article/202609120339i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 09:00:06 +0900",
-      "scraped_at": "2026-10-03T00:49:19.501Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
-      "url": "https://www.hankyung.com/article/2026100314707",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 07:33:20 +0900",
-      "scraped_at": "2026-10-03T00:49:19.501Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
-      "url": "https://www.hankyung.com/article/2026100314527",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 07:10:37 +0900",
-      "scraped_at": "2026-10-03T00:49:19.501Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
-      "url": "https://www.hankyung.com/article/202610021316i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 07:00:07 +0900",
-      "scraped_at": "2026-10-03T00:49:19.501Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
-      "url": "https://www.hankyung.com/article/202610021347i",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 07:00:02 +0900",
-      "scraped_at": "2026-10-03T00:49:19.501Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 합참 “北 발사 탄도미사일 1발…700㎞ 이상 비행”",
-      "url": "https://www.mk.co.kr/news/politics/12167713",
-      "summary": "",
-      "published": "Sat, 03 Oct 2026 09:13:13 +09:00",
-      "scraped_at": "2026-10-03T00:49:19.718Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 김여정 ‘남북대화 일축’ 하루 만에…北, 동해로 탄도미사일",
-      "url": "https://www.mk.co.kr/news/politics/12167690",
-      "summary": "합참 “원산 일대서 동해상으로 발사 포착” 北지뢰 사과 요구 사흘만 13일만에 탄도미사일북한이 3일 오전 동해상으로 탄도미사일을 발사했다고 합동참모본부가 밝혔다. 연합뉴스에 ㄸ르면..",
-      "published": "Sat, 03 Oct 2026 07:57:11 +09:00",
-      "scraped_at": "2026-10-03T00:49:19.718Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
-      "url": "https://www.yna.co.kr/view/AKR20261003015700002",
-      "summary": "(서울=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주(10월 5∼9일)에는 재정경제부와 기획예산처, 금융위원회가 국회 국정감사를 받는다.",
-      "published": "Sat, 3 Oct 2026 09:20:50 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261002064300054",
-      "summary": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 반도체·인공지능(AI)·에너지 등 전략산업에 직접 투자하고 민간·정책금융을 끌어들여 투...",
-      "published": "Sat, 3 Oct 2026 09:00:07 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
-      "url": "https://www.yna.co.kr/view/AKR20261002136000008",
-      "summary": "(서울=연합뉴스) 고은지 기자 = 최근 미국 등 주요국 국채금리 급등세가 이어지면서 금리나 채권 수익률을 따르는 금융상품이 인기를 끌고 있다.",
-      "published": "Sat, 3 Oct 2026 08:00:06 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
-      "url": "https://www.yna.co.kr/view/AKR20261002168300003",
-      "summary": "(서울=연합뉴스) 강태우 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
-      "published": "Sat, 3 Oct 2026 07:01:01 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[금주핫템] 에뛰드 '님프 듀이 젤리 프렙'·네파 '에어써밋 시리즈'",
-      "url": "https://www.yna.co.kr/view/AKR20261002073900030",
-      "summary": "▲ 에뛰드는 스킨케어와 자외선 차단, 메이크업 프렙 기능을 하나로 담은 신제품 '님프 듀이 젤리 프렙'을 출시했다고 3일 밝혔다. 이 제품은 호...",
-      "published": "Sat, 3 Oct 2026 07:00:04 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
-      "url": "https://www.yna.co.kr/view/AKR20261002152800001",
-      "summary": "(서울=연합뉴스) 박재하 기자 = 한국토지주택공사(LH)가 가진 사업용 토지 가운데 민간에 팔지 못한 미매각 토지의 규모가 4년 만에 약 2.5...",
-      "published": "Sat, 3 Oct 2026 07:00:03 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'",
-      "url": "https://www.yna.co.kr/view/AKR20261002075900030",
-      "summary": "▲ 농심[004370]은 라면 '너구리'와 스낵 '양파링'을 결합한 스낵 신제품 '너구링'을 출시했다.",
-      "published": "Sat, 3 Oct 2026 07:00:00 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[AI돋보기] \"은행도 뚫렸다\"…AI 해킹 시대 내 계정 지키는 법",
-      "url": "https://www.yna.co.kr/view/AKR20261002183500017",
-      "summary": "(서울=연합뉴스) 심재훈 기자 = 최근 인공지능(AI)을 동원한 대규모 계정 탈취 공격이 신한은행과 KB국민은행, 하나은행 등 국내 주요 시중은...",
-      "published": "Sat, 3 Oct 2026 06:33:00 +0900",
-      "scraped_at": "2026-10-03T00:49:20.680Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
-      "summary": "This week, National Economic Council Director Kevin Hassett says AI’s productivity boost may be much larger than official economic data currently indicate. And, AI companies are largely in agreement that the technology needs guardrails, but the ethical implications of AI could also create new opport",
-      "published": "Fri, 02 Oct 2026 23:12:45 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Stocks Rise As Jobs Report Eases Fed-Hike Worries",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/the-close-10-2-2026-video",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Chris Phelan CEA Chairman, Robert Reich, Former US Labor Secretary, Alex Straton, Morgan Stanley Equity Research Managing Dire",
-      "published": "Fri, 02 Oct 2026 23:45:17 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Former CEA Chair on Jobs Report, GDP Growth",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
-      "summary": "Former CEA Chair Cecilia Rouse believes that we may be 'entering a new normal' of the jobs report, with the break even potentially settling in around 50,000. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 22:17:57 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Morgan Stanley's Nike Analyst on quarterly earnings",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/morgan-stanley-s-nike-analyst-on-quarterly-earnings-video",
-      "summary": "Morgan Stanley's Alex Straton sees Nike sales and earnings softening as the company deals with inventory gluts in North America and China. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 21:55:08 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pam Bondi’s Secret DOJ Email Address Revealed",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/pam-bondi-s-secret-doj-email-address-revealed-video",
-      "summary": "A FOIA request has uncovered another little-known feature of life at the top of the Justice Department: attorneys general have used alternate email addresses to conduct government business for over a decade. This time around, Bloomberg News Senior Investigative Reporter Jason Leopold obtained the al",
-      "published": "Fri, 02 Oct 2026 21:47:42 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "EM Assets Find Relief as US Jobs Data Eases Rate Fears",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/em-assets-find-relief-as-us-jobs-data-eases-rate-fears-video",
-      "summary": "An index tracking emerging-market currencies climbed to a session high after weaker-than-expected US jobs data prompted traders to scale back bets on another Federal Reserve interest-rate hike this month. Nonfarm payrolls increased by 29,000 in September after downward revisions to the prior two mon",
-      "published": "Fri, 02 Oct 2026 21:42:53 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "CEA Chairman: Inflation coming down sufficiently fast",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/cea-chairman-inflation-coming-down-sufficiently-fast-video",
-      "summary": "Chris Phelan CEA Chairman, sees inflation clearly easing and thinks it's doing so quickly enough. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 21:40:32 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Lukoil Loses Bid to Dismiss Suit Over Franchisee Fuel Pricing",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/lukoil-loses-bid-to-dismiss-suit-over-franchisee-fuel-pricing",
-      "summary": "The owners of almost 30 Lukoil PJSC filling stations in Pennsylvania and New Jersey can proceed with a lawsuit accusing the Russian oil giant of overcharging franchisees.",
-      "published": "Fri, 02 Oct 2026 21:36:47 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Former Labor Secretary Rob Reich on Sept. Jobs Report",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/former-labor-secretary-rob-reich-on-sept-jobs-report-video",
-      "summary": "Robert Reich, former US Labor Secretary, discusses persistent inflation, very slow hiring, and wages that trail prices. He speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
-      "published": "Fri, 02 Oct 2026 21:32:22 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Using Decision Science in Investing | Masters in Business with Omar Aguilar",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/using-decision-science-in-investing-video",
-      "summary": "Barry speaks with Omar Aguilar, CEO and CIO of Schwab Asset Management. They discuss his time at Financial Engines, where he worked under Nobel laureate William Sharpe before joining Schwab Asset Management in 2011. They discuss how his doctorate in decision sciences helps him build trust with clien",
-      "published": "Fri, 02 Oct 2026 21:00:15 GMT",
-      "scraped_at": "2026-10-03T00:49:21.016Z"
     }
   ]
 }
