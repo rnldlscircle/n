@@ -1,6 +1,336 @@
 {
-  "updated_at": "2026-10-15T19:34:03.218Z",
+  "updated_at": "2026-10-15T22:47:04.878Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"메모리 절대적 위기\"…애플, 아이폰에 中 반도체 사용 검토",
+      "url": "https://www.hankyung.com/article/2026101652367",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 07:03:41 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"브랜드 격 떨어진다\" 혹평하더니…'실적 효자' 된 억대 SUV",
+      "url": "https://www.hankyung.com/article/202610154581g",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 07:00:04 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"MZ·외국인 1년내내 등산하네\"…명동 아웃도어 매장 '들썩' [장서우의 하입:hype]",
+      "url": "https://www.hankyung.com/article/202610155103i",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 07:00:01 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신한은행, 보안예산은 5대 은행 최저",
+      "url": "https://www.hankyung.com/article/2026101651787",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 06:13:01 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"돈 쏟아부었는데 어쩌나\"…4700조 AI 투자에 섬뜩한 '경고' [분석+]",
+      "url": "https://www.hankyung.com/article/202610154868g",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 06:00:04 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"눈만 깜빡이면 결제\"…알리바바 가세에 불붙은 AI 안경 전쟁 [차이나 워치]",
+      "url": "https://www.hankyung.com/article/202610155121i",
+      "summary": "",
+      "published": "Fri, 16 Oct 2026 05:53:01 +0900",
+      "scraped_at": "2026-10-15T22:46:59.572Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20261016013700011",
+      "summary": "■ \"우크라, 北포로송환 공개해 韓 대북·대러 접근법 훼손\"",
+      "published": "Fri, 16 Oct 2026 07:30:00 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[글로컬] 알래스카 LNG 투자, '트럼프 압박' 넘어서야",
+      "url": "https://www.yna.co.kr/view/AKR20261015148400546",
+      "summary": "(서울=연합뉴스) 한승호 선임기자 = 도널드 트럼프 미국 대통령이 한국의 알래스카 액화천연가스(LNG) 개발사업 투자 참여 문제가 확정된 것처럼...",
+      "published": "Fri, 16 Oct 2026 07:07:00 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "무료체험 뒤 자동결제에 해지도 어려워…다크패턴 상담 잇따라",
+      "url": "https://www.yna.co.kr/view/AKR20261015108700017",
+      "summary": "(서울=연합뉴스) 유현민 기자 = 무료 체험 종료 후 자동 결제되거나 구독 해지를 어렵게 하는 등 다크패턴 피해로 추정되는 온라인 상담 사례가 ...",
+      "published": "Fri, 16 Oct 2026 06:45:00 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "5인미만사업장 노동법위반 신고 20만건 육박…83%가 금품 미지급",
+      "url": "https://www.yna.co.kr/view/AKR20261015160000530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 근로기준법이 일부만 적용되는 상시 근로자 5인 미만 사업장에서 노동관계법 위반 신고가 작년에만 20만건에 육박...",
+      "published": "Fri, 16 Oct 2026 06:07:02 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "건설현장 전자카드 발급률 90%인데 사용률은 75% 머물러",
+      "url": "https://www.yna.co.kr/view/AKR20261015148200530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 건설현장 노동자의 근로내역을 투명하게 관리하기 위해 도입된 전자카드제의 카드 발급률은 90%에 달하지만, 실제...",
+      "published": "Fri, 16 Oct 2026 06:05:02 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "해수부, 제주∼추자∼완도 항로 운항결손금 지원",
+      "url": "https://www.yna.co.kr/view/AKR20261015113800051",
+      "summary": "(부산=연합뉴스) 이영재 기자 = 해양수산부는 연안 여객 항로 안정화 지원사업 대상에 제주∼추자∼완도 항로를 추가했다고 16일 밝혔다.",
+      "published": "Fri, 16 Oct 2026 06:00:11 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼성전기 8조 투자 이어 SK 반도체 소재기업 세종공장 확장 추진",
+      "url": "https://www.yna.co.kr/view/AKR20261015156600063",
+      "summary": "(세종=연합뉴스) 양영석 기자 = 삼성전기가 세종시 명학산단에 대규모 투자 계획을 발표한 데 이어 SK 그룹 반도체 소재 기업도 같은 지역에 추...",
+      "published": "Fri, 16 Oct 2026 06:00:06 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "경제인협회, 미국 싱크탱크와 한국 성장전략 모색…이창용 대담",
+      "url": "https://www.yna.co.kr/view/AKR20261015167000003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국경제인협회(한경협)는 오는 27일 서울 영등포구 FKI타워 콘퍼런스센터에서 미국 피터슨국제경제연구소(PII...",
+      "published": "Fri, 16 Oct 2026 06:00:05 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
+      "url": "https://www.yna.co.kr/view/AKR20261015160300002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 지난달 원/달러 환율이 하락했지만 국제유가가 큰 폭으로 상승하면서 수입물가지수가 4개월만에 상승했다.",
+      "published": "Fri, 16 Oct 2026 06:00:01 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "올해 은행 정보보호예산 KB가 최다…신한·우리는 10% 이상 감소",
+      "url": "https://www.yna.co.kr/view/AKR20261014175600002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 시중은행 중 올해 정보보호 관련 예산을 가장 많이 편성한 곳은 KB국민은행이다.",
+      "published": "Fri, 16 Oct 2026 05:51:01 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "美, '이슬람 십일조' 포함 對이란 종교기부금 송금 옥죄기",
+      "url": "https://www.yna.co.kr/view/AKR20261016005000071",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 미국 재무부는 15일(현지시간) 종교 기부금으로 포장해 이란 정권으로 보내지는 자금줄을 감시하고 이를 차단...",
+      "published": "Fri, 16 Oct 2026 05:26:19 +0900",
+      "scraped_at": "2026-10-15T22:47:02.012Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Latest Oil Market News and Analysis for Oct. 16",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
+      "summary": "Oil was set for a second weekly advance as increasing Middle East supply risks weighed against a fresh release of emergency reserves.",
+      "published": "Thu, 15 Oct 2026 22:03:58 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "MSCI Weighs Downgrade of Indonesia to Remove From Global Indexes",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/indonesia-s-emerging-market-status-under-consultation-msci-says",
+      "summary": "Indonesia faces a potential ejection from global stock indexes after MSCI Inc. said the country no longer merits emerging-market status, escalating the threat of foreign investor flight as concerns deepen over market integrity.",
+      "published": "Thu, 15 Oct 2026 20:59:19 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Stocks Set for Gains as Tech Selloff Eases: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+      "summary": "Asian stocks were set to rebound Friday as concerns over stretched artificial-intelligence valuations eased, putting the region on course for its first gain this week after a four-day slide.",
+      "published": "Thu, 15 Oct 2026 22:04:06 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Investment Lessons Learned from 1873",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/the-investment-lessons-learned-from-1873-video",
+      "summary": "Long before the Great Depression or the 2008 financial crisis, the world endured its first truly global financial crash. In his new book, 1873: The Rothschilds, the First Great Depression, and the Making of the Modern World, Pulitzer Prize–winning author Liaquat Ahamed traces how a booming global bo",
+      "published": "Thu, 15 Oct 2026 21:38:35 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hot US Inflation, Treasury Safe Haven, CoreWeave's Credit Risk",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/real-yield-10-15-2026-video",
+      "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Societe Generale Americas Head of Research Subadra Rajappa, Columbia Threadneedle Investments Global Head, Fixed Income Gene Tannuzzo, BoFA Securities head of US Credit Strategy Neha Khoda, and JPMorgan Asset ",
+      "published": "Thu, 15 Oct 2026 21:36:28 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Porsche CEO With a First Look at Mission S Sports Car",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/porsche-ceo-with-a-first-look-at-mission-s-sports-car-video",
+      "summary": "At a world premiere in Queens, Porsche CEO Michael Leiters told Bloomberg’s Matt Miller that the company’s new sports car will launch a distinct model line positioned well above the 911. The mid-engine platform is designed to support several variants and is flexible enough for either hybrid or combu",
+      "published": "Thu, 15 Oct 2026 21:31:35 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/ross-gerber-on-tesla-roadster-potential-spacex-merger-video",
+      "summary": "Ross Gerber discussed Tesla’s anticipated Roadster unveiling, following a Barclays note suggesting Tesla and SpaceX could merge before year-end, potentially ahead of Tesla’s annual general meeting. Gerber said a high-priced car made in low volumes would not materially affect Tesla financially. He sp",
+      "published": "Thu, 15 Oct 2026 21:18:08 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Gold Rallies as Lower Yields, AI Stock Selloff Fuel Haven Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
+      "summary": "Gold increased as an equity selloff drove investors into bonds, pushing Treasury yields lower.",
+      "published": "Wed, 14 Oct 2026 23:33:01 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Porsche CEO Leiters on New Luxury Supercar, China and EVs",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/porsche-ceo-leiters-on-new-supercar-china-and-evs-video",
+      "summary": "Porsche AG unveiled a concept previewing a new supercar, the Mission S, that will be positioned above the 911 in its lineup. Speaking with Matt Miller on \"Bloomberg The Close,\" Porsche CEO Michael Leiters discusses the new supercar and also comments on the state of the China market, the future of el",
+      "published": "Thu, 15 Oct 2026 21:08:26 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Big Take: What Is the US Economy Trying to Tell Us?",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/big-take-what-is-the-us-economy-trying-to-tell-us-video",
+      "summary": "On today’s Big Take podcast, editors Matt Boesler and Cristina Lindblad join Sarah Holder to unpack what the data says is happening in the US economy and why consumer sentiment tells another story.  (Source: Bloomberg)",
+      "published": "Thu, 15 Oct 2026 20:55:33 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rate Volatility Might Shake Fundamentals: Tannuzzo",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/rate-volatility-might-shake-fundamentals-tannuzzo-video",
+      "summary": "Gene Tannuzzo, global head of fixed income at Columbia Threadneedle Investments, and Subadra Rajappa, head of research at Société Générale Americas, join Scarlet Fu on \"Bloomberg Real Yield.\" Treasuries led a global bond rally as a selloff in artificial-intelligence shares deepened, spurring demand ",
+      "published": "Thu, 15 Oct 2026 20:43:13 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chocolate Demand Roars Back as Cocoa Grindings Beat Forecast",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/europe-cocoa-grindings-post-first-third-quarter-gain-since-2021",
+      "summary": "Cocoa processing in Europe and Asia exceeded expectations by wide margins in the third quarter, signaling a potentially stronger-than-anticipated recovery in global demand after years of elevated chocolate prices.",
+      "published": "Thu, 15 Oct 2026 07:43:07 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Inflation Pointing for the Fed to Act: Rajappa",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/inflation-pointing-for-the-fed-to-act-rajappa-video",
+      "summary": "Gene Tannuzzo, global head of fixed income at Columbia Threadneedle Investments, and Subadra Rajappa, head of research at Société Générale Americas, join Scarlet Fu on \"Bloomberg Real Yield.\" US producer prices rose in September at the fastest pace in more than four years as higher energy costs reve",
+      "published": "Thu, 15 Oct 2026 20:50:41 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Muni Bond Rally Sends Yields Down the Most Since April 2025",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/municipal-bond-rally-sends-yields-down-the-most-since-april-2025",
+      "summary": "State and local debt prices rallied across the curve on Thursday, with 10-year municipal bonds surging the most since last April, in line with a similar move in the US Treasury market.",
+      "published": "Thu, 15 Oct 2026 14:54:00 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "International Paper Jumps on Potential Multibillion-Dollar Bids | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/international-paper-jumps-on-bids-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Thu, 15 Oct 2026 20:47:03 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Still In Early Innings of AI Issuance: Doyle",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-15/still-in-early-innings-of-ai-issuance-doyle-video",
+      "summary": "Neha Khoda, head of US credit strategy at BofA Securities, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Investment Management, join Scarlet Fu on \"Bloomberg Real Yield.\"\n (Source: Bloomberg)",
+      "published": "Thu, 15 Oct 2026 20:21:16 GMT",
+      "scraped_at": "2026-10-15T22:47:02.517Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
