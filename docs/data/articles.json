@@ -1,6 +1,296 @@
 {
-  "updated_at": "2026-10-17T19:51:26.158Z",
+  "updated_at": "2026-10-17T21:52:45.806Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "신라면과 동갑 필도 '도시락'…러시아서 80억 개 팔렸다 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202610167152i",
+      "summary": "",
+      "published": "Sun, 18 Oct 2026 06:00:01 +0900",
+      "scraped_at": "2026-10-17T21:52:40.943Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "신한증권, 추천 안한 주식에도 '종목추천 이용료'…금감원 지적",
+      "url": "https://www.yna.co.kr/view/AKR20261016164600008",
+      "summary": "(서울=연합뉴스) 김유향 기자 = 신한투자증권이 종목추천 서비스 가입 고객에게 추천 종목과 무관한 거래에도 추가 수수료를 부과하고 그 내역을 명...",
+      "published": "Sun, 18 Oct 2026 06:35:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "성형 수술대 대신 피부과·약국으로…K-뷰티 '관광 지도' 재편",
+      "url": "https://www.yna.co.kr/view/AKR20261017028400030",
+      "summary": "(서울=연합뉴스) 구정모 기자 = 올해 한국을 방문한 외국인 관광객의 의료소비에서 피부과와 약국의 성장세가 두드러진 반면 성형외과는 상대적으로 ...",
+      "published": "Sun, 18 Oct 2026 06:35:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "올해 서울 일반분양 작년 3배 육박…'청약 대어' 줄이어",
+      "url": "https://www.yna.co.kr/view/AKR20261017035400003",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 올해 서울 아파트 일반분양 물량이 지난해의 3배에 가까운 것으로 나타났다.",
+      "published": "Sun, 18 Oct 2026 06:31:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'지난주 14.5% 폭락' 코스피, 회복까지 얼마나…과거 사례는",
+      "url": "https://www.yna.co.kr/view/AKR20261016179500008",
+      "summary": "(서울=연합뉴스) 김유아 기자 = 코스피가 올해 들어 연속 하락으로 10% 넘게 떨어진 후에는 되돌림까지 평균 약 14거래일 걸린 것으로 나타났...",
+      "published": "Sun, 18 Oct 2026 06:30:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "삼전닉스, 금융위기 이후 최악의 주간 하락률…반등 모멘텀은",
+      "url": "https://www.yna.co.kr/view/AKR20261016177800008",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 코스피가 최근 역대급 폭락장세를 보인 가운데 삼성전자[005930]와 SK하이닉스[000660]가 2008년 ...",
+      "published": "Sun, 18 Oct 2026 06:25:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나",
+      "url": "https://www.yna.co.kr/view/AKR20261016074300003",
+      "summary": "(서울=연합뉴스) 박초롱 기자 = 일론 머스크 테슬라 최고경영자(CEO)가 최근 메모리 반도체 공급 부족과 가격 급등에 불만을 드러낸 데 이어 ...",
+      "published": "Sun, 18 Oct 2026 06:23:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "솔리다임 미국 상장 준비 속도…주관사 선정 이어 대관 강화",
+      "url": "https://www.yna.co.kr/view/AKR20261017046600003",
+      "summary": "(서울=연합뉴스) 박초롱 강태우 기자 = SK하이닉스의 미국 손자회사 솔리다임이 미국 증시 상장을 위한 준비에 속도를 내면서 중복 상장을 둘러싼...",
+      "published": "Sun, 18 Oct 2026 06:19:50 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대미 무역흑자 1천억불 눈앞…트럼프 투자 압박에 난감한 정부",
+      "url": "https://www.yna.co.kr/view/AKR20261017041500003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 우리나라의 올해 대미 무역수지 흑자가 사상 처음으로 1천억 달러를 넘어설 것이 확실시된다. 여느 때라면 반가운...",
+      "published": "Sun, 18 Oct 2026 06:17:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[AI프리즘] 초대형 AI데이터센터 1곳, 연간 법인세 8천억원 추산",
+      "url": "https://www.yna.co.kr/view/AKR20261016134500017",
+      "summary": "(서울=연합뉴스) 권하영 기자 = 1기가와트(GW)급 초대형 인공지능 데이터센터(AIDC) 1곳이 연간 8천억원 이상의 법인세와 800억원 이상...",
+      "published": "Sun, 18 Oct 2026 06:15:02 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'병원 가업상속공제 제외'에 복지부 \"필수의료엔 예외 필요\"",
+      "url": "https://www.yna.co.kr/view/AKR20261017025300530",
+      "summary": "(서울=연합뉴스) 김잔디 기자 = 가업상속공제 대상에서 병원을 제외하는 정부의 세제개편안과 관련, 보건복지부가 필수의료를 제공하는 병원에 대해서...",
+      "published": "Sun, 18 Oct 2026 06:03:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "정부, 연내 동일가치노동 동일임금 로드맵 낸다…임금개편 핵심",
+      "url": "https://www.yna.co.kr/view/AKR20261016118800530",
+      "summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부가 고용 형태나 성별 등과 관계없이 같은 업무를 하면 유사한 처우를 보장하는 '동일가치노동 동일임금'...",
+      "published": "Sun, 18 Oct 2026 06:01:02 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "배추·무 가격 내렸지만 새우젓은 30% 급등…김장 물가 변수로",
+      "url": "https://www.yna.co.kr/view/AKR20261017018700030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 김장철을 앞두고 배추와 무 등 주요 채소 가격은 지난해보다 내렸지만, 새우젓 가격은 30% 넘게 급등한 것으로...",
+      "published": "Sun, 18 Oct 2026 06:01:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는",
+      "url": "https://www.yna.co.kr/view/AKR20261016179400008",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 지난 한 주간 한국 주식시장은 올해 7월 전 세계를 강타했던 글로벌 반도체 조정 당시의 악몽이 재연된 듯한 양...",
+      "published": "Sun, 18 Oct 2026 06:00:08 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "빚 있는 청년 10명 중 6명은 다중채무…\"채무조정 재설계해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261017000400530",
+      "summary": "(서울=연합뉴스) 김영신 기자 = 금융기관에서 대출받은 청년 10명 중 약 6명은 대출이 2개 이상인 다중 채무자인 것으로 나타났다.",
+      "published": "Sun, 18 Oct 2026 06:00:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'길어진 검사에 발목'…금감원, 금융사 검사 처리 평균 237일",
+      "url": "https://www.yna.co.kr/view/AKR20261017037500002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 금융감독원이 금융회사를 검사하고 이를 후속처리하는 데 걸리는 시간이 올해 평균 237일에 달하는 것으로 파악됐...",
+      "published": "Sun, 18 Oct 2026 05:57:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "은행 '감시망' 걸린 보이스피싱 두배로…작년 8천760건",
+      "url": "https://www.yna.co.kr/view/AKR20261017033900002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 지난해 주요 시중은행의 '감시망'에 포착돼 실제 사기로 확인된 보이스피싱 거래가 전년의 두 배로 늘었다.",
+      "published": "Sun, 18 Oct 2026 05:56:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "외국인 택시 바가지 신고 5년간 6천건 넘는데…행정처분은 3%",
+      "url": "https://www.yna.co.kr/view/AKR20261017045800004",
+      "summary": "(서울=연합뉴스) 유한주 기자 = 최근 5년여간 서울에서 접수된 외국인 관광객의 택시 부당요금 신고가 6천건을 넘었지만, 실제 행정처분으로 이어...",
+      "published": "Sun, 18 Oct 2026 05:55:02 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "개인 달러예금 4년10개월만에 최대…'빚투' 수요도 꿈틀",
+      "url": "https://www.yna.co.kr/view/AKR20261017044300002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율과 원/엔 환율이 하락하면서 외화예금이 크게 늘었다.",
+      "published": "Sun, 18 Oct 2026 05:55:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "이달 환율 2년1개월만에 최저…원/엔 19년만에 가장 낮아",
+      "url": "https://www.yna.co.kr/view/AKR20261017023400002",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 이달 원/달러 환율이 반도체 수출 호조에 따른 달러 공급 확대 등에 힘입어 2년 1개월 만에 최저 수준으로 내...",
+      "published": "Sun, 18 Oct 2026 05:54:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "금감원 '2차 해킹' OK저축은행 현장점검…금주 업권 간담회도",
+      "url": "https://www.yna.co.kr/view/AKR20261017028900002",
+      "summary": "(서울=연합뉴스) 김지연 기자 =  침해사고가 발생한 지 나흘 만에 또 다른 해킹으로 고객 정보가 유출된 OK저축은행을 대상으로 금융감독원이 현...",
+      "published": "Sun, 18 Oct 2026 05:53:05 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "가상자산 과세 유예론 힘받나…정부, 5대 거래소 20일 의견 청취",
+      "url": "https://www.yna.co.kr/view/AKR20261017033300002",
+      "summary": "(서울=연합뉴스) 배영경 유동현 기자 = 정부가 다음 주 5대 가상자산 거래소 대표들을 소집해 내년부터 시행 예정인 가상자산 과세에 관한 의견을...",
+      "published": "Sun, 18 Oct 2026 05:52:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "'취업자 15만명 증가' 전망에 빨간불…팬데믹 후 최소 우려",
+      "url": "https://www.yna.co.kr/view/AKR20261017025600002",
+      "summary": "(세종=연합뉴스) 이세원 기자 = 올해 취업자 증가 폭이 6년 만에 최소 수준으로 쪼그라들 우려가 있는 것으로 파악됐다.",
+      "published": "Sun, 18 Oct 2026 05:51:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국민소득 4만달러 눈앞인데…올해 증가분 80%는 기업 몫",
+      "url": "https://www.yna.co.kr/view/AKR20261017019800002",
+      "summary": "(세종=연합뉴스) 안채원 기자 = 우리나라 올해 1인당 국민총소득(GNI) 4만달러를 돌파할 것으로 전망되는 가운데, 상반기 국민소득 증가분의 ...",
+      "published": "Sun, 18 Oct 2026 05:50:01 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "지방이전·공공기관 기로 금감원…이달 말 쇄신안 공운위 보고",
+      "url": "https://www.yna.co.kr/view/AKR20261017037100002",
+      "summary": "(서울=연합뉴스) 배영경 강수련 기자 = 금융위원회가 이르면 이달 공공기관운영위원회(공운위)에 금융감독원 금융행정 쇄신방안을 보고한다.",
+      "published": "Sun, 18 Oct 2026 05:49:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대출이자 집주인 7년간 66% 늘 때 전세 가구 144% 뛰어",
+      "url": "https://www.yna.co.kr/view/AKR20261017030100002",
+      "summary": "(세종=연합뉴스) 송정은 기자 = 올해 2분기 전세 가구의 월평균 이자 비용이 7년 새 144% 넘게 늘어 자가 가구의 증가율을 2배 넘게 웃돌...",
+      "published": "Sun, 18 Oct 2026 05:48:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "5대 은행장 '해킹 국감'…정보유출 해명에 신뢰 회복 숙제",
+      "url": "https://www.yna.co.kr/view/AKR20261017029700002",
+      "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 주요 시중은행 행장들이 최근 금융권 연쇄 해킹 사태와 관련해 오는 19일 국회 정무위원회 국정감...",
+      "published": "Sun, 18 Oct 2026 05:47:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망",
+      "url": "https://www.yna.co.kr/view/AKR20261017019100002",
+      "summary": "(서울·세종=연합뉴스) 한지훈 이대희 기자 = 올해와 내년 우리나라 잠재성장률이 40년 만에 처음으로 2년 연속 상승할 것이라는 국제통화기금(I...",
+      "published": "Sun, 18 Oct 2026 05:46:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"10월 넘기고 11월에\"…전문가들, 금리 인상 '숨고르기' 전망",
+      "url": "https://www.yna.co.kr/view/AKR20261017017500002",
+      "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 경제 전문가들은 오는 22일 한국은행 금융통화위원회(이하 금통위)가 현재 연 3.00%인 기준금...",
+      "published": "Sun, 18 Oct 2026 05:45:00 +0900",
+      "scraped_at": "2026-10-17T21:52:43.057Z"
+    },
     {
       "source_id": "bloomberg",
       "source_name": "Bloomberg",
@@ -14650,136 +14940,6 @@
       "summary": "South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the $4.3 trillion stock market is rapidly losing relevance with investors.",
       "published": "Sun, 11 Oct 2026 00:00:00 GMT",
       "scraped_at": "2026-10-11T00:34:43.135Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "[속보] 北 “저고도 비행궤도 변경능력 보유…‘AI 도입’ 상기 필요”",
-      "url": "https://www.mk.co.kr/news/politics/12167836",
-      "summary": "김여정 북한 노동당 총무부장은 3일 한국과 일본이 북한 미사일을 끝까지 추적하지 못했다며 “이 타격을 피할 방법은 사실상 없다는 것을 의미한다”고 주장했다. 김 부장은 이날 조선중..",
-      "published": "Sat, 03 Oct 2026 19:37:47 +09:00",
-      "scraped_at": "2026-10-10T20:53:15.347Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "삼전닉스 '억대' 성과급 풀려도…예정처 \"소비 효과 제한적\"",
-      "url": "https://www.yna.co.kr/view/AKR20261010032500002",
-      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 반도체 호황에 따라 삼성전자[005930]와 SK하이닉스[000660] 등 반도체 기업의 내년 고액 성...",
-      "published": "Sun, 11 Oct 2026 05:47:02 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "반도체 호황에도 중기엔 그늘…올들어 생산 줄고 수출비중 축소",
-      "url": "https://www.yna.co.kr/view/AKR20261010026900002",
-      "summary": "(세종=연합뉴스) 안채원 송정은 기자 = 반도체 대기업이 한국 경제 성장을 이끄는 사이 중소기업은 제조업 생산이 뒷걸음질하고 수출 비중도 줄어드...",
-      "published": "Sun, 11 Oct 2026 05:47:01 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 넘어",
-      "url": "https://www.yna.co.kr/view/AKR20261010029200002",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 국내 주요 시중은행 등 금융권을 대상으로 한 대규모 해킹 공격이 잇따른 가운데 국책은행과 한국은행을 향한 해킹...",
-      "published": "Sun, 11 Oct 2026 05:45:06 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "건설 임시일용직 30만명 넘게 떠났다…비자발적 이직 7개월째↑",
-      "url": "https://www.yna.co.kr/view/AKR20261010033300002",
-      "summary": "(세종=연합뉴스) 이세원 기자 = 반도체 산업이 초호황을 누리는 가운데 건설업에서는 임시일용직을 중심으로 30만명 넘는 종사자가 원하지 않는데도...",
-      "published": "Sun, 11 Oct 2026 05:45:04 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
-      "url": "https://www.yna.co.kr/view/AKR20261010027300002",
-      "summary": "(서울=연합뉴스) 채새롬 기자 = 금융권의 대규모 해킹 사고가 발생하기 불과 2주 전 금융보안원이 금융사들에 외부에 노출된 자산 관련 보안 위험...",
-      "published": "Sun, 11 Oct 2026 05:45:03 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "은행권 'AI 방어' 투자 확대…KB 내년 보안 예산 1천억원대로",
-      "url": "https://www.yna.co.kr/view/AKR20261010034100002",
-      "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 최근 금융권 해킹 사고를 계기로 은행들이 보안 투자와 전문 인력 확대에 사활을 거는 분위기다.",
-      "published": "Sun, 11 Oct 2026 05:45:01 +0900",
-      "scraped_at": "2026-10-10T20:53:16.658Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
-      "summary": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc. only amplified investor fears about the wave of coming debt.",
-      "published": "Sat, 10 Oct 2026 19:00:00 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Strong Earnings Keep US Stocks in Favor",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
-      "summary": "PNC Asset Management Chief Investment Officer Amanda Agati tells Bloomberg This Weekend that strong corporate fundamentals and resilient consumer spending could support US stocks as investors head into third-quarter earnings season. Speaking with hosts David Gura and Christina Ruffini, Agati says in",
-      "published": "Sat, 10 Oct 2026 17:37:41 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
-      "summary": "Anastasia Amoroso, chief investment strategist with Partners Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the bullish sentiment in the stock market, the potential for volatility in the near future, and rising global yields.\n (Source: Bloomberg)",
-      "published": "Fri, 09 Oct 2026 19:27:37 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-      "published": "Sat, 10 Oct 2026 17:18:11 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Viral Handbags Turn Small Designer Into Fashion Star",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-10/viral-handbags-turn-small-designer-into-fashion-star-video",
-      "summary": "New York Handbag Designer Pierre Laborde tells Bloomberg This Weekend that a viral TikTok video transformed his handmade leather bags from a longtime fixture at a local street market into a sought-after fashion accessory, with demand now exceeding his small team's production capacity. Speaking with ",
-      "published": "Sat, 10 Oct 2026 17:15:26 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "By The Way: Headlines You May Have Missed",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
-      "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featuring singing waiters and the growing popularity of elaborate tuna carving experiences at high-end sushi restaurants. Join",
-      "published": "Sat, 10 Oct 2026 17:02:42 GMT",
-      "scraped_at": "2026-10-10T20:53:17.353Z"
     }
   ]
 }
