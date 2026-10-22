@@ -1,6 +1,206 @@
 {
-  "updated_at": "2026-10-22T14:45:39.306Z",
+  "updated_at": "2026-10-22T19:38:02.768Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+      "url": "https://www.hankyung.com/article/202610229798i",
+      "summary": "",
+      "published": "Fri, 23 Oct 2026 03:00:02 +0900",
+      "scraped_at": "2026-10-22T19:37:57.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
+      "url": "https://www.hankyung.com/article/202610239834i",
+      "summary": "",
+      "published": "Fri, 23 Oct 2026 00:58:50 +0900",
+      "scraped_at": "2026-10-22T19:37:57.209Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
+      "url": "https://www.hankyung.com/article/202610229805i",
+      "summary": "",
+      "published": "Thu, 22 Oct 2026 22:59:35 +0900",
+      "scraped_at": "2026-10-22T19:37:57.209Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "트럼프 \"이란, 중간선거 앞 유가 올리려 모든 것 꾸며내\"",
+      "url": "https://www.yna.co.kr/view/AKR20261023005000071",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 22일(현지시간) 이란이 미 중간선거를 앞두고 유가를 끌어올리기 위해 '거짓 ...",
+      "published": "Fri, 23 Oct 2026 03:34:45 +0900",
+      "scraped_at": "2026-10-22T19:37:59.670Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[재산공개] 심욱기 대전지방국세청장 57억원 신고",
+      "url": "https://www.yna.co.kr/view/AKR20261022169800063",
+      "summary": "(대전=연합뉴스) 이주형 기자 = 심욱기 대전지방국세청장이 57억여원 상당의 재산을 신고했다.",
+      "published": "Fri, 23 Oct 2026 00:00:00 +0900",
+      "scraped_at": "2026-10-22T19:37:59.670Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Need Landing Zone For Capex Estimates: Karoui",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/need-landing-zone-for-capex-estimates-karoui-video",
+      "summary": "Lotfi Karoui, multi-asset credit strategist at Pimco, and Jeff Sherman, deputy CIO of DoubleLine Capital, join Scarlet Fu on \"Bloomberg Real Yield.\" Meta said it has agreed to spend about $825 billion in the future on various leases and contracts, many of them related to computing power and infrastr",
+      "published": "Thu, 22 Oct 2026 19:17:57 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Spending Woes, Investors Seek Havens, France Debt Crisis",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/real-yield-10-22-2026-video",
+      "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: DoubleLine Capital Deputy Chief Investment Officer Jeff Sherman, TD Bank Head of Europe & UK Rates Strategy Pooja Kumra, and Pimco Multi-Asset Credit Strategist Lotfi Karoui. (Source: Bloomberg)",
+      "published": "Thu, 22 Oct 2026 18:40:49 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Permitting Council Looks to Lame Duck Session to Pass Reform Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/permitting-council-looks-to-lame-duck-to-pass-reforms-video",
+      "summary": "Emily Domenech, executive director of the Federal Permitting Improvement Steering Council, said that she thinks there is a 'good chance' that a permitting reform deal passed in the Senate will make it through the House during the upcoming lame duck session. Domenech said that lawmakers from both sid",
+      "published": "Thu, 22 Oct 2026 19:09:34 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "French Buyers Not Ready To Step in Right Now: Kumra",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/french-buyers-not-ready-to-step-in-right-now-kumra-video",
+      "summary": "Pooja Kumra, head of Europe and UK rates strategy at TD Bank, joins Scarlet Fu on \"Bloomberg Real Yield.\" French bond stress intensified as a broad flight from risk and the threat of another round of weekend protests reinforced the country’s status as the weak link in global markets. The premium on ",
+      "published": "Thu, 22 Oct 2026 18:50:54 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "College Hurt by International Student Drop to Drain Endowment",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/college-hurt-by-international-student-drop-to-drain-endowment",
+      "summary": "The Illinois Institute of Technology, a STEM focused university in Chicago, plans to borrow as much as $200 million from its endowment through fiscal 2028 as it struggles with a decline in international students.",
+      "published": "Thu, 22 Oct 2026 18:45:03 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bessent Hasn't Done Great Job As Salesman: Sherman",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/bessent-hasn-t-done-great-job-as-salesman-sherman-video",
+      "summary": "Jeff Sherman, deputy CIO of DoubleLine Capital, joins Scarlet Fu on \"Bloomberg Real Yield.\" Treasuries surged on Thursday, sending the US 10-year yield back below 5% as investors sought shelter from tumbling share prices for companies leading the boom in spending on artificial intelligence. (Source:",
+      "published": "Thu, 22 Oct 2026 18:41:17 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia Looking to Escalate War, Not End it, Romanian Leader Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-22/russia-looking-to-escalate-war-romanian-leader-says-video",
+      "summary": "President of Romania Nicușor Dan said that Europe was not prepared for the hybrid approach taken by Russia as the region deals with the military 'collateral damage' from the war in Ukraine, as well as targeted cyberattacks. Dan said that recent drone attacks against ships in Romania's territory of t",
+      "published": "Thu, 22 Oct 2026 18:35:01 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
+      "summary": "UBS Group AG prevailed against two former Credit Suisse Group AG managing directors who argued their deferred-compensation certificates shouldn’t have been written down when the banks merged in 2023.",
+      "published": "Thu, 22 Oct 2026 18:22:55 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "What Happens When Active ETFs Have Exposure to Stocks That Are Shorted",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-22/what-happens-when-active-etfs-have-exposure-to-stocks-that-are-shorted",
+      "summary": "Piling into stocks that are heavily shorted hasn’t been a winning strategy for active ETFs",
+      "published": "Thu, 22 Oct 2026 18:19:51 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-mvjv24q7",
+      "summary": "The cost of options hedges against more gains in Treasuries surged to its highest level since March on Thursday, as investors sought the safety of US government bonds following a spike in oil prices and a deepening fiscal crisis in France.",
+      "published": "Thu, 22 Oct 2026 18:14:46 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "RBC’s New Canada Stock Strategy Chief Sets TSX Target at 38,600",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/rbc-s-new-canada-stock-strategy-chief-sets-tsx-target-at-38-600",
+      "summary": "Royal Bank of Canada’s capital markets division named Sara Mahaffy as head of Canadian equity strategy, marking the first time in a decade it’s had a dedicated strategist covering the domestic stock market.",
+      "published": "Thu, 22 Oct 2026 18:13:18 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Zealand Cost Crisis Drives Election Vows to Rein In Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-cost-crisis-drives-election-vows-to-rein-in-business",
+      "summary": "In New Zealand, the rising price of everyday items is sobering: bread costs 64% more than three years ago, butter is up 57% and electricity 27%. Hikes like these are causing politicians across the spectrum to propose radical market interventions to improve competition and lower costs ahead of next m",
+      "published": "Thu, 22 Oct 2026 18:00:00 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Canadian Data Cast Doubt on China-US Bond ‘Conspiracy,’ NBF Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/canadian-data-cast-doubt-on-china-us-bond-conspiracy-nbf-says",
+      "summary": "Some bond-market watchers believe China is disguising the full extent of its ownership of US debt by holding hundreds of billions of dollars of securities through accounts in Canada. That idea is off base, according to research from one major Canadian bank.",
+      "published": "Thu, 22 Oct 2026 18:00:00 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasuries Head for Best Day Since August 2025 on Haven Appetite",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+      "summary": "Treasuries surged, on course for their best day since August 2025, as investors sought shelter from tumbling share prices for companies leading the boom in spending on artificial intelligence.",
+      "published": "Thu, 22 Oct 2026 03:46:59 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazil Hedging Costs Spike as Election Anxiety Surges",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/brazil-hedging-costs-spike-as-election-anxiety-surges",
+      "summary": "Investor jitters are kicking in ahead of Brazil’s presidential election runoff, sending the cost of hedging surging.",
+      "published": "Thu, 22 Oct 2026 17:44:41 GMT",
+      "scraped_at": "2026-10-22T19:38:00.066Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14480,206 +14680,6 @@
       "summary": "Neha Khoda, head of US credit strategy at BofA Securities, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Investment Management, join Scarlet Fu on \"Bloomberg Real Yield.\"\n (Source: Bloomberg)",
       "published": "Thu, 15 Oct 2026 20:21:16 GMT",
       "scraped_at": "2026-10-15T22:47:02.517Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "하늘 나는 테슬라 로드스터…스페이스X의 테슬라 인수 큰그림?",
-      "url": "https://www.hankyung.com/article/202610165127i",
-      "summary": "",
-      "published": "Fri, 16 Oct 2026 00:20:56 +0900",
-      "scraped_at": "2026-10-15T19:33:54.262Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "“공화국 공격 단정 어려워” 정동영 발언에 야권 발칵…국힘 “탄핵 대상”",
-      "url": "https://www.mk.co.kr/news/politics/12171897",
-      "summary": "국민의힘은 8일 김여정 북한 노동당 총무부장이 담화에서 정동영 통일부 장관을 언급한 데 대해 정 장관 탄핵까지 거론하며 공세를 폈다. 김여정 부장은 이날 담화에서 정 장관이 전날 ..",
-      "published": "Thu, 08 Oct 2026 18:22:47 +09:00",
-      "scraped_at": "2026-10-15T19:33:58.447Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "韓 의료지원 추진에 北 \"또 광대극\"",
-      "url": "https://www.mk.co.kr/news/politics/12171858",
-      "summary": "김여정 북한 노동당 총무부장이 한국 정부가 의료장비 지원을 위해 유엔에 대북제재 면제를 요청한 것을 거칠게 비난하며 한국과의 단절 입장을 재차 강조했다. \n8일 김 부장은 조선중앙..",
-      "published": "Thu, 08 Oct 2026 17:40:17 +09:00",
-      "scraped_at": "2026-10-15T19:33:58.447Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "김여정 ‘지뢰폭발’에 “정동영이도 공화국의 공격 단정 어렵다 스스로 고백”",
-      "url": "https://www.mk.co.kr/news/politics/12171729",
-      "summary": "북한 김여정 노동당 총무부장이 우리 정부의 대북 의료장비 지원 추진을 두고 “또 다른 광대극”이라며 강하게 반발했다. 북한에 대한 인도적 지원을 위해 정부가 유엔 안전보장이사회 대..",
-      "published": "Thu, 08 Oct 2026 17:00:37 +09:00",
-      "scraped_at": "2026-10-15T19:33:58.447Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "정동영 “북한 지뢰 대응 조치, 한반도 평화 노력 폄훼 빌미 돼선 안 돼”",
-      "url": "https://www.mk.co.kr/news/politics/12165535",
-      "summary": "정동영 통일부 장관은 비무장지대(DMZ)에 매설된 북한 지뢰 폭발 사건의 대응 조치에 대해 “한반도 평화를 향한 우리의 노력을 폄훼하거나 왜곡하는 빌미가 돼서는 안 될 것”이라고 ..",
-      "published": "Thu, 01 Oct 2026 07:05:19 +09:00",
-      "scraped_at": "2026-10-15T19:33:58.447Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Copper Falls for Third Day as Strong US Inflation Spurs Selloff",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/copper-falls-for-third-day-as-strong-us-inflation-spurs-selloff",
-      "summary": "Copper declined with other base metals after stronger-than-expected US consumer prices spurred bets on more aggressive tightening by the Federal Reserve.",
-      "published": "Thu, 15 Oct 2026 04:57:48 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Indexing Sports: How Team Stats Become Tradeable Assets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/indexing-sports-how-team-stats-become-tradeable-assets",
-      "summary": "In this episode, we explore the financial infrastructure behind the new crop of sports ETF filings and indexes that measure the performance of individual teams.",
-      "published": "Thu, 15 Oct 2026 18:27:47 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Slovakia Connects Nuclear Reactor in Boost for Power Exports",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/slovakia-connects-nuclear-reactor-in-boost-for-power-exports",
-      "summary": "Slovakia connected a new nuclear reactor to its electricity grid, cementing the country’s position as a power exporter in Central Europe.",
-      "published": "Thu, 15 Oct 2026 19:13:40 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Zelenskyy Defies Trump, Global Tech Selloff Drives Haven Bid",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/zelenskyy-defies-trump-global-tech-selloff-drives-haven-bid",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has ordered attacks on Russian oil refineries to resume in a spiraling confrontation with Donald Trump over restrictions on US intelligence assistance.\n\nGlobal equities fell as a selloff in the artificial-intelligence trade gathered speed and pushed investors ",
-      "published": "Thu, 15 Oct 2026 19:12:12 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Change is Top of Mind for Voters, Says Siena's Don Levy",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/change-is-top-of-mind-for-voters-says-siena-s-don-levy-video",
-      "summary": "Don Levy, director of the Siena Research Institute, said that while the Democratic party itself is not gaining in popularity, 'change' is what's on top of mind for voters, and 'they want their lives to be better' and see voting as a way to do that. Levy also discussed the fight for Latino voters in ",
-      "published": "Thu, 15 Oct 2026 18:41:32 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Commanders Stadium Has DC Weighing Muni-Bond Sale",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/commanders-stadium-has-dc-weighing-muni-bond-sale-video",
-      "summary": "Bloomberg's Aashna Shah joins Scarlet Fu on \"Bloomberg Real Yield.\"  The return of the Washington Commanders to the nation’s capital has the District of Columbia considering borrowing roughly $526 million in municipal bonds, according to a filing.\n (Source: Bloomberg)",
-      "published": "Thu, 15 Oct 2026 18:37:46 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AFP de Chile advirtieron riesgos mientras aumentaban derivados",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/afp-de-chile-advirtieron-riesgos-mientras-aumentaban-derivados-mv9vmy1r",
-      "summary": "Las administradoras de pensiones ganaron durante años con derivados de tasas. Pero el giro de los bonos de EE.UU. convirtió esas posiciones en fuertes pérdidas.",
-      "published": "Thu, 15 Oct 2026 18:33:15 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Billionaires Plow $300 Million Into Fight Against Wealth Tax",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/billionaires-plow-300-million-into-fight-against-tax-video",
-      "summary": "Bloomberg's Josh Sisco joins Scarlet Fu on \"Bloomberg Real Yield.\" Groups backed by some of the world’s richest people are pouring cash into a final push against California’s proposed one-time 5% tax on billionaires, escalating what’s already one of the country’s most expensive battles of this elect",
-      "published": "Thu, 15 Oct 2026 18:32:50 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Argentina Pauses Local Dollar Bond Sales as Debt Wall Nears",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/argentina-pauses-local-dollar-bond-sales-as-debt-wall-nears",
-      "summary": "Argentina is balking at selling dollar debt in the local market following a surge in borrowing costs, complicating its efforts to meet billions in debt payments next year.",
-      "published": "Thu, 15 Oct 2026 18:30:00 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Think 5,000 ETFs Is a Lot? Sports Could Add Thousands More",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/think-5-000-etfs-is-a-lot-sports-could-add-thousands-more",
-      "summary": "Sports teams, leagues and even star players could fuel the ETF industry’s next wave of funds.",
-      "published": "Thu, 15 Oct 2026 18:25:10 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Mortgage Rates Unchanged at 7.4% as Housing Market Struggles",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/us-mortgage-rates-unchanged-as-housing-market-struggles-video",
-      "summary": "Bloomberg's Prashant Gopal joins Scarlet Fu on \"Bloomberg Real Yield.\" US mortgage rates were unchanged in the past week, offering little relief to a housing market battered by the return of 7% borrowing costs. (Source: Bloomberg)",
-      "published": "Thu, 15 Oct 2026 18:23:33 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bond Traders Eclipsed by Equities in a Rare Reversal",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/bond-traders-eclipsed-by-equities-in-a-rare-reversal-video",
-      "summary": "Bloomberg's Sridhar Natarajan joins Scarlet Fu on \"Bloomberg Real Yield.\" As Wall Street’s fixed-income desks struggled in the third quarter, their rivals in equities seized a rare opening to outshine their market brethren.\n (Source: Bloomberg)",
-      "published": "Thu, 15 Oct 2026 18:10:40 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Morgan Stanley Leads Fundraise for Texas Refinery, Company Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/morgan-stanley-leads-fundraise-for-texas-refinery-company-says",
-      "summary": "Morgan Stanley is leading an equity and debt fundraising for the first new major US oil refinery in half a century, according to the company behind the $4 billion fuel-making project.",
-      "published": "Thu, 15 Oct 2026 18:09:11 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Zelenskyy Orders New Strikes on Russian Refineries",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/zelenskyy-orders-new-strikes-on-russian-refineries-video",
-      "summary": "Ukrainian President Volodymyr Zelenskyy ordered attacks on Russian oil refineries to resume, even though President Donald Trump is pushing for an \"energy ceasefire.\" Bloomberg's Tyler Kendall reports from the White House. (Source: Bloomberg)",
-      "published": "Thu, 15 Oct 2026 18:04:32 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Before US Rate Bets Wiped Out Billions, Warnings Were Ignored in Chile",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/before-us-rate-bets-wiped-out-billions-warnings-were-ignored-in-chile",
-      "summary": "It was a desperate appeal to regulators: Step in, they were urged, and put a stop to this reckless behavior. It came as Chilean pension funds were making outsized bets on US interest rates, more than a year before a painful blowup left them billions of dollars in the red.",
-      "published": "Thu, 15 Oct 2026 17:33:34 GMT",
-      "scraped_at": "2026-10-15T19:34:00.462Z"
     }
   ]
 }
