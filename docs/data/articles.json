@@ -1,6 +1,386 @@
 {
-  "updated_at": "2026-10-30T20:15:48.837Z",
+  "updated_at": "2026-10-31T01:14:50.974Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+      "url": "https://www.hankyung.com/article/2026103064846",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 09:30:03 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "침체 길어졌지만 꿈틀대는 주가…中 부동산주 반등 신호",
+      "url": "https://www.hankyung.com/article/202610020522i",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 09:00:02 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"재출시만 기다렸다\" 관심 폭발…4만8000개 '완판' 터졌다",
+      "url": "https://www.hankyung.com/article/2026103173427",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 08:57:13 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+      "url": "https://www.hankyung.com/article/2026103173397",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 08:44:15 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "송전망 막힌 지방 발전소, 전기 직판 길 열린다…첨단산업 유치 '물꼬' [김리안의 에네르기파WAR]",
+      "url": "https://www.hankyung.com/article/202610280304i",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 08:30:02 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"17억 집 가진 노인 받는 돈이…\" 기초연금 '상위 1%' 현실",
+      "url": "https://www.hankyung.com/article/2026103172627",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 07:24:56 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
+      "url": "https://www.hankyung.com/article/202610317206i",
+      "summary": "",
+      "published": "Sat, 31 Oct 2026 06:01:05 +0900",
+      "scraped_at": "2026-10-31T01:14:46.615Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "北, 대북제재감시팀 조롱 “제재 곳간 이미 바닥…우리에겐 안통해”",
+      "url": "https://www.mk.co.kr/news/politics/12192348",
+      "summary": "감시팀 공동성명·회원국 독자제재에 반발 담화 “핵보유국 지위에 아무러한 영향 못미쳐”북한이 다국적제재모니터링팀(MSMT) 일부 회원국과 유럽연합(EU)의 최근 추가 제재 시행에 대..",
+      "published": "Sat, 31 Oct 2026 08:06:03 +09:00",
+      "scraped_at": "2026-10-31T01:14:46.995Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+      "url": "https://www.yna.co.kr/view/AKR20261031021700060",
+      "summary": "(고양=연합뉴스) 경기 고양시는 인공지능(AI) 반도체 기업 퓨리오사AI와 디지털 신원확인 솔루션 기업 엑스페릭스와 함께 '글로벌 AI 허브 유...",
+      "published": "Sat, 31 Oct 2026 09:46:21 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+      "url": "https://www.yna.co.kr/view/AKR20261030067200008",
+      "summary": "(서울=연합뉴스) 정회인 기자 = 다음 주(11월 2∼6일) 기업공개(IPO) 시장에서는 영광과 래블업, 이에스티 등 3개 기업이 코스닥시장에 ...",
+      "published": "Sat, 31 Oct 2026 09:00:38 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표",
+      "url": "https://www.yna.co.kr/view/AKR20261031012200002",
+      "summary": "(서울·세종=연합뉴스) 이세원 한지훈 강수련 김수현 기자 = 다음 주(11월 2∼6일)에는 국내 물가 동향과 수출입 현황을 보여주는 지표가 공개...",
+      "published": "Sat, 31 Oct 2026 08:35:38 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대EU 철강 수출, 감소폭 줄었지만…잇단 규제에 업계 긴장",
+      "url": "https://www.yna.co.kr/view/AKR20261030178500003",
+      "summary": "(서울=연합뉴스) 장보인 기자 = 유럽연합(EU)의 신(新)철강조치 도입 직후 급감했던 한국의 대EU 철강 수출 실적이 최근 개선 흐름을 보였다...",
+      "published": "Sat, 31 Oct 2026 08:15:00 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[해수분해] 항구만으론 부족하다…금융·관광까지 품는 남부 해양수도권",
+      "url": "https://www.yna.co.kr/view/AKR20261028129700051",
+      "summary": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
+      "published": "Sat, 31 Oct 2026 08:00:03 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+      "url": "https://www.yna.co.kr/view/AKR20261030163600003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = GV80의 고급스러움에 정숙함과 연비를 더했다.",
+      "published": "Sat, 31 Oct 2026 07:31:01 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
+      "url": "https://www.yna.co.kr/view/AKR20261030023500051",
+      "summary": "(부산=연합뉴스) 오수희 기자 = 신세계백화점의 롯데백화점 센텀시티점 인수를 계기로 부산 유통시장에서 두 회사의 경쟁 구도가 바뀌고 있다.",
+      "published": "Sat, 31 Oct 2026 07:30:00 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+      "url": "https://www.yna.co.kr/view/AKR20261030169300003",
+      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
+      "published": "Sat, 31 Oct 2026 07:01:00 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
+      "url": "https://www.yna.co.kr/view/AKR20261030100300030",
+      "summary": "▲ 에뛰드는 부드러운 발림성과 맑은 발색, 광택을 특징으로 하는 컬러 립밤 '글로이 구미 밤'을 다음 달 1일 올리브영에서 출시한다. 신제품은 ...",
+      "published": "Sat, 31 Oct 2026 07:00:05 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
+      "url": "https://www.yna.co.kr/view/AKR20261030073400030",
+      "summary": "▲ 한국맥도날드는 '와사비 게살 크림 크로켓 버거'의 크로켓을 활용해 만든 맥모닝 메뉴 '게살 크림 크로켓 머핀'을 출시했다.",
+      "published": "Sat, 31 Oct 2026 07:00:02 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+      "url": "https://www.yna.co.kr/view/AKR20261030161700017",
+      "summary": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
+      "published": "Sat, 31 Oct 2026 06:33:01 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
+      "url": "https://www.yna.co.kr/view/AKR20261030076700003",
+      "summary": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 24주 연속 하락세를 이어갔다.",
+      "published": "Sat, 31 Oct 2026 06:05:00 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
+      "url": "https://www.yna.co.kr/view/AKR20261030159900030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 식품업계에서 과거 인기를 끌었던 제품을 다시 선보이는 '뉴트로' 전략이 이어지고 있다.",
+      "published": "Sat, 31 Oct 2026 06:00:02 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20261031005200072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 30일(현지시간) 국제유가가 이란 전쟁 확전 우려와 호르무즈 해협의 원유 수송 차질 가능성에 2% 넘게 오르...",
+      "published": "Sat, 31 Oct 2026 05:13:57 +0900",
+      "scraped_at": "2026-10-31T01:14:47.938Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Chocolate Price Spook Families for Halloween",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+      "summary": "Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bl",
+      "published": "Fri, 30 Oct 2026 22:21:45 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Crypto Hack Reignites Regulatory Debate",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+      "summary": "A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vulnerabilities at an individual firm rather than a failure of underlying blockchain technology. He is also calling for the",
+      "published": "Fri, 30 Oct 2026 22:08:41 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+      "summary": "Lonnie Ali, Muhammad Ali's wife & Executive Producer of The Greatest, joins Marc Rosen of Authentic Brands to discuss the first authorized scripted series to take a more intimate look at Muhammad Ali beyond his boxing career. The two speak with Romaine Bostick on \"The Close\" on October 29, 2026. (So",
+      "published": "Fri, 30 Oct 2026 22:05:55 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bloomberg Screentime: Streaming, AI & Creators",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+      "summary": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)",
+      "published": "Fri, 30 Oct 2026 22:05:47 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+      "summary": "Brieane Olson, CEO of PacSun, says that the retailer’s core customer is 16 to 24, while it is also tracking differences between Gen Z and Gen Alpha. Drawing on a PacSun Youth Report conducted with GlobalData and surveying 6,000 young people, Olson said mental health ranks as their top priority. She ",
+      "published": "Fri, 30 Oct 2026 22:01:02 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
+      "summary": "Joe Preston, New Balance President and CEO, discussed the company’s long-running partnership with the New York City Marathon, which he described as a key part of the brand. More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo, where",
+      "published": "Fri, 30 Oct 2026 21:59:01 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Ice Cube on Big3 League: In a Great Position To Scale",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
+      "summary": "Ice Cube, CEO & Co-Founder of the Big3 basketball league, says audiences want more basketball in the summer and argues that the league has helped professionalize three-on-three play. He describes basketball as a globally beloved sport and say the league is well positioned to grow, noting that it is ",
+      "published": "Fri, 30 Oct 2026 21:55:31 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Burger King US President on Sales Turnaround",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+      "summary": "Burger King US and Canada President Tom Curtis discussed the chain’s comparable-sales growth, cited in the conversation as 8.4%, against an estimate of 6.2%. Curtis said growth is being driven largely by customers who had stopped visiting and are now returning, drawn by a renewed connection to the b",
+      "published": "Fri, 30 Oct 2026 21:51:18 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Rich Steinmeier on a Career in Management",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
+      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice.\n (Source: Bloomberg)",
+      "published": "Fri, 30 Oct 2026 21:21:38 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+      "summary": "Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)",
+      "published": "Fri, 30 Oct 2026 21:14:16 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+      "summary": "Brazilian authorities summoned Argentina’s top envoy in the country on Friday to explain President Javier Milei’s role in helping Flávio Bolsonaro flee Brazil following his election defeat.",
+      "published": "Fri, 30 Oct 2026 20:59:39 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
+      "summary": "New York projected the budget deficit will narrow by $3.5 billion next year as the state expects a boom in trading and borrowing to deliver record profits to Wall Street and stronger bonus payments to boost revenue.",
+      "published": "Fri, 30 Oct 2026 20:55:32 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
+      "summary": "In the span of three weeks, Brazilian hedge-fund managers went from celebrating some of their biggest gains in years to nursing steep losses and issuing mea culpas to their clients.",
+      "published": "Fri, 30 Oct 2026 14:29:42 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+      "summary": "Hedge funds this week amassed the largest-ever short position on US natural gas on expectations that an unusually warm winter will slash demand for the furnace and power-plant fuel.",
+      "published": "Fri, 30 Oct 2026 20:40:59 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+      "summary": "The deep selloff in technology stocks delivered a painful reckoning to those who remained all-in on the AI trade as the companies at the center of it tumbled, one after another, and investors rushed back to the defensive stocks they had swept out of vogue.",
+      "published": "Fri, 30 Oct 2026 20:30:15 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+      "summary": "Bambusa Therapeutics Inc. shares slipped 6.3% in its trading debut after the early-stage biotech focused on dermatology and autoimmune diseases raised $168.9 million in a US initial public offering.",
+      "published": "Fri, 30 Oct 2026 15:37:00 GMT",
+      "scraped_at": "2026-10-31T01:14:48.559Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -14020,226 +14400,6 @@
       "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)",
       "published": "Fri, 23 Oct 2026 22:47:27 GMT",
       "scraped_at": "2026-10-24T02:33:34.782Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-      "url": "https://www.yna.co.kr/view/AKR20261023120500053",
-      "summary": "(대구=연합뉴스) 김용민 기자 = K푸드 열풍을 타고 떡볶이 등 대구지역 식료품 수출이 급증했다.",
-      "published": "Sat, 24 Oct 2026 07:11:12 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1천800원대",
-      "url": "https://www.yna.co.kr/view/AKR20261023102900003",
-      "summary": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 23주 연속 하락세를 이어갔다.",
-      "published": "Sat, 24 Oct 2026 07:01:01 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"달콤함 그대로, 당은 빼고\"…식품업계, 과자·음료 '저당' 경쟁",
-      "url": "https://www.yna.co.kr/view/AKR20261023151900030",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 과자와 음료 등 가공식품 소비지출이 늘고 저당·제로슈거(무설탕) 식품에 대한 관심도 높아지는 가운데 식품업계가...",
-      "published": "Sat, 24 Oct 2026 07:01:00 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[위클리 건강] '0칼로리' 믿고 마셨는데…당뇨병부터 뇌 건강까지 '경고등'",
-      "url": "https://www.yna.co.kr/view/AKR20261023083600530",
-      "summary": "(서울=연합뉴스) 김길원 기자 = 설탕은 줄이면서 단맛은 그대로 즐길 수 있다는 점에서 '제로 음료'는 건강을 생각하는 소비자들에게 매력적인 선...",
-      "published": "Sat, 24 Oct 2026 07:00:07 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
-      "url": "https://www.yna.co.kr/view/AKR20261023160000030",
-      "summary": "▲ 삼립[005610]은 서울 성수동 수제버거 브랜드 '제스티살룬'과 협업한 '프리미엄 햄버거' 4종을 출시했다.",
-      "published": "Sat, 24 Oct 2026 07:00:02 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
-      "url": "https://www.yna.co.kr/view/AKR20261023165700003",
-      "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국 8곳에서 5천500여 가구가 청약 신청을 받는다.",
-      "published": "Sat, 24 Oct 2026 06:05:00 +0900",
-      "scraped_at": "2026-10-23T22:44:57.274Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
-      "summary": "Andrew Brandt says the Brewers and Rays reaching the World Series—despite ranking 19th and 26th in payroll, respectively—shows how strong management, scouting and player development can compete with high spending. He calls the matchup evidence for the players’ union that success is possible without ",
-      "published": "Fri, 23 Oct 2026 22:09:13 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "How Valterra's Forging the Future of Platinum | Chief Financial Officer",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-15/how-valterra-s-forging-the-future-of-platinum-video",
-      "summary": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organizations to meet future challenges. This episode profiles Valterra Platinum CFO Sayurie Naidoo, who leads the world's largest company producing platinum group metals. One year after its demerger from",
-      "published": "Thu, 15 Oct 2026 01:30:10 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "'Notes on Being a Man', 'The Invisible Hand'",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
-      "summary": "Bloomberg's Scarlet Fu and Tom Keene discuss their must-read book on this week's edition of \"Bloomberg Money.\" They discuss 'Notes on Being a Man' by Scott Galloway and 'The Invisible Hand of Maria Edgeworth: How a Nineteenth-Century Novelist Taught the World Economics' by Jeanna Smialek. (Source: B",
-      "published": "Fri, 23 Oct 2026 22:05:12 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
-      "summary": "Bloomberg's John Tozzi joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" The annual cost of a US family’s employer-provided healthcare plan reached an average $28,303 this year, 5% more than 2025, according to an annual survey conducted by health policy nonprofit KFF. (Source: Bloomberg)",
-      "published": "Fri, 23 Oct 2026 21:58:51 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
-      "summary": "Data centers face potential credit rating downgrades due to moratoriums and cancellations driven by public opposition, according to S&P Global Ratings.",
-      "published": "Fri, 23 Oct 2026 21:56:15 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
-      "summary": "O repórter Fabiano Maisonnave conta sobre como a cidade do Pará rebelada contra política ambiental abraça Flávio. Com produção de Gisele Fernandes e edição de Mariana Lumy.\n (Source: Bloomberg)",
-      "published": "Fri, 23 Oct 2026 21:51:49 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Robin Wigglesworth on the Importance of Curiosity",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
-      "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern wo",
-      "published": "Fri, 23 Oct 2026 21:39:56 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "National Wealth Tax Could Work: Tilson",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
-      "summary": "Whitney Tilson, editor for Stansberry Research, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss Tilson's hopes to bring Democrats back to the center, his personal investing strategy, and the potential for a national wealth tax.  (Source: Bloomberg)",
-      "published": "Fri, 23 Oct 2026 21:34:51 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
-      "summary": "The city of San Diego said it plans to withdraw from a group that helps issue and manage billions of dollars in municipal bonds after federal regulators raised concerns about the organization’s oversight.",
-      "published": "Fri, 23 Oct 2026 21:29:20 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Chipmakers Post Longest Weekly Drop Since November",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video",
-      "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates. Brent crude settled near $117 as a flare-up in Middle East violence threatened supplies. Most S&P 500 firms fell even as selling pressure on t",
-      "published": "Fri, 23 Oct 2026 20:57:57 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-are-record-short-natural-gas-on-mild-winter-outlook",
-      "summary": "Hedge-fund managers have amassed a record short position in US natural gas on expectations for an unusually mild northern winter that points to anemic demand for the furnace and power-plant fuel.",
-      "published": "Fri, 23 Oct 2026 20:54:09 GMT",
-      "scraped_at": "2026-10-23T22:44:57.407Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "NYSE Options Exchange Trading Halted by ‘Technical Issue’",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
-      "summary": "A NYSE options exchange has suspended trading, causing other exchanges to disregard quotes from the venue.",
-      "published": "Fri, 23 Oct 2026 15:16:45 GMT",
-      "scraped_at": "2026-10-23T22:44:57.408Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
-      "summary": "According to the president of Blackstone Inc., there’s no bubble in artificial intelligence. Treasury Secretary Scott Bessent isn’t seeing a “systemic problem” in the boom. But as hard as Wall Street brass works to tamp down concerns around the space, markets are refusing to be calmed.",
-      "published": "Fri, 23 Oct 2026 20:32:42 GMT",
-      "scraped_at": "2026-10-23T22:44:57.408Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "SpaceX Shakes Up Telecom Stocks | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-shakes-up-telecom-stocks-closing-bell-video",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Jess Menton, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "published": "Fri, 23 Oct 2026 20:21:37 GMT",
-      "scraped_at": "2026-10-23T22:44:57.408Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Oncologists Cheer Melanoma Data",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video",
-      "summary": "Leaked data from Moderna and Merck's highly anticipated melanoma vaccine trial has led to a rare disconnect between doctors, who celebrated the result, and Wall Street, which sold off the stocks.\nNormally results of such pivotal drug studies are binary, with doctors, patients and investors all learn",
-      "published": "Fri, 23 Oct 2026 19:58:07 GMT",
-      "scraped_at": "2026-10-23T22:44:57.408Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Funds Lift Bearish Euro Bets to Most Since 2020: CFTC",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-lift-bearish-euro-bets-to-most-since-2020-cftc",
-      "summary": "Hedge funds boost their bets against the euro to the most since March 2020 as political turmoil in France rattles European markets and weighs on the currency.",
-      "published": "Fri, 23 Oct 2026 19:49:49 GMT",
-      "scraped_at": "2026-10-23T22:44:57.408Z"
     }
   ]
 }
