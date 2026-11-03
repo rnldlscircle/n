@@ -1,6 +1,326 @@
 {
-  "updated_at": "2026-11-03T17:25:57.384Z",
+  "updated_at": "2026-11-03T22:42:01.250Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "이익률 하락에 물류센터 화재 손실만 3500억…엎친데 덮친 쿠팡",
+      "url": "https://www.hankyung.com/article/202611044191g",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 06:57:08 +0900",
+      "scraped_at": "2026-11-03T22:41:53.365Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "쿠팡, 매출 14조 넘겼지만…3분기 연속 적자 이어져",
+      "url": "https://www.hankyung.com/article/202611044137g",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 06:15:41 +0900",
+      "scraped_at": "2026-11-03T22:41:53.365Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[속보] 쿠팡, 매출 14조 넘겼지만…모회사 3분기 영업손실 6423억",
+      "url": "https://www.hankyung.com/article/202611044167g",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 06:12:19 +0900",
+      "scraped_at": "2026-11-03T22:41:53.365Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"슈퍼카도 이걸로 삽니다\"…3개월 만에 60억 판 'VIP 앱' 정체",
+      "url": "https://www.hankyung.com/article/202611033879g",
+      "summary": "",
+      "published": "Wed, 04 Nov 2026 06:00:02 +0900",
+      "scraped_at": "2026-11-03T22:41:53.365Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "[속보] 김여정, 바이낸스사태에 “미국과 대화 가능하지만 적대정책부터 바꿔야”",
+      "url": "https://www.mk.co.kr/news/politics/12195730",
+      "summary": "북한이 바이낸스 해킹 사건의 배후로 지목된 데 대해 미국을 비판하면서도 북미 대화 가능성을 언급했다. 4일 연합뉴스에 따르면 김여정 북한 노동당 총무부장은 이날 담화에서 “평화수호..",
+      "published": "Wed, 04 Nov 2026 06:22:53 +09:00",
+      "scraped_at": "2026-11-03T22:41:57.149Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20261104014000011",
+      "summary": "■ [美중간선거 르포] 트럼프 찬반투표 방불…\"최악 대통령\" \"그는 황금의 손\"",
+      "published": "Wed, 4 Nov 2026 07:30:00 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[충남의 공론장] 신용 낮을수록 높은 이자…'기본금융'이 해법 될까",
+      "url": "https://www.yna.co.kr/view/AKR20261103117100063",
+      "summary": "[※ 편집자 주 = 충남도의회는 지역 현안의 해결 방안을 모색하기 위해 다양한 의정토론회를 열고 있습니다. 도의원과 전문가, 관계기관 등이 머리...",
+      "published": "Wed, 4 Nov 2026 07:00:02 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[팩트체크] 포장지 속 AI가 그린 과자 이미지…실물과 달라도 될까",
+      "url": "https://www.yna.co.kr/view/AKR20261030146000518",
+      "summary": "(서울=연합뉴스) 김은경 기자 = 국내 대형 제과업체가 최근 출시한 케이크류 제품을 두고 온라인에서 '과대광고' 논란이 벌어졌다.",
+      "published": "Wed, 4 Nov 2026 06:30:01 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "송미령 농식품부 장관, 가락시장 찾아 김장재료 수급 점검",
+      "url": "https://www.yna.co.kr/view/AKR20261103117700030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 송미령 농림축산식품부 장관은 본격적인 김장철을 앞둔 3일 서울 송파구 가락시장을 찾아 배추와 무 등 주요 김장...",
+      "published": "Wed, 4 Nov 2026 06:00:12 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대법 \"영업비밀 유출 전에 받은 돈도 범죄수익으로 추징 가능\"",
+      "url": "https://www.yna.co.kr/view/AKR20261103159500004",
+      "summary": "(서울=연합뉴스) 이미령 기자 = 영업비밀을 넘기기 전에 미리 받은 돈도 범죄수익으로 보고 추징할 수 있다는 대법원 판단이 나왔다.",
+      "published": "Wed, 4 Nov 2026 06:00:08 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "인베스트코리아서밋 개막…역대 최대 20억달러 투자 유치",
+      "url": "https://www.yna.co.kr/view/AKR20261103158200003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 국내 최대 외국인투자 유치 행사인 '인베스트 코리아 서밋(IKS) 2026'이 4일 그랜드 인터컨티넨탈 서울 ...",
+      "published": "Wed, 4 Nov 2026 06:00:08 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울연구원, 한강의 과거·미래 담은 기획영상 유튜브에 공개",
+      "url": "https://www.yna.co.kr/view/AKR20261103171500004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울연구원이 한강의 역사와 도시 발전 과정, 미래 모습을 담은 기획 영상 '한강, 서울의 어제와 내일을 잇다'...",
+      "published": "Wed, 4 Nov 2026 06:00:04 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "저신용자에 정부지원 대출 중개…수수료 50억 챙긴 일당 송치",
+      "url": "https://www.yna.co.kr/view/AKR20261103169100004",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = 신용이 낮아 금융권에서 대출받기 어려운 사람들에게 접근해 정부 지원 대출을 중개하고 고율의 수수료를 떼어가는 ...",
+      "published": "Wed, 4 Nov 2026 06:00:03 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "10월 외환보유액 4천432억달러로 늘어…국제 순위 9위로↑",
+      "url": "https://www.yna.co.kr/view/AKR20261103169200002",
+      "summary": "(서울=연합뉴스) 채새롬 기자 = 지난달 외화자산 운용 수익 등의 영향으로 우리나라 외환보유액이 두 달 만에 늘어났다.",
+      "published": "Wed, 4 Nov 2026 06:00:01 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국제유가, 종전 기대감에 하락세 지속…브렌트유 한달만에 최저",
+      "url": "https://www.yna.co.kr/view/AKR20261104007500072",
+      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 3일(현지시간) 국제유가는 미국과 이란, 러시아와 우크라이나 간 전쟁 종식을 위한 협상 기대감에 이틀 연속 ...",
+      "published": "Wed, 4 Nov 2026 05:58:45 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "바이낸스 해킹에 국내 가상자산거래소 배상 책임강화될까",
+      "url": "https://www.yna.co.kr/view/AKR20261103160500002",
+      "summary": "(서울=연합뉴스) 유동현 기자 = 해외 가상자산 거래소 바이낸스가 해킹 탈취 자산 전액 보전을 약속하면서 국내 거래소 책임 강화 방안에도 관심이...",
+      "published": "Wed, 4 Nov 2026 05:53:00 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "불법사금융예방대출 연체율 44%로 상승…연령대 낮을수록 높아",
+      "url": "https://www.yna.co.kr/view/AKR20261103165400002",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 서민금융진흥원이 취약계층을 대상으로 지원하는 정책서민금융상품인 불법사금융예방대출(불사예대) 연체율이 매년 오르...",
+      "published": "Wed, 4 Nov 2026 05:51:00 +0900",
+      "scraped_at": "2026-11-03T22:41:58.539Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dorsey’s Block Details Bigger DOJ Settlement, Sunnier Guide",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+      "summary": "Block Inc. inched past Wall Street’s profit expectations on Tuesday and outlined a bigger potential settlement with the US Department of Justice for alleged customer abuses, as Jack Dorsey revamps his payments empire to make it more profitable and relevant.",
+      "published": "Tue, 03 Nov 2026 21:20:03 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "New Zealand Jobless Rises to 11-Year High as Election Looms",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
+      "summary": "New Zealand’s jobless rate unexpectedly increased to a fresh 11-year high in the third quarter, adding to pressure on the government just three days from an election.",
+      "published": "Tue, 03 Nov 2026 21:50:39 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Asian Tech Stocks to Rise on AI Rally as US Votes: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+      "summary": "Asian tech stocks looked set to rise after a revival in the artificial-intelligence trade lifted Wall Street, as investors awaited the results of the US midterm elections.",
+      "published": "Tue, 03 Nov 2026 22:20:22 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Bedrock CEO on Future of Detroit Real Estate",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/bedrock-ceo-on-future-of-detroit-real-estate-video",
+      "summary": "Bedrock CEO Jared Fleisher discussed Detroit’s redevelopment, pointing to Dan Gilbert’s investment in restoring and filling 140 buildings across Detroit and Cleveland, totaling more than 21 million square feet. Fleisher highlighted the Hudson’s site, where a new tower is rising on the former departm",
+      "published": "Tue, 03 Nov 2026 22:19:33 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Venezuela Moves to Unwind Hate Speech Law That Jailed Thousands",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/venezuela-moves-to-unwind-hate-speech-law-that-jailed-thousands",
+      "summary": "Venezuelan lawmakers took the first step toward reforming a controversial law long used to jail dissidents as the interim government further unwinds some of the tools of repression imposed under ousted leader Nicolás Maduro.",
+      "published": "Tue, 03 Nov 2026 22:08:37 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
+      "summary": "Booking Holdings Inc.’s outlook for the fourth quarter fell short of analyst expectations as pricier flights and protests in Paris affected demand in October.",
+      "published": "Tue, 03 Nov 2026 21:56:22 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
+      "summary": "The dollar advanced the most in a month, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
+      "published": "Tue, 03 Nov 2026 17:49:16 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Traders Turn Less Bearish on Treasuries Before Refunding, Jobs",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/traders-turn-less-bearish-on-treasuries-before-refunding-jobs",
+      "summary": "A shift in momentum in US Treasuries has traders adding to long positions and paring back bearish wagers ahead of a trifecta of key events this week.",
+      "published": "Tue, 03 Nov 2026 21:30:23 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "published": "Tue, 03 Nov 2026 21:19:38 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Schneider Electric Coalition Spotlight",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
+      "summary": "Frédéric Godemel, Executive Vice-President for Energy Management, Schneider Electric, discusses the energy systems and infrastructure needed to support AI-driven growth with Bloomberg's Dana Perkins at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
+      "published": "Tue, 03 Nov 2026 21:18:36 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Black Forest Lab on AI’s Next Phase",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
+      "summary": "Andi Blattman, Co-Founder, Black Forest Lab discusses where lasting AI value will be created, who is positioned to capture it and the enterprise, infrastructure, safety and policy forces shaping the next phase with Bloomberg’s Shirin Ghaffary at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
+      "published": "Tue, 03 Nov 2026 21:03:45 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "The Big AI Stock Selloff Is Happening at a Bad Time",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-big-ai-stock-selloff-is-happening-at-a-bad-time",
+      "summary": "Leaning on equity just as share prices fall.",
+      "published": "Tue, 03 Nov 2026 20:57:24 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Far Left Could Force Jeffries to Work With GOP, Says Sarah Chamberlain",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/dsa-could-force-jeffries-to-work-with-gop-chamberlain-video",
+      "summary": "Sarah Chamberlain, president and CEO of Republican Main Street Partnership, said that Democrats will need to win the House by at least a 25 seat majority in order to give Hakeem Jeffries 'wiggle room' to get elected as Speaker and pass legislation. \nChamberlain said that the presence of new 'far lef",
+      "published": "Tue, 03 Nov 2026 20:42:12 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Oasis Drops Board Nominees in Vail Resorts Proxy Battle",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/oasis-drops-board-nominees-in-vail-resorts-proxy-battle-video",
+      "summary": "Bloomberg's Mengqi Sun joins Dani Burger on \"Bloomberg Deals.\" Activist investor Oasis is dropping two of its four board nominees in its proxy challenge at Vail Resorts.\n (Source: Bloomberg)",
+      "published": "Tue, 03 Nov 2026 20:15:53 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Canadian Oil at Widest Discount to US Prices Since 2018",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
+      "summary": "Canadian heavy crude prices reached their weakest relative to US oil futures since 2018, when a massive pipeline bottleneck prompted Alberta’s government to impose production limits on the largest producers.",
+      "published": "Tue, 03 Nov 2026 20:12:11 GMT",
+      "scraped_at": "2026-11-03T22:41:58.952Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -13280,196 +13600,6 @@
       "summary": "Barclays Plc strategists expect volatility in Group-of-10 currencies to rise and remain elevated as the dollar strengthens and interest-rate swings increase.",
       "published": "Tue, 27 Oct 2026 21:01:03 GMT",
       "scraped_at": "2026-10-28T00:49:20.311Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "AI 거품론에 떨던 월가…앤스로픽 IPO서류보고 놀란 이유는?",
-      "url": "https://www.hankyung.com/article/202610289102i",
-      "summary": "",
-      "published": "Wed, 28 Oct 2026 00:35:30 +0900",
-      "scraped_at": "2026-10-27T20:18:20.499Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "與, 오늘 가상자산 과세 당정협의…유예 여부 논의",
-      "url": "https://www.yna.co.kr/view/AKR20261027167000001",
-      "summary": "(서울=연합뉴스) 김정진 기자 = 더불어민주당은 28일 국회에서 당정협의회를 열고 가상자산 과세 문제를 논의한다.",
-      "published": "Wed, 28 Oct 2026 05:00:03 +0900",
-      "scraped_at": "2026-10-27T20:18:22.815Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중동 평화 회담 기대감에 WTI 1.8%↓…100달러 턱밑 마감",
-      "url": "https://www.yna.co.kr/view/AKR20261028006000072",
-      "summary": "(뉴욕=연합뉴스) 김연숙 특파원 = 27일(현지시간) 국제유가가 중동 지역의 평화 회담 진전 기대감에 하락했다.",
-      "published": "Wed, 28 Oct 2026 04:48:49 +0900",
-      "scraped_at": "2026-10-27T20:18:22.815Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Banks Eye $21 Billion of Bonds For Broadcom Chip-Financing Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal",
-      "summary": "Banks are planning to sell as much as about $21 billion of high-grade bonds as soon as early next year as part of a $63 billion funding package that Broadcom Inc. has pulled together to help finance chips for AI developer Anthropic PBC.",
-      "published": "Tue, 27 Oct 2026 20:09:29 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Kalshi Sets $2,500 Monthly Deposit Limits for Users Under 21",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21",
-      "summary": "Kalshi Inc., the leading prediction market operator in the US, said it’s adding restrictions for users who are 18 to 20 years old, including a $2,500 monthly deposit limit.",
-      "published": "Tue, 27 Oct 2026 20:09:24 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Banks Ease Loan Approvals to Weather Australia Property Slump",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/banks-ease-loan-approvals-to-weather-australia-property-slump",
-      "summary": "Australian banks are loosening mortgage requirements and giving away tokens for phone bills and travel as they compete for a dwindling pool of customers during the fastest housing slump in a generation.",
-      "published": "Tue, 27 Oct 2026 20:00:00 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Israel Election Tests Netanyahu's Hold on Power",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/israel-election-tests-netanyahu-s-hold-on-power-video",
-      "summary": "Aaron David Miller, senior fellow at the Carnegie Endowment for International Peace, compared Donald Trump's endorsement of Benjamin Netanyahu in Israel's election to his grandmother's chicken soup: 'it sometimes didn't help, but it couldn't hurt.' Miller said that Netanyahu and his opposition chall",
-      "published": "Tue, 27 Oct 2026 19:42:56 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "U.S. Bancorp Poised for Canada Bond Return After Two Decades",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/u-s-bancorp-poised-for-canada-bond-return-after-two-decades",
-      "summary": "U.S. Bancorp is looking to sell as much as C$1 billion ($713 million) of bonds in Canada, tapping the loonie market for the first time in more than two decades.",
-      "published": "Tue, 27 Oct 2026 16:43:32 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Built Environment Not Keeping Up: Hines-Pierce",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/built-environment-not-keeping-up-hines-pierce-video",
-      "summary": "Laura Hines-Pierce, co-CEO of Hines, joins Dani Burger on \"Bloomberg Deals.\" They discuss how geopolitics are changing the ways countries, states, and cities are reinvesting in themselves and how we're in a massive capex moment. (Source: Bloomberg)",
-      "published": "Tue, 27 Oct 2026 19:23:21 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Indicted Ex-Fund Manager Can Sue Jefferies for Costs, Court Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/indicted-ex-fund-manager-can-sue-jefferies-for-costs-court-says",
-      "summary": "An ex-Jefferies Financial Group Inc. hedge fund manager charged with defrauding his former employer can sue the firm to cover his legal defense costs, a New York appellate court ruled.",
-      "published": "Tue, 27 Oct 2026 19:22:11 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Mid-market M&A Is A 'Dam' That's Going To Break: Khalil",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/mid-market-m-a-is-a-dam-that-s-going-to-break-khalil-video",
-      "summary": "Aasem Khalil, global head of investment banking client services at Goldman Sachs, joins Dani Burger on \"Bloomberg Deals.\" They discuss how mid-market companies understand that they need to grow and how mid-market companies have been experiencing inorganic growth.\n\n (Source: Bloomberg)",
-      "published": "Tue, 27 Oct 2026 19:16:50 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/cinco-claves-para-entender-los-proximos-pasos-de-la-salida-a-bolsa-de-anthropic",
-      "summary": "Anthropic PBC presentó públicamente su solicitud de salida a bolsa, un hito importante de cara a la primera cotización en la historia de una empresa dedicada a modelos de IA de vanguardia. A continuación, cinco aspectos que los inversores deberían tener en cuenta en las próximas semanas.",
-      "published": "Tue, 27 Oct 2026 19:10:34 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "BI's Larry Tabb on Changes in Global Market Structure",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/bi-s-larry-tabb-on-changes-in-global-market-structure-video",
-      "summary": "Bloomberg Intelligence Director of Market Structure Research Larry Tabb discusses changes in market structure, securities tokenization, exchange competition and new trading products at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
-      "published": "Tue, 27 Oct 2026 19:08:04 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Important That GOP Appeals to Black Voters in GA, Says McCormick",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/important-gop-appeals-to-black-voters-in-ga-mccormick-video",
-      "summary": "Republican Representative from Georgia Rich McCormick said that addressing hurdles to gains made by the African American community in Georgia is more important than any one candidate running in the state and that it is important the Republican party appeal to Black voters in a state where minorities",
-      "published": "Tue, 27 Oct 2026 19:08:09 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Texas CIOs Discuss AI & Portfolio Allocations",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/texas-cios-discuss-ai-portfolio-allocations-video",
-      "summary": "Fort Worth Employees’ Retirement Fund Chief Investment Officer Derrick Dagnan; Partners Capital Managing Director & Head of Texas Olivia Newell and Texas Christian University Chief Investment Officer Jason R. Safran discuss asset allocation, inflation, AI and risk management with Bloomberg’s Hema Pa",
-      "published": "Tue, 27 Oct 2026 19:01:38 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "DoorDash Is Said to Near $17B Takeover of Instacart",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
-      "summary": "Bloomberg's Ryan Gould joins Scarlet Fu on \"Bloomberg Deals.\" DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter. (Source: Bloomberg)",
-      "published": "Tue, 27 Oct 2026 19:00:03 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bloomberg Professional Services Spotlight on ASKB",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-professional-services-spotlight-on-askb-video",
-      "summary": "Bloomberg Client Relationship Manager Yvonne Do highlights ASKB as part of Bloomberg Professional Services Spotlight at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
-      "published": "Tue, 27 Oct 2026 18:57:00 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Novogratz Says Credit Market Is Reaching ‘Peak Nervousness’",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
-      "summary": "Michael Novogratz, the billionaire founder and CEO of the crypto financial services conglomerate and artificial intelligence data-center provider Galaxy Digital Inc., said the anxiety in global credit markets over AI spending is on the verge of easing.",
-      "published": "Tue, 27 Oct 2026 11:37:30 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "PDVSA Bonds Deemed Valid in US Ruling Amid Battle for Citgo",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/pdvsa-bonds-deemed-valid-in-us-ruling-amid-battle-for-citgo",
-      "summary": "A US appeals court upheld the validity of a series of bonds issued by Venezuela’s state oil company, clearing the way for holders to seek payment from the sale of Citgo Petroleum Corp.’s parent.",
-      "published": "Tue, 27 Oct 2026 18:55:03 GMT",
-      "scraped_at": "2026-10-27T20:18:23.067Z"
     }
   ]
 }
