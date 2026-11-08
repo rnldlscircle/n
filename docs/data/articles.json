@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-11-08T17:23:55.568Z",
+  "updated_at": "2026-11-08T21:28:52.342Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+      "url": "https://www.hankyung.com/article/2026110935347",
+      "summary": "",
+      "published": "Mon, 09 Nov 2026 06:14:03 +0900",
+      "scraped_at": "2026-11-08T21:28:44.825Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611072250i",
+      "summary": "",
+      "published": "Mon, 09 Nov 2026 06:00:12 +0900",
+      "scraped_at": "2026-11-08T21:28:44.825Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
+      "url": "https://www.yna.co.kr/view/AKR20261108042900003",
+      "summary": "(서울=연합뉴스) 박초롱 기자 = SK하이닉스가 미국 반도체 사업을 이끄는 자리에 메모리 개발 전문가를 발탁하면서 SK하이닉스와 삼성전자 모두 ...",
+      "published": "Mon, 9 Nov 2026 06:09:00 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
+      "url": "https://www.yna.co.kr/view/AKR20261108023200003",
+      "summary": "(서울=연합뉴스) 오예진 기자 = 대출 규제 강화로 서울 아파트 소형 평수 수요가 늘어나면서 중형인 국민평형(84㎡)과 소형(59㎡)의 가격 차...",
+      "published": "Mon, 9 Nov 2026 06:01:01 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
+      "url": "https://www.yna.co.kr/view/AKR20261108039200004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 세계 최대 스마트시티 전시회에서 서울의 인공지능(AI) 기반 도시 기술을 선보여 352만달러(약 47...",
+      "published": "Mon, 9 Nov 2026 06:00:06 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
+      "url": "https://www.yna.co.kr/view/AKR20261108039800004",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 대기업과의 기술협력을 희망하는 기술 스타트업과 문화·콘텐츠 분야 창업기업을 대상으로 창업 공간 입주기...",
+      "published": "Mon, 9 Nov 2026 06:00:06 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
+      "url": "https://www.yna.co.kr/view/AKR20261108042500004",
+      "summary": "(서울=연합뉴스) 이미령 기자 = 교통사고로 차를 수리하는 동안 사용한 렌터카 비용은 객관적 사용 가치가 같은 차를 시장에서 빌릴 때 드는 비용...",
+      "published": "Mon, 9 Nov 2026 06:00:03 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
+      "url": "https://www.yna.co.kr/view/AKR20261108043400030",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 롯데백화점과 롯데온이 각각 프리미엄 위스키 팝업스토어와 겨울 패션 할인 행사를 진행한다.",
+      "published": "Mon, 9 Nov 2026 06:00:02 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대'",
+      "url": "https://www.yna.co.kr/view/AKR20261107001000002",
+      "summary": "(서울=연합뉴스) 박수현 기자 = A씨는 작년 10월 가상자산(코인) P2P(개인간 거래) 플랫폼에서 S 코인 3천285개를 1천800만원에 매...",
+      "published": "Mon, 9 Nov 2026 05:57:00 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "교통사고 경상환자 '8주 이상 치료할래요' 하루 600건씩 접수",
+      "url": "https://www.yna.co.kr/view/AKR20261108001200002",
+      "summary": "(서울=연합뉴스) 배영경 기자 = 교통사고 경상환자가 8주를 넘겨 치료받기를 희망해 필요성 검토를 신청한 건수가 일평균 약 600건 수준인 것으...",
+      "published": "Mon, 9 Nov 2026 05:55:01 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "저축은행 대·중견기업 대출 처음 5조 넘어…1년새 50%↑",
+      "url": "https://www.yna.co.kr/view/AKR20261108037600002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 국내 저축은행의 대기업 대출(중견기업 포함)이 1년새 50% 증가하며 처음으로 5조원을 넘어섰다.",
+      "published": "Mon, 9 Nov 2026 05:53:00 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "4대 은행 내년 정보보호예산 확대…신한 1천150억·하나 1천억",
+      "url": "https://www.yna.co.kr/view/AKR20261107053400002",
+      "summary": "(서울=연합뉴스) 강수련 기자 = 금융권에서 대규모 해킹·정보 유출 사고가 잇따르면서 4대 시중은행(KB국민·신한·우리·하나)이 내년 정보 보호...",
+      "published": "Mon, 9 Nov 2026 05:51:00 +0900",
+      "scraped_at": "2026-11-08T21:28:49.068Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+      "summary": "Wall Street sees the Treasury market emerging as a winner from the Democratic landslide in the US midterm elections, giving traders another reason to rethink this year’s sharp selloff.",
+      "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+      "scraped_at": "2026-11-08T21:28:49.280Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. Deputy Secretary of State & Fmr. US Special Representative for North Korea Stephen Biegun, SMB",
+      "published": "Sun, 08 Nov 2026 17:03:43 GMT",
+      "scraped_at": "2026-11-08T21:28:49.280Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -12140,186 +12280,6 @@
       "summary": "The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Maritime Organization Secretary-General Arsenio Dominguez, Brooks Running CEO Dan Sheridan",
       "published": "Sun, 01 Nov 2026 16:39:16 GMT",
       "scraped_at": "2026-11-01T21:29:42.681Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "홈플러스 이어 골프존도 '시끌'…MBK 손 댄 곳곳서 잡음",
-      "url": "https://www.hankyung.com/article/202611018732g",
-      "summary": "",
-      "published": "Sun, 01 Nov 2026 22:23:25 +0900",
-      "scraped_at": "2026-11-01T17:24:33.877Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fuga de Flávio cria problema familiar para direita",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/fuga-de-flavio-cria-problema-familiar-para-direita-video",
-      "summary": "Após a fuga de Flávio Bolsonaro para os EUA, a direita tenta definir os próximos passos. Confira com Daniel Carvalho. Edição de Patricia Xavier.  (Source: Bloomberg)",
-      "published": "Sun, 01 Nov 2026 17:13:25 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The Political Debate on Daylight Saving Time",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
-      "summary": "Time is ticking on the debate over changing our clocks twice a year. As Americans prepare to fall back, Bloomberg’s Shaquille Omari explains why Washington can’t seem to move forward. (Source: Bloomberg)",
-      "published": "Sun, 01 Nov 2026 16:23:36 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bookmarked: News Stories On Our Reading List",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
-      "summary": "Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This Weekend for Bookmarked, where they share stories that caugh",
-      "published": "Sun, 01 Nov 2026 15:53:30 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Trump Struggles to Sell Voters on the Economy",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video",
-      "summary": "Bloomberg News Senior Executive Editor Wes Kosova tells Bloomberg This Weekend that President Donald Trump is struggling to convince voters the economy is strong as higher fuel prices and affordability concerns weigh on his support, including among Republicans. Speaking with hosts David Gura and Lis",
-      "published": "Sun, 01 Nov 2026 15:39:27 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
-      "summary": "The stock market got a long-awaited jolt of volatility late last week after disappointing earnings from technology giants added to angst around the AI-driven rally.",
-      "published": "Sun, 01 Nov 2026 15:00:00 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "By The Way: Headlines You May Have Missed",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/by-the-way-headlines-you-may-have-missed-video",
-      "summary": "AI in White House press releases, a 'brutal' but surprisingly popular class at Harvard, Life Magazine rises again, and the dwindling justification of day light savings: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-      "published": "Sun, 01 Nov 2026 14:34:43 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/russia-agrees-to-halt-recruitment-of-ghanaians-for-ukraine-war",
-      "summary": "Russian President Vladimir Putin has agreed to halt the recruitment of Ghanaians to fight in Ukraine after President John Mahama raised concerns about the practice, according to Ghana’s foreign minister.",
-      "published": "Sun, 01 Nov 2026 14:27:46 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "AI Talent War Spreads to Wall Street",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/ai-talent-war-spreads-to-wall-street-video",
-      "summary": "Bloomberg Senior Markets Reporter Justina Lee tells Bloomberg This Weekend that quantitative trading firms are competing with AI labs for top scientists and researchers, with first-year compensation for some PhDs reaching as much as $800,000. Speaking with hosts David Gura and Lisa Mateo, Lee explai",
-      "published": "Sun, 01 Nov 2026 14:26:56 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Mike Wilson Says Buy Stock Dip Regardless of Who Wins Midterms",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/mike-wilson-says-buy-stock-dip-regardless-of-who-wins-midterms",
-      "summary": "Morgan Stanley’s Mike Wilson says he sees a few “clearing events” ahead for the stock market that have the potential to take it lower temporarily, creating a great opportunity for investors to pile back in.",
-      "published": "Sun, 01 Nov 2026 14:00:00 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tech Selloff Could Ease Pressure on the Fed",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/tech-selloff-could-ease-pressure-on-the-fed-video",
-      "summary": "BMO Capital Markets Senior Economist and Managing Director Jennifer Lee tells Bloomberg This Weekend that heavy AI investment has helped drive interest rates and inflation pressures higher, while a cooling in the sector could make the Federal Reserve’s job easier. Speaking with hosts David Gura and ",
-      "published": "Sun, 01 Nov 2026 13:33:21 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Brazil Shakeup Sounds Warning on Crowded Emerging-Market Trades",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/brazil-shakeup-sounds-warning-on-crowded-emerging-market-trades",
-      "summary": "Brazil’s market selloff has delivered a stark warning to emerging-market investors: crowded trades can unravel with alarming speed.",
-      "published": "Sun, 01 Nov 2026 13:30:00 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Brooks Steps Up Global Push as Running Boom Builds",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/brooks-steps-up-global-push-as-running-boom-builds-video",
-      "summary": "Brooks Running CEO Dan Sheridan tells Bloomberg This Weekend that a global running boom and consumers’ continued focus on health and wellness are helping drive growth, with the company expanding in markets including Europe and China. Speaking with host Lisa Mateo, Sheridan says Brooks is also expand",
-      "published": "Sun, 01 Nov 2026 13:22:42 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "IMO Chief Says Strait of Hormuz Remains Unsafe",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/imo-chief-says-strait-of-hormuz-remains-unsafe-video",
-      "summary": "International Maritime Organization Secretary-General Arsenio Dominguez tells Bloomberg This Weekend that the Strait of Hormuz remains unsafe for commercial shipping, with vessel traffic sharply below pre-conflict levels as attacks, mines and other hazards threaten ships and seafarers. Speaking with",
-      "published": "Sun, 01 Nov 2026 13:12:51 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "The $40 Trillion Problem Washington Won’t Talk About",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-40-trillion-problem-washington-won-t-talk-about-video",
-      "summary": "America’s national debt has climbed past $40 trillion and persistent deficits are putting upward pressure on long-term interest rates. Economists including Natasha Sarin of the Yale Budget Lab argue that heavier government borrowing ultimately filters through to households in the form of higher mort",
-      "published": "Sun, 01 Nov 2026 13:03:57 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "OPEC+ Leaves Oil Output Targets Unchanged for December",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-leaves-oil-output-targets-unchanged-for-december",
-      "summary": "Seven members of the OPEC+ group of oil producers agreed to keep output quotas unchanged in December, after unwinding the last of their voluntary cuts in September.",
-      "published": "Sun, 01 Nov 2026 13:02:50 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-s-home-prices-fall-further-ahead-of-expected-rate-hike",
-      "summary": "Australia’s home prices tumbled for a seventh straight month and are on track for the biggest fall in 40 years, a private gauge showed, as the Reserve Bank is expected to increase borrowing costs again this week.",
-      "published": "Sun, 01 Nov 2026 13:01:00 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Germany Misses Gas Storage Target as Cold Snap Sets In",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
-      "summary": "Germany is set to miss its official target for filling natural gas storage sites, leaving it with a reduced buffer against surging winter demand.",
-      "published": "Sun, 01 Nov 2026 09:29:41 GMT",
-      "scraped_at": "2026-11-01T17:24:38.091Z"
     }
   ]
 }
