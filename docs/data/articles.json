@@ -1,6 +1,436 @@
 {
-  "updated_at": "2026-11-17T15:10:44.980Z",
+  "updated_at": "2026-11-17T23:14:40.251Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"상반기 번 돈 다 날렸다\"…영풍, 668억 적자에 생산량도 급감",
+      "url": "https://www.hankyung.com/article/202611183316g",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 07:25:33 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "[속보] 엔비디아 \"내년 매출 75% 증가\"...기존 전망치 웃돌아",
+      "url": "https://www.hankyung.com/article/202611183322i",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 07:15:52 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
+      "url": "https://www.hankyung.com/article/2026111727421",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 07:00:01 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"케이크 한 조각에 담긴 말 못한 마음\"…이슬아·박혜진의 크리스마스 이야기 [전문]",
+      "url": "https://www.hankyung.com/article/202611173039i",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 06:30:06 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "'스타벅스 다음은 여기' 돌풍…SNS 발칵 뒤집은 '이 음료'",
+      "url": "https://www.hankyung.com/article/2026111726641",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 06:00:20 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "돈 아끼려고 안 먹는 게 아니었다…배달업계 '뜻밖의 복병' [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611168369i",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 06:00:15 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"왜 이렇게 아이폰이 많아요?\" 농담했던 이재용…현실은 달랐다 [트렌드시그널]",
+      "url": "https://www.hankyung.com/article/202611172385g",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 06:00:12 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"한 달 넘게 카톡했는데…\" 일상 나누던 미녀의 충격 정체 [털리는 대한민국]",
+      "url": "https://www.hankyung.com/article/202611171907H",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 06:00:06 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "中 장악한 AI 무기는 '이것'…아마존·구글·메타 \"대비에 10년 걸려\"[박신영의 개장전 요것만]",
+      "url": "https://www.hankyung.com/article/202611183128i",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 00:36:06 +0900",
+      "scraped_at": "2026-11-17T23:14:33.095Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "유엔까지 걸고넘어진 金 \"韓 파렴치한 입장 대변\"",
+      "url": "https://www.mk.co.kr/news/politics/12204196",
+      "summary": "김여정 북한 노동당 총무부장(사진)이 한반도 문제 해결을 위한 대화 재개를 촉구한 유엔 사무총장을 향해 \"한국의 파렴치한 입장을 대변했다\"고 맹비난했다. 10일 김 부장이 담화문에..",
+      "published": "Tue, 10 Nov 2026 17:37:22 +09:00",
+      "scraped_at": "2026-11-17T23:14:35.728Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "8조원 털어간 북한 해커들, 비트코인으로 갈아탔다…2차 세탁 돌입",
+      "url": "https://www.mk.co.kr/news/politics/12194193",
+      "summary": "북한 해커들이 세계 최대 가상화폐 거래소 바이낸스에서 탈취한 8조원대 가상자산의 2차 자금세탁에 착수한 것으로 파악됐다. 탈취 자산을 여러 블록체인 네트워크로 옮긴 뒤 비트코인으로..",
+      "published": "Tue, 03 Nov 2026 06:33:49 +09:00",
+      "scraped_at": "2026-11-17T23:14:35.728Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "北김여정, ‘바이낸스 해킹 배후’ 지목에 발끈…“미국의 정치적 도발”",
+      "url": "https://www.mk.co.kr/news/politics/12194155",
+      "summary": "북한이 세계 최대 가상화폐 거래소 바이낸스에서 발생한 8조원대 해킹 사건의 배후로 지목된 데 대해 미국의 정치적 도발이라고 반발했다. 특히 김여정 노동당 총무부장이 직접 담화를 내..",
+      "published": "Tue, 03 Nov 2026 06:22:04 +09:00",
+      "scraped_at": "2026-11-17T23:14:35.728Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "부산시 고액·상습 체납자 860명 공개…체납액 529억원",
+      "url": "https://www.yna.co.kr/view/AKR20261118023600051",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 18일 오전 10시 1천만원 이상 고액·상습 체납자 860명의 명단을 공개한다.",
+      "published": "Wed, 18 Nov 2026 08:09:19 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "국내 복귀기업 쌍용전력, 부산에 신규 생산시설 100억원 투자",
+      "url": "https://www.yna.co.kr/view/AKR20261118023500051",
+      "summary": "(부산=연합뉴스) 김선호 기자 = 부산시는 18일 오후 강서구 부산진해경제자유구역청에서 국내 복귀기업 쌍용전력과 미음산업단지 내 신규 생산 시설...",
+      "published": "Wed, 18 Nov 2026 08:06:41 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[마켓뷰] 美증시 하락·엔비디아 호실적…'5천피' 회복 시도하나",
+      "url": "https://www.yna.co.kr/view/AKR20261118024600008",
+      "summary": "(서울=연합뉴스) 곽윤아 기자 = 전날 9개월여만에 5,000선이 무너진 코스피가 18일 엔비디아의 3분기(8∼10월) 호실적에 힘입어 반등할 ...",
+      "published": "Wed, 18 Nov 2026 08:06:17 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "증권사, 계열사 동원해 회사채 발행금리 낮추기 못한다",
+      "url": "https://www.yna.co.kr/view/AKR20261117144300008",
+      "summary": "(서울=연합뉴스) 강수지 기자 = 증권사가 계열사나 사내 운용 부서를 동원해 회사채 발행금리를 낮추는 이른바 '캡티브 영업'이 금지된다.",
+      "published": "Wed, 18 Nov 2026 08:00:04 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"K-콘텐츠 흥행에도 영화·방송 매출 감소…K-OTT 키워야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261117127700003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 세계적인 K-콘텐츠 흥행을 국내 산업의 성장과 재투자로 이어가기 위해선 국내 유통 플랫폼(K-OTT)에 적극 ...",
+      "published": "Wed, 18 Nov 2026 07:30:01 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "url": "https://www.yna.co.kr/view/AKR20261118017500011",
+      "summary": "■ [수능 D-1] 오늘 수험생 55만명 예비소집…N수생 23년만에 최다",
+      "published": "Wed, 18 Nov 2026 07:30:00 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "\"김치 사 먹으면 담글 때보다 2.3배 비싸…4인 가족 77만원\"",
+      "url": "https://www.yna.co.kr/view/AKR20261117142800030",
+      "summary": "(서울=연합뉴스) 한주홍 기자 = 4인 가족이 김치를 직접 담그는 대신 완제품을 사 먹으면 비용이 2배 넘게 든다는 조사 결과가 나왔다.",
+      "published": "Wed, 18 Nov 2026 06:30:02 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "행정기관 대거 세종 이전 예정에…'무산' 공공주택사업 살아날까",
+      "url": "https://www.yna.co.kr/view/AKR20261117149500063",
+      "summary": "(세종=연합뉴스) 양영석 기자 = 경제성이 떨어진다는 이유로 사업시행자인 한국토지주택공사(LH)가 포기하겠다고 밝힌 세종시 공공주택사업 해제 결...",
+      "published": "Wed, 18 Nov 2026 06:00:07 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
+      "url": "https://www.yna.co.kr/view/AKR20261117167100002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 금융당국이 인공지능(AI) 해킹 등 고도화되는 사이버 공격에 대응하기 위해 대형 금융사 보안 점검 횟수를 늘리...",
+      "published": "Wed, 18 Nov 2026 06:00:03 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "9월 은행 대출 연체율 0.59%…동월 기준 10년만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20261117164300002",
+      "summary": "(서울=연합뉴스) 강류나 기자 = 올해 9월 국내 은행의 원화 대출 연체율이 동월 기준으로 10년 만에 가장 높은 수준을 기록한 것으로 나타났다...",
+      "published": "Wed, 18 Nov 2026 06:00:02 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "트럼프家 스테이블코인도 레임덕?…한 달째 1달러 하회",
+      "url": "https://www.yna.co.kr/view/AKR20261117158100002",
+      "summary": "(서울=연합뉴스) 박수현 기자 = 도널드 트럼프 미국 대통령의 가족이 설립한 가상자산(코인) 기업 '월드 리버티 파이낸셜'(WLFI)의 달러 기...",
+      "published": "Wed, 18 Nov 2026 05:57:01 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적",
+      "url": "https://www.yna.co.kr/view/AKR20261117142400003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 우리나라가 이르면 오는 19일 사상 첫 연간 수출 1조달러 시대를 연다. 미국·독일·중국에 이은 세계 4번째 ...",
+      "published": "Wed, 18 Nov 2026 05:55:01 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
+      "url": "https://www.yna.co.kr/view/AKR20261117164600002",
+      "summary": "(서울=연합뉴스) 강수련 박수현 기자 = 해킹 침해사고가 발생한 미래에셋생명[085620]의 개인신용정보 유출 규모가 1만명을 넘어선 것으로 나...",
+      "published": "Wed, 18 Nov 2026 05:55:01 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
+      "url": "https://www.yna.co.kr/view/AKR20261117157900002",
+      "summary": "(서울=연합뉴스) 채새롬 기자 = 조선·방산업 호황과 석유화학·이차전지 업황 부진이 이어지면서 주요 금융지주의 거액 신용공여 현황에서도 업종별 ...",
+      "published": "Wed, 18 Nov 2026 05:53:00 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "4대은행 '깡통대출' 5조원대로…'K자 양극화' 기업 부실 급증",
+      "url": "https://www.yna.co.kr/view/AKR20261117157300002",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 주요 시중은행에서 돈을 빌리고 이자도 못 내는 가계와 기업의 부실 규모가 눈덩이처럼 불어나고 있다.",
+      "published": "Wed, 18 Nov 2026 05:51:00 +0900",
+      "scraped_at": "2026-11-17T23:14:37.056Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US Stock Futures Jump After Nvidia Earnings: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+      "summary": "US equity-index futures rose after Nvidia Corp. delivered a sales forecast that topped Wall Street expectations, providing some reprieve to investors after a selloff in chipmakers deepened.",
+      "published": "Tue, 17 Nov 2026 22:07:08 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
+      "summary": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan said insurance and retirement capital will power an AI buildout that could demand as much as $8 trillion of financing.",
+      "published": "Tue, 17 Nov 2026 22:49:04 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Putin Arrives in China for Trump, Xi Meeting",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
+      "summary": "Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday. (Source: Bloomberg)",
+      "published": "Tue, 17 Nov 2026 22:33:24 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+      "summary": "The Securities and Exchange Commission is investigating Nvidia Corp., the Wall Street Journal reported Tuesday, as the company grapples with fallout from the exit of former Chief Executive Officer Jensen Huang.",
+      "published": "Tue, 17 Nov 2026 21:25:24 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
+      "summary": "Panama moved away from the brink of a downgrade to junk territory after Moody’s Ratings dropped a negative outlook that had hung over the nation’s credit score for two years.",
+      "published": "Tue, 17 Nov 2026 21:49:16 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Sellas Life Sciences Surges 156% After Cancer Vaccine Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
+      "summary": "Sellas Life Sciences Group Inc. soared after the drug developer reported positive late-stage trial results for an experimental cancer vaccine to treat an aggressive form of blood cancer.",
+      "published": "Tue, 17 Nov 2026 16:52:10 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
+      "summary": "Treasuries gained as investors, alarmed by the latest in a series of technology breakdowns over the past week, flocked to US government debt as a haven from stocks.",
+      "published": "Tue, 17 Nov 2026 16:26:24 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasury Buyback Operation Nets Smallest Amount Since Expansion",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasury-buyback-operation-nets-smallest-amount-since-expansion",
+      "summary": "The Treasury Department bought back the smallest amount of long-dated debt in months during an operation Tuesday.",
+      "published": "Tue, 17 Nov 2026 21:09:02 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
+      "summary": "Bond traders risk facing a short squeeze after reloading bearish positions, as renewed jitters around artificial intelligence and a spate of technical disruptions reignite a flight to safety.",
+      "published": "Tue, 17 Nov 2026 20:41:27 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
+      "summary": "Brazil’s exchange operator B3 SA will incorporate shares of Brazilian companies listed abroad to the nation’s benchmark equity index starting next year in a push to boost liquidity after years of de-listings in the local market.",
+      "published": "Tue, 17 Nov 2026 20:16:19 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle",
+      "summary": "The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.",
+      "published": "Tue, 17 Nov 2026 15:15:00 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "One of the Biggest Weeks in the AI Industry’s History",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
+      "summary": "The ripple effects of a Jensen-less Nvidia are starting to show up.",
+      "published": "Tue, 17 Nov 2026 20:03:43 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump Prepares for Power Flex at Putin-Xi Summit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
+      "summary": "Bloomberg Economics senior geoeconomics analyst Adam Farrar said that the planned summit between Xi, Putin and Trump really amounts to a 'photo op.' Farrar said that despite the slate of topics laid out by President Trump, positions AI, trade or denuclearization is unlikely to come from the meeting.",
+      "published": "Tue, 17 Nov 2026 20:02:20 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
+      "summary": "Barclays Plc anticipates between $580 billion and $600 billion of municipal-bond issuance next year, pushing the market’s size closer to $5 trillion by the end of 2027, according to analysts led by Mikhail Foux.",
+      "published": "Tue, 17 Nov 2026 19:54:49 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Fed's Williams Doesn't See Need for 'Dramatic Action' on Rates",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
+      "summary": "Federal Reserve Bank of New York President John Williams says he's seeing drivers pushing up inflation, including AI, but not necessarily a broadening of it at the Axios BFD Annual Summit. (Source: Bloomberg)",
+      "published": "Tue, 17 Nov 2026 19:51:47 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
+      "summary": "Deutsche Bank sought to contain the fallout from a data leak which provided new details of payments tied to Jeffrey Epstein and efforts to expand its Russian business prior to the full scale invasion of Ukraine.\n\nAlex Morgan explains. (Source: Bloomberg)",
+      "published": "Tue, 17 Nov 2026 19:43:26 GMT",
+      "scraped_at": "2026-11-17T23:14:37.623Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -12290,276 +12720,6 @@
       "summary": "A recent influx of bullish positioning across the US bond market just got smacked, as comments from a pair of Federal Reserve officials and fresh evidence of sticky inflation increased the odds of interest-rate hikes, sending Treasuries into a tailspin.",
       "published": "Tue, 10 Nov 2026 21:30:31 GMT",
       "scraped_at": "2026-11-11T00:18:40.535Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "윌러가 누른 빅스텝 발작 버튼…중국이 美 데이터센터 중단시키나[박신영의 개장전 요것만]",
-      "url": "https://www.hankyung.com/article/202611118700i",
-      "summary": "",
-      "published": "Wed, 11 Nov 2026 00:23:09 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"2조달러 꿈꿨는데\"…앤스로픽 몸값 1조달러~1.45조달러까지",
-      "url": "https://www.hankyung.com/article/202611108686i",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 23:59:45 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"0.25%p 인상으로 안 끝날수도\"…예상넘은 물가에 시장 공포",
-      "url": "https://www.hankyung.com/article/202611108677i",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 23:37:14 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "[속보] 美 10월 CPI 전월보다 0.4%↑…핵심 CPI는 0.3% 상승",
-      "url": "https://www.hankyung.com/article/202611108646i",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 22:36:44 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"中 수출금지된 엔비디아 블랙웰칩…中서 868억원어치 포착\" [블룸버그]",
-      "url": "https://www.hankyung.com/article/202611108605i",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 21:18:41 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "외국인도 맛보더니 감탄…명동에 뜬 '오렌지 초콜릿' 정체 [현장+]",
-      "url": "https://www.hankyung.com/article/202611106629g",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 21:00:02 +0900",
-      "scraped_at": "2026-11-10T19:13:06.878Z"
-    },
-    {
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "category": "산업·기업 이슈",
-      "title": "北, 이번엔 순항미사일로 집속탄 무력시위…韓 비행장·탄약고 등 타격능력 과시",
-      "url": "https://www.mk.co.kr/news/politics/12194509",
-      "summary": "탄도미사일 기반 집속탄 시험 3일만에 순항미사일에 ‘중형’ 탄두 탑재해 시험 순항미사일 수직비행 정밀공격력 부각 軍 “20년 전에 집속탄 전력 개발·구비”북한이 탄도미사일에 이어 ..",
-      "published": "Tue, 03 Nov 2026 11:18:31 +09:00",
-      "scraped_at": "2026-11-10T19:13:10.305Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "금융보안원도 해킹에 뚫려…금융사 직원 개인정보 300여건 유출(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261110174751002",
-      "summary": "(서울=연합뉴스) 배영경 한지훈 박수현 기자 = 금융위원회 산하 금융보안 전담 기관인 금융보안원이 해킹 공격을 받아 금융사 직원 개인정보 등 수...",
-      "published": "Tue, 10 Nov 2026 23:07:55 +0900",
-      "scraped_at": "2026-11-10T19:13:12.029Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "'빚 갚아라' 독촉하며 성관계 강요…40대 남성 구속 송치",
-      "url": "https://www.yna.co.kr/view/AKR20261110176400004",
-      "summary": "(서울=연합뉴스) 양수연 기자 = 성관계를 강요하는 등 불법 채권추심을 일삼은 사금융업자가 구속 상태로 공소청에 넘겨졌다.",
-      "published": "Tue, 10 Nov 2026 21:32:18 +0900",
-      "scraped_at": "2026-11-10T19:13:12.029Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
-      "summary": "Pizza Hut is looking to sell around $1 billion of bonds backed by its franchise agreements and related fees, to help fund its buyout by private equity firm LongRange Capital LLC.",
-      "published": "Tue, 10 Nov 2026 19:01:24 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "GFL Environmental Rejects Takeover Bids, Opts to Remain Public",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/gfl-environmental-rejects-takeover-bids-opts-to-remain-public",
-      "summary": "Canada’s GFL Environmental Inc. said it rejected buyout proposals and will stay public, ending a monthslong process that attracted interest from investors including Blackstone Inc. and Brookfield Asset Management Ltd.",
-      "published": "Tue, 10 Nov 2026 13:30:48 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
-      "summary": "The US raised its projections for the price of diesel and gasoline next year, indicating that consumer relief will be limited even as oil flows pick up from the Middle East.",
-      "published": "Tue, 10 Nov 2026 17:07:15 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bonds Tumble Most Since Tariff Meltdown on Rising Rate-Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
-      "summary": "The US bond market suffered one of its biggest selloffs since April 2025 after inflation rose faster than forecast and Federal Reserve officials warned the central bank may need to raise interest rates more aggressively.",
-      "published": "Tue, 10 Nov 2026 13:41:23 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Bank of Canada Officials Say Uncertainty Doesn’t Rule Out Hikes",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/bank-of-canada-officials-say-uncertainty-doesn-t-rule-out-hikes",
-      "summary": "Bank of Canada officials said that major uncertainties posed by higher oil prices and the ongoing trade war with the US won’t necessarily keep them from hiking interest rates.",
-      "published": "Tue, 10 Nov 2026 18:30:04 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fox Draws $39 Billion Demand for Bonds to Refinance Roku Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/fox-begins-high-grade-bond-sale-to-repay-debt-for-roku-deal",
-      "summary": "Fox Corp. has drawn solid investor demand for an investment-grade bond sale to help fund its acquisition of Roku Inc.",
-      "published": "Tue, 10 Nov 2026 14:19:47 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
-      "summary": "The failed investment firm that sold Toronto-listed versions of Cathie Wood’s exchange-traded funds took self-dealing loans, maintained improper records and failed to act in the best interest of the funds, Canada’s top securities regulator ruled.",
-      "published": "Tue, 10 Nov 2026 16:28:30 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Clearlake Said to Weigh $3.5 Billion Sale of Packaging Firm IPG",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/clearlake-said-to-weigh-3-5-billion-sale-of-packaging-firm-ipg",
-      "summary": "Clearlake Capital Group is exploring a sale of packaging company IPG, which could fetch more than $3.5 billion, according to people familiar with the matter.",
-      "published": "Tue, 10 Nov 2026 18:07:36 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
-      "summary": "The dollar headed for its strongest gain since September after hotter-than-forecast US inflation reinforced expectations for a Federal Reserve interest-rate hike next month.",
-      "published": "Tue, 10 Nov 2026 17:43:37 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "CEO Pay Disclosure Requirements May Shrink Under SEC’s Latest Plan",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
-      "summary": "The Securities and Exchange Commission’s forthcoming executive compensation proposal would amount to a “major Ozempic diet” for required disclosures, a senior agency official said Tuesday.",
-      "published": "Tue, 10 Nov 2026 17:24:05 GMT",
-      "scraped_at": "2026-11-10T19:13:12.362Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Saudi Liquidity Squeeze Adds to Challenges for Crown Prince",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
-      "summary": "Saudi Arabia is grappling with renewed liquidity pressure as the Iran war spurs a pullback in deposits from the government and banks in the United Arab Emirates.",
-      "published": "Tue, 10 Nov 2026 13:00:04 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Hedge Funds Ask SEC, CFTC to Go Slow in Push to 24/7 Trading",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-funds-ask-sec-cftc-to-go-slow-in-push-to-24-7-trading",
-      "summary": "The Trump administration should proceed slowly in the ramp up to round-the-clock trading, the Managed Funds Association said in a letter sent Tuesday to US government regulators.",
-      "published": "Tue, 10 Nov 2026 16:34:10 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Peloton Draws $6.8 Billion of Demand for Debut Junk-Bond Sale",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
-      "summary": "Peloton Interactive Inc. has attracted strong investor demand for its debut junk-bond sale, allowing the fitness company to boost the deal’s size and slash borrowing costs.",
-      "published": "Tue, 10 Nov 2026 17:02:51 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Franklin Templeton Brazil Trims Risk, Sees No Changes With Lula",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
-      "summary": "Franklin Templeton Brazil is cutting risk across its portfolio on expectations that President Luiz Inácio Lula da Silva’s new administration won’t bring about the changes investors see as key to improve the nation’s finances.",
-      "published": "Tue, 10 Nov 2026 16:56:02 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Morgan Stanley Says Argentina Bonds Price In Too Much Pessimism",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/morgan-stanley-says-argentina-bonds-price-in-too-much-pessimism",
-      "summary": "The selloff in Argentina’s debt amid a dramatic shift in expectations ahead of the country’s presidential election next year has gone too far, according to Morgan Stanley.",
-      "published": "Tue, 10 Nov 2026 16:53:27 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Fed's Waller Puts Jumbo Rate Hike on the Table Ahead of Hot Inflation Print",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-surveillance-11-10-2026-video",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "published": "Tue, 10 Nov 2026 16:47:18 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Wall Street Bonuses Could Rise by 30%, Says Johnson Associates",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
-      "summary": "Wall Street bonuses are expected to rise this year. Johnson Associates’ Chris Connors joins Bloomberg Open Interest to explain why strong business performance and AI-driven efficiencies could mean bigger rewards for top performers and why competition from frontier AI firms is pushing up pay for elit",
-      "published": "Tue, 10 Nov 2026 16:39:38 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "UAE Energy Contractor NMDC Plans December Acquisition, CEO Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/uae-energy-contractor-nmdc-plans-december-acquisition-ceo-says",
-      "summary": "Energy and marine services company NMDC Group PJSC aims to announce an acquisition next month as the Middle Eastern company looks to boost growth after the war caused a slump in its regional business, said Chief Executive Officer Yasser Zaghloul.",
-      "published": "Tue, 10 Nov 2026 16:37:35 GMT",
-      "scraped_at": "2026-11-10T19:13:12.363Z"
     }
   ]
 }
