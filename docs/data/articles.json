@@ -1,6 +1,266 @@
 {
-  "updated_at": "2026-11-21T04:50:05.318Z",
+  "updated_at": "2026-11-21T13:54:29.452Z",
   "articles": [
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "외국인 몰리더니 '초대박'…3500억 잭팟 터진 '한국 핫플' [류은혁의 유통기한]",
+      "url": "https://www.hankyung.com/article/202611200512i",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 20:00:02 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"주말마다 먹어요\"…백종원 '홍콩반점' 제친 '뜻밖의 식당' [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611200868i",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 18:00:01 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
+      "url": "https://www.hankyung.com/article/2026112114457",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 16:26:00 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"SK하닉 통째로 산다\"…AI 노린 손정의 '1350조 계획' 폭로",
+      "url": "https://www.hankyung.com/article/2026112113827",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 14:58:05 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "꽁치값 30% 뛰어도…'겨울 별미' 과메기 대박 이유 있었다 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202611200765i",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 14:00:05 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "category": "거시경제·금리·환율",
+      "title": "\"20억 스타보다 5000만원 인플루언서\"…모델이 달라진다 [김소연의 얼굴전략]",
+      "url": "https://www.hankyung.com/article/202611200053g",
+      "summary": "",
+      "published": "Sat, 21 Nov 2026 13:00:01 +0900",
+      "scraped_at": "2026-11-21T13:54:21.225Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "김정은 빼고 북한 얘기?…트럼프·시진핑·푸틴 한자리 모이나",
+      "url": "https://www.mk.co.kr/news/world/12208799",
+      "summary": "19일 APEC 계기 회담 보도 핵군축·북한 문제 논의 가능성 美 대화 중재 요청 여부 주목 中·러와 셈법 달라 합의 난항미국과 중국, 러시아 정상이 한자리에 모여 북한 문제를 논..",
+      "published": "Sat, 14 Nov 2026 09:23:37 +09:00",
+      "scraped_at": "2026-11-21T13:54:24.524Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "美 중간선거 후에도 동맹 압박 지속…외교안보 원로들 “한미 신뢰 회복 시급”",
+      "url": "https://www.mk.co.kr/news/politics/12200413",
+      "summary": "송민순 “전작권 서두르면 美 협상 카드 될 수도” 조현동 “정보협력 제한 문제, 정상급서 해결해야” 美 의회 견제에 핵잠·우라늄 농축 협상 난항 우려 대미투자도 불확실성…”조사·청..",
+      "published": "Fri, 06 Nov 2026 14:30:57 +09:00",
+      "scraped_at": "2026-11-21T13:54:24.524Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "평양 찍고 서울 온다는데…전날 북한에 입국한 남자의 정체",
+      "url": "https://www.mk.co.kr/news/politics/12191162",
+      "summary": "이냐치오 카시스 스위스 외무장관 일행이 전날 평양에 도착했다고 조선중앙통신이 30일 보도했다. 중앙통신은 북한 외무성 일군과 스위스 주재 북한 대사, 북한 주재 스위스외교부 대표가..",
+      "published": "Fri, 30 Oct 2026 08:43:45 +09:00",
+      "scraped_at": "2026-11-21T13:54:24.524Z"
+    },
+    {
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "category": "산업·기업 이슈",
+      "title": "박수치고 주먹 불끈…김정은과 동행한 리설주 주애, 어디 갔길래",
+      "url": "https://www.mk.co.kr/news/politics/12191152",
+      "summary": "김정은 국무위원장이 무인항공기술 전시회를 참관했다. 조선중앙통신은 30일 김정은 위원장과 군수공업부문, 국방성 지도간부 등이 참석한 가운데 ‘무인항공기술발전-2026’ 전시회가 전..",
+      "published": "Fri, 30 Oct 2026 08:20:52 +09:00",
+      "scraped_at": "2026-11-21T13:54:24.524Z"
+    },
+    {
+      "source_id": "yonhap",
+      "source_name": "연합뉴스",
+      "category": "국내 주식·증시",
+      "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
+      "url": "https://www.yna.co.kr/view/AKR20261121035200030",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 대한제과협회는 18일부터 사흘간 종로구 광화문광장에서 열린 'K-베이커리 페스티벌 인(in) 광화문'에 37만...",
+      "published": "Sat, 21 Nov 2026 14:10:42 +0900",
+      "scraped_at": "2026-11-21T13:54:26.289Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Anthropic IPO Fails to Calm AI Jitters",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+      "summary": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts David Gura and Christi",
+      "published": "Sat, 21 Nov 2026 13:43:18 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
+      "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffeine. Speaking with host Lisa Mateo, they discuss changing con",
+      "published": "Sat, 21 Nov 2026 13:19:50 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Putin Gains From Trump, Xi Summit Spotlight",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
+      "summary": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside the US and Chinese leaders despite Russia’s continuing war in ",
+      "published": "Sat, 21 Nov 2026 13:12:23 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Trump’s Putin Ties Draw Focus After Summit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
+      "summary": "Bloomberg Economics Analyst Alex Kokcharov tells Bloomberg This Weekend that President Donald Trump’s historic meeting with Vladimir Putin and Xi Jinping produced limited concrete results despite a joint declaration on energy, nuclear risks and other global issues. Speaking with hosts David Gura and",
+      "published": "Sat, 21 Nov 2026 13:05:13 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "'Raise Taxes, Cut Spending': Bill Dudley on the Debt",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video",
+      "summary": "As US debt costs continue to soar, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss how to address America’s fiscal crisis, and whether Treasury Secretary Scott Bessent’s efforts to bring yields under control will pay off. (Source: Bloomberg)",
+      "published": "Sat, 21 Nov 2026 13:04:30 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+      "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Anthropic Makes Its Public Market Debut",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video",
+      "summary": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, L",
+      "published": "Sat, 21 Nov 2026 12:59:40 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in neutral waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic shipping routes.",
+      "published": "Sat, 21 Nov 2026 11:44:46 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "China Military Bars SF Express Over Procurement Misconduct",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+      "summary": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations.",
+      "published": "Sat, 21 Nov 2026 05:00:48 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "How AI Is Forcing China to Reshape Industrial Policy",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+      "summary": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
+      "published": "Sat, 21 Nov 2026 09:00:13 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
+      "summary": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
+      "published": "Sat, 21 Nov 2026 09:00:00 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
+      "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response t",
+      "published": "Sat, 21 Nov 2026 09:00:00 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
+      "summary": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions.",
+      "published": "Sat, 21 Nov 2026 08:42:34 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
+      "summary": "Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering & Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is one of the country’s ",
+      "published": "Fri, 20 Nov 2026 08:57:50 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
+    {
+      "source_id": "bloomberg",
+      "source_name": "Bloomberg",
+      "category": "글로벌 시장",
+      "title": "China’s Top Planner Seeks Faster Construction of State Projects",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
+      "summary": "China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy.",
+      "published": "Sat, 21 Nov 2026 05:24:06 GMT",
+      "scraped_at": "2026-11-21T13:54:26.525Z"
+    },
     {
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -11630,196 +11890,6 @@
       "summary": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz.",
       "published": "Sat, 14 Nov 2026 08:30:00 GMT",
       "scraped_at": "2026-11-14T16:14:48.069Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
-      "url": "https://www.hankyung.com/article/2026111464727",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 15:00:44 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "20년 전 자식에게 준 돈도 토해낸다…무서운 상속법",
-      "url": "https://www.hankyung.com/article/202611107863i",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 15:00:04 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"저렴한 약값에 한국어 상담까지\"…日 비만약 원정처방 마케팅 활발",
-      "url": "https://www.hankyung.com/article/2026111464627",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 14:23:12 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"사진 찍고 가세요\"…홍대 나란히 우뚝 선 '핑크 건물' 정체 [김소연의 얼굴전략]",
-      "url": "https://www.hankyung.com/article/202611135496g",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 13:00:01 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"이쁘게 봐주세요\"…소주회사 회장님이 손편지 쓴 사연 [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202611134436i",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 10:00:09 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "\"로봇 팔던 회사 아냐?\" 화들짝…4000억 돈 보따리 푼 속내 [차이나 워치]",
-      "url": "https://www.hankyung.com/article/202611134552i",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 09:43:01 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "category": "거시경제·금리·환율",
-      "title": "젠슨 황 쫓겨난 '불륜 스캔들'에…거물 CEO들의 흑역사 소환 [강경주의 테크X]",
-      "url": "https://www.hankyung.com/article/2026111354366",
-      "summary": "",
-      "published": "Sat, 14 Nov 2026 09:30:01 +0900",
-      "scraped_at": "2026-11-14T08:18:40.507Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261114037551030",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조...",
-      "published": "Sat, 14 Nov 2026 16:37:21 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
-      "url": "https://www.yna.co.kr/view/AKR20261114037500030",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소기업중앙회는 11일 노란우산 홈페이지에 대한 외부의 비정상적인 접근과 함께 일부 고객 개인정보의 제3자 조...",
-      "published": "Sat, 14 Nov 2026 15:57:04 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
-      "url": "https://www.yna.co.kr/view/AKR20261113174400017",
-      "summary": "(서울=연합뉴스) 신선미 기자 = \"일본 정품 마운자로. 파격적이고 합리적인 가격.\"",
-      "published": "Sat, 14 Nov 2026 13:30:00 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
-      "url": "https://www.yna.co.kr/view/AKR20261114029100003",
-      "summary": "(서울=연합뉴스) 오예진 기자 = 두산건설의 3분기 영업이익이 전년 동기 대비 약 40% 감소했다.",
-      "published": "Sat, 14 Nov 2026 11:44:15 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "모두의창업 또 정보 유출에 참가자 '부글'…\"경위·보상 밝혀야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261114026000030",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부의 '모두의 창업'과 관련한 개인정보 유출 사고가 5개월 만에 또다시 발생하자, 프로젝트 참가자들...",
-      "published": "Sat, 14 Nov 2026 11:14:56 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
-      "url": "https://www.yna.co.kr/view/AKR20261113134700061",
-      "summary": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 다음 달 열리는 '2026 성남시 채용박람회'에 참여할 구인기업 20개사를 오는 25일까지 모집...",
-      "published": "Sat, 14 Nov 2026 11:00:00 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "url": "https://www.yna.co.kr/view/AKR20261114025200011",
-      "summary": "■ 美전역 항공기 운항중단 '올스톱' 사태…\"관제통신시스템 장애\"",
-      "published": "Sat, 14 Nov 2026 10:30:00 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "yonhap",
-      "source_name": "연합뉴스",
-      "category": "국내 주식·증시",
-      "title": "[테크톡노트] KTX 예매에 전화까지…내 일 대신하는 AI 비서 '피클'",
-      "url": "https://www.yna.co.kr/view/AKR20261113158900017",
-      "summary": "(서울=연합뉴스) 한상용 기자 = 개인용 인공지능(AI) 비서 '피클'(Pickle)은 이용자를 대신해 KTX 승차권을 예매하고 식당을 예약하거...",
-      "published": "Sat, 14 Nov 2026 09:30:00 +0900",
-      "scraped_at": "2026-11-14T08:18:45.333Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
-      "summary": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission.",
-      "published": "Sat, 14 Nov 2026 05:20:13 GMT",
-      "scraped_at": "2026-11-14T08:18:45.477Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
-      "summary": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.",
-      "published": "Sat, 14 Nov 2026 04:05:34 GMT",
-      "scraped_at": "2026-11-14T08:18:45.477Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
-      "summary": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
-      "published": "Sat, 14 Nov 2026 03:44:05 GMT",
-      "scraped_at": "2026-11-14T08:18:45.477Z"
-    },
-    {
-      "source_id": "bloomberg",
-      "source_name": "Bloomberg",
-      "category": "글로벌 시장",
-      "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-      "summary": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
-      "published": "Sat, 14 Nov 2026 02:04:53 GMT",
-      "scraped_at": "2026-11-14T08:18:45.477Z"
     }
   ]
 }
